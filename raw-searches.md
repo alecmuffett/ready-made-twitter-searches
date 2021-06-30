@@ -6,6 +6,22 @@
 
 ## eg: https://twitter.com/search?q=foo%20OR%20bar%20AND%20(baz%20OR%20wibble)&src=typed_query&f=live
 
+# end-to-end encryption app discussion
+
+"+@briarapp" OR
+"+@element_hq" OR
+"+@matrixdotorg" OR
+"+@messenger" OR
+"+@mywickr" OR
+"+@r2refresh" OR
+"+@signalapp" OR
+"+@telegram" OR
+"+@threema" OR
+"+@torproject" OR
+"+@wa_status" OR
+"+@whatsapp" OR
+"+@wire"
+
 # end-to-end encryption keywords
 
 "e2ee" OR

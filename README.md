@@ -5,7 +5,27 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## index
 * [age verification keywords](#age-verification-keywords)
 * [age verification simple text](#age-verification-simple-text)
+* [end-to-end encryption app discussion](#end-to-end-encryption-app-discussion)
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
+
+## end-to-end encryption app discussion
+[TWITTER QUERY: end-to-end encryption app discussion](https://twitter.com/search?q=%22%2B%40briarapp%22%20OR%20%22%2B%40element_hq%22%20OR%20%22%2B%40matrixdotorg%22%20OR%20%22%2B%40messenger%22%20OR%20%22%2B%40mywickr%22%20OR%20%22%2B%40r2refresh%22%20OR%20%22%2B%40signalapp%22%20OR%20%22%2B%40telegram%22%20OR%20%22%2B%40threema%22%20OR%20%22%2B%40torproject%22%20OR%20%22%2B%40wa_status%22%20OR%20%22%2B%40whatsapp%22%20OR%20%22%2B%40wire%22%20&src=typed_query&f=live)
+### source:
+```
+"+@briarapp" OR
+"+@element_hq" OR
+"+@matrixdotorg" OR
+"+@messenger" OR
+"+@mywickr" OR
+"+@r2refresh" OR
+"+@signalapp" OR
+"+@telegram" OR
+"+@threema" OR
+"+@torproject" OR
+"+@wa_status" OR
+"+@whatsapp" OR
+"+@wire"
+```
 
 ## end-to-end encryption keywords
 [TWITTER QUERY: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
