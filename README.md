@@ -9,7 +9,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 
 ## end-to-end encryption app discussion
-[TWITTER QUERY: end-to-end encryption app discussion](https://twitter.com/search?q=%22%2B%40briarapp%22%20OR%20%22%2B%40element_hq%22%20OR%20%22%2B%40matrixdotorg%22%20OR%20%22%2B%40messenger%22%20OR%20%22%2B%40mywickr%22%20OR%20%22%2B%40r2refresh%22%20OR%20%22%2B%40signalapp%22%20OR%20%22%2B%40telegram%22%20OR%20%22%2B%40threema%22%20OR%20%22%2B%40torproject%22%20OR%20%22%2B%40wa_status%22%20OR%20%22%2B%40whatsapp%22%20OR%20%22%2B%40wire%22%20&src=typed_query&f=live)
+[TWITTER QUERY: end-to-end encryption app discussion](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire%20&src=typed_query&f=live)
 ### source:
 ```
 "+@briarapp" OR
