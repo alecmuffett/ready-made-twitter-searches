@@ -10,11 +10,6 @@ $key = 'UNDEFINED';
 %source = ();
 %query = ();
 
-print <<'EOT';
-# ready-made-twitter-searches
-prefabricated twitter searches for civil society purposes
-EOT
-
 while (<>) {
     next if /^##/;
     next if /^\s*$/;
@@ -39,6 +34,19 @@ sub Escape {
     $content =~ s!\s\)!)!g;
     uri_escape($content);
 }
+
+print <<'EOT';
+# ready-made-twitter-searches
+prefabricated twitter searches for civil society purposes
+## index
+EOT
+
+foreach $key (sort(@keys)) {
+    $anchor = $key;
+    $anchor =~ s/\s/-/g;
+    print "* [$key](#$anchor)\n";
+}
+print "\n";
 
 foreach $key (@keys) {
     print "## $key\n";
