@@ -51,7 +51,7 @@ print "\n";
 foreach $key (@keys) {
     print "## $key\n";
     my $url = sprintf($format, &Escape($query{$key}));
-    print "[CLICK HERE TO QUERY: $key]($url)\n";
+    print "[TWITTER QUERY: $key]($url)\n";
     print "### source:\n";
     print "```\n", $source{$key},  "```\n";
     print "\n";
