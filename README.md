@@ -1,5 +1,7 @@
 # ready-made-twitter-searches
-prefabricated twitter searches for civil society purposes
+prefabricated twitter searches for civil society purposes.
+
+for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## index
 * [age verification keywords](#age-verification-keywords)
 * [age verification simple text](#age-verification-simple-text)

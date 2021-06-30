@@ -37,7 +37,9 @@ sub Escape {
 
 print <<'EOT';
 # ready-made-twitter-searches
-prefabricated twitter searches for civil society purposes
+prefabricated twitter searches for civil society purposes.
+
+for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## index
 EOT
 
