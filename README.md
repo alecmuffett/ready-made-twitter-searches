@@ -5,6 +5,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## index
 * [age verification keywords](#age-verification-keywords)
 * [age verification simple text](#age-verification-simple-text)
+* [breaking end-to-end encryption](#breaking-end-to-end-encryption)
 * [end-to-end encryption app discussion](#end-to-end-encryption-app-discussion)
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 
@@ -25,6 +26,29 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 +@wa_status OR
 +@whatsapp OR
 +@wire
+```
+
+## breaking end-to-end encryption
+[TWITTER QUERY: breaking end-to-end encryption](https://twitter.com/search?q=%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query&f=live)
+### source:
+```
+"breaking e2e" OR
+"breaking e2ee" OR
+"breaking encryption" OR
+"breaking end to end" OR
+"breaking endToEndEncryption" OR
+"chat control" OR
+chatcontrol OR
+chatkontrolle OR
+(
+    backdoor AND
+    (
+	e2e OR
+	e2e OR
+	"end to end" OR
+	endToEnd OR
+	)
+    )
 ```
 
 ## end-to-end encryption keywords

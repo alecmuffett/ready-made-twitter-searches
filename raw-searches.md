@@ -22,6 +22,26 @@
 "+@whatsapp" OR
 "+@wire"
 
+# breaking end-to-end encryption
+
+"breaking e2e" OR
+"breaking e2ee" OR
+"breaking encryption" OR
+"breaking end to end" OR
+"breaking endToEndEncryption" OR
+"chat control" OR
+"chatcontrol" OR
+"chatkontrolle" OR
+(
+    "backdoor" AND
+    (
+	"e2e" OR
+	"e2e" OR
+	"end to end" OR
+	"endToEnd" OR
+	)
+    )
+
 # end-to-end encryption keywords
 
 "e2ee" OR
