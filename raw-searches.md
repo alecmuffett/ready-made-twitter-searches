@@ -24,11 +24,21 @@
 
 # breaking end-to-end encryption
 
+"break e2e" OR
+"break e2ee" OR
+"break encryption" OR
+"break end to end" OR
+"break endToEndEncryption" OR
 "breaking e2e" OR
 "breaking e2ee" OR
 "breaking encryption" OR
 "breaking end to end" OR
 "breaking endToEndEncryption" OR
+"undermine e2e" OR
+"undermine e2ee" OR
+"undermine encryption" OR
+"undermine end to end" OR
+"undermine endToEndEncryption" OR
 "chat control" OR
 "chatcontrol" OR
 "chatkontrolle" OR
