@@ -39,7 +39,11 @@ print <<'EOT';
 # ready-made-twitter-searches
 prefabricated twitter searches for civil society purposes.
 
+be aware: no responsibility can or will be accepted for the contents
+of tweets that are returned by these searches.
+
 for additions, please submit pull requests against `raw-searches.md`, **only**.
+
 ## index
 EOT
 
