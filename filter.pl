@@ -3,7 +3,8 @@
 
 use URI::Escape;
 
-$format = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
+$search_top = 'https://twitter.com/search?q=%s&src=typed_query';
+$search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
 
 $key = 'UNDEFINED';
 @keys = ();
@@ -56,8 +57,10 @@ print "\n";
 
 foreach $key (@keys) {
     print "## $key\n";
-    my $url = sprintf($format, &Escape($query{$key}));
-    print "[TWITTER QUERY: $key]($url)\n";
+    my $latest = sprintf($search_latest, &Escape($query{$key}));
+    print "* [Twitter Search LATEST: $key]($latest)\n";
+    my $top = sprintf($search_top, &Escape($query{$key}));
+    print "* [Twitter Search TOP: $key]($top)\n";
     print "### source:\n";
     print "```\n", $source{$key},  "```\n";
     print "\n";

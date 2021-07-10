@@ -14,7 +14,8 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 
 ## end-to-end encryption app discussion
-[TWITTER QUERY: end-to-end encryption app discussion](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire%20&src=typed_query&f=live)
+* [Twitter Search LATEST: end-to-end encryption app discussion](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire%20&src=typed_query&f=live)
+* [Twitter Search TOP: end-to-end encryption app discussion](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire%20&src=typed_query)
 ### source:
 ```
 +@briarapp OR
@@ -33,7 +34,8 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ```
 
 ## breaking end-to-end encryption
-[TWITTER QUERY: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query&f=live)
+* [Twitter Search LATEST: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query)
 ### source:
 ```
 "break e2e" OR
@@ -66,7 +68,8 @@ chatkontrolle OR
 ```
 
 ## end-to-end encryption keywords
-[TWITTER QUERY: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
+* [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
 ### source:
 ```
 e2ee OR
@@ -98,7 +101,8 @@ warrantproof OR
 ```
 
 ## age verification keywords
-[TWITTER QUERY: age verification keywords](https://twitter.com/search?q=%22age%20assurance%22%20OR%20%22digital%20economy%20act%22%20OR%20%22verification%20of%20children%20online%22%20OR%20%22%23voco%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20&src=typed_query&f=live)
+* [Twitter Search LATEST: age verification keywords](https://twitter.com/search?q=%22age%20assurance%22%20OR%20%22digital%20economy%20act%22%20OR%20%22verification%20of%20children%20online%22%20OR%20%22%23voco%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20&src=typed_query&f=live)
+* [Twitter Search TOP: age verification keywords](https://twitter.com/search?q=%22age%20assurance%22%20OR%20%22digital%20economy%20act%22%20OR%20%22verification%20of%20children%20online%22%20OR%20%22%23voco%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20&src=typed_query)
 ### source:
 ```
 "age assurance" OR
@@ -117,7 +121,8 @@ trackatroll
 ```
 
 ## age verification simple text
-[TWITTER QUERY: age verification simple text](https://twitter.com/search?q=%22age%20verification%22%20&src=typed_query&f=live)
+* [Twitter Search LATEST: age verification simple text](https://twitter.com/search?q=%22age%20verification%22%20&src=typed_query&f=live)
+* [Twitter Search TOP: age verification simple text](https://twitter.com/search?q=%22age%20verification%22%20&src=typed_query)
 ### source:
 ```
 "age verification"
