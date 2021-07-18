@@ -104,6 +104,7 @@
 # uk social media identity petitions
 
 "#saveanonymity" OR
+"#trackatroll" OR
 (
     "https://petition.parliament.uk/petitions/575833" AND
     -"Make verified ID a requirement for opening" ## canned "share" phrase, reduces noise
