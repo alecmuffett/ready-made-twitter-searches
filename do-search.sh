@@ -1,6 +1,6 @@
 #!/bin/sh
 make
-egrep "TWITTER QUERY:.*$*" < README.md |
+egrep "Twitter Search LATEST:.*$*" < README.md |
     perl -pe 's/.*?\(//;s/\)$//' |
     while read url ; do
 	open "$url"

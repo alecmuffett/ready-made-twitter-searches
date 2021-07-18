@@ -15,13 +15,15 @@ while (<>) {
     next if /^##/;
     next if /^\s*$/;
 
+    s!\s##.*!!; # remove inline comments
+
     if (/^#\s(\w.*)/) {
 	$key = $1;
 	push(@keys, $key);
 	next;
     }
 
-    s/"((\+\@)?\w+)"/$1/ge;
+    s/"((\+\@|#)?\w+)"/$1/ge;
     $source{$key} .= $_;
 
     s/\s+/ /g;

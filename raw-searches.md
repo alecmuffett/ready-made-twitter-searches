@@ -45,11 +45,11 @@
 (
     "backdoor" AND
     (
-	"e2e" OR
-	"e2ee" OR
-	"end to end" OR
-	"endToEnd" OR
-	)
+        "e2e" OR
+        "e2ee" OR
+        "end to end" OR
+        "endToEnd" OR
+        )
     )
 
 # end-to-end encryption keywords
@@ -63,22 +63,22 @@
 "warrantproof" OR
 (
     (
-	"algorithm" OR
-	"algorithms" OR
-	"e2e" OR
-	"end to end" OR
-	"facebook" OR
-	"instagram" OR
-	"messenger" OR
-	"whatsapp" OR
-	"nspcc"
-	) AND
+        "algorithm" OR
+        "algorithms" OR
+        "e2e" OR
+        "end to end" OR
+        "facebook" OR
+        "instagram" OR
+        "messenger" OR
+        "whatsapp" OR
+        "nspcc"
+        ) AND
     (
-	"encrypt" OR
-	"encrypted" OR
-	"encryption" OR
-	"encryptions"
-	)
+        "encrypt" OR
+        "encrypted" OR
+        "encryption" OR
+        "encryptions"
+        )
     )
 
 # age verification keywords
@@ -100,3 +100,18 @@
 # age verification simple text
 
 "age verification"
+
+# uk social media identity petitions
+
+"#saveanonymity" OR
+(
+    "https://petition.parliament.uk/petitions/575833" AND
+    -"Make verified ID a requirement for opening" ## canned "share" phrase, reduces noise
+    ) OR
+(
+    (
+        "katie price" OR
+        "+@katieprice"
+        ) AND
+    "petition"
+    )
