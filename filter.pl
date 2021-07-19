@@ -10,6 +10,7 @@ $key = 'UNDEFINED';
 @keys = ();
 %source = ();
 %query = ();
+%links = ();
 
 while (<>) {
     next if /^##/;
@@ -20,6 +21,12 @@ while (<>) {
     if (/^#\s(\w.*)/) {
 	$key = $1;
 	push(@keys, $key);
+	next;
+    }
+
+    if (/^\*\s(\S+)/) {
+	$url = $1;
+	push(@{$links{$key}}, $url);
 	next;
     }
 
@@ -59,11 +66,22 @@ print "\n";
 
 foreach $key (@keys) {
     print "## $key\n";
+
     my $latest = sprintf($search_latest, &Escape($query{$key}));
     print "* [Twitter Search LATEST: $key]($latest)\n";
+
     my $top = sprintf($search_top, &Escape($query{$key}));
     print "* [Twitter Search TOP: $key]($top)\n";
-    print "### source:\n";
+    print "### query source\n";
     print "```\n", $source{$key},  "```\n";
+
+    @urls = @{$links{$key}};
+    if (@urls) {
+	print "### important urls\n";
+	foreach $url (@urls) {
+	    print "* $url\n";
+	}
+    }
+
     print "\n";
 }
