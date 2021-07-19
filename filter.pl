@@ -20,6 +20,7 @@ while (<>) {
 
     if (/^#\s(\w.*)/) {
 	$key = $1;
+	@{$links{$key}} = ();
 	push(@keys, $key);
 	next;
     }
