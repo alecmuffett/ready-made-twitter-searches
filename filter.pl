@@ -20,13 +20,17 @@ while (<>) {
 
     if (/^#\s(\w.*)/) {
 	$key = $1;
+	$key =~ s!\s+! !;
+	$key =~ s!\s$!!;
 	@{$links{$key}} = ();
 	push(@keys, $key);
 	next;
     }
 
-    if (/^\*\s(\S+)/) {
+    if (/^\*\s(\S.*)/) {
 	$url = $1;
+	$url =~ s!\s+! !;
+	$url =~ s!\s$!!;
 	push(@{$links{$key}}, $url);
 	next;
     }
