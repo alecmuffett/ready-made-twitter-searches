@@ -125,6 +125,11 @@
 
 # pegasus project
 
+* https://twitter.com/jsrailton/status/1416792857084583939
+* https://www.theguardian.com/news/series/pegasus-project
+* https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
+* https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+
 "#nsoGroup" OR
 "#pegasusProject" OR
 "israeli spyware" OR
