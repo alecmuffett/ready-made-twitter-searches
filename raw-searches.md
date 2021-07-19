@@ -6,7 +6,7 @@
 
 ## eg: https://twitter.com/search?q=foo%20OR%20bar%20AND%20(baz%20OR%20wibble)&src=typed_query&f=live
 
-# end-to-end encryption app discussion
+# end-to-end encrypted apps
 
 "+@briarapp" OR
 "+@element_hq" OR
