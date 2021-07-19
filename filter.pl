@@ -51,7 +51,7 @@ sub Escape {
 }
 
 print <<'EOT';
-# ready-made-twitter-searches
+# `#ReadyMadeTwitterSearches`
 prefabricated twitter searches for civil society purposes.
 
 be aware: no responsibility can or will be accepted for the contents
@@ -59,7 +59,7 @@ of tweets that are returned by these searches.
 
 for additions, please submit pull requests against `raw-searches.md`, **only**.
 
-## index
+## search index
 EOT
 
 foreach $key (sort(@keys)) {
@@ -69,8 +69,11 @@ foreach $key (sort(@keys)) {
 }
 print "\n";
 
+print "## searches\n";
+print "\n";
+
 foreach $key (@keys) {
-    print "## $key\n";
+    print "### $key\n";
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
     print "* [Twitter Search LATEST: $key]($latest)\n";
@@ -80,13 +83,13 @@ foreach $key (@keys) {
 
     @urls = @{$links{$key}};
     if (@urls) {
-	print "### some relevant links\n";
+	print "#### some relevant links\n";
 	foreach $url (@urls) {
 	    print "* $url\n";
 	}
     }
 
-    print "### query source\n";
+    print "#### query source\n";
     print "```\n", $source{$key},  "```\n";
 
     print "\n";
