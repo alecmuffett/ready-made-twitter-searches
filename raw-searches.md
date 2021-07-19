@@ -122,3 +122,12 @@
         ) AND
     "petition"
     )
+
+# pegasus project
+
+"#nsoGroup" OR
+"#pegasusProject" OR
+"israeli spyware" OR
+"nso group" OR
+"pegasus project" OR
+( "nso" AND "spyware")
