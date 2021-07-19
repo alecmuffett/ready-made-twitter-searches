@@ -103,6 +103,11 @@
 
 # uk social media identity petitions
 
+* https://twitter.com/AlecMuffett/status/1370018001509097474
+* https://twitter.com/AlecMuffett/status/1370091171461144579
+* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
+* https://twitter.com/AlecMuffett/status/1414525963250110465
+
 "#saveanonymity" OR
 "#trackatroll" OR
 (

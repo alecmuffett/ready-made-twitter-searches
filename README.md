@@ -132,6 +132,11 @@ trackatroll
 ## uk social media identity petitions
 * [Twitter Search LATEST: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query&f=live)
 * [Twitter Search TOP: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query)
+### some relevant links
+* https://twitter.com/AlecMuffett/status/1370018001509097474
+* https://twitter.com/AlecMuffett/status/1370091171461144579
+* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
+* https://twitter.com/AlecMuffett/status/1414525963250110465
 ### query source
 ```
 #saveanonymity OR

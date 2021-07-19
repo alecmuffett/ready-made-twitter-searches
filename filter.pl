@@ -73,16 +73,17 @@ foreach $key (@keys) {
 
     my $top = sprintf($search_top, &Escape($query{$key}));
     print "* [Twitter Search TOP: $key]($top)\n";
-    print "### query source\n";
-    print "```\n", $source{$key},  "```\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
-	print "### important urls\n";
+	print "### some relevant links\n";
 	foreach $url (@urls) {
 	    print "* $url\n";
 	}
     }
+
+    print "### query source\n";
+    print "```\n", $source{$key},  "```\n";
 
     print "\n";
 }
