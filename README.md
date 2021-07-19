@@ -1,4 +1,4 @@
-# ready-made-twitter-searches
+# `#ReadyMadeTwitterSearches`
 prefabricated twitter searches for civil society purposes.
 
 be aware: no responsibility can or will be accepted for the contents
