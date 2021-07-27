@@ -72,8 +72,8 @@ chatkontrolle OR
 ```
 
 ### end-to-end encryption keywords
-* [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
-* [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
+* [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20unregulated%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20messenger%20OR%20unregulated%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
 #### query source
 ```
 e2ee OR
@@ -92,6 +92,7 @@ warrantproof OR
         facebook OR
         instagram OR
         messenger OR
+        unregulated OR
         whatsapp OR
         nspcc
         ) AND
