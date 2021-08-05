@@ -9,6 +9,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## search index
 * [age verification keywords](#age-verification-keywords)
 * [age verification simple text](#age-verification-simple-text)
+* [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
@@ -176,5 +177,31 @@ trackatroll
 "nso group" OR
 "pegasus project" OR
 ( nso AND spyware)
+```
+
+### apple spyware
+* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%29%29%20&src=typed_query)
+#### some relevant links
+* https://twitter.com/matthew_d_green/status/1423071186616000513
+* https://twitter.com/matthew_d_green/status/1423110719533371393
+* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+#### query source
+```
+neuralMatch OR
+( (
+    apple OR
+    iCloud OR
+    iPhone
+    )
+  AND
+  (
+      CSAM OR
+      NCMEC OR
+      "child abuse" OR
+      "illegal imagery"
+      )
+    )
 ```
 

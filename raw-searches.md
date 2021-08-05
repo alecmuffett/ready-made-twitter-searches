@@ -138,3 +138,25 @@
 "nso group" OR
 "pegasus project" OR
 ( "nso" AND "spyware")
+
+# apple spyware
+
+* https://twitter.com/matthew_d_green/status/1423071186616000513
+* https://twitter.com/matthew_d_green/status/1423110719533371393
+* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+
+"neuralMatch" OR
+( (
+    "apple" OR
+    "iCloud" OR
+    "iPhone"
+    )
+  AND
+  (
+      "CSAM" OR
+      "NCMEC" OR
+      "child abuse" OR
+      "illegal imagery"
+      )
+    )
