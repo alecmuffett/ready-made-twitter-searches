@@ -147,16 +147,17 @@
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 
 "neuralMatch" OR
-( (
-    "apple" OR
-    "iCloud" OR
-    "iPhone"
-    )
-  AND
-  (
-      "CSAM" OR
-      "NCMEC" OR
-      "child abuse" OR
-      "illegal imagery"
-      )
+(
+    (
+	"apple" OR
+	"iCloud" OR
+	"iPhone"
+	)
+    AND
+    (
+	"CSAM" OR
+	"NCMEC" OR
+	"child abuse" OR
+	"illegal imagery"
+	)
     )

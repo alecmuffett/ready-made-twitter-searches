@@ -190,18 +190,19 @@ trackatroll
 #### query source
 ```
 neuralMatch OR
-( (
-    apple OR
-    iCloud OR
-    iPhone
-    )
-  AND
-  (
-      CSAM OR
-      NCMEC OR
-      "child abuse" OR
-      "illegal imagery"
-      )
+(
+    (
+	apple OR
+	iCloud OR
+	iPhone
+	)
+    AND
+    (
+	CSAM OR
+	NCMEC OR
+	"child abuse" OR
+	"illegal imagery"
+	)
     )
 ```
 
