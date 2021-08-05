@@ -107,9 +107,9 @@
 
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
-* https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
-* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
 * https://twitter.com/AlecMuffett/status/1414525963250110465
+* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
+* https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
 
 "#saveanonymity" OR
 "#trackatroll" OR
@@ -127,10 +127,10 @@
 
 # pegasus project
 
-* https://twitter.com/jsrailton/status/1416792857084583939
-* https://www.theguardian.com/news/series/pegasus-project
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
+* https://twitter.com/jsrailton/status/1416792857084583939
 * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+* https://www.theguardian.com/news/series/pegasus-project
 
 "#nsoGroup" OR
 "#pegasusProject" OR
@@ -141,11 +141,16 @@
 
 # apple spyware
 
+* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://www.apple.com/child-safety/
+* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
+* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 
+"neuralHash" OR
 "neuralMatch" OR
 (
     (
@@ -156,8 +161,10 @@
     AND
     (
 	"CSAM" OR
+	"CSE" OR
 	"NCMEC" OR
 	"child abuse" OR
-	"illegal imagery"
+	"illegal imagery" OR
+	"law enforcement"
 	)
     )

@@ -141,9 +141,9 @@ trackatroll
 #### some relevant links
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
-* https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
-* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
 * https://twitter.com/AlecMuffett/status/1414525963250110465
+* https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
+* https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
 #### query source
 ```
 #saveanonymity OR
@@ -165,10 +165,10 @@ trackatroll
 * [Twitter Search LATEST: pegasus project](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query&f=live)
 * [Twitter Search TOP: pegasus project](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query)
 #### some relevant links
-* https://twitter.com/jsrailton/status/1416792857084583939
-* https://www.theguardian.com/news/series/pegasus-project
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
+* https://twitter.com/jsrailton/status/1416792857084583939
 * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+* https://www.theguardian.com/news/series/pegasus-project
 #### query source
 ```
 #nsoGroup OR
@@ -180,15 +180,20 @@ trackatroll
 ```
 
 ### apple spyware
-* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%29%29%20&src=typed_query&f=live)
-* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%29%29%20&src=typed_query)
+* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%29%29%20&src=typed_query)
 #### some relevant links
+* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://www.apple.com/child-safety/
+* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
+* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 #### query source
 ```
+neuralHash OR
 neuralMatch OR
 (
     (
@@ -199,9 +204,11 @@ neuralMatch OR
     AND
     (
 	CSAM OR
+	CSE OR
 	NCMEC OR
 	"child abuse" OR
-	"illegal imagery"
+	"illegal imagery" OR
+	"law enforcement"
 	)
     )
 ```
