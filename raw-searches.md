@@ -163,8 +163,10 @@
 	"CSAM" OR
 	"CSE" OR
 	"NCMEC" OR
+	"PSI" OR
 	"child abuse" OR
 	"illegal imagery" OR
-	"law enforcement"
+	"law enforcement" OR
+	"private set intersection"
 	)
     )

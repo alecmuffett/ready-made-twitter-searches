@@ -180,8 +180,8 @@ trackatroll
 ```
 
 ### apple spyware
-* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%29%29%20&src=typed_query&f=live)
-* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%29%29%20&src=typed_query)
+* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20&src=typed_query&f=live)
+* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20&src=typed_query)
 #### some relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -206,9 +206,11 @@ neuralMatch OR
 	CSAM OR
 	CSE OR
 	NCMEC OR
+	PSI OR
 	"child abuse" OR
 	"illegal imagery" OR
-	"law enforcement"
+	"law enforcement" OR
+	"private set intersection"
 	)
     )
 ```
