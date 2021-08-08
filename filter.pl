@@ -3,8 +3,10 @@
 
 use URI::Escape;
 
-$search_top = 'https://twitter.com/search?q=%s&src=typed_query';
-$search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
+my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
+my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
+my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
+my $tweet_intent = "https://twitter.com/intent/tweet?text";
 
 $key = 'UNDEFINED';
 @keys = ();
@@ -80,6 +82,12 @@ foreach $key (@keys) {
 
     my $top = sprintf($search_top, &Escape($query{$key}));
     print "* [Twitter Search TOP: $key]($top)\n";
+
+    my $tweet_anchor = "$key";
+    $tweet_anchor =~ s/\s/-/go;
+    my $tweet_text = "Check out this #ReadyMadeTwitterSearch for '$key' at $tweet_root#$tweet_anchor";
+    my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
+    print "* [Tweet this Search for '$key'!]($tweet_url)\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
