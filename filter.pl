@@ -75,7 +75,7 @@ print "## searches\n";
 print "\n";
 
 foreach $key (@keys) {
-    print "### $key\n";
+    printf("### %s\n", uc($key));
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
     print "* [Twitter Search LATEST: $key]($latest)\n";
