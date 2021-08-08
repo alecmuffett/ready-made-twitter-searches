@@ -64,7 +64,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## search index
 EOT
 
-foreach $key (sort(@keys)) {
+foreach $key (sort @keys) {
     $anchor = $key;
     $anchor =~ s/\s/-/g;
     print "* [$key](#$anchor)\n";
@@ -92,7 +92,7 @@ foreach $key (@keys) {
     @urls = @{$links{$key}};
     if (@urls) {
 	print "#### some relevant links\n";
-	foreach $url (@urls) {
+	foreach $url (sort @urls) {
 	    print "* $url\n";
 	}
     }
