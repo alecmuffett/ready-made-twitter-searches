@@ -99,7 +99,7 @@
 "pas1296" OR
 "trackatroll"
 
-# age verification simple text
+# age verification basic
 
 "age verification"
 
