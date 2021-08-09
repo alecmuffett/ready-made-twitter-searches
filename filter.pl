@@ -78,16 +78,16 @@ foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
-    print "* [Twitter Search LATEST: $key]($latest)\n";
+    print "* [Twitter Search LATEST: $key]($latest) :point_left:\n";
 
     my $top = sprintf($search_top, &Escape($query{$key}));
-    print "* [Twitter Search TOP: $key]($top)\n";
+    print "* [Twitter Search TOP: $key]($top) :point_left:\n";
 
     my $tweet_anchor = "$key";
     $tweet_anchor =~ s/\s/-/go;
     my $tweet_text = "Check out the latest Twitter debate about '$key' with the #ReadyMadeTwitterSearch at $tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
-    print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url)\n";
+    print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url) :heart:\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
