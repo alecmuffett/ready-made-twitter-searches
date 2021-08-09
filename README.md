@@ -192,6 +192,7 @@ trackatroll
 * [NEW: Tweet/Share this Search for 'apple spyware'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20spyware%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-spyware)
 #### some relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://stratechery.com/2021/apples-mistake/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
 * https://twitter.com/matthew_d_green/status/1423407898890326021

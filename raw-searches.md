@@ -150,6 +150,7 @@
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
+* https://stratechery.com/2021/apples-mistake/
 
 "neuralHash" OR
 "neuralMatch" OR
