@@ -187,11 +187,12 @@ trackatroll
 ```
 
 ### APPLE SPYWARE
-* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20&src=typed_query&f=live)
-* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20&src=typed_query)
+* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query&f=live)
+* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query)
 * [NEW: Tweet/Share this Search for 'apple spyware'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20spyware%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-spyware)
 #### some relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://stratechery.com/2021/apples-mistake/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
@@ -223,9 +224,10 @@ neuralMatch OR
 	"private set intersection"
 	)
     ) OR
-"https://stratechery.com/2021/apples-mistake/" OR
+"https://www.apple.com/child-safety/" OR
 "https://twitter.com/matthew_d_green/status/1423071186616000513" OR
 "https://twitter.com/matthew_d_green/status/1423110719533371393" OR
-"https://www.apple.com/child-safety/"
+"https://stratechery.com/2021/apples-mistake/" OR
+"https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope"
 ```
 

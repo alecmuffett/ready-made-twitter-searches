@@ -151,6 +151,7 @@
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 * https://stratechery.com/2021/apples-mistake/
+* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 
 "neuralHash" OR
 "neuralMatch" OR
@@ -172,7 +173,8 @@
 	"private set intersection"
 	)
     ) OR
-"https://stratechery.com/2021/apples-mistake/" OR
+"https://www.apple.com/child-safety/" OR
 "https://twitter.com/matthew_d_green/status/1423071186616000513" OR
 "https://twitter.com/matthew_d_green/status/1423110719533371393" OR
-"https://www.apple.com/child-safety/"
+"https://stratechery.com/2021/apples-mistake/" OR
+"https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope"
