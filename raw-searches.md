@@ -171,4 +171,8 @@
 	"law enforcement" OR
 	"private set intersection"
 	)
-    )
+    ) OR
+"https://stratechery.com/2021/apples-mistake/" OR
+"https://twitter.com/matthew_d_green/status/1423071186616000513" OR
+"https://twitter.com/matthew_d_green/status/1423110719533371393" OR
+"https://www.apple.com/child-safety/"
