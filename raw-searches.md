@@ -183,14 +183,18 @@
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 
-"#anonymity" OR
 "internet fuckwad theory" OR
-"online anonymity" OR
 "onlineAnonymity" OR
-"pseudonymity"
-
-##OR
-##(
-##    ( ( "online" AND "harms" ) OR "onlineHarms" ) AND
-##    ( "anonymity" OR "pseudonymity" )
-##    )
+"onlinePseudonymity" OR
+(
+    (
+	"online" OR
+	"onlineHarms"
+	) AND
+    (
+	"anonymity" OR
+	"anonymous" OR
+	"pseudonymity" OR
+	"pseudonymous"
+	)
+    )
