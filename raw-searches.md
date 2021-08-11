@@ -178,3 +178,19 @@
 "https://twitter.com/matthew_d_green/status/1423110719533371393" OR
 "https://stratechery.com/2021/apples-mistake/" OR
 "https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope"
+
+# online anonymity
+
+* https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
+
+"#anonymity" OR
+"internet fuckwad theory" OR
+"online anonymity" OR
+"onlineAnonymity" OR
+"pseudonymity"
+
+##OR
+##(
+##    ( ( "online" AND "harms" ) OR "onlineHarms" ) AND
+##    ( "anonymity" OR "pseudonymity" )
+##    )
