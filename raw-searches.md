@@ -188,6 +188,9 @@
 "onlinePseudonymity" OR
 (
     (
+	"abuse" OR
+	"harm" OR
+	"harms" OR
 	"online" OR
 	"onlineHarms"
 	) AND
