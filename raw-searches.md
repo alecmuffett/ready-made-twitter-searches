@@ -1,9 +1,8 @@
 ## -*- awk -*- Emacs highlighting for AWK looks nice
 
-## queries separated by single-hash H1 headers
-## comments are double-hash H2 headers
+## QUERIES separated by single-hash H1 headers
+## COMMENTS are double-hash H2 headers
 ## currently no quote-escapes nor sanity-checking, sorry
-
 ## eg: https://twitter.com/search?q=foo%20OR%20bar%20AND%20(baz%20OR%20wibble)&src=typed_query&f=live
 
 # end-to-end encrypted apps
@@ -182,6 +181,7 @@
 # online anonymity
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
+* https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
 
 "internet fuckwad theory" OR
 "onlineAnonymity" OR

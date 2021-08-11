@@ -238,6 +238,7 @@ neuralMatch OR
 * [NEW: Tweet/Share this Search for 'online anonymity'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27online%20anonymity%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-anonymity) :heart:
 #### some relevant links
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
+* https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
 #### query source
 ```
 "internet fuckwad theory" OR
