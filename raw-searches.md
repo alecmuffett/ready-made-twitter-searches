@@ -162,10 +162,10 @@
 	)
     AND
     (
-	"CSAM" OR
-	"CSE" OR
-	"NCMEC" OR
-	"PSI" OR
+	"csam" OR
+	"cse" OR
+	"ncmec" OR
+	"psi" OR
 	"child abuse" OR
 	"illegal imagery" OR
 	"law enforcement" OR
@@ -200,4 +200,18 @@
 	"pseudonymity" OR
 	"pseudonymous"
 	)
+    )
+
+
+# apple and tiananmen
+
+(
+    "apple" OR
+    "csam"
+    ) AND
+(
+    "tiananmen" OR
+    "tienanmen" OR
+    "tank man" OR
+    "tank guy"
     )

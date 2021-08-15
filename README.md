@@ -9,6 +9,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 ## search index
 * [age verification basic](#age-verification-basic)
 * [age verification keywords](#age-verification-keywords)
+* [apple and tiananmen](#apple-and-tiananmen)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
@@ -188,8 +189,8 @@ trackatroll
 ```
 
 ### APPLE SPYWARE
-* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28CSAM%20OR%20CSE%20OR%20NCMEC%20OR%20PSI%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423071186616000513%22%20OR%20%22https%3A%2F%2Ftwitter.com%2Fmatthew_d_green%2Fstatus%2F1423110719533371393%22%20OR%20%22https%3A%2F%2Fstratechery.com%2F2021%2Fapples-mistake%2F%22%20OR%20%22https%3A%2F%2Fdaringfireball.net%2F2021%2F08%2Fapple_child_safety_initiatives_slippery_slope%22%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'apple spyware'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20spyware%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-spyware) :heart:
 #### some relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
@@ -215,10 +216,10 @@ neuralMatch OR
 	)
     AND
     (
-	CSAM OR
-	CSE OR
-	NCMEC OR
-	PSI OR
+	csam OR
+	cse OR
+	ncmec OR
+	psi OR
 	"child abuse" OR
 	"illegal imagery" OR
 	"law enforcement" OR
@@ -258,6 +259,24 @@ onlinePseudonymity OR
 	pseudonymity OR
 	pseudonymous
 	)
+    )
+```
+
+### APPLE AND TIANANMEN
+* [Twitter Search LATEST: apple and tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: apple and tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20&src=typed_query) :point_left:
+* [NEW: Tweet/Share this Search for 'apple and tiananmen'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20and%20tiananmen%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-and-tiananmen) :heart:
+#### query source
+```
+(
+    apple OR
+    csam
+    ) AND
+(
+    tiananmen OR
+    tienanmen OR
+    "tank man" OR
+    "tank guy"
     )
 ```
 
