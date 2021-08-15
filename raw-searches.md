@@ -151,6 +151,7 @@
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 * https://stratechery.com/2021/apples-mistake/
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
+* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 
 "neuralHash" OR
 "neuralMatch" OR
@@ -172,11 +173,7 @@
 	"private set intersection"
 	)
     ) OR
-"https://www.apple.com/child-safety/" OR
-"https://twitter.com/matthew_d_green/status/1423071186616000513" OR
-"https://twitter.com/matthew_d_green/status/1423110719533371393" OR
-"https://stratechery.com/2021/apples-mistake/" OR
-"https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope"
+"https://www.apple.com/child-safety/"
 
 # online anonymity
 
