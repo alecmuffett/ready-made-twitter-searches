@@ -212,3 +212,19 @@
     "tank man" OR
     "tank guy"
     )
+
+# regulation works fallacy
+
+"regulation works" AND
+(
+    "age appropriate" OR
+    "child safety" OR
+    "children" OR
+    "children's code" OR
+    "csam" OR
+    "design code" OR
+    "kidron" OR
+    "online harms" OR
+    "personal data" OR
+    "platforms"
+    )
