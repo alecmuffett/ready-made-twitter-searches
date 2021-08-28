@@ -218,6 +218,7 @@
 "regulation works" AND
 (
     "age appropriate" OR
+    "age-appropriate" OR
     "child safety" OR
     "children" OR
     "children's code" OR
