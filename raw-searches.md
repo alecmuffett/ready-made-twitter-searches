@@ -236,16 +236,17 @@
     (
 	"+@childrenscomm" OR
 	"children's commissioner" OR
-	"childrens' commissioner" OR
 	"childrens commissioner" OR
+	"childrens' commissioner" OR
 	"de souza"
 	) AND
     (
-	"harmful content" OR
 	"age verification" OR
-	"passports" OR
+	"biometrics" OR
 	"fingerprints" OR
-	"online"
+	"harmful content" OR
+	"online" OR
+	"passports"
 	)
     ) OR
 "https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/"
