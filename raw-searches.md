@@ -232,6 +232,9 @@
 
 # children's commissioner age verification
 
+* https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
+* https://twitter.com/AlecMuffett/status/1401643033872023556
+
 (
     (
 	"+@childrenscomm" OR
