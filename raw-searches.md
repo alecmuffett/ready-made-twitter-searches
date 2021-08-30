@@ -229,3 +229,23 @@
     "personal data" OR
     "platforms"
     )
+
+# children's commissioner age verification
+
+(
+    (
+	"+@childrenscomm" OR
+	"children's commissioner" OR
+	"childrens' commissioner" OR
+	"childrens commissioner" OR
+	"de souza"
+	) AND
+    (
+	"harmful content" OR
+	"age verification" OR
+	"passports" OR
+	"fingerprints" OR
+	"online"
+	)
+    ) OR
+"https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/"

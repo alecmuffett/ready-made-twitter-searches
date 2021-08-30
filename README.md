@@ -12,6 +12,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [apple and tiananmen](#apple-and-tiananmen)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
+* [children's commissioner age verification](#children's-commissioner-age-verification)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 * [online anonymity](#online-anonymity)
@@ -298,5 +299,30 @@ onlinePseudonymity OR
     "personal data" OR
     platforms
     )
+```
+
+### CHILDREN'S COMMISSIONER AGE VERIFICATION
+* [Twitter Search LATEST: children's commissioner age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22harmful%20content%22%20OR%20%22age%20verification%22%20OR%20passports%20OR%20fingerprints%20OR%20online%29%29%20OR%20%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F08%2F30%2Fsocial-media-companies-told-introduce-tough-age-checks-using%2F%22%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: children's commissioner age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22harmful%20content%22%20OR%20%22age%20verification%22%20OR%20passports%20OR%20fingerprints%20OR%20online%29%29%20OR%20%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F08%2F30%2Fsocial-media-companies-told-introduce-tough-age-checks-using%2F%22%20&src=typed_query) :point_left:
+* [NEW: Tweet/Share this Search for 'children's commissioner age verification'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27children%27s%20commissioner%20age%20verification%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23children%27s-commissioner-age-verification) :heart:
+#### query source
+```
+(
+    (
+	+@childrenscomm OR
+	"children's commissioner" OR
+	"childrens' commissioner" OR
+	"childrens commissioner" OR
+	"de souza"
+	) AND
+    (
+	"harmful content" OR
+	"age verification" OR
+	passports OR
+	fingerprints OR
+	online
+	)
+    ) OR
+"https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/"
 ```
 
