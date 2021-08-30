@@ -245,10 +245,13 @@
 	) AND
     (
 	"age verification" OR
+	"biometric" OR
 	"biometrics" OR
+	"fingerprint" OR
 	"fingerprints" OR
 	"harmful content" OR
 	"online" OR
+	"passport" OR
 	"passports"
 	)
     ) OR
