@@ -13,6 +13,7 @@ $key = 'UNDEFINED';
 %source = ();
 %query = ();
 %links = ();
+%anchors = ();
 
 while (<>) {
     next if /^##/;
@@ -66,7 +67,9 @@ EOT
 
 foreach $key (sort @keys) {
     $anchor = $key;
+    $anchor =~ s/\@//go; # this needs work re: what can/cannot go into an anchor [1/2]
     $anchor =~ s/\s/-/g;
+    $anchors{$key} = $anchor;
     print "* [$key](#$anchor)\n";
 }
 print "\n";
@@ -83,9 +86,7 @@ foreach $key (@keys) {
     my $top = sprintf($search_top, &Escape($query{$key}));
     print "* [Twitter Search TOP: $key]($top) :point_left:\n";
 
-    my $tweet_anchor = "$key";
-    $tweet_anchor =~ s/\@//go; # this needs work re: what can/cannot go into an anchor
-    $tweet_anchor =~ s/\s/-/go;
+    my $tweet_anchor = $anchors{$key};
     my $tweet_text = "Check out the latest Twitter debate about '$key' with the #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
     print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url) :heart:\n";

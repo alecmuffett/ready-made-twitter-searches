@@ -17,7 +17,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [online anonymity](#online-anonymity)
 * [pegasus project](#pegasus-project)
 * [regulation works fallacy](#regulation-works-fallacy)
-* [the @childrenscomm on age verification](#the-@childrenscomm-on-age-verification)
+* [the @childrenscomm on age verification](#the-childrenscomm-on-age-verification)
 * [uk social media identity petitions](#uk-social-media-identity-petitions)
 
 ## searches
