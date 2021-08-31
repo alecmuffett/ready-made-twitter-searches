@@ -280,8 +280,8 @@ onlinePseudonymity OR
 ```
 
 ### REGULATION WORKS FALLACY
-* [Twitter Search LATEST: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20%22age-appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20%22age-appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'regulation works fallacy'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27regulation%20works%20fallacy%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-works-fallacy) :heart:
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1431575809907638273
@@ -290,7 +290,7 @@ onlinePseudonymity OR
 "regulation works" AND
 (
     "age appropriate" OR
-    "age-appropriate" OR
+    age-appropriate OR
     "child safety" OR
     children OR
     "children's code" OR
@@ -304,8 +304,8 @@ onlinePseudonymity OR
 ```
 
 ### THE @CHILDRENSCOMM ON AGE VERIFICATION
-* [Twitter Search LATEST: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: the @childrenscomm on age verification](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%2B%40childrenscomm%20OR%20rachel_desouza%20OR%20%22rachel%20desouza%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: the @childrenscomm on age verification](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%2B%40childrenscomm%20OR%20rachel_desouza%20OR%20%22rachel%20desouza%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'the @childrenscomm on age verification'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27the%20%40childrenscomm%20on%20age%20verification%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-childrenscomm-on-age-verification) :heart:
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -315,26 +315,14 @@ onlinePseudonymity OR
 * https://www.whatdotheyknow.com/request/evidence_underpinning_claim_that#incoming-1783612
 #### query source
 ```
+since:2021-08-30 AND
 (
-    (
-	+@childrenscomm OR
-	+@rachel_desouza OR
-	"children's commissioner" OR
-	"childrens commissioner" OR
-	"de souza"
-	) AND
-    (
-	"age verification" OR
-	ageverification OR
-	biometric OR
-	biometrics OR
-	fingerprint OR
-	fingerprints OR
-	"harmful content" OR
-	online OR
-	passport OR
-	passports
-	)
+    +@childrenscomm OR
+    rachel_desouza OR
+    "rachel desouza" OR
+    "rachel de souza" OR
+    "children's commissioner" OR
+    "childrens commissioner"
     )
 ```
 

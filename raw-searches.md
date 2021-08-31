@@ -240,24 +240,12 @@
 * https://twitter.com/cyberleagle/status/1432243779998818305
 * https://www.whatdotheyknow.com/request/evidence_underpinning_claim_that#incoming-1783612
 
+"since:2021-08-30" AND
 (
-    (
-	"+@childrenscomm" OR
-	"+@rachel_desouza" OR
-	"children's commissioner" OR
-	"childrens commissioner" OR
-	"de souza"
-	) AND
-    (
-	"age verification" OR
-	"ageverification" OR
-	"biometric" OR
-	"biometrics" OR
-	"fingerprint" OR
-	"fingerprints" OR
-	"harmful content" OR
-	"online" OR
-	"passport" OR
-	"passports"
-	)
+    "+@childrenscomm" OR
+    "rachel_desouza" OR
+    "rachel desouza" OR
+    "rachel de souza" OR
+    "children's commissioner" OR
+    "childrens commissioner"
     )
