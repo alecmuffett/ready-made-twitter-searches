@@ -251,6 +251,7 @@
 	) AND
     (
 	"age verification" OR
+	"ageverification" OR
 	"biometric" OR
 	"biometrics" OR
 	"fingerprint" OR
