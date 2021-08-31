@@ -38,14 +38,14 @@ OR "breaking e2ee"
 OR "breaking encryption"
 OR "breaking end to end"
 OR "breaking endToEndEncryption"
+OR "chat control"
+OR "chatcontrol"
+OR "chatkontrolle"
 OR "undermine e2e"
 OR "undermine e2ee"
 OR "undermine encryption"
 OR "undermine end to end"
 OR "undermine endToEndEncryption"
-OR "chat control"
-OR "chatcontrol"
-OR "chatkontrolle"
 OR (
     "backdoor"
     AND (
@@ -177,9 +177,9 @@ OR "https://www.apple.com/child-safety/"
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
 
-"internet fuckwad theory" OR
 "onlineAnonymity" OR
 "onlinePseudonymity" OR
+"internet fuckwad theory" OR
 (
     (
 	"abuse" OR
@@ -199,10 +199,7 @@ OR "https://www.apple.com/child-safety/"
 
 # apple and tiananmen
 
-(
-    "apple"
-    OR "csam"
-    )
+( "apple" OR "csam" )
 AND (
     "tiananmen"
     OR "tienanmen"
