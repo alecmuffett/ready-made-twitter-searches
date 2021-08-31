@@ -28,111 +28,111 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [NEW: Tweet/Share this Search for 'end-to-end encrypted apps'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27end-to-end%20encrypted%20apps%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encrypted-apps) :heart:
 #### query source
 ```
-+@briarapp OR
-+@element_hq OR
-+@matrixdotorg OR
-+@messenger OR
-+@mywickr OR
-+@r2refresh OR
-+@signalapp OR
-+@telegram OR
-+@threema OR
-+@torproject OR
-+@wa_status OR
-+@whatsapp OR
-+@wire
++@briarapp
+OR +@element_hq
+OR +@matrixdotorg
+OR +@messenger
+OR +@mywickr
+OR +@r2refresh
+OR +@signalapp
+OR +@telegram
+OR +@threema
+OR +@torproject
+OR +@wa_status
+OR +@whatsapp
+OR +@wire
 ```
 
 ### BREAKING END-TO-END ENCRYPTION
-* [Twitter Search LATEST: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%20OR%29%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: breaking end-to-end encryption](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'breaking end-to-end encryption'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27breaking%20end-to-end%20encryption%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23breaking-end-to-end-encryption) :heart:
 #### query source
 ```
-"break e2e" OR
-"break e2ee" OR
-"break encryption" OR
-"break end to end" OR
-"break endToEndEncryption" OR
-"breaking e2e" OR
-"breaking e2ee" OR
-"breaking encryption" OR
-"breaking end to end" OR
-"breaking endToEndEncryption" OR
-"undermine e2e" OR
-"undermine e2ee" OR
-"undermine encryption" OR
-"undermine end to end" OR
-"undermine endToEndEncryption" OR
-"chat control" OR
-chatcontrol OR
-chatkontrolle OR
-(
-    backdoor AND
-    (
-        e2e OR
-        e2ee OR
-        "end to end" OR
-        endToEnd OR
-        )
+"break e2e"
+OR "break e2ee"
+OR "break encryption"
+OR "break end to end"
+OR "break endToEndEncryption"
+OR "breaking e2e"
+OR "breaking e2ee"
+OR "breaking encryption"
+OR "breaking end to end"
+OR "breaking endToEndEncryption"
+OR "undermine e2e"
+OR "undermine e2ee"
+OR "undermine encryption"
+OR "undermine end to end"
+OR "undermine endToEndEncryption"
+OR "chat control"
+OR chatcontrol
+OR chatkontrolle
+OR (
+    backdoor
+    AND (
+	e2e
+	OR e2ee
+	OR "end to end"
+	OR endToEnd
+	)
     )
 ```
 
 ### END-TO-END ENCRYPTION KEYWORDS
-* [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20unregulated%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20unregulated%20OR%20whatsapp%20OR%20nspcc%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'end-to-end encryption keywords'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27end-to-end%20encryption%20keywords%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-keywords) :heart:
 #### query source
 ```
-e2ee OR
-endToEndEncryption OR
-"lawless spaces" OR
-lawlesspaces OR
-lawlessspaces OR
-"warrant proof" OR
-warrantproof OR
-(
+e2ee
+OR endToEndEncryption
+OR "lawless spaces"
+OR lawlesspaces
+OR lawlessspaces
+OR "warrant proof"
+OR warrantproof
+OR (
     (
-        algorithm OR
-        algorithms OR
-        e2e OR
-        "end to end" OR
-        facebook OR
-        instagram OR
-        "law enforcement" OR
-        messenger OR
-        unregulated OR
-        whatsapp OR
-        nspcc
-        ) AND
-    (
-        encrypt OR
-        encrypted OR
-        encryption OR
-        encryptions
-        )
+	algorithm
+	OR algorithms
+	OR e2e
+	OR "end to end"
+	OR facebook
+	OR instagram
+	OR "law enforcement"
+	OR messenger
+	OR nspcc
+	OR unregulated
+	OR whatsapp
+	)
+    AND (
+	encrypt
+	OR encrypted
+	OR encryption
+	OR encryptions
+	)
     )
 ```
 
 ### AGE VERIFICATION KEYWORDS
-* [Twitter Search LATEST: age verification keywords](https://twitter.com/search?q=%22age%20assurance%22%20OR%20%22digital%20economy%20act%22%20OR%20%22verification%20of%20children%20online%22%20OR%20%23voco%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: age verification keywords](https://twitter.com/search?q=%22age%20assurance%22%20OR%20%22digital%20economy%20act%22%20OR%20%22verification%20of%20children%20online%22%20OR%20%23voco%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: age verification keywords](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: age verification keywords](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'age verification keywords'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27age%20verification%20keywords%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-keywords) :heart:
 #### query source
 ```
-"age assurance" OR
-"digital economy act" OR
-"verification of children online" OR
-#voco OR
-ageappropriatedesigncode OR
-ageassurance OR
-ageverification OR
-ageverificationsystems OR
-childrenscode OR
-harveyslaw OR
-onlineageverification OR
-pas1296 OR
-trackatroll
+#voco
+OR "age assurance"
+OR ageappropriatedesigncode
+OR ageassurance
+OR ageverification
+OR ageverificationsystems
+OR childrenscode
+OR "digital economy act"
+OR harveyslaw
+OR onlineageverification
+OR pas1296
+OR trackatroll
+OR "verification of children online"
 ```
 
 ### AGE VERIFICATION BASIC
@@ -145,8 +145,8 @@ trackatroll
 ```
 
 ### UK SOCIAL MEDIA IDENTITY PETITIONS
-* [Twitter Search LATEST: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'uk social media identity petitions'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27uk%20social%20media%20identity%20petitions%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-social-media-identity-petitions) :heart:
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1370018001509097474
@@ -156,18 +156,15 @@ trackatroll
 * https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
 #### query source
 ```
-#saveanonymity OR
-#trackatroll OR
-(
-    "https://petition.parliament.uk/petitions/575833" AND
-    -"Make verified ID a requirement for opening"
-    ) OR
-(
-    (
-        "katie price" OR
-        +@katieprice
-        ) AND
-    petition
+#saveanonymity
+OR #trackatroll
+OR (
+    "https://petition.parliament.uk/petitions/575833"
+    AND -"Make verified ID a requirement for opening"
+    )
+OR (
+    ( "katie price" OR katieprice )
+    AND petition
     )
 ```
 
@@ -209,27 +206,22 @@ trackatroll
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 #### query source
 ```
-neuralHash OR
-neuralMatch OR
-(
-    (
-	apple OR
-	iCloud OR
-	iPhone
+neuralHash
+OR neuralMatch
+OR (
+    ( apple OR iCloud OR iPhone )
+    AND (
+	csam
+	OR cse
+	OR ncmec
+	OR psi
+	OR "child abuse"
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR "private set intersection"
 	)
-    AND
-    (
-	csam OR
-	cse OR
-	ncmec OR
-	psi OR
-	"child abuse" OR
-	"illegal imagery" OR
-	"law enforcement" OR
-	"private set intersection"
-	)
-    ) OR
-"https://www.apple.com/child-safety/"
+    )
+OR "https://www.apple.com/child-safety/"
 ```
 
 ### ONLINE ANONYMITY
@@ -251,8 +243,8 @@ onlinePseudonymity OR
 	harms OR
 	online OR
 	onlineHarms
-	) AND
-    (
+	)
+    AND (
 	anonymity OR
 	anonymous OR
 	pseudonymity OR
@@ -268,14 +260,14 @@ onlinePseudonymity OR
 #### query source
 ```
 (
-    apple OR
-    csam
-    ) AND
-(
-    tiananmen OR
-    tienanmen OR
-    "tank man" OR
-    "tank guy"
+    apple
+    OR csam
+    )
+AND (
+    tiananmen
+    OR tienanmen
+    OR "tank man"
+    OR "tank guy"
     )
 ```
 
@@ -287,19 +279,19 @@ onlinePseudonymity OR
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 #### query source
 ```
-"regulation works" AND
-(
-    "age appropriate" OR
-    age-appropriate OR
-    "child safety" OR
-    children OR
-    "children's code" OR
-    csam OR
-    "design code" OR
-    kidron OR
-    "online harms" OR
-    "personal data" OR
-    platforms
+"regulation works"
+AND (
+    "age appropriate"
+    OR age-appropriate
+    OR "child safety"
+    OR children
+    OR "children's code"
+    OR csam
+    OR "design code"
+    OR kidron
+    OR "online harms"
+    OR "personal data"
+    OR platforms
     )
 ```
 
@@ -315,14 +307,14 @@ onlinePseudonymity OR
 * https://www.whatdotheyknow.com/request/evidence_underpinning_claim_that#incoming-1783612
 #### query source
 ```
-since:2021-08-30 AND
-(
-    "children's commissioner" OR
-    "childrens commissioner" OR
-    childrenscomm OR
-    "rachel de souza" OR
-    "rachel desouza" OR
-    rachel_desouza
+since:2021-08-30
+AND (
+    "children's commissioner"
+    OR "childrens commissioner"
+    OR childrenscomm
+    OR "rachel de souza"
+    OR "rachel desouza"
+    OR rachel_desouza
     )
 ```
 

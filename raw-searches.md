@@ -12,96 +12,96 @@
 
 # end-to-end encrypted apps
 
-"+@briarapp" OR
-"+@element_hq" OR
-"+@matrixdotorg" OR
-"+@messenger" OR
-"+@mywickr" OR
-"+@r2refresh" OR
-"+@signalapp" OR
-"+@telegram" OR
-"+@threema" OR
-"+@torproject" OR
-"+@wa_status" OR
-"+@whatsapp" OR
-"+@wire"
+"+@briarapp"
+OR "+@element_hq"
+OR "+@matrixdotorg"
+OR "+@messenger"
+OR "+@mywickr"
+OR "+@r2refresh"
+OR "+@signalapp"
+OR "+@telegram"
+OR "+@threema"
+OR "+@torproject"
+OR "+@wa_status"
+OR "+@whatsapp"
+OR "+@wire"
 
 # breaking end-to-end encryption
 
-"break e2e" OR
-"break e2ee" OR
-"break encryption" OR
-"break end to end" OR
-"break endToEndEncryption" OR
-"breaking e2e" OR
-"breaking e2ee" OR
-"breaking encryption" OR
-"breaking end to end" OR
-"breaking endToEndEncryption" OR
-"undermine e2e" OR
-"undermine e2ee" OR
-"undermine encryption" OR
-"undermine end to end" OR
-"undermine endToEndEncryption" OR
-"chat control" OR
-"chatcontrol" OR
-"chatkontrolle" OR
-(
-    "backdoor" AND
-    (
-        "e2e" OR
-        "e2ee" OR
-        "end to end" OR
-        "endToEnd" OR
-        )
+"break e2e"
+OR "break e2ee"
+OR "break encryption"
+OR "break end to end"
+OR "break endToEndEncryption"
+OR "breaking e2e"
+OR "breaking e2ee"
+OR "breaking encryption"
+OR "breaking end to end"
+OR "breaking endToEndEncryption"
+OR "undermine e2e"
+OR "undermine e2ee"
+OR "undermine encryption"
+OR "undermine end to end"
+OR "undermine endToEndEncryption"
+OR "chat control"
+OR "chatcontrol"
+OR "chatkontrolle"
+OR (
+    "backdoor"
+    AND (
+	"e2e"
+	OR "e2ee"
+	OR "end to end"
+	OR "endToEnd"
+	)
     )
 
 # end-to-end encryption keywords
 
-"e2ee" OR
-"endToEndEncryption" OR
-"lawless spaces" OR
-"lawlesspaces" OR
-"lawlessspaces" OR
-"warrant proof" OR
-"warrantproof" OR
-(
+"e2ee"
+OR "endToEndEncryption"
+OR "lawless spaces"
+OR "lawlesspaces"
+OR "lawlessspaces"
+OR "warrant proof"
+OR "warrantproof"
+OR (
     (
-        "algorithm" OR
-        "algorithms" OR
-        "e2e" OR
-        "end to end" OR
-        "facebook" OR
-        "instagram" OR
-        "law enforcement" OR
-        "messenger" OR
-        "unregulated" OR
-        "whatsapp" OR
-        "nspcc"
-        ) AND
-    (
-        "encrypt" OR
-        "encrypted" OR
-        "encryption" OR
-        "encryptions"
-        )
+	"algorithm"
+	OR "algorithms"
+	OR "e2e"
+	OR "end to end"
+	OR "facebook"
+	OR "instagram"
+	OR "law enforcement"
+	OR "messenger"
+	OR "nspcc"
+	OR "unregulated"
+	OR "whatsapp"
+	)
+    AND (
+	"encrypt"
+	OR "encrypted"
+	OR "encryption"
+	OR "encryptions"
+	)
     )
 
 # age verification keywords
 
-"age assurance" OR
-"digital economy act" OR
-"verification of children online" OR
-"#voco" OR
-"ageappropriatedesigncode" OR
-"ageassurance" OR
-"ageverification" OR
-"ageverificationsystems" OR
-"childrenscode" OR
-"harveyslaw" OR
-"onlineageverification" OR
-"pas1296" OR
-"trackatroll"
+"#voco"
+OR "age assurance"
+OR "ageappropriatedesigncode"
+OR "ageassurance"
+OR "ageverification"
+OR "ageverificationsystems"
+OR "childrenscode"
+OR "digital economy act"
+OR "harveyslaw"
+OR "onlineageverification"
+OR "pas1296"
+OR "trackatroll"
+OR "verification of children online"
 
 # age verification basic
 
@@ -115,18 +115,15 @@
 * https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
 * https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
 
-"#saveanonymity" OR
-"#trackatroll" OR
-(
-    "https://petition.parliament.uk/petitions/575833" AND
-    -"Make verified ID a requirement for opening" ## canned "share" phrase, reduces noise
-    ) OR
-(
-    (
-        "katie price" OR
-        "+@katieprice"
-        ) AND
-    "petition"
+"#saveanonymity"
+OR "#trackatroll"
+OR (
+    "https://petition.parliament.uk/petitions/575833"
+    AND -"Make verified ID a requirement for opening" ## canned "share" phrase, reduces noise
+    )
+OR (
+    ( "katie price" OR "katieprice" )
+    AND "petition"
     )
 
 # pegasus project
@@ -158,27 +155,22 @@
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 
-"neuralHash" OR
-"neuralMatch" OR
-(
-    (
-	"apple" OR
-	"iCloud" OR
-	"iPhone"
+"neuralHash"
+OR "neuralMatch"
+OR (
+    ( "apple" OR "iCloud" OR "iPhone" )
+    AND (
+	"csam"
+	OR "cse"
+	OR "ncmec"
+	OR "psi"
+	OR "child abuse"
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR "private set intersection"
 	)
-    AND
-    (
-	"csam" OR
-	"cse" OR
-	"ncmec" OR
-	"psi" OR
-	"child abuse" OR
-	"illegal imagery" OR
-	"law enforcement" OR
-	"private set intersection"
-	)
-    ) OR
-"https://www.apple.com/child-safety/"
+    )
+OR "https://www.apple.com/child-safety/"
 
 # online anonymity
 
@@ -195,8 +187,8 @@
 	"harms" OR
 	"online" OR
 	"onlineHarms"
-	) AND
-    (
+	)
+    AND (
 	"anonymity" OR
 	"anonymous" OR
 	"pseudonymity" OR
@@ -208,33 +200,33 @@
 # apple and tiananmen
 
 (
-    "apple" OR
-    "csam"
-    ) AND
-(
-    "tiananmen" OR
-    "tienanmen" OR
-    "tank man" OR
-    "tank guy"
+    "apple"
+    OR "csam"
+    )
+AND (
+    "tiananmen"
+    OR "tienanmen"
+    OR "tank man"
+    OR "tank guy"
     )
 
 # regulation works fallacy
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
-"regulation works" AND
-(
-    "age appropriate" OR
-    "age-appropriate" OR
-    "child safety" OR
-    "children" OR
-    "children's code" OR
-    "csam" OR
-    "design code" OR
-    "kidron" OR
-    "online harms" OR
-    "personal data" OR
-    "platforms"
+"regulation works"
+AND (
+    "age appropriate"
+    OR "age-appropriate"
+    OR "child safety"
+    OR "children"
+    OR "children's code"
+    OR "csam"
+    OR "design code"
+    OR "kidron"
+    OR "online harms"
+    OR "personal data"
+    OR "platforms"
     )
 
 # the @childrenscomm on age verification
@@ -245,12 +237,12 @@
 * https://twitter.com/cyberleagle/status/1432243779998818305
 * https://www.whatdotheyknow.com/request/evidence_underpinning_claim_that#incoming-1783612
 
-"since:2021-08-30" AND
-(
-    "children's commissioner" OR
-    "childrens commissioner" OR
-    "childrenscomm" OR
-    "rachel de souza" OR
-    "rachel desouza" OR
-    "rachel_desouza"
+"since:2021-08-30"
+AND (
+    "children's commissioner"
+    OR "childrens commissioner"
+    OR "childrenscomm"
+    OR "rachel de souza"
+    OR "rachel desouza"
+    OR "rachel_desouza"
     )
