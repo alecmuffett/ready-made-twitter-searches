@@ -5,6 +5,11 @@
 ## currently no quote-escapes nor sanity-checking, sorry
 ## eg: https://twitter.com/search?q=foo%20OR%20bar%20AND%20(baz%20OR%20wibble)&src=typed_query&f=live
 
+## note to self: trying to anchor searches to user mentions ("+@foo")
+## tends to yield poor results over/above free text search; possibly
+## this is a Twitter search backend restriction for CPU use, or a
+## safety measure?
+
 # end-to-end encrypted apps
 
 "+@briarapp" OR
@@ -242,10 +247,10 @@
 
 "since:2021-08-30" AND
 (
-    "+@childrenscomm" OR
-    "rachel_desouza" OR
-    "rachel desouza" OR
-    "rachel de souza" OR
     "children's commissioner" OR
-    "childrens commissioner"
+    "childrens commissioner" OR
+    "childrenscomm" OR
+    "rachel de souza" OR
+    "rachel desouza" OR
+    "rachel_desouza"
     )
