@@ -283,6 +283,8 @@ onlinePseudonymity OR
 * [Twitter Search LATEST: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20%22age-appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: regulation works fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20%22age-appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'regulation works fallacy'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27regulation%20works%20fallacy%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-works-fallacy) :heart:
+#### some interesting and relevant links
+* https://twitter.com/AlecMuffett/status/1431575809907638273
 #### query source
 ```
 "regulation works" AND

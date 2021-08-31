@@ -215,6 +215,8 @@
 
 # regulation works fallacy
 
+* https://twitter.com/AlecMuffett/status/1431575809907638273
+
 "regulation works" AND
 (
     "age appropriate" OR
