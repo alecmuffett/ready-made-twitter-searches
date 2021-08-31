@@ -261,5 +261,4 @@
 	"passport" OR
 	"passports"
 	)
-    ) OR
-"https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/"
+    )
