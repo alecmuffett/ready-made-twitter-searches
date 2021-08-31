@@ -84,6 +84,7 @@ foreach $key (@keys) {
     print "* [Twitter Search TOP: $key]($top) :point_left:\n";
 
     my $tweet_anchor = "$key";
+    $tweet_anchor =~ s/\W//go;
     $tweet_anchor =~ s/\s/-/go;
     my $tweet_text = "Check out the latest Twitter debate about '$key' with the #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
