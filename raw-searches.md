@@ -246,7 +246,6 @@
 	"+@rachel_desouza" OR
 	"children's commissioner" OR
 	"childrens commissioner" OR
-	"childrens' commissioner" OR
 	"de souza"
 	) AND
     (

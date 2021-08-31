@@ -304,8 +304,8 @@ onlinePseudonymity OR
 ```
 
 ### THE @CHILDRENSCOMM ON AGE VERIFICATION
-* [Twitter Search LATEST: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query&f=live) :point_left:
-* [Twitter Search TOP: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query) :point_left:
+* [Twitter Search LATEST: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%2B%40rachel_desouza%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20ageverification%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'the @childrenscomm on age verification'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27the%20%40childrenscomm%20on%20age%20verification%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-childrenscomm-on-age-verification) :heart:
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -321,7 +321,6 @@ onlinePseudonymity OR
 	+@rachel_desouza OR
 	"children's commissioner" OR
 	"childrens commissioner" OR
-	"childrens' commissioner" OR
 	"de souza"
 	) AND
     (
