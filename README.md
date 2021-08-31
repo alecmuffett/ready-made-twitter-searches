@@ -148,7 +148,7 @@ trackatroll
 * [Twitter Search LATEST: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: uk social media identity petitions](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20%2B%40katieprice%29%20AND%20petition%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'uk social media identity petitions'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27uk%20social%20media%20identity%20petitions%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-social-media-identity-petitions) :heart:
-#### some relevant links
+#### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
 * https://twitter.com/AlecMuffett/status/1414525963250110465
@@ -175,7 +175,7 @@ trackatroll
 * [Twitter Search LATEST: pegasus project](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: pegasus project](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'pegasus project'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27pegasus%20project%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23pegasus-project) :heart:
-#### some relevant links
+#### some interesting and relevant links
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
 * https://twitter.com/jsrailton/status/1416792857084583939
 * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
@@ -194,7 +194,7 @@ trackatroll
 * [Twitter Search LATEST: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: apple spyware](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'apple spyware'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20spyware%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-spyware) :heart:
-#### some relevant links
+#### some interesting and relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://stratechery.com/2021/apples-mistake/
@@ -236,7 +236,7 @@ neuralMatch OR
 * [Twitter Search LATEST: online anonymity](https://twitter.com/search?q=%22internet%20fuckwad%20theory%22%20OR%20onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: online anonymity](https://twitter.com/search?q=%22internet%20fuckwad%20theory%22%20OR%20onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'online anonymity'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27online%20anonymity%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-anonymity) :heart:
-#### some relevant links
+#### some interesting and relevant links
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
 #### query source
@@ -305,7 +305,7 @@ onlinePseudonymity OR
 * [Twitter Search LATEST: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20OR%20%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F08%2F30%2Fsocial-media-companies-told-introduce-tough-age-checks-using%2F%22%20&src=typed_query&f=live) :point_left:
 * [Twitter Search TOP: the @childrenscomm on age verification](https://twitter.com/search?q=%28%28%2B%40childrenscomm%20OR%20%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20%22childrens%27%20commissioner%22%20OR%20%22de%20souza%22%29%20AND%20%28%22age%20verification%22%20OR%20biometric%20OR%20biometrics%20OR%20fingerprint%20OR%20fingerprints%20OR%20%22harmful%20content%22%20OR%20online%20OR%20passport%20OR%20passports%29%29%20OR%20%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F08%2F30%2Fsocial-media-companies-told-introduce-tough-age-checks-using%2F%22%20&src=typed_query) :point_left:
 * [NEW: Tweet/Share this Search for 'the @childrenscomm on age verification'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27the%20%40childrenscomm%20on%20age%20verification%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-%40childrenscomm-on-age-verification) :heart:
-#### some relevant links
+#### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1401643033872023556
 * https://twitter.com/cyberleagle/status/1432243779998818305
 * https://twitter.com/neil_neilzone/status/1432243693008953346

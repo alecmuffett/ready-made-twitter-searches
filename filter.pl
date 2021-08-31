@@ -91,7 +91,7 @@ foreach $key (@keys) {
 
     @urls = @{$links{$key}};
     if (@urls) {
-	print "#### some relevant links\n";
+	print "#### some interesting and relevant links\n";
 	foreach $url (sort @urls) {
 	    print "* $url\n";
 	}
