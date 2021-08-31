@@ -307,6 +307,8 @@ onlinePseudonymity OR
 * [NEW: Tweet/Share this Search for 'the @childrenscomm on age verification'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27the%20%40childrenscomm%20on%20age%20verification%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-%40childrenscomm-on-age-verification) :heart:
 #### some relevant links
 * https://twitter.com/AlecMuffett/status/1401643033872023556
+* https://twitter.com/cyberleagle/status/1432243779998818305
+* https://twitter.com/neil_neilzone/status/1432243693008953346
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 #### query source
 ```

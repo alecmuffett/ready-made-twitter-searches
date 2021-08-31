@@ -234,6 +234,8 @@
 
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://twitter.com/AlecMuffett/status/1401643033872023556
+* https://twitter.com/neil_neilzone/status/1432243693008953346
+* https://twitter.com/cyberleagle/status/1432243779998818305
 
 (
     (
