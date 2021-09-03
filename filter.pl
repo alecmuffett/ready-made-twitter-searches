@@ -90,6 +90,7 @@ foreach $key (@keys) {
     my $tweet_text = "Check out the latest Twitter debate about '$key' with the #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
     print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url) :heart:\n";
+    print "* [Back to Search Index](#search-index)\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
