@@ -243,3 +243,34 @@ AND (
     OR "rachel desouza"
     OR "rachel_desouza"
     )
+
+# apple delays csam surveillance of iphones and macos
+
+* "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
+* "https://www.bbc.co.uk/news/technology-58433647"
+* "https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25"
+* "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
+* "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
+* "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
+
+"since:2021-09-01"
+AND (
+    (
+	"apple"
+	AND ( "child" OR "csam" )
+	AND (
+	    "delay"
+	    OR "delaying"
+	    OR "disappoint"
+	    OR "disappointed"
+	    OR "disappointing"
+	    OR "postpone"
+	    OR "postpones"
+	    OR "reconsider"
+	    OR "reconsidering"
+	    OR "scan"
+	    OR "scanning"
+	    OR "surveillance"
+	    )
+	)
+    )

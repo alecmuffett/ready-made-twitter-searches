@@ -10,6 +10,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [age verification basic](#age-verification-basic)
 * [age verification keywords](#age-verification-keywords)
 * [apple and tiananmen](#apple-and-tiananmen)
+* [apple delays csam surveillance of iphones and macos](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
@@ -324,6 +325,43 @@ AND (
     OR "rachel de souza"
     OR "rachel desouza"
     OR rachel_desouza
+    )
+```
+
+### APPLE DELAYS CSAM SURVEILLANCE OF IPHONES AND MACOS
+* [Twitter Search LATEST: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query&f=live) :point_left:
+* [Twitter Search TOP: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query) :point_left:
+* [NEW: Tweet/Share this Search for 'apple delays csam surveillance of iphones and macos'!](https://twitter.com/intent/tweet?text=Check%20out%20the%20latest%20Twitter%20debate%20about%20%27apple%20delays%20csam%20surveillance%20of%20iphones%20and%20macos%27%20with%20the%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delays-csam-surveillance-of-iphones-and-macos) :heart:
+* [Back to Search Index](#search-index)
+#### some interesting and relevant links
+* "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
+* "https://www.bbc.co.uk/news/technology-58433647"
+* "https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25"
+* "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
+* "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
+* "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
+#### query source
+```
+since:2021-09-01
+AND (
+    (
+	apple
+	AND ( child OR csam )
+	AND (
+	    delay
+	    OR delaying
+	    OR disappoint
+	    OR disappointed
+	    OR disappointing
+	    OR postpone
+	    OR postpones
+	    OR reconsider
+	    OR reconsidering
+	    OR scan
+	    OR scanning
+	    OR surveillance
+	    )
+	)
     )
 ```
 
