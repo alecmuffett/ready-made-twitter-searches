@@ -87,7 +87,8 @@ foreach $key (@keys) {
     print "* [Twitter Search TOP: $key]($top) :point_left:\n";
 
     my $tweet_anchor = $anchors{$key};
-    my $tweet_text = "Check out the latest Twitter debate about '$key' with the #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
+    my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
+    my $tweet_text = "Check out the latest Twitter debate surrounding:\n\n$tweet_key\n\n- with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
     print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url) :heart:\n";
     print "* [Back to Search Index](#search-index)\n";
