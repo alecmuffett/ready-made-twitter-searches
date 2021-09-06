@@ -264,6 +264,8 @@ AND (
 	    OR "disappoint"
 	    OR "disappointed"
 	    OR "disappointing"
+	    OR "pause"
+	    OR "pauses"
 	    OR "postpone"
 	    OR "postpones"
 	    OR "reconsider"

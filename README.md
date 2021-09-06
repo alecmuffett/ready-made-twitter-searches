@@ -329,8 +329,8 @@ AND (
 ```
 
 ### APPLE DELAYS CSAM SURVEILLANCE OF IPHONES AND MACOS
-* :point_right: [Twitter Search LATEST: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query)
+* :point_right: [Twitter Search LATEST: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: apple delays csam surveillance of iphones and macos](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query)
 * :heart: [NEW: Tweet/Share this Search for 'apple delays csam surveillance of iphones and macos'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AApple%20Delays%20Csam%20Surveillance%20Of%20Iphones%20And%20Macos%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delays-csam-surveillance-of-iphones-and-macos)
 * :arrow_up: [Back to Search Index](#search-index)
 #### some interesting and relevant links
@@ -353,6 +353,8 @@ AND (
 	    OR disappoint
 	    OR disappointed
 	    OR disappointing
+	    OR pause
+	    OR pauses
 	    OR postpone
 	    OR postpones
 	    OR reconsider
