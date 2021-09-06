@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 ## eg: https://twitter.com/search?q=foo%20OR%20bar%20AND%20(baz%20OR%20wibble)&src=typed_query&f=live
 
+use feature 'unicode_strings';
+use utf8;
 use URI::Escape;
 
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
@@ -88,7 +90,7 @@ foreach $key (@keys) {
 
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
-    my $tweet_text = "Check out the latest Twitter debate surrounding:\n\n$tweet_key\n\n- with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
+    my $tweet_text = "Check out the latest Twitter debatre for:\n\n$tweet_key\n\n- with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape($tweet_text));
     print "* [NEW: Tweet/Share this Search for '$key'!]($tweet_url) :heart:\n";
     print "* [Back to Search Index](#search-index)\n";
