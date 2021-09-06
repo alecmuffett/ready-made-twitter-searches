@@ -83,10 +83,10 @@ foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
-    print "* :point_left: [Twitter Search LATEST: $key]($latest)\n";
+    print "* :point_right: [Twitter Search LATEST: $key]($latest)\n";
 
     my $top = sprintf($search_top, &Escape($query{$key}));
-    print "* :point_left: [Twitter Search TOP: $key]($top)\n";
+    print "* :point_right: [Twitter Search TOP: $key]($top)\n";
 
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
