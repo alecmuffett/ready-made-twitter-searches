@@ -18,7 +18,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [online anonymity](#online-anonymity)
 * [pegasus project](#pegasus-project)
 * [propublica think that whatsapp abuse reports are a backdoor](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
-* [propublica think that whatsapp abuse reports are a backdoor, citations](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor,-citations)
+* [propublica think that whatsapp abuse reports are a backdoor, press coverage](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor,-press-coverage)
 * [regulation works fallacy](#regulation-works-fallacy)
 * [the @childrenscomm on age verification](#the-childrenscomm-on-age-verification)
 * [uk social media identity petitions](#uk-social-media-identity-petitions)
@@ -375,15 +375,15 @@ AND (
 * :heart: [NEW: Tweet/Share this Search for 'propublica think that whatsapp abuse reports are a backdoor'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0APropublica%20Think%20That%20Whatsapp%20Abuse%20Reports%20Are%20A%20Backdoor%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
 * :arrow_up: [Back to Search Index](#search-index)
 #### some interesting and relevant links
-* SEE ALSO: CITATIONS, BELOW
-* https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages
-* https://twitter.com/AlecMuffett/status/1435277027725152256
-* https://twitter.com/WABetaInfo/status/1435221936888483847
-* https://twitter.com/alexstamos/status/1435285445336715265
-* https://twitter.com/evacide/status/1435287241383841798
-* https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html
-* https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
-* https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/
+* "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
+* "https://twitter.com/AlecMuffett/status/1435277027725152256"
+* "https://twitter.com/WABetaInfo/status/1435221936888483847"
+* "https://twitter.com/alexstamos/status/1435285445336715265"
+* "https://twitter.com/evacide/status/1435287241383841798"
+* "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
+* "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
+* "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
+* SEE ALSO: *PRESS COVERAGE* BELOW
 #### query source
 ```
 since:2021-09-06
@@ -404,10 +404,10 @@ AND (
     )
 ```
 
-### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR, CITATIONS
-* :point_right: [Twitter Search LATEST: propublica think that whatsapp abuse reports are a backdoor, citations](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: propublica think that whatsapp abuse reports are a backdoor, citations](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query)
-* :heart: [NEW: Tweet/Share this Search for 'propublica think that whatsapp abuse reports are a backdoor, citations'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0APropublica%20Think%20That%20Whatsapp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Citations%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor%2C-citations)
+### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR, PRESS COVERAGE
+* :point_right: [Twitter Search LATEST: propublica think that whatsapp abuse reports are a backdoor, press coverage](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: propublica think that whatsapp abuse reports are a backdoor, press coverage](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'propublica think that whatsapp abuse reports are a backdoor, press coverage'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0APropublica%20Think%20That%20Whatsapp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Press%20Coverage%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor%2C-press-coverage)
 * :arrow_up: [Back to Search Index](#search-index)
 #### query source
 ```
