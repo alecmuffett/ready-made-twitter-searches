@@ -279,6 +279,7 @@ AND (
 
 # propublica think that whatsapp abuse reports are a backdoor
 
+* https://twitter.com/WABetaInfo/status/1435221936888483847
 * SEE ALSO: CITATIONS, BELOW
 
 "since:2021-09-06"
