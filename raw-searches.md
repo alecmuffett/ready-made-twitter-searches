@@ -280,6 +280,10 @@ AND (
 # propublica think that whatsapp abuse reports are a backdoor
 
 * https://twitter.com/WABetaInfo/status/1435221936888483847
+* https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages
+* https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
+* https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html
+* https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/
 * SEE ALSO: CITATIONS, BELOW
 
 "since:2021-09-06"
@@ -301,10 +305,6 @@ AND (
 
 # propublica think that whatsapp abuse reports are a backdoor, citations
 
-* https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages
-* https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
-* https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html
-* https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/
 
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
