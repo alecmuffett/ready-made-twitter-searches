@@ -4,8 +4,9 @@ all:
 open:
 	open https://github.com/alecmuffett/ready-made-twitter-searches
 
-push: all open
+push: all
 	git add . && git commit -m "make on `datestamp`" && git push
+	MAKE OPEN
 
 clean:
 	rm *~
