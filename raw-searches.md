@@ -279,6 +279,9 @@ AND (
 
 # propublica think that whatsapp abuse reports are a backdoor
 
+* https://twitter.com/AlecMuffett/status/1435277027725152256
+* https://twitter.com/alexstamos/status/1435285445336715265
+* https://twitter.com/evacide/status/1435287241383841798
 * https://twitter.com/WABetaInfo/status/1435221936888483847
 * https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages
 * https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
