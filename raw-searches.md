@@ -276,3 +276,12 @@ AND (
 	    )
 	)
     )
+
+# propublica think that whatsapp abuse reports are a backdoor
+
+"since:2021-09-06"
+AND (
+    ( "whatsapp" AND "undermines"  AND "privacy" )
+    OR "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
+    OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
+    )

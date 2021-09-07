@@ -17,6 +17,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 * [online anonymity](#online-anonymity)
 * [pegasus project](#pegasus-project)
+* [propublica think that whatsapp abuse reports are a backdoor](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
 * [regulation works fallacy](#regulation-works-fallacy)
 * [the @childrenscomm on age verification](#the-childrenscomm-on-age-verification)
 * [uk social media identity petitions](#uk-social-media-identity-petitions)
@@ -364,6 +365,21 @@ AND (
 	    OR surveillance
 	    )
 	)
+    )
+```
+
+### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR
+* :point_right: [Twitter Search LATEST: propublica think that whatsapp abuse reports are a backdoor](https://twitter.com/search?q=since%3A2021-09-06%20AND%20%28%28whatsapp%20AND%20undermines%20AND%20privacy%29%20OR%20%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: propublica think that whatsapp abuse reports are a backdoor](https://twitter.com/search?q=since%3A2021-09-06%20AND%20%28%28whatsapp%20AND%20undermines%20AND%20privacy%29%20OR%20%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%29%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'propublica think that whatsapp abuse reports are a backdoor'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0APropublica%20Think%20That%20Whatsapp%20Abuse%20Reports%20Are%20A%20Backdoor%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
+* :arrow_up: [Back to Search Index](#search-index)
+#### query source
+```
+since:2021-09-06
+AND (
+    ( whatsapp AND undermines  AND privacy )
+    OR "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
+    OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
     )
 ```
 
