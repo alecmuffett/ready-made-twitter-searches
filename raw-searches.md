@@ -294,8 +294,11 @@ AND (
 	OR "undermines"
 	OR "undermining"
 	)
-    OR "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
-    OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
-    OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
-    OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
     )
+
+# propublica think that whatsapp abuse reports are a backdoor, citations
+
+"https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
+OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
+OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
+OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
