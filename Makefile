@@ -6,7 +6,7 @@ open:
 
 push: all
 	git add . && git commit -m "make on `datestamp`" && git push
-	MAKE OPEN
+	make open
 
 clean:
 	rm *~
