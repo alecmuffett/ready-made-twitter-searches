@@ -291,25 +291,41 @@ AND (
 
 "since:2021-09-06"
 AND "whatsapp"
-AND (
-    (
-	"propublica"
-	OR "end to end"
-	OR "law enforcement"
-	OR "moderating"
-	OR "moderation"
-	OR "moderator"
-	OR "moderators"
-	OR "privacy"
-	OR "undermines"
-	OR "undermining"
-	)
+AND ( (
+	  "propublica"
+	  OR "end to end"
+	  OR "law enforcement"
+	  OR "moderating"
+	  OR "moderation"
+	  OR "moderator"
+	  OR "moderators"
+	  OR "privacy"
+	  OR "undermines"
+	  OR "undermining"
+	  )
     )
 
 # propublica think that whatsapp abuse reports are a backdoor, press coverage
-
 
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
+
+# cryptowars21 uk cressida dick
+
+* https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
+
+"since:2021-09-10"
+AND (
+    "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
+    OR (
+	  "cressida dick"
+	  AND (
+	      "encrypted"
+	      OR "encryption"
+	      OR "terrorism"
+	      OR "terrorist"
+	      )
+	)
+    )

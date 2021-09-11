@@ -13,6 +13,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [apple delays csam surveillance of iphones and macos](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
+* [cryptowars21 uk cressida dick](#cryptowars21-uk-cressida-dick)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
 * [end-to-end encryption keywords](#end-to-end-encryption-keywords)
 * [online anonymity](#online-anonymity)
@@ -388,19 +389,18 @@ AND (
 ```
 since:2021-09-06
 AND whatsapp
-AND (
-    (
-	propublica
-	OR "end to end"
-	OR "law enforcement"
-	OR moderating
-	OR moderation
-	OR moderator
-	OR moderators
-	OR privacy
-	OR undermines
-	OR undermining
-	)
+AND ( (
+	  propublica
+	  OR "end to end"
+	  OR "law enforcement"
+	  OR moderating
+	  OR moderation
+	  OR moderator
+	  OR moderators
+	  OR privacy
+	  OR undermines
+	  OR undermining
+	  )
     )
 ```
 
@@ -415,5 +415,29 @@ AND (
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
+```
+
+### CRYPTOWARS21 UK CRESSIDA DICK
+* :point_right: [Twitter Search LATEST: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%29%29%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%29%29%29%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'cryptowars21 uk cressida dick'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0ACryptowars21%20Uk%20Cressida%20Dick%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cryptowars21-uk-cressida-dick)
+* :arrow_up: [Back to Search Index](#search-index)
+#### some interesting and relevant links
+* https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
+#### query source
+```
+since:2021-09-10
+AND (
+    "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
+    OR (
+	  "cressida dick"
+	  AND (
+	      encrypted
+	      OR encryption
+	      OR terrorism
+	      OR terrorist
+	      )
+	)
+    )
 ```
 
