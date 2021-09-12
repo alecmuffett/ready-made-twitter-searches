@@ -418,17 +418,19 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 ```
 
 ### CRYPTOWARS21 UK CRESSIDA DICK
-* :point_right: [Twitter Search LATEST: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%29%29%29%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%29%29%29%20&src=typed_query)
+* :point_right: [Twitter Search LATEST: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%22https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-58537599%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%20OR%20%22tech%20giants%22%29%29%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: cryptowars21 uk cressida dick](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%22https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-58537599%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%20OR%20%22tech%20giants%22%29%29%29%20&src=typed_query)
 * :heart: [NEW: Tweet/Share this Search for 'cryptowars21 uk cressida dick'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0ACryptowars21%20Uk%20Cressida%20Dick%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cryptowars21-uk-cressida-dick)
 * :arrow_up: [Back to Search Index](#search-index)
 #### some interesting and relevant links
+* https://www.bbc.co.uk/news/business-58537599
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
 #### query source
 ```
 since:2021-09-10
 AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
+    OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
 	  "cressida dick"
 	  AND (
@@ -437,6 +439,7 @@ AND (
 	      OR terrorism
 	      OR terrorist
 	      OR terrorists
+	      OR "tech giants"
 	      )
 	)
     )

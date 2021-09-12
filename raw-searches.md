@@ -315,10 +315,12 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 # cryptowars21 uk cressida dick
 
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
+* https://www.bbc.co.uk/news/business-58537599
 
 "since:2021-09-10"
 AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
+    OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
 	  "cressida dick"
 	  AND (
@@ -327,6 +329,7 @@ AND (
 	      OR "terrorism"
 	      OR "terrorist"
 	      OR "terrorists"
+	      OR "tech giants"
 	      )
 	)
     )
