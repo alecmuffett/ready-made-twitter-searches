@@ -326,6 +326,7 @@ AND (
 	      OR "encryption"
 	      OR "terrorism"
 	      OR "terrorist"
+	      OR "terrorists"
 	      )
 	)
     )
