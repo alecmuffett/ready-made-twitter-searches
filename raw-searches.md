@@ -56,9 +56,12 @@ OR (
 	)
     )
 
-# end-to-end encryption keywords
+# end-to-end encryption discussion
 
-"e2ee"
+"chat control"
+OR "chatcontrol"
+OR "chatkontrolle"
+OR "e2ee"
 OR "endToEndEncryption"
 OR "lawless spaces"
 OR "lawlesspaces"
@@ -87,7 +90,7 @@ OR (
 	)
     )
 
-# age verification keywords
+# age verification discussion
 
 "#voco"
 OR "age assurance"

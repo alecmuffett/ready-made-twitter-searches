@@ -8,14 +8,14 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 
 ## search index
 * [age verification basic](#age-verification-basic)
-* [age verification keywords](#age-verification-keywords)
+* [age verification discussion](#age-verification-discussion)
 * [apple and tiananmen](#apple-and-tiananmen)
 * [apple delays csam surveillance of iphones and macos](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
 * [cryptowars21 uk cressida dick](#cryptowars21-uk-cressida-dick)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
-* [end-to-end encryption keywords](#end-to-end-encryption-keywords)
+* [end-to-end encryption discussion](#end-to-end-encryption-discussion)
 * [online anonymity](#online-anonymity)
 * [pegasus project](#pegasus-project)
 * [propublica think that whatsapp abuse reports are a backdoor](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
@@ -84,14 +84,17 @@ OR (
     )
 ```
 
-### END-TO-END ENCRYPTION KEYWORDS
-* :point_right: [Twitter Search LATEST: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: end-to-end encryption keywords](https://twitter.com/search?q=e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
-* :heart: [NEW: Tweet/Share this Search for 'end-to-end encryption keywords'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AEnd-to-end%20Encryption%20Keywords%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-keywords)
+### END-TO-END ENCRYPTION DISCUSSION
+* :point_right: [Twitter Search LATEST: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'end-to-end encryption discussion'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AEnd-to-end%20Encryption%20Discussion%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-discussion)
 * :arrow_up: [Back to Search Index](#search-index)
 #### query source
 ```
-e2ee
+"chat control"
+OR chatcontrol
+OR chatkontrolle
+OR e2ee
 OR endToEndEncryption
 OR "lawless spaces"
 OR lawlesspaces
@@ -121,10 +124,10 @@ OR (
     )
 ```
 
-### AGE VERIFICATION KEYWORDS
-* :point_right: [Twitter Search LATEST: age verification keywords](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: age verification keywords](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query)
-* :heart: [NEW: Tweet/Share this Search for 'age verification keywords'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AAge%20Verification%20Keywords%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-keywords)
+### AGE VERIFICATION DISCUSSION
+* :point_right: [Twitter Search LATEST: age verification discussion](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: age verification discussion](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'age verification discussion'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AAge%20Verification%20Discussion%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-discussion)
 * :arrow_up: [Back to Search Index](#search-index)
 #### query source
 ```
