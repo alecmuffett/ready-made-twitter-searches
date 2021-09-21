@@ -77,17 +77,17 @@ OR "undermine endToEndEncryption"
 OR (
     backdoor
     AND (
-	e2e
-	OR e2ee
-	OR "end to end"
-	OR endToEnd
-	)
+        e2e
+        OR e2ee
+        OR "end to end"
+        OR endToEnd
+        )
     )
 ```
 
 ### END-TO-END ENCRYPTION DISCUSSION
-* :point_right: [Twitter Search LATEST: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%20AND%20%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
+* :point_right: [Twitter Search LATEST: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%20OR%20%22bout%20en%20bout%22%29%20AND%20%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: end-to-end encryption discussion](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%20OR%20%22bout%20en%20bout%22%29%20AND%20%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
 * :heart: [NEW: Tweet/Share this Search for 'end-to-end encryption discussion'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AEnd-to-end%20Encryption%20Discussion%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-discussion)
 * :arrow_up: [Back to Search Index](#search-index)
 #### query source
@@ -104,24 +104,28 @@ OR "warrant proof"
 OR warrantproof
 OR (
     (
-	algorithm
-	OR algorithms
-	OR e2e
-	OR "end to end"
-	OR facebook
-	OR instagram
-	OR "law enforcement"
-	OR messenger
-	OR nspcc
-	OR unregulated
-	OR whatsapp
-	)
+        algorithm
+        OR algorithms
+        OR e2e
+        OR "end to end"
+        OR facebook
+        OR instagram
+        OR "law enforcement"
+        OR messenger
+        OR nspcc
+        OR unregulated
+        OR whatsapp
+        OR "bout en bout"
+        )
     AND (
-	encrypt
-	OR encrypted
-	OR encryption
-	OR encryptions
-	)
+        chiffre
+        OR chiffrement
+        OR cryptage
+        OR encrypt
+        OR encrypted
+        OR encryption
+        OR encryptions
+        )
     )
 ```
 
@@ -227,15 +231,15 @@ OR neuralMatch
 OR (
     ( apple OR iCloud OR iPhone )
     AND (
-	csam
-	OR cse
-	OR ncmec
-	OR psi
-	OR "child abuse"
-	OR "illegal imagery"
-	OR "law enforcement"
-	OR "private set intersection"
-	)
+        csam
+        OR cse
+        OR ncmec
+        OR psi
+        OR "child abuse"
+        OR "illegal imagery"
+        OR "law enforcement"
+        OR "private set intersection"
+        )
     )
 OR "https://www.apple.com/child-safety/"
 ```
@@ -255,18 +259,18 @@ onlinePseudonymity OR
 "internet fuckwad theory" OR
 (
     (
-	abuse OR
-	harm OR
-	harms OR
-	online OR
-	onlineHarms
-	)
+        abuse OR
+        harm OR
+        harms OR
+        online OR
+        onlineHarms
+        )
     AND (
-	anonymity OR
-	anonymous OR
-	pseudonymity OR
-	pseudonymous
-	)
+        anonymity OR
+        anonymous OR
+        pseudonymity OR
+        pseudonymous
+        )
     )
 ```
 
@@ -352,25 +356,25 @@ AND (
 since:2021-09-01
 AND (
     (
-	apple
-	AND ( child OR csam )
-	AND (
-	    delay
-	    OR delaying
-	    OR disappoint
-	    OR disappointed
-	    OR disappointing
-	    OR pause
-	    OR pauses
-	    OR postpone
-	    OR postpones
-	    OR reconsider
-	    OR reconsidering
-	    OR scan
-	    OR scanning
-	    OR surveillance
-	    )
-	)
+        apple
+        AND ( child OR csam )
+        AND (
+            delay
+            OR delaying
+            OR disappoint
+            OR disappointed
+            OR disappointing
+            OR pause
+            OR pauses
+            OR postpone
+            OR postpones
+            OR reconsider
+            OR reconsidering
+            OR scan
+            OR scanning
+            OR surveillance
+            )
+        )
     )
 ```
 
@@ -394,17 +398,17 @@ AND (
 since:2021-09-06
 AND whatsapp
 AND ( (
-	  propublica
-	  OR "end to end"
-	  OR "law enforcement"
-	  OR moderating
-	  OR moderation
-	  OR moderator
-	  OR moderators
-	  OR privacy
-	  OR undermines
-	  OR undermining
-	  )
+          propublica
+          OR "end to end"
+          OR "law enforcement"
+          OR moderating
+          OR moderation
+          OR moderator
+          OR moderators
+          OR privacy
+          OR undermines
+          OR undermining
+          )
     )
 ```
 
@@ -436,16 +440,16 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-	  "cressida dick"
-	  AND (
-	      encrypted
-	      OR encryption
-	      OR terrorism
-	      OR terrorist
-	      OR terrorists
-	      OR "tech giants"
-	      )
-	)
+          "cressida dick"
+          AND (
+              encrypted
+              OR encryption
+              OR terrorism
+              OR terrorist
+              OR terrorists
+              OR "tech giants"
+              )
+        )
     )
 ```
 

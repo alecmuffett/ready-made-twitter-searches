@@ -50,11 +50,11 @@ OR "undermine endToEndEncryption"
 OR (
     "backdoor"
     AND (
-	"e2e"
-	OR "e2ee"
-	OR "end to end"
-	OR "endToEnd"
-	)
+        "e2e"
+        OR "e2ee"
+        OR "end to end"
+        OR "endToEnd"
+        )
     )
 
 # end-to-end encryption discussion
@@ -71,24 +71,28 @@ OR "warrant proof"
 OR "warrantproof"
 OR (
     (
-	"algorithm"
-	OR "algorithms"
-	OR "e2e"
-	OR "end to end"
-	OR "facebook"
-	OR "instagram"
-	OR "law enforcement"
-	OR "messenger"
-	OR "nspcc"
-	OR "unregulated"
-	OR "whatsapp"
-	)
+        "algorithm"
+        OR "algorithms"
+        OR "e2e"
+        OR "end to end"
+        OR "facebook"
+        OR "instagram"
+        OR "law enforcement"
+        OR "messenger"
+        OR "nspcc"
+        OR "unregulated"
+        OR "whatsapp"
+        OR "bout en bout"
+        )
     AND (
-	"encrypt"
-	OR "encrypted"
-	OR "encryption"
-	OR "encryptions"
-	)
+        "chiffre"
+        OR "chiffrement"
+        OR "cryptage"
+        OR "encrypt"
+        OR "encrypted"
+        OR "encryption"
+        OR "encryptions"
+        )
     )
 
 # age verification discussion
@@ -164,15 +168,15 @@ OR "neuralMatch"
 OR (
     ( "apple" OR "iCloud" OR "iPhone" )
     AND (
-	"csam"
-	OR "cse"
-	OR "ncmec"
-	OR "psi"
-	OR "child abuse"
-	OR "illegal imagery"
-	OR "law enforcement"
-	OR "private set intersection"
-	)
+        "csam"
+        OR "cse"
+        OR "ncmec"
+        OR "psi"
+        OR "child abuse"
+        OR "illegal imagery"
+        OR "law enforcement"
+        OR "private set intersection"
+        )
     )
 OR "https://www.apple.com/child-safety/"
 
@@ -186,18 +190,18 @@ OR "https://www.apple.com/child-safety/"
 "internet fuckwad theory" OR
 (
     (
-	"abuse" OR
-	"harm" OR
-	"harms" OR
-	"online" OR
-	"onlineHarms"
-	)
+        "abuse" OR
+        "harm" OR
+        "harms" OR
+        "online" OR
+        "onlineHarms"
+        )
     AND (
-	"anonymity" OR
-	"anonymous" OR
-	"pseudonymity" OR
-	"pseudonymous"
-	)
+        "anonymity" OR
+        "anonymous" OR
+        "pseudonymity" OR
+        "pseudonymous"
+        )
     )
 
 
@@ -260,25 +264,25 @@ AND (
 "since:2021-09-01"
 AND (
     (
-	"apple"
-	AND ( "child" OR "csam" )
-	AND (
-	    "delay"
-	    OR "delaying"
-	    OR "disappoint"
-	    OR "disappointed"
-	    OR "disappointing"
-	    OR "pause"
-	    OR "pauses"
-	    OR "postpone"
-	    OR "postpones"
-	    OR "reconsider"
-	    OR "reconsidering"
-	    OR "scan"
-	    OR "scanning"
-	    OR "surveillance"
-	    )
-	)
+        "apple"
+        AND ( "child" OR "csam" )
+        AND (
+            "delay"
+            OR "delaying"
+            OR "disappoint"
+            OR "disappointed"
+            OR "disappointing"
+            OR "pause"
+            OR "pauses"
+            OR "postpone"
+            OR "postpones"
+            OR "reconsider"
+            OR "reconsidering"
+            OR "scan"
+            OR "scanning"
+            OR "surveillance"
+            )
+        )
     )
 
 # propublica think that whatsapp abuse reports are a backdoor
@@ -296,17 +300,17 @@ AND (
 "since:2021-09-06"
 AND "whatsapp"
 AND ( (
-	  "propublica"
-	  OR "end to end"
-	  OR "law enforcement"
-	  OR "moderating"
-	  OR "moderation"
-	  OR "moderator"
-	  OR "moderators"
-	  OR "privacy"
-	  OR "undermines"
-	  OR "undermining"
-	  )
+          "propublica"
+          OR "end to end"
+          OR "law enforcement"
+          OR "moderating"
+          OR "moderation"
+          OR "moderator"
+          OR "moderators"
+          OR "privacy"
+          OR "undermines"
+          OR "undermining"
+          )
     )
 
 # propublica think that whatsapp abuse reports are a backdoor, press coverage
@@ -326,14 +330,14 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-	  "cressida dick"
-	  AND (
-	      "encrypted"
-	      OR "encryption"
-	      OR "terrorism"
-	      OR "terrorist"
-	      OR "terrorists"
-	      OR "tech giants"
-	      )
-	)
+          "cressida dick"
+          AND (
+              "encrypted"
+              OR "encryption"
+              OR "terrorism"
+              OR "terrorist"
+              OR "terrorists"
+              OR "tech giants"
+              )
+        )
     )
