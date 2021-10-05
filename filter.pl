@@ -71,8 +71,12 @@ foreach $key (sort @keys) {
     $anchor = $key;
     $anchor =~ s/\@//go; # this needs work re: what can/cannot go into an anchor [1/2]
     $anchor =~ s/\s/-/g;
+    $anchor =~ tr/A-Z/a-z/;
     $anchors{$key} = $anchor;
-    print "* [$key](#$anchor)\n";
+}
+
+foreach $key (sort { $anchors{$a} cmp $anchors{$b} } @keys) {
+    print "* [$key](#$anchors{$key})\n";
 }
 print "\n";
 

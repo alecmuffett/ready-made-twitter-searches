@@ -7,13 +7,13 @@ of tweets that are returned by these searches.
 for additions, please submit pull requests against `raw-searches.md`, **only**.
 
 ## search index
-* [ChatControl](#ChatControl)
 * [age verification basic](#age-verification-basic)
 * [age verification discussion](#age-verification-discussion)
 * [apple and tiananmen](#apple-and-tiananmen)
 * [apple delays csam surveillance of iphones and macos](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [apple spyware](#apple-spyware)
 * [breaking end-to-end encryption](#breaking-end-to-end-encryption)
+* [ChatControl](#chatcontrol)
 * [cryptowars21 uk cressida dick](#cryptowars21-uk-cressida-dick)
 * [end-to-end encrypted apps](#end-to-end-encrypted-apps)
 * [end-to-end encryption discussion](#end-to-end-encryption-discussion)
@@ -457,7 +457,7 @@ AND (
 ### CHATCONTROL
 * :point_right: [Twitter Search LATEST: ChatControl](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20&src=typed_query&f=live)
 * :point_right: [Twitter Search TOP: ChatControl](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20&src=typed_query)
-* :heart: [NEW: Tweet/Share this Search for 'ChatControl'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AChatControl%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23ChatControl)
+* :heart: [NEW: Tweet/Share this Search for 'ChatControl'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AChatControl%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23chatcontrol)
 * :arrow_up: [Back to Search Index](#search-index)
 #### some interesting and relevant links
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
