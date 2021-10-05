@@ -341,3 +341,13 @@ AND (
               )
         )
     )
+
+
+
+# ChatControl
+
+* https://european-pirateparty.eu/parliament-approves-chatcontrol/
+
+"chat control"
+OR "chatcontrol"
+OR "chatkontrolle"
