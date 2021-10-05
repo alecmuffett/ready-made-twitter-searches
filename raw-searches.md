@@ -10,7 +10,7 @@
 ## this is a Twitter search backend restriction for CPU use, or a
 ## safety measure?
 
-# end-to-end encrypted apps
+# End-To-End Encrypted Apps
 
 "+@briarapp"
 OR "+@element_hq"
@@ -27,7 +27,7 @@ OR "+@wa_status"
 OR "+@whatsapp"
 OR "+@wire"
 
-# breaking end-to-end encryption
+# Breaking End-To-End Encryption
 
 "break e2e"
 OR "break e2ee"
@@ -57,7 +57,7 @@ OR (
         )
     )
 
-# end-to-end encryption discussion
+# End-To-End Encryption Discussion
 
 "chat control"
 OR "chatcontrol"
@@ -95,7 +95,7 @@ OR (
         )
     )
 
-# age verification discussion
+# Age Verification Discussion
 
 "#voco"
 OR "age assurance"
@@ -111,11 +111,11 @@ OR "pas1296"
 OR "trackatroll"
 OR "verification of children online"
 
-# age verification basic
+# Age Verification Basic
 
 "age verification"
 
-# uk social media identity petitions
+# UK Social Media Identity Petitions
 
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
@@ -134,7 +134,7 @@ OR (
     AND "petition"
     )
 
-# pegasus project
+# Pegasus Project
 
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
 * https://twitter.com/jsrailton/status/1416792857084583939
@@ -148,7 +148,7 @@ OR (
 "pegasus project" OR
 ( "nso" AND "spyware")
 
-# apple spyware
+# Apple Spyware
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -180,7 +180,7 @@ OR (
     )
 OR "https://www.apple.com/child-safety/"
 
-# online anonymity
+# Online Anonymity
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
@@ -205,7 +205,7 @@ OR "https://www.apple.com/child-safety/"
     )
 
 
-# apple and tiananmen
+# Apple and Tiananmen
 
 ( "apple" OR "csam" )
 AND (
@@ -215,7 +215,7 @@ AND (
     OR "tank guy"
     )
 
-# regulation works fallacy
+# 'Regulation Works' Fallacy
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
@@ -234,7 +234,7 @@ AND (
     OR "platforms"
     )
 
-# the @childrenscomm on age verification
+# The @ChildrensComm on Age Verification
 
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -252,7 +252,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# apple delays csam surveillance of iphones and macos
+# Apple Delays CSAM Surveillance of iPhones and MacOS
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -285,7 +285,7 @@ AND (
         )
     )
 
-# propublica think that whatsapp abuse reports are a backdoor
+# ProPublica think that WhatsApp abuse reports are a backdoor
 
 * "https://twitter.com/AlecMuffett/status/1435277027725152256"
 * "https://twitter.com/alexstamos/status/1435285445336715265"
@@ -313,14 +313,14 @@ AND ( (
           )
     )
 
-# propublica think that whatsapp abuse reports are a backdoor, press coverage
+# ProPublica think that WhatsApp abuse reports are a backdoor, press coverage
 
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 
-# cryptowars21 uk cressida dick
+# CryptoWars21 UK Cressida Dick
 
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
 * https://www.bbc.co.uk/news/business-58537599
@@ -341,8 +341,6 @@ AND (
               )
         )
     )
-
-
 
 # ChatControl
 
