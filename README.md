@@ -23,6 +23,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage)
 * ["Regulation Works" Fallacy](#regulation-works-fallacy)
 * [The @ChildrensComm on Age Verification](#the-childrenscomm-on-age-verification)
+* [UK Online Safety Regulation](#uk-online-safety-regulation)
 * [UK Social Media Identity Petitions](#uk-social-media-identity-petitions)
 
 ## searches
@@ -466,5 +467,17 @@ AND (
 "chat control"
 OR chatcontrol
 OR chatkontrolle
+```
+
+### UK ONLINE SAFETY REGULATION
+* :point_right: [Twitter Search LATEST: UK Online Safety Regulation](https://twitter.com/search?q=OnlineSafetyCom%20OR%20OnlineSafetyBill%20OR%20LordsCommsCom%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: UK Online Safety Regulation](https://twitter.com/search?q=OnlineSafetyCom%20OR%20OnlineSafetyBill%20OR%20LordsCommsCom%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for 'UK Online Safety Regulation'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AUK%20Online%20Safety%20Regulation%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-online-safety-regulation)
+* :arrow_up: [Back to Search Index](#search-index)
+#### query source
+```
+OnlineSafetyCom
+OR OnlineSafetyBill
+OR LordsCommsCom
 ```
 

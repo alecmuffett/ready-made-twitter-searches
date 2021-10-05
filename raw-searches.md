@@ -349,3 +349,9 @@ AND (
 "chat control"
 OR "chatcontrol"
 OR "chatkontrolle"
+
+# UK Online Safety Regulation
+
+"OnlineSafetyCom" ## username
+OR "OnlineSafetyBill"
+OR "LordsCommsCom"
