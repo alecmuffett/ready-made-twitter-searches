@@ -20,7 +20,8 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [Online Anonymity](#online-anonymity)
 * [Pegasus Project](#pegasus-project)
 * [ProPublica think that WhatsApp abuse reports are a backdoor](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
-* [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor,-press-coverage)
+* [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage)
+* ["Regulation Works" Fallacy](#regulation-works-fallacy)
 * [The @ChildrensComm on Age Verification](#the-childrenscomm-on-age-verification)
 * [UK Social Media Identity Petitions](#uk-social-media-identity-petitions)
 
@@ -275,12 +276,10 @@ onlinePseudonymity OR
 ```
 
 ### APPLE AND TIANANMEN
-* :point_right: [Twitter Search LATEST: Apple and Tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20%23%20%27Regulation%20Works%27%20Fallacy%20%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live)
-* :point_right: [Twitter Search TOP: Apple and Tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20%23%20%27Regulation%20Works%27%20Fallacy%20%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query)
+* :point_right: [Twitter Search LATEST: Apple and Tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: Apple and Tiananmen](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20&src=typed_query)
 * :heart: [NEW: Tweet/Share this Search for 'Apple and Tiananmen'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AApple%20And%20Tiananmen%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-and-tiananmen)
 * :arrow_up: [Back to Search Index](#search-index)
-#### some interesting and relevant links
-* https://twitter.com/AlecMuffett/status/1431575809907638273
 #### query source
 ```
 ( apple OR csam )
@@ -290,7 +289,17 @@ AND (
     OR "tank man"
     OR "tank guy"
     )
-# 'Regulation Works' Fallacy
+```
+
+### "REGULATION WORKS" FALLACY
+* :point_right: [Twitter Search LATEST: "Regulation Works" Fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live)
+* :point_right: [Twitter Search TOP: "Regulation Works" Fallacy](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query)
+* :heart: [NEW: Tweet/Share this Search for '"Regulation Works" Fallacy'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0A%22Regulation%20Works%22%20Fallacy%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-works-fallacy)
+* :arrow_up: [Back to Search Index](#search-index)
+#### some interesting and relevant links
+* https://twitter.com/AlecMuffett/status/1431575809907638273
+#### query source
+```
 "regulation works"
 AND (
     "age appropriate"
@@ -407,7 +416,7 @@ AND ( (
 ### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR, PRESS COVERAGE
 * :point_right: [Twitter Search LATEST: ProPublica think that WhatsApp abuse reports are a backdoor, press coverage](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query&f=live)
 * :point_right: [Twitter Search TOP: ProPublica think that WhatsApp abuse reports are a backdoor, press coverage](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query)
-* :heart: [NEW: Tweet/Share this Search for 'ProPublica think that WhatsApp abuse reports are a backdoor, press coverage'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AProPublica%20Think%20That%20WhatsApp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Press%20Coverage%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor%2C-press-coverage)
+* :heart: [NEW: Tweet/Share this Search for 'ProPublica think that WhatsApp abuse reports are a backdoor, press coverage'!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20on%3A%0A%0AProPublica%20Think%20That%20WhatsApp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Press%20Coverage%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage)
 * :arrow_up: [Back to Search Index](#search-index)
 #### query source
 ```

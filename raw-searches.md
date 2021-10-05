@@ -215,7 +215,7 @@ AND (
     OR "tank guy"
     )
 
-# 'Regulation Works' Fallacy
+# "Regulation Works" Fallacy
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 

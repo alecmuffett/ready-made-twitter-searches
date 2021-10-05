@@ -21,9 +21,9 @@ while (<>) {
     next if /^##/;
     next if /^\s*$/;
 
-    s!\s##.*!!; # remove inline comments
+    s!\s+##.*!!; # remove inline comments
 
-    if (/^#\s(\w.*)/) {
+    if (/^#\s([\w"'].*)/) {
 	$key = $1;
 	$key =~ s!\s+! !;
 	$key =~ s!\s$!!;
@@ -72,6 +72,7 @@ foreach $key (sort @keys) {
     $anchor =~ s/\@//go; # this needs work re: what can/cannot go into an anchor [1/2]
     $anchor =~ s/\s/-/g;
     $anchor =~ tr/A-Z/a-z/;
+    $anchor =~ tr/-0-9a-z//cd;
     $anchors{$key} = $anchor;
 }
 
