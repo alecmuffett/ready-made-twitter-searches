@@ -88,16 +88,16 @@ foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
-    print "* :point_right: [Twitter Search LATEST: $key]($latest)\n";
+    print "* :point_right: [$key - LATEST Tweets]($latest)\n";
 
     my $top = sprintf($search_top, &Escape($query{$key}));
-    print "* :point_right: [Twitter Search TOP: $key]($top)\n";
+    print "* :point_right: [$key - TOP Tweets]($top)\n";
 
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
     my $tweet_text = "Debate continues! Check out the latest Twitter discussion regarding:\n\n$tweet_key\n\n\N{EM DASH} with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
-    print "* :heart: [NEW: Tweet/Share this Search for '$key'!]($tweet_url)\n";
+    print "* :heart: [Share this Search for '$key' in a Tweet!]($tweet_url)\n";
     print "* :arrow_up: [Back to Search Index](#search-index)\n";
 
     @urls = @{$links{$key}};
