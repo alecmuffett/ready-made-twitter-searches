@@ -487,6 +487,13 @@ OR LordsCommsCom
 * :point_right: [Bugs In Our Pockets - TOP Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%29%20&src=typed_query)
 * :heart: [Share this Search for 'Bugs In Our Pockets' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ABugs%20In%20Our%20Pockets%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23bugs-in-our-pockets)
 * :arrow_up: [Back to Search Index](#search-index)
+#### some interesting and relevant links
+* https://arxiv.org/abs/2110.07450
+* https://arxiv.org/pdf/2110.07450.pdf [PDF]
+* https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
+* https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
+* https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy
+* https://www.theregister.com/2021/10/15/clientside_side_scanning/
 #### query source
 ```
 since:2021-10-14

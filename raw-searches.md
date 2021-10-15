@@ -358,6 +358,13 @@ OR "LordsCommsCom"
 
 # Bugs In Our Pockets
 
+* https://arxiv.org/pdf/2110.07450.pdf [PDF]
+* https://arxiv.org/abs/2110.07450
+* https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
+* https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
+* https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy
+* https://www.theregister.com/2021/10/15/clientside_side_scanning/
+
 "since:2021-10-14"
 AND (
     "bugs in our pockets"
