@@ -368,6 +368,7 @@ OR "LordsCommsCom"
 * https://www.ft.com/content/64a74bde-4d64-4940-8c03-e01eeecc6e54
 * https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale/
 * https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/
+* https://www.forbes.com/sites/emmawoollacott/2021/10/15/experts-slam-apples-child-protection-phone-scanning-technology/
 
 "since:2021-10-14"
 AND (
