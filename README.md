@@ -510,6 +510,7 @@ OR LordsCommsCom
 * https://arxiv.org/abs/2110.07450
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://elpais.com/tecnologia/2021-10-15/en-tu-movil-no-debe-entrar-nadie-un-grupo-global-de-expertos-pide-proteger-la-ultima-frontera-de-la-privacidad.html
+* https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale/
 * https://www.ft.com/content/64a74bde-4d64-4940-8c03-e01eeecc6e54
 * https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
 * https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
