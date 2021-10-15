@@ -490,6 +490,7 @@ OR LordsCommsCom
 #### some interesting and relevant links
 * https://arxiv.org/abs/2110.07450
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
+* https://elpais.com/tecnologia/2021-10-15/en-tu-movil-no-debe-entrar-nadie-un-grupo-global-de-expertos-pide-proteger-la-ultima-frontera-de-la-privacidad.html
 * https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
 * https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
 * https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy

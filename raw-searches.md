@@ -364,6 +364,7 @@ OR "LordsCommsCom"
 * https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
 * https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy
 * https://www.theregister.com/2021/10/15/clientside_side_scanning/
+* https://elpais.com/tecnologia/2021-10-15/en-tu-movil-no-debe-entrar-nadie-un-grupo-global-de-expertos-pide-proteger-la-ultima-frontera-de-la-privacidad.html
 
 "since:2021-10-14"
 AND (
