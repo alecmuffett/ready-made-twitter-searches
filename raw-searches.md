@@ -372,4 +372,5 @@ AND (
     OR "BugsInOurPockets"
     OR "client side scanning"
     OR "ClientSideScanning"
+    OR "tears at heart of privacy"
     )
