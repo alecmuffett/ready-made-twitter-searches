@@ -34,6 +34,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * :point_right: [End-To-End Encrypted Apps - TOP Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire%20&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encrypted Apps' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encrypted%20Apps%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encrypted-apps)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 +@briarapp
@@ -57,6 +58,7 @@ OR +@wire
 * :point_right: [Breaking End-To-End Encryption - TOP Tweets](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%28backdoor%20AND%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'Breaking End-To-End Encryption' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ABreaking%20End-To-End%20Encryption%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23breaking-end-to-end-encryption)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 "break e2e"
@@ -93,6 +95,7 @@ OR (
 * :point_right: [End-To-End Encryption Discussion - TOP Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20lawlesspaces%20OR%20lawlessspaces%20OR%20%22warrant%20proof%22%20OR%20warrantproof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%20OR%20%22bout%20en%20bout%22%29%20AND%20%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption Discussion' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%20Discussion%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-discussion)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 "chat control"
@@ -137,6 +140,7 @@ OR (
 * :point_right: [Age Verification Discussion - TOP Tweets](https://twitter.com/search?q=%23voco%20OR%20%22age%20assurance%22%20OR%20ageappropriatedesigncode%20OR%20ageassurance%20OR%20ageverification%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20&src=typed_query)
 * :heart: [Share this Search for 'Age Verification Discussion' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAge%20Verification%20Discussion%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-discussion)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 #voco
@@ -159,6 +163,7 @@ OR "verification of children online"
 * :point_right: [Age Verification Basic - TOP Tweets](https://twitter.com/search?q=%22age%20verification%22%20&src=typed_query)
 * :heart: [Share this Search for 'Age Verification Basic' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAge%20Verification%20Basic%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-basic)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 "age verification"
@@ -169,6 +174,7 @@ OR "verification of children online"
 * :point_right: [UK Social Media Identity Petitions - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query)
 * :heart: [Share this Search for 'UK Social Media Identity Petitions' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AUK%20Social%20Media%20Identity%20Petitions%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-social-media-identity-petitions)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
@@ -194,6 +200,7 @@ OR (
 * :point_right: [Pegasus Project - TOP Tweets](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query)
 * :heart: [Share this Search for 'Pegasus Project' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0APegasus%20Project%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23pegasus-project)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
 * https://twitter.com/jsrailton/status/1416792857084583939
@@ -214,6 +221,7 @@ OR (
 * :point_right: [Apple Spyware - TOP Tweets](https://twitter.com/search?q=neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%20&src=typed_query)
 * :heart: [Share this Search for 'Apple Spyware' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AApple%20Spyware%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-spyware)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
@@ -252,6 +260,7 @@ OR "https://www.apple.com/child-safety/"
 * :point_right: [Online Anonymity - TOP Tweets](https://twitter.com/search?q=onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%22internet%20fuckwad%20theory%22%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'Online Anonymity' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AOnline%20Anonymity%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-anonymity)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
@@ -282,6 +291,7 @@ onlinePseudonymity OR
 * :point_right: [Apple and Tiananmen - TOP Tweets](https://twitter.com/search?q=%28apple%20OR%20csam%29%20AND%20%28tiananmen%20OR%20tienanmen%20OR%20%22tank%20man%22%20OR%20%22tank%20guy%22%29%20&src=typed_query)
 * :heart: [Share this Search for 'Apple and Tiananmen' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AApple%20And%20Tiananmen%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-and-tiananmen)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 ( apple OR csam )
@@ -298,6 +308,7 @@ AND (
 * :point_right: ["Regulation Works" Fallacy - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query)
 * :heart: [Share this Search for '"Regulation Works" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0A%22Regulation%20Works%22%20Fallacy%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-works-fallacy)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 #### query source
@@ -323,6 +334,7 @@ AND (
 * :point_right: [The @ChildrensComm on Age Verification - TOP Tweets](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29%20&src=typed_query)
 * :heart: [Share this Search for 'The @ChildrensComm on Age Verification' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AThe%20%40ChildrensComm%20On%20Age%20Verification%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-childrenscomm-on-age-verification)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1401643033872023556
 * https://twitter.com/cyberleagle/status/1432243779998818305
@@ -347,6 +359,7 @@ AND (
 * :point_right: [Apple Delays CSAM Surveillance of iPhones and MacOS - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-01%20AND%20%28%28apple%20AND%20%28child%20OR%20csam%29%20AND%20%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'Apple Delays CSAM Surveillance of iPhones and MacOS' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AApple%20Delays%20CSAM%20Surveillance%20Of%20IPhones%20And%20MacOS%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delays-csam-surveillance-of-iphones-and-macos)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -386,6 +399,7 @@ AND (
 * :point_right: [ProPublica think that WhatsApp abuse reports are a backdoor - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-06%20AND%20whatsapp%20AND%20%28%28propublica%20OR%20%22end%20to%20end%22%20OR%20%22law%20enforcement%22%20OR%20moderating%20OR%20moderation%20OR%20moderator%20OR%20moderators%20OR%20privacy%20OR%20undermines%20OR%20undermining%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'ProPublica think that WhatsApp abuse reports are a backdoor' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AProPublica%20Think%20That%20WhatsApp%20Abuse%20Reports%20Are%20A%20Backdoor%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 * "https://twitter.com/AlecMuffett/status/1435277027725152256"
@@ -420,6 +434,7 @@ AND ( (
 * :point_right: [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fappleinsider.com%2Farticles%2F21%2F09%2F07%2Fmark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages%22%20OR%20%22https%3A%2F%2Fwww.propublica.org%2Farticle%2Fhow-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users%22%20OR%20%22https%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-9966435%2FFacebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2021%2F09%2F07%2Fwhatsapp_privacy_propublica%2F%22%20&src=typed_query)
 * :heart: [Share this Search for 'ProPublica think that WhatsApp abuse reports are a backdoor, press coverage' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AProPublica%20Think%20That%20WhatsApp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Press%20Coverage%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
@@ -433,6 +448,7 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 * :point_right: [CryptoWars21 UK Cressida Dick - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%22https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-58537599%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%20OR%20%22tech%20giants%22%29%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'CryptoWars21 UK Cressida Dick' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ACryptoWars21%20UK%20Cressida%20Dick%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cryptowars21-uk-cressida-dick)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://www.bbc.co.uk/news/business-58537599
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
@@ -461,6 +477,7 @@ AND (
 * :point_right: [ChatControl - TOP Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20&src=typed_query)
 * :heart: [Share this Search for 'ChatControl' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AChatControl%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23chatcontrol)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
 #### query source
@@ -475,6 +492,7 @@ OR chatkontrolle
 * :point_right: [UK Online Safety Regulation - TOP Tweets](https://twitter.com/search?q=OnlineSafetyCom%20OR%20OnlineSafetyBill%20OR%20LordsCommsCom%20&src=typed_query)
 * :heart: [Share this Search for 'UK Online Safety Regulation' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AUK%20Online%20Safety%20Regulation%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-online-safety-regulation)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### query source
 ```
 OnlineSafetyCom
@@ -487,6 +505,7 @@ OR LordsCommsCom
 * :point_right: [Bugs In Our Pockets - TOP Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%29%20&src=typed_query)
 * :heart: [Share this Search for 'Bugs In Our Pockets' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ABugs%20In%20Our%20Pockets%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23bugs-in-our-pockets)
 * :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement for this Search](issues/new)
 #### some interesting and relevant links
 * https://arxiv.org/abs/2110.07450
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
