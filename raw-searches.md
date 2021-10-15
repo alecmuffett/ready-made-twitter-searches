@@ -379,5 +379,6 @@ AND (
     OR "client side scanning"
     OR "ClientSideScanning"
     OR "cybersecurity experts sound alarm"
+    OR "phone scanning"
     OR "tears at heart of privacy"
     )
