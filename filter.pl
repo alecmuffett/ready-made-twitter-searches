@@ -9,6 +9,7 @@ my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
 my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
 my $tweet_intent = "https://twitter.com/intent/tweet?text";
+my $issue_link = "$tweet_root/issues/new";
 
 $key = 'UNDEFINED';
 @keys = ();
@@ -101,7 +102,7 @@ foreach $key (@keys) {
 
     print "* :arrow_up: [Back to Search Index](#search-index)\n";
 
-    print "* :bulb: [Suggest an Improvement](/issues/new)\n";
+    print "* :bulb: [Suggest an Improvement]($issue_link)\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
