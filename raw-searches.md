@@ -370,7 +370,9 @@ OR "LordsCommsCom"
 AND (
     "bugs in our pockets"
     OR "BugsInOurPockets"
+    OR "client side content scanning"
     OR "client side scanning"
     OR "ClientSideScanning"
+    OR "cybersecurity experts sound alarm"
     OR "tears at heart of privacy"
     )
