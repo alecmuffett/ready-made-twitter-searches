@@ -13,6 +13,7 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 * [Apple Delays CSAM Surveillance of iPhones and MacOS](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [Apple Spyware](#apple-spyware)
 * [Breaking End-To-End Encryption](#breaking-end-to-end-encryption)
+* [Bugs In Our Pockets](#bugs-in-our-pockets)
 * [ChatControl](#chatcontrol)
 * [CryptoWars21 UK Cressida Dick](#cryptowars21-uk-cressida-dick)
 * [End-To-End Encrypted Apps](#end-to-end-encrypted-apps)
@@ -479,5 +480,21 @@ OR chatkontrolle
 OnlineSafetyCom
 OR OnlineSafetyBill
 OR LordsCommsCom
+```
+
+### BUGS IN OUR POCKETS
+* :point_right: [Bugs In Our Pockets - LATEST Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%29%20&src=typed_query&f=live)
+* :point_right: [Bugs In Our Pockets - TOP Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%29%20&src=typed_query)
+* :heart: [Share this Search for 'Bugs In Our Pockets' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ABugs%20In%20Our%20Pockets%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23bugs-in-our-pockets)
+* :arrow_up: [Back to Search Index](#search-index)
+#### query source
+```
+since:2021-10-14
+AND (
+    "bugs in our pockets"
+    OR BugsInOurPockets
+    OR "client side scanning"
+    OR ClientSideScanning
+    )
 ```
 

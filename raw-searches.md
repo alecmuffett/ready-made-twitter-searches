@@ -355,3 +355,13 @@ OR "chatkontrolle"
 "OnlineSafetyCom" ## username
 OR "OnlineSafetyBill"
 OR "LordsCommsCom"
+
+# Bugs In Our Pockets
+
+"since:2021-10-14"
+AND (
+    "bugs in our pockets"
+    OR "BugsInOurPockets"
+    OR "client side scanning"
+    OR "ClientSideScanning"
+    )
