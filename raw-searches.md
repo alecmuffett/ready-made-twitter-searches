@@ -367,15 +367,16 @@ OR "LordsCommsCom"
 * https://elpais.com/tecnologia/2021-10-15/en-tu-movil-no-debe-entrar-nadie-un-grupo-global-de-expertos-pide-proteger-la-ultima-frontera-de-la-privacidad.html
 * https://www.ft.com/content/64a74bde-4d64-4940-8c03-e01eeecc6e54
 * https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale/
+* https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/
 
 "since:2021-10-14"
 AND (
     "bugs in our pockets"
     OR "BugsInOurPockets"
+    OR "auto-scans of phones would violate"
     OR "client side content scanning"
     OR "client side scanning"
     OR "ClientSideScanning"
     OR "cybersecurity experts sound alarm"
     OR "tears at heart of privacy"
-    OR "auto-scans of phones would violate"
     )
