@@ -370,6 +370,8 @@ OR "LordsCommsCom"
 * https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/
 * https://www.forbes.com/sites/emmawoollacott/2021/10/15/experts-slam-apples-child-protection-phone-scanning-technology/
 * https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists
+* https://www.schneier.com/blog/archives/2021/10/security-risks-of-client-side-scanning.html
+* https://www.lawfareblog.com/law-and-policy-client-side-scanning
 
 "since:2021-10-14"
 AND (

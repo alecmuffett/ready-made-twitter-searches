@@ -514,9 +514,11 @@ OR LordsCommsCom
 * https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists
 * https://www.forbes.com/sites/emmawoollacott/2021/10/15/experts-slam-apples-child-protection-phone-scanning-technology/
 * https://www.ft.com/content/64a74bde-4d64-4940-8c03-e01eeecc6e54
+* https://www.lawfareblog.com/law-and-policy-client-side-scanning
 * https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
 * https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/
 * https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html
+* https://www.schneier.com/blog/archives/2021/10/security-risks-of-client-side-scanning.html
 * https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy
 * https://www.theregister.com/2021/10/15/clientside_side_scanning/
 #### query source
