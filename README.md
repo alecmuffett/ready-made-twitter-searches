@@ -501,8 +501,8 @@ OR LordsCommsCom
 ```
 
 ### BUGS IN OUR POCKETS
-* :point_right: [Bugs In Our Pockets - LATEST Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22auto-scans%20of%20phones%20would%20violate%22%20OR%20%22client%20side%20content%20scanning%22%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%20OR%20%22cybersecurity%20experts%20sound%20alarm%22%20OR%20%22phone%20scanning%22%20OR%20%22tears%20at%20heart%20of%20privacy%22%29%20&src=typed_query&f=live)
-* :point_right: [Bugs In Our Pockets - TOP Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22auto-scans%20of%20phones%20would%20violate%22%20OR%20%22client%20side%20content%20scanning%22%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%20OR%20%22cybersecurity%20experts%20sound%20alarm%22%20OR%20%22phone%20scanning%22%20OR%20%22tears%20at%20heart%20of%20privacy%22%29%20&src=typed_query)
+* :point_right: [Bugs In Our Pockets - LATEST Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22auto-scans%20of%20phones%20would%20violate%22%20OR%20%22client%20side%20content%20scanning%22%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%20OR%20%22cybersecurity%20experts%20sound%20alarm%22%20OR%20%22phone%20scanning%22%20OR%20%22tears%20at%20heart%20of%20privacy%22%20OR%20%22automatically%20scan%20all%20iphones%22%29%20&src=typed_query&f=live)
+* :point_right: [Bugs In Our Pockets - TOP Tweets](https://twitter.com/search?q=since%3A2021-10-14%20AND%20%28%22bugs%20in%20our%20pockets%22%20OR%20BugsInOurPockets%20OR%20%22auto-scans%20of%20phones%20would%20violate%22%20OR%20%22client%20side%20content%20scanning%22%20OR%20%22client%20side%20scanning%22%20OR%20ClientSideScanning%20OR%20%22cybersecurity%20experts%20sound%20alarm%22%20OR%20%22phone%20scanning%22%20OR%20%22tears%20at%20heart%20of%20privacy%22%20OR%20%22automatically%20scan%20all%20iphones%22%29%20&src=typed_query)
 * :heart: [Share this Search for 'Bugs In Our Pockets' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ABugs%20In%20Our%20Pockets%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23bugs-in-our-pockets)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -510,10 +510,12 @@ OR LordsCommsCom
 * https://arxiv.org/abs/2110.07450
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://elpais.com/tecnologia/2021-10-15/en-tu-movil-no-debe-entrar-nadie-un-grupo-global-de-expertos-pide-proteger-la-ultima-frontera-de-la-privacidad.html
+* https://news.sky.com/story/technology-to-automatically-scan-all-iphones-threatens-democracy-researchers-warn-12434352
 * https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale/
 * https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists
 * https://www.forbes.com/sites/emmawoollacott/2021/10/15/experts-slam-apples-child-protection-phone-scanning-technology/
 * https://www.ft.com/content/64a74bde-4d64-4940-8c03-e01eeecc6e54
+* https://www.lawfareblog.com/bugs-our-pockets-risks-client-side-scanning
 * https://www.lawfareblog.com/law-and-policy-client-side-scanning
 * https://www.lightbluetouchpaper.org/2021/10/15/bugs-in-our-pockets/
 * https://www.macrumors.com/2021/10/15/cybersecurity-experts-criticize-apple-csam/
@@ -534,6 +536,7 @@ AND (
     OR "cybersecurity experts sound alarm"
     OR "phone scanning"
     OR "tears at heart of privacy"
+    OR "automatically scan all iphones"
     )
 ```
 

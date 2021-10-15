@@ -372,6 +372,8 @@ OR "LordsCommsCom"
 * https://www.computerweekly.com/news/252508198/Apple-scheme-to-detect-child-abuse-creates-serious-privacy-and-security-risks-say-scientists
 * https://www.schneier.com/blog/archives/2021/10/security-risks-of-client-side-scanning.html
 * https://www.lawfareblog.com/law-and-policy-client-side-scanning
+* https://www.lawfareblog.com/bugs-our-pockets-risks-client-side-scanning
+* https://news.sky.com/story/technology-to-automatically-scan-all-iphones-threatens-democracy-researchers-warn-12434352
 
 "since:2021-10-14"
 AND (
@@ -384,4 +386,5 @@ AND (
     OR "cybersecurity experts sound alarm"
     OR "phone scanning"
     OR "tears at heart of privacy"
+    OR "automatically scan all iphones"
     )
