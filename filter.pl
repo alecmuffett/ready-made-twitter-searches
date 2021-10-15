@@ -101,7 +101,7 @@ foreach $key (@keys) {
 
     print "* :arrow_up: [Back to Search Index](#search-index)\n";
 
-    print "* :bulb: [Suggest an Improvement for this Search](issues/new)\n";
+    print "* :bulb: [Suggest an Improvement](/issues/new)\n";
 
     @urls = @{$links{$key}};
     if (@urls) {
