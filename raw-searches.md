@@ -148,7 +148,7 @@ OR (
 "pegasus project" OR
 ( "nso" AND "spyware")
 
-# Apple Spyware
+# Apple CSAM Detection Proposal
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
