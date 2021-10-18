@@ -256,8 +256,8 @@ OR "https://www.apple.com/child-safety/"
 ```
 
 ### ONLINE ANONYMITY
-* :point_right: [Online Anonymity - LATEST Tweets](https://twitter.com/search?q=onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%22internet%20fuckwad%20theory%22%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20&src=typed_query&f=live)
-* :point_right: [Online Anonymity - TOP Tweets](https://twitter.com/search?q=onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%22internet%20fuckwad%20theory%22%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20&src=typed_query)
+* :point_right: [Online Anonymity - LATEST Tweets](https://twitter.com/search?q=onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%22internet%20fuckwad%20theory%22%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20OR%20%28online%20AND%20%28harms%20OR%20safety%29%29%20&src=typed_query&f=live)
+* :point_right: [Online Anonymity - TOP Tweets](https://twitter.com/search?q=onlineAnonymity%20OR%20onlinePseudonymity%20OR%20%22internet%20fuckwad%20theory%22%20OR%20%28%28abuse%20OR%20harm%20OR%20harms%20OR%20online%20OR%20onlineHarms%29%20AND%20%28anonymity%20OR%20anonymous%20OR%20pseudonymity%20OR%20pseudonymous%29%29%20OR%20%28online%20AND%20%28harms%20OR%20safety%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'Online Anonymity' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AOnline%20Anonymity%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-anonymity)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -283,6 +283,12 @@ onlinePseudonymity OR
         pseudonymity OR
         pseudonymous
         )
+    ) OR
+(
+    online AND (
+	harms
+	OR safety
+	)
     )
 ```
 
