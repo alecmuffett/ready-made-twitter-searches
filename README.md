@@ -23,6 +23,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-to-End Encryption, ChatControl](#end-to-end-encryption-chatcontrol)
 * [End-To-End Encryption, Keywords](#end-to-end-encryption-keywords)
 * [End-To-End Encryption, Messaging Apps](#end-to-end-encryption-messaging-apps)
+* [Regulation, EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation, UK Online Safety](#regulation-uk-online-safety)
 
 ## searches
@@ -353,6 +354,23 @@ OR +@torproject
 OR +@wa_status
 OR +@whatsapp
 OR +@wire
+```
+
+### REGULATION, EU DIGITAL IDENTITY FRAMEWORK
+* :point_right: [Regulation, EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20%22eidas%20regulation%22%20OR%20%22qualified%20web%20authentication%20certificates%20%22%20OR%20%28QWAC%20or%20QWACs%29%20&src=typed_query&f=live)
+* :point_right: [Regulation, EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20%22eidas%20regulation%22%20OR%20%22qualified%20web%20authentication%20certificates%20%22%20OR%20%28QWAC%20or%20QWACs%29%20&src=typed_query)
+* :heart: [Share this Search for 'Regulation, EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ARegulation%2C%20EU%20Digital%20Identity%20Framework%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
+* https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
+#### query source
+```
+"digital identity framework"
+OR "eidas regulation"
+OR "qualified web authentication certificates "
+OR ( QWAC or QWACs )
 ```
 
 ### REGULATION, UK ONLINE SAFETY

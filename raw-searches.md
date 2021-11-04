@@ -220,7 +220,7 @@ AND (
     OR "tank guy"
     )
 
-# Childrens Code, "Regulation Works" Fallacy ARCHIVE
+# Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
@@ -393,3 +393,13 @@ AND (
     OR "tears at heart of privacy"
     OR "automatically scan all iphones"
     )
+
+# Regulation, EU Digital Identity Framework
+
+* https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
+* https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
+
+"digital identity framework"
+OR "eidas regulation"
+OR "qualified web authentication certificates "
+OR ( "QWAC" or "QWACs" )
