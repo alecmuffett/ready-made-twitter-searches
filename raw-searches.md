@@ -115,7 +115,7 @@ OR "verification of children online"
 
 "age verification"
 
-# UK Social Media Identity Petitions
+# UK Social Media Identity Petitions ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
@@ -134,7 +134,7 @@ OR (
     AND "petition"
     )
 
-# Pegasus Project
+# Pegasus Project ARCHIVE
 
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
 * https://twitter.com/jsrailton/status/1416792857084583939
@@ -205,9 +205,9 @@ OR "https://www.apple.com/child-safety/"
     ) OR
 (
     "online" AND (
-	"harms"
-	OR "safety"
-	)
+        "harms"
+        OR "safety"
+        )
     )
 
 # Apple and Tiananmen
@@ -220,7 +220,7 @@ AND (
     OR "tank guy"
     )
 
-# "Regulation Works" Fallacy
+# "Regulation Works" Fallacy ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
@@ -239,7 +239,7 @@ AND (
     OR "platforms"
     )
 
-# The @ChildrensComm on Age Verification
+# The @ChildrensComm on Age Verification ARCHIVE
 
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -290,7 +290,7 @@ AND (
         )
     )
 
-# ProPublica think that WhatsApp abuse reports are a backdoor
+# ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE
 
 * "https://twitter.com/AlecMuffett/status/1435277027725152256"
 * "https://twitter.com/alexstamos/status/1435285445336715265"
@@ -318,7 +318,7 @@ AND ( (
           )
     )
 
-# ProPublica think that WhatsApp abuse reports are a backdoor, press coverage
+# ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE
 
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"

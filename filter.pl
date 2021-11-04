@@ -5,6 +5,13 @@ use feature 'unicode_strings';
 use utf8;
 use URI::Escape;
 
+if ($ARGV[0] eq '-A') {
+    $archive_flag = 1;
+    shift;
+} else {
+    $archive_flag = 0;
+}
+
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
 my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
@@ -67,6 +74,12 @@ for additions, please submit pull requests against `raw-searches.md`, **only**.
 
 ## search index
 EOT
+
+if ($archive_flag) {
+    @keys = grep(/\sARCHIVE$/, @keys);
+} else {
+    @keys = grep(!/\sARCHIVE$/, @keys);
+}
 
 foreach $key (sort @keys) {
     $anchor = $key;

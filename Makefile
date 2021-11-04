@@ -1,5 +1,6 @@
 all:
 	./filter.pl raw-searches.md > README.md
+	./filter.pl -A raw-searches.md > ARCHIVE.md
 
 open:
 	open https://github.com/alecmuffett/ready-made-twitter-searches
