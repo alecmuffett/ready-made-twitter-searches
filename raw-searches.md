@@ -399,7 +399,10 @@ AND (
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 
-"digital identity framework"
-OR "eidas regulation"
-OR "qualified web authentication certificates "
-OR ( "QWAC" or "QWACs" )
+"Digital Identity Framework"
+OR "EU Digital Identity"
+OR "EUeID"
+OR "QWAC"
+OR "QWACs"
+OR "Qualified Web Authentication Certificates "
+OR "eIDAS"
