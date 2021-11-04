@@ -7,19 +7,20 @@ of tweets that are returned by these searches.
 for additions, please submit pull requests against `raw-searches.md`, **only**.
 
 ## search index
-* [Pegasus Project ARCHIVE](#pegasus-project-archive)
+* [Age Verification, the UK @ChildrensComm ARCHIVE](#age-verification-the-uk-childrenscomm-archive)
+* [Anonymity, Petition to Require ID for Social Media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
+* [Childrens Code, "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
+* [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
+* [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage-archive)
-* ["Regulation Works" Fallacy ARCHIVE](#regulation-works-fallacy-archive)
-* [The @ChildrensComm on Age Verification ARCHIVE](#the-childrenscomm-on-age-verification-archive)
-* [UK Social Media Identity Petitions ARCHIVE](#uk-social-media-identity-petitions-archive)
 
 ## searches
 
-### UK SOCIAL MEDIA IDENTITY PETITIONS ARCHIVE
-* :point_right: [UK Social Media Identity Petitions ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query&f=live)
-* :point_right: [UK Social Media Identity Petitions ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query)
-* :heart: [Share this Search for 'UK Social Media Identity Petitions ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AUK%20Social%20Media%20Identity%20Petitions%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-social-media-identity-petitions-archive)
+### ANONYMITY, PETITION TO REQUIRE ID FOR SOCIAL MEDIA ARCHIVE
+* :point_right: [Anonymity, Petition to Require ID for Social Media ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query&f=live)
+* :point_right: [Anonymity, Petition to Require ID for Social Media ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20AND%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20katieprice%29%20AND%20petition%29%20&src=typed_query)
+* :heart: [Share this Search for 'Anonymity, Petition to Require ID for Social Media ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAnonymity%2C%20Petition%20To%20Require%20ID%20For%20Social%20Media%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23anonymity-petition-to-require-id-for-social-media-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -42,10 +43,10 @@ OR (
     )
 ```
 
-### PEGASUS PROJECT ARCHIVE
-* :point_right: [Pegasus Project ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query&f=live)
-* :point_right: [Pegasus Project ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query)
-* :heart: [Share this Search for 'Pegasus Project ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0APegasus%20Project%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23pegasus-project-archive)
+### HACKING, PEGASUS PROJECT ARCHIVE
+* :point_right: [Hacking, Pegasus Project ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query&f=live)
+* :point_right: [Hacking, Pegasus Project ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23nsoGroup%20OR%20%23pegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%22nso%20group%22%20OR%20%22pegasus%20project%22%20OR%20%28nso%20AND%20spyware%29%20&src=typed_query)
+* :heart: [Share this Search for 'Hacking, Pegasus Project ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AHacking%2C%20Pegasus%20Project%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23hacking-pegasus-project-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -63,10 +64,10 @@ OR (
 ( nso AND spyware)
 ```
 
-### "REGULATION WORKS" FALLACY ARCHIVE
-* :point_right: ["Regulation Works" Fallacy ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live)
-* :point_right: ["Regulation Works" Fallacy ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query)
-* :heart: [Share this Search for '"Regulation Works" Fallacy ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0A%22Regulation%20Works%22%20Fallacy%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-works-fallacy-archive)
+### CHILDRENS CODE, "REGULATION WORKS" FALLACY ARCHIVE
+* :point_right: [Childrens Code, "Regulation Works" Fallacy ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query&f=live)
+* :point_right: [Childrens Code, "Regulation Works" Fallacy ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20AND%20%28%22age%20appropriate%22%20OR%20age-appropriate%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29%20&src=typed_query)
+* :heart: [Share this Search for 'Childrens Code, "Regulation Works" Fallacy ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AChildrens%20Code%2C%20%22Regulation%20Works%22%20Fallacy%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23childrens-code-regulation-works-fallacy-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -89,10 +90,10 @@ AND (
     )
 ```
 
-### THE @CHILDRENSCOMM ON AGE VERIFICATION ARCHIVE
-* :point_right: [The @ChildrensComm on Age Verification ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29%20&src=typed_query&f=live)
-* :point_right: [The @ChildrensComm on Age Verification ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29%20&src=typed_query)
-* :heart: [Share this Search for 'The @ChildrensComm on Age Verification ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AThe%20%40ChildrensComm%20On%20Age%20Verification%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-childrenscomm-on-age-verification-archive)
+### AGE VERIFICATION, THE UK @CHILDRENSCOMM ARCHIVE
+* :point_right: [Age Verification, the UK @ChildrensComm ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29%20&src=typed_query&f=live)
+* :point_right: [Age Verification, the UK @ChildrensComm ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-08-30%20AND%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29%20&src=typed_query)
+* :heart: [Share this Search for 'Age Verification, the UK @ChildrensComm ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAge%20Verification%2C%20The%20UK%20%40ChildrensComm%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-the-uk-childrenscomm-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -161,5 +162,34 @@ AND ( (
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
+```
+
+### CRYPTOWARS21 UK CRESSIDA DICK ARCHIVE
+* :point_right: [CryptoWars21 UK Cressida Dick ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%22https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-58537599%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%20OR%20%22tech%20giants%22%29%29%29%20&src=typed_query&f=live)
+* :point_right: [CryptoWars21 UK Cressida Dick ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-10%20AND%20%28%22https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2021%2F09%2F11%2Ftech-giants-making-impossible-stop-terrorists-says-dame-cressida%2F%22%20OR%20%22https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-58537599%22%20OR%20%28%22cressida%20dick%22%20AND%20%28encrypted%20OR%20encryption%20OR%20terrorism%20OR%20terrorist%20OR%20terrorists%20OR%20%22tech%20giants%22%29%29%29%20&src=typed_query)
+* :heart: [Share this Search for 'CryptoWars21 UK Cressida Dick ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ACryptoWars21%20UK%20Cressida%20Dick%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cryptowars21-uk-cressida-dick-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://www.bbc.co.uk/news/business-58537599
+* https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
+#### query source
+```
+since:2021-09-10
+AND (
+    "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
+    OR "https://www.bbc.co.uk/news/business-58537599"
+    OR (
+          "cressida dick"
+          AND (
+              encrypted
+              OR encryption
+              OR terrorism
+              OR terrorist
+              OR terrorists
+              OR "tech giants"
+              )
+        )
+    )
 ```
 

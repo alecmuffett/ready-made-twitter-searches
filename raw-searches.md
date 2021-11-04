@@ -10,7 +10,7 @@
 ## this is a Twitter search backend restriction for CPU use, or a
 ## safety measure?
 
-# End-To-End Encrypted Apps
+# End-To-End Encryption, Messaging Apps
 
 "+@briarapp"
 OR "+@element_hq"
@@ -27,7 +27,7 @@ OR "+@wa_status"
 OR "+@whatsapp"
 OR "+@wire"
 
-# Breaking End-To-End Encryption
+# End-To-End Encryption, Breaking
 
 "break e2e"
 OR "break e2ee"
@@ -57,7 +57,7 @@ OR (
         )
     )
 
-# End-To-End Encryption Discussion
+# End-To-End Encryption, Keywords
 
 "chat control"
 OR "chatcontrol"
@@ -95,7 +95,7 @@ OR (
         )
     )
 
-# Age Verification Discussion
+# Age Verification, Keywords
 
 "#voco"
 OR "age assurance"
@@ -111,11 +111,11 @@ OR "pas1296"
 OR "trackatroll"
 OR "verification of children online"
 
-# Age Verification Basic
+# Age Verification, Simple
 
 "age verification"
 
-# UK Social Media Identity Petitions ARCHIVE
+# Anonymity, Petition to Require ID for Social Media ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
@@ -134,7 +134,7 @@ OR (
     AND "petition"
     )
 
-# Pegasus Project ARCHIVE
+# Hacking, Pegasus Project ARCHIVE
 
 * https://thewire.in/government/project-pegasus-journalists-ministers-activists-phones-spying
 * https://twitter.com/jsrailton/status/1416792857084583939
@@ -148,7 +148,7 @@ OR (
 "pegasus project" OR
 ( "nso" AND "spyware")
 
-# Apple CSAM Surveillance Proposal
+# Apple, CSAM Surveillance Proposal
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -180,7 +180,7 @@ OR (
     )
 OR "https://www.apple.com/child-safety/"
 
-# Online Anonymity
+# Anonymity, Simple
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
@@ -210,7 +210,7 @@ OR "https://www.apple.com/child-safety/"
         )
     )
 
-# Apple and Tiananmen
+# Apple, Tank-Man Image
 
 ( "apple" OR "csam" )
 AND (
@@ -220,7 +220,7 @@ AND (
     OR "tank guy"
     )
 
-# "Regulation Works" Fallacy ARCHIVE
+# Childrens Code, "Regulation Works" Fallacy ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
@@ -239,7 +239,7 @@ AND (
     OR "platforms"
     )
 
-# The @ChildrensComm on Age Verification ARCHIVE
+# Age Verification, the UK @ChildrensComm ARCHIVE
 
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -257,7 +257,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple Delays CSAM Surveillance of iPhones and MacOS
+# Apple, Delays CSAM Surveillance of iPhones and MacOS
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -325,7 +325,7 @@ OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protectio
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 
-# CryptoWars21 UK Cressida Dick
+# CryptoWars21 UK Cressida Dick ARCHIVE
 
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
 * https://www.bbc.co.uk/news/business-58537599
@@ -347,7 +347,7 @@ AND (
         )
     )
 
-# ChatControl
+# End-to-End Encryption, ChatControl
 
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
 
@@ -355,13 +355,13 @@ AND (
 OR "chatcontrol"
 OR "chatkontrolle"
 
-# UK Online Safety Regulation
+# Regulation, UK Online Safety
 
 "OnlineSafetyCom" ## username
 OR "OnlineSafetyBill"
 OR "LordsCommsCom"
 
-# Bugs In Our Pockets
+# Apple, "Bugs In Our Pockets" Paper
 
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://arxiv.org/abs/2110.07450
