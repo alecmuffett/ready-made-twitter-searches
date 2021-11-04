@@ -400,9 +400,9 @@ AND (
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 
 "Digital Identity Framework"
+OR "#EUeID"
+OR "#eIDAS"
 OR "EU Digital Identity"
-OR "EUeID"
 OR "QWAC"
 OR "QWACs"
 OR "Qualified Web Authentication Certificates "
-OR "eIDAS"
