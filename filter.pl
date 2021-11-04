@@ -86,7 +86,7 @@ if ($archive_flag) {
     @keys = grep(!/\sARCHIVE$/, @keys);
 }
 
-foreach $key (sort @keys) {
+foreach $key (@keys) {
     $anchor = $key;
     $anchor =~ s/\@//go; # this needs work re: what can/cannot go into an anchor [1/2]
     $anchor =~ s/\s/-/g;
@@ -95,7 +95,10 @@ foreach $key (sort @keys) {
     $anchors{$key} = $anchor;
 }
 
-foreach $key (sort { $anchors{$a} cmp $anchors{$b} } @keys) {
+# reordering
+@keys = sort { $anchors{$a} cmp $anchors{$b} } @keys;
+
+foreach $key (@keys) {
     print "* [$key](#$anchors{$key})\n";
 }
 print "\n";
