@@ -8,6 +8,7 @@ of tweets that are returned by these searches.
 for additions, please submit pull requests against `raw-searches.md`,
 **only**.
 
+"current" searches are in [README.md](README.md);
 older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 
 ## search index
