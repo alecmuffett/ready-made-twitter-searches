@@ -357,8 +357,8 @@ OR +@wire
 ```
 
 ### REGULATION, EU DIGITAL IDENTITY FRAMEWORK
-* :point_right: [Regulation, EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%22Digital%20Identity%20Framework%22%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%20%22%20&src=typed_query&f=live)
-* :point_right: [Regulation, EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%22Digital%20Identity%20Framework%22%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%20%22%20&src=typed_query)
+* :point_right: [Regulation, EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%22Digital%20Identity%20Framework%22%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22%20&src=typed_query&f=live)
+* :point_right: [Regulation, EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%22Digital%20Identity%20Framework%22%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22%20&src=typed_query)
 * :heart: [Share this Search for 'Regulation, EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ARegulation%2C%20EU%20Digital%20Identity%20Framework%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -373,7 +373,7 @@ OR #eIDAS
 OR "EU Digital Identity"
 OR QWAC
 OR QWACs
-OR "Qualified Web Authentication Certificates "
+OR "Qualified Web Authentication Certificates"
 ```
 
 ### REGULATION, UK ONLINE SAFETY
