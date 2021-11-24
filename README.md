@@ -140,8 +140,8 @@ AND (
 ```
 
 ### APPLE, CSAM SURVEILLANCE PROPOSAL
-* :point_right: [Apple, CSAM Surveillance Proposal - LATEST Tweets](https://twitter.com/search?q=%28neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%29%20AND%20NOT%20%22NSO%20Group%22%20&src=typed_query&f=live)
-* :point_right: [Apple, CSAM Surveillance Proposal - TOP Tweets](https://twitter.com/search?q=%28neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%29%20AND%20NOT%20%22NSO%20Group%22%20&src=typed_query)
+* :point_right: [Apple, CSAM Surveillance Proposal - LATEST Tweets](https://twitter.com/search?q=%28neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%29%20AND%20-NSO%20&src=typed_query&f=live)
+* :point_right: [Apple, CSAM Surveillance Proposal - TOP Tweets](https://twitter.com/search?q=%28neuralHash%20OR%20neuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%20AND%20%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22%29%20AND%20-NSO%20&src=typed_query)
 * :heart: [Share this Search for 'Apple, CSAM Surveillance Proposal' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AApple%2C%20CSAM%20Surveillance%20Proposal%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -177,7 +177,8 @@ AND (
 	    )
 	)
     OR "https://www.apple.com/child-safety/"
-    ) AND NOT "NSO Group"
+    )
+AND -NSO
 ```
 
 ### APPLE, DELAYS CSAM SURVEILLANCE OF IPHONES AND MACOS

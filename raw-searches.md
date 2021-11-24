@@ -180,7 +180,8 @@ OR (
 	    )
 	)
     OR "https://www.apple.com/child-safety/"
-    ) AND NOT "NSO Group"
+    )
+AND -"NSO"
 
 # Anonymity, Simple
 
