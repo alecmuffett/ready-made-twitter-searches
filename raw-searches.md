@@ -163,22 +163,24 @@ OR (
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 
-"neuralHash"
-OR "neuralMatch"
-OR (
-    ( "apple" OR "iCloud" OR "iPhone" )
-    AND (
-        "csam"
-        OR "cse"
-        OR "ncmec"
-        OR "psi"
-        OR "child abuse"
-        OR "illegal imagery"
-        OR "law enforcement"
-        OR "private set intersection"
-        )
-    )
-OR "https://www.apple.com/child-safety/"
+(
+    "neuralHash"
+    OR "neuralMatch"
+    OR (
+	( "apple" OR "iCloud" OR "iPhone" )
+	AND (
+	    "csam"
+	    OR "cse"
+	    OR "ncmec"
+	    OR "psi"
+	    OR "child abuse"
+	    OR "illegal imagery"
+	    OR "law enforcement"
+	    OR "private set intersection"
+	    )
+	)
+    OR "https://www.apple.com/child-safety/"
+    ) AND NOT "NSO Group"
 
 # Anonymity, Simple
 
