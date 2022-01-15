@@ -415,13 +415,16 @@ OR "Qualified Web Authentication Certificates"
 
 "since:2022-01-10"
 AND ( ## topic keywords
-    "encrypt"
+    "anonymity"
+    OR "anonymous"
     OR "e2ee"
+    OR "encrypt"
     OR "encrypted"
     OR "encrypting"
     OR "encryption"
     OR "encryptions"
     OR "endToEndEncryption"
+    OR "safety"
     )
 AND ( ## audience keywords
     "child"
@@ -435,10 +438,9 @@ AND ( ## audience keywords
     OR "teens"
     )
 AND ( ## scope keywords
-    "facebook"
+    OR "facebook"
     OR "instagram"
     OR "messenger"
     OR "online"
-    OR "safety"
     OR "whatsapp"
     )
