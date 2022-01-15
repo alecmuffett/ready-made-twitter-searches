@@ -415,8 +415,7 @@ OR "Qualified Web Authentication Certificates"
 
 "since:2022-01-01"
 AND ( ## topic keywords
-    "anonymity"
-    OR "anonymous"
+    "anonymity" ## skip: anonymous
     OR "e2ee"
     OR "encrypt"
     OR "encrypted"
