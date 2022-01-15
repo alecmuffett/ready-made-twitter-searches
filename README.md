@@ -241,26 +241,14 @@ AND (
 ```
 
 ### END-TO-END ENCRYPTION, AND CHILDREN
-* :point_right: [End-To-End Encryption, and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28child%20OR%20children%20OR%20childsafety%20OR%20kid%20OR%20kids%20OR%20%22online%20safety%22%20OR%20parent%20OR%20parents%20OR%20%22safe%20online%22%20OR%20%22safety%20online%22%29%20AND%20%28encrypt%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%20OR%20%28%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%29%20AND%20%28harms%20OR%20privacy%20OR%20safety%29%29%29%20&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption, and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28child%20OR%20children%20OR%20childsafety%20OR%20kid%20OR%20kids%20OR%20%22online%20safety%22%20OR%20parent%20OR%20parents%20OR%20%22safe%20online%22%20OR%20%22safety%20online%22%29%20AND%20%28encrypt%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%20OR%20%28%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%29%20AND%20%28harms%20OR%20privacy%20OR%20safety%29%29%29%20&src=typed_query)
+* :point_right: [End-To-End Encryption, and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28encrypt%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20OR%20%28%28facebook%20OR%20instagram%20OR%20messenger%20OR%20online%20OR%20whatsapp%29%20AND%20%28safe%20OR%20safety%20OR%20privacy%29%29%29%20&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption, and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28encrypt%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20OR%20%28%28facebook%20OR%20instagram%20OR%20messenger%20OR%20online%20OR%20whatsapp%29%20AND%20%28safe%20OR%20safety%20OR%20privacy%29%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption, and Children' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20And%20Children%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### query source
 ```
 since:2022-01-10
-AND (
-    child
-    OR children
-    OR childsafety
-    OR kid
-    OR kids
-    OR "online safety"
-    OR parent
-    OR parents
-    OR "safe online"
-    OR "safety online"
-    )
 AND (
     encrypt
     OR e2ee
@@ -269,17 +257,31 @@ AND (
     OR encryption
     OR encryptions
     OR endToEndEncryption
+    )
+AND (
+    (
+	child
+	OR children
+	OR kid
+	OR kids
+	OR parent
+	OR parents
+	OR teen
+	OR teenager
+	OR teens
+	)
     OR (
 	(
 	    facebook
 	    OR instagram
 	    OR messenger
+	    OR online
 	    OR whatsapp
 	    )
 	AND (
-	    harms
-	    OR privacy
+	    safe
 	    OR safety
+	    OR privacy
 	    )
 	)
     )

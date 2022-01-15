@@ -414,19 +414,7 @@ OR "Qualified Web Authentication Certificates"
 # End-To-End Encryption, and Children
 
 "since:2022-01-10"
-AND ( ## audience keywords
-    "child"
-    OR "children"
-    OR "childsafety"
-    OR "kid"
-    OR "kids"
-    OR "online safety"
-    OR "parent"
-    OR "parents"
-    OR "safe online"
-    OR "safety online"
-    )
-AND ( ## encryption keywords or scope-narrowed actors
+AND ( ## encryption keywords
     "encrypt"
     OR "e2ee"
     OR "encrypted"
@@ -434,17 +422,31 @@ AND ( ## encryption keywords or scope-narrowed actors
     OR "encryption"
     OR "encryptions"
     OR "endToEndEncryption"
-    OR (
+    )
+AND (
+    ( ## audience keywords
+	"child"
+	OR "children"
+	OR "kid"
+	OR "kids"
+	OR "parent"
+	OR "parents"
+	OR "teen"
+	OR "teenager"
+	OR "teens"
+	)
+    OR ( ## scope-narrowed actors
 	(
 	    "facebook"
 	    OR "instagram"
 	    OR "messenger"
+	    OR "online"
 	    OR "whatsapp"
 	    )
 	AND (
-	    "harms"
-	    OR "privacy"
+	    "safe"
 	    OR "safety"
+	    OR "privacy"
 	    )
 	)
     )
