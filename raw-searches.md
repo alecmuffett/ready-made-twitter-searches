@@ -417,8 +417,7 @@ OR "Qualified Web Authentication Certificates"
 AND (
     "child"
     OR "children"
-    OR "kid"
-    OR "kids"
+    OR "kids" # "kid" seems to draw in noise
     OR "parent"
     OR "parents"
     )
@@ -435,11 +434,12 @@ AND (
 	    "facebook"
 	    OR "instagram"
 	    OR "messenger"
+	    OR "online"
 	    OR "whatsapp"
 	    )
 	AND (
 	    "safety" ## implicit: online safety, child safety
-	    OR "online harms"
+	    OR "harms"
 	    )
 	)
     )
