@@ -417,7 +417,7 @@ OR "Qualified Web Authentication Certificates"
 AND (
     "child"
     OR "children"
-    OR "kids" # "kid" seems to draw in noise
+    OR "kids" ## "kid" seems to draw in noise
     OR "parent"
     OR "parents"
     )
