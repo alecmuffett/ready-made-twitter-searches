@@ -417,7 +417,7 @@ OR "Qualified Web Authentication Certificates"
 AND (
     "child"
     OR "children"
-    OR "kids" ## "kid" seems to draw in noise
+    OR "kids" ## singular "kid" seems to draw in noise
     OR "parent"
     OR "parents"
     )
@@ -429,12 +429,12 @@ AND (
     OR "encryptions"
     OR "e2ee"
     OR "endToEndEncryption"
+    OR "online safety"
     OR (
 	(
 	    "facebook"
 	    OR "instagram"
 	    OR "messenger"
-	    OR "online"
 	    OR "whatsapp"
 	    )
 	AND (
