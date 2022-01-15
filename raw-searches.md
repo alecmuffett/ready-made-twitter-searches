@@ -411,29 +411,33 @@ OR "QWAC"
 OR "QWACs"
 OR "Qualified Web Authentication Certificates"
 
-# End-To-End Encryption and Children
+# End-To-End Encryption, and Children
 
 "since:2022-01-10"
 AND (
-    "e2ee"
+    "child"
+    OR "children"
+    )
+AND (
+    "encrypt"
+    OR "encrypted"
+    OR "encrypting"
+    OR "encryption"
+    OR "encryptions"
+    OR "end to end"
+    OR "e2e"
+    OR "e2ee"
     OR "endToEndEncryption"
     OR (
 	(
-	    "child"
-	    OR "children"
-	    OR "facebook"
+	    "facebook"
 	    OR "instagram"
 	    OR "messenger"
 	    OR "whatsapp"
 	    )
 	AND (
-	    "encrypt"
-	    OR "encrypted"
-	    OR "encrypting"
-	    OR "encryption"
-	    OR "encryptions"
-	    OR "end to end"
-	    OR "e2e"
+	    "online safety"
+	    OR "online harms"
 	    )
 	)
     )
