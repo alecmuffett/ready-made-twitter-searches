@@ -417,6 +417,10 @@ OR "Qualified Web Authentication Certificates"
 AND (
     "child"
     OR "children"
+    OR "kid"
+    OR "kids"
+    OR "parent"
+    OR "parents"
     )
 AND (
     "encrypt"
@@ -424,8 +428,6 @@ AND (
     OR "encrypting"
     OR "encryption"
     OR "encryptions"
-    OR "end to end"
-    OR "e2e"
     OR "e2ee"
     OR "endToEndEncryption"
     OR (
