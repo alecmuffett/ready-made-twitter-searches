@@ -413,7 +413,7 @@ OR "Qualified Web Authentication Certificates"
 
 # End-To-End Encryption, and Children
 
-"since:2022-01-10"
+"since:2022-01-01"
 AND ( ## topic keywords
     "anonymity"
     OR "anonymous"
@@ -424,7 +424,6 @@ AND ( ## topic keywords
     OR "encryption"
     OR "encryptions"
     OR "endToEndEncryption"
-    OR "safety"
     )
 AND ( ## audience keywords
     "child"
@@ -438,9 +437,13 @@ AND ( ## audience keywords
     OR "teens"
     )
 AND ( ## scope keywords
-    OR "facebook"
+    "facebook"
     OR "instagram"
     OR "messenger"
-    OR "online"
     OR "whatsapp"
+
+    OR "5rightsfound"
+    OR "iwf"
+    OR "nspcc"
+    OR "online"
     )
