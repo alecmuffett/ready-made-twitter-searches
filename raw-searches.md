@@ -414,34 +414,40 @@ OR "Qualified Web Authentication Certificates"
 # End-To-End Encryption, and Children
 
 "since:2022-01-01"
-AND ( ## topic keywords
-    "e2ee"
-    OR "encrypt"
-    OR "encrypted"
-    OR "encrypting"
-    OR "encryption"
-    OR "encryptions"
-    OR "endToEndEncryption"
+AND (
+    "noPlaceToHide"
+    OR "no place to hide"
     )
-AND ( ## audience keywords
-    "child"
-    OR "children"
-    OR "kid"
-    OR "kids"
-    OR "parent"
-    OR "parents"
-    OR "teen"
-    OR "teenager"
-    OR "teens"
-    )
-AND ( ## scope keywords
-    "facebook"
-    OR "instagram"
-    OR "messenger"
-    OR "whatsapp"
+OR (
+    ( ## topic keywords
+	"e2ee"
+	OR "encrypt"
+	OR "encrypted"
+	OR "encrypting"
+	OR "encryption"
+	OR "encryptions"
+	OR "endToEndEncryption"
+	)
+    AND ( ## audience keywords
+	"child"
+	OR "children"
+	OR "kid"
+	OR "kids"
+	OR "parent"
+	OR "parents"
+	OR "teen"
+	OR "teenager"
+	OR "teens"
+	)
+    AND ( ## scope keywords
+	"facebook"
+	OR "instagram"
+	OR "messenger"
+	OR "whatsapp"
 
-    OR "5rightsfound"
-    OR "iwf"
-    OR "nspcc"
-    OR "online"
+	OR "5rightsfound"
+	OR "iwf"
+	OR "nspcc"
+	OR "online"
+	)
     )
