@@ -241,8 +241,8 @@ AND (
 ```
 
 ### END-TO-END ENCRYPTION, AND CHILDREN
-* :point_right: [End-To-End Encryption, and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-01%20AND%20%28noPlaceToHide%20OR%20%22no%20place%20to%20hide%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%205rightsfound%20OR%20iwf%20OR%20nspcc%20OR%20online%29%29%20&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption, and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-01%20AND%20%28noPlaceToHide%20OR%20%22no%20place%20to%20hide%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%205rightsfound%20OR%20iwf%20OR%20nspcc%20OR%20online%29%29%20&src=typed_query)
+* :point_right: [End-To-End Encryption, and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-01%20AND%20%28noPlaceToHide%20%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%205rightsfound%20OR%20iwf%20OR%20nspcc%20OR%20online%29%29%20&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption, and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-01%20AND%20%28noPlaceToHide%20%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%28facebook%20OR%20instagram%20OR%20messenger%20OR%20whatsapp%20OR%205rightsfound%20OR%20iwf%20OR%20nspcc%20OR%20online%29%29%20&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption, and Children' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20And%20Children%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -251,7 +251,7 @@ AND (
 since:2022-01-01
 AND (
     noPlaceToHide
-    OR "no place to hide"
+
     )
 OR (
     (
