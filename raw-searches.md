@@ -415,7 +415,10 @@ OR "Qualified Web Authentication Certificates"
 # End-To-End Encryption, and Children
 
 "since:2022-01-01"
-AND "noPlaceToHide"
+AND (
+    "noPlaceToHide"
+    OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
+    )
 OR (
     ( ## topic keywords
 	"e2ee"
