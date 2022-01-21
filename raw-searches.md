@@ -414,7 +414,18 @@ OR "Qualified Web Authentication Certificates"
 
 # End-To-End Encryption, and Children
 
-"since:2022-01-01"
+* https://alecmuffett.com/article/15742
+* https://alecmuffett.com/article/15891
+* https://alecmuffett.com/article/15897
+* https://alecmuffett.com/article/15902
+* https://alecmuffett.com/article/15940
+* https://twitter.com/AlecMuffett/status/1484512689112166403
+* https://www.bbc.co.uk/news/technology-60072191
+* https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
+* https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
+* https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
+
+"since:2022-01-10"
 AND (
     "noPlaceToHide"
     OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
