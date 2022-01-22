@@ -19,7 +19,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple, CSAM Surveillance Proposal](#apple-csam-surveillance-proposal)
 * [Apple, Delays CSAM Surveillance of iPhones and MacOS](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [Apple, Tank-Man Image](#apple-tank-man-image)
-* [End-To-End Encryption, and Children](#end-to-end-encryption-and-children)
+* [End-To-End Encryption and Children](#end-to-end-encryption-and-children)
 * [End-To-End Encryption, Breaking](#end-to-end-encryption-breaking)
 * [End-to-End Encryption, ChatControl](#end-to-end-encryption-chatcontrol)
 * [End-To-End Encryption, Keywords](#end-to-end-encryption-keywords)
@@ -240,10 +240,10 @@ AND (
     )
 ```
 
-### END-TO-END ENCRYPTION, AND CHILDREN
-* :point_right: [End-To-End Encryption, and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28noPlaceToHide%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt3Lj_Ezg-Iw%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%20&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption, and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28noPlaceToHide%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt3Lj_Ezg-Iw%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%20&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption, and Children' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20And%20Children%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
+### END-TO-END ENCRYPTION AND CHILDREN
+* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28noPlaceToHide%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt3Lj_Ezg-Iw%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%20&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=since%3A2022-01-10%20AND%20%28noPlaceToHide%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt3Lj_Ezg-Iw%22%29%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%20AND%20%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%20AND%20%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%20&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption and Children' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%20And%20Children%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -257,6 +257,7 @@ AND (
 * https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
+* https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
 #### query source
 ```
 since:2022-01-10

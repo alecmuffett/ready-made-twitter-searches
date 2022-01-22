@@ -412,7 +412,7 @@ OR "QWAC"
 OR "QWACs"
 OR "Qualified Web Authentication Certificates"
 
-# End-To-End Encryption, and Children
+# End-To-End Encryption and Children
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
@@ -424,6 +424,7 @@ OR "Qualified Web Authentication Certificates"
 * https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
+* https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
 
 "since:2022-01-10"
 AND (
