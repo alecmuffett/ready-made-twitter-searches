@@ -168,20 +168,20 @@ OR (
 OR "neuralMatch"
 OR (
     (
-	"apple"
-	OR "iCloud"
-	OR "iPhone"
-	)
+        "apple"
+        OR "iCloud"
+        OR "iPhone"
+        )
     AND (
-	"csam"
-	OR "cse"
-	OR "ncmec"
-	OR "psi"
-	OR "child abuse"
-	OR "illegal imagery"
-	OR "law enforcement"
-	OR "private set intersection"
-	)
+        "csam"
+        OR "cse"
+        OR "ncmec"
+        OR "psi"
+        OR "child abuse"
+        OR "illegal imagery"
+        OR "law enforcement"
+        OR "private set intersection"
+        )
     )
 OR "https://www.apple.com/child-safety/"
 
@@ -430,42 +430,47 @@ OR "Qualified Web Authentication Certificates"
 AND (
     "noPlaceToHide"
     OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
-    )
-OR (
-    ( ## topic keywords
-	"e2ee"
-	OR "encrypt"
-	OR "encrypted"
-	OR "encrypting"
-	OR "encryption"
-	OR "encryptions"
-	OR "endToEndEncryption"
-	)
-    AND ( ## audience keywords
-	"child"
-	OR "children"
-	OR "kid"
-	OR "kids"
-	OR "parent"
-	OR "parents"
-	OR "teen"
-	OR "teenager"
-	OR "teens"
-	)
-    AND ( ## scope keywords
-	"5rightsfound"
-	OR "barnardos"
-	OR "campaign"
-	OR "facebook"
-	OR "government"
-	OR "instagram"
-	OR "ico"
-	OR "iwf"
-	OR "mcfcharity"
-	OR "messenger"
-	OR "nspcc"
-	OR "online"
-	OR "ukhomeoffice"
-	OR "whatsapp"
-	)
+    OR (
+        ( ## audience keywords
+            "child"
+            OR "children"
+            OR "kid"
+            OR "kids"
+            OR "parent"
+            OR "parents"
+            OR "teen"
+            OR "teenager"
+            OR "teens"
+            )
+        AND (
+            "nick clegg" ## medium-signal keyword
+            OR (
+                ( ## topic keywords
+                    "e2ee"
+                    OR "encrypt"
+                    OR "encrypted"
+                    OR "encrypting"
+                    OR "encryption"
+                    OR "encryptions"
+                    OR "endToEndEncryption"
+                    )
+                AND ( ## scope keywords
+                    "5rightsfound"
+                    OR "barnardos"
+                    OR "campaign"
+                    OR "facebook"
+                    OR "government"
+                    OR "instagram"
+                    OR "ico"
+                    OR "iwf"
+                    OR "mcfcharity"
+                    OR "messenger"
+                    OR "nspcc"
+                    OR "online"
+                    OR "ukhomeoffice"
+                    OR "whatsapp"
+                    )
+                )
+            )
+        )
     )
