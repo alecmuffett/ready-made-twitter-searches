@@ -112,10 +112,10 @@ foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
     my $query_text = $query{$key};
-    $query_text =~ s/\s+/ /;
     $query_text =~ s/^\s//;
     $query_text =~ s/\s$//;
-    $query_text =~ s/\)\s\(/)(/;
+    $query_text =~ s/\s+/ /go;
+    $query_text =~ s/\)\s\(/)(/go;
     my $query_length = length $query_text;
     warn "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
     #warn "len: $query_length: $key\n";
