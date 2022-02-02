@@ -12,7 +12,7 @@ if ($ARGV[0] eq '-A') {
     $archive_flag = 0;
 }
 
-my $max_query_length = 500; # guesstimate
+my $max_query_length = 512; # https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
 my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
@@ -51,6 +51,7 @@ while (<>) {
     s/"((\+\@|\w+:|#)?[-\w]+)"/$1/ge;
     $source{$key} .= $_;
 
+    s/\bAND\b//g; # AND is apparently redundant
     s/\s+/ /g;
     s/(^\s|\s$)//g;
     $query{$key} .= "$_ ";
