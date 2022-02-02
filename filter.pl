@@ -12,6 +12,7 @@ if ($ARGV[0] eq '-A') {
     $archive_flag = 0;
 }
 
+my $max_query_length = 500; # guesstimate
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
 my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
@@ -107,6 +108,10 @@ print "\n";
 
 foreach $key (@keys) {
     printf("### %s\n", uc($key));
+
+    my $query_length = length $query{$key};
+    die "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
+    warn "len: $query_length: $key\n";
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
     print "* :point_right: [$key - LATEST Tweets]($latest)\n";

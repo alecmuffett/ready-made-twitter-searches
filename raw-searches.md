@@ -426,55 +426,52 @@ OR "Qualified Web Authentication Certificates"
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
 
-"since:2022-01-10"
-AND (
-    "noPlaceToHide"
-    OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
-    OR (
-        ( ## audience keywords
-            "child"
-            OR "children"
-            OR "kid"
-            OR "kids"
-            OR "parent"
-            OR "parents"
-            OR "teen"
-            OR "teenager"
-            OR "teens"
-            )
-        AND (
-	    ## medium-signal keywords
-            "nick clegg"
-	    OR "earn it"
-	    OR "EarnItAct"
-	    OR "Section230"
-            OR ( ## tuple
-                ( ## topic keywords
-                    "e2ee"
-                    OR "encrypt"
-                    OR "encrypted"
-                    OR "encrypting"
-                    OR "encryption"
-                    OR "encryptions"
-                    OR "endToEndEncryption"
-                    )
-                AND ( ## scope keywords
-                    "5rightsfound"
-                    OR "barnardos"
-                    OR "campaign"
-                    OR "facebook"
-                    OR "government"
-                    OR "instagram"
-                    OR "ico"
-                    OR "iwf"
-                    OR "mcfcharity"
-                    OR "messenger"
-                    OR "nspcc"
-                    OR "online"
-                    OR "ukhomeoffice"
-                    OR "whatsapp"
-                    )
-                )
-            )
-        )
+"noPlaceToHide"
+OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
+OR (
+    ( ## audience keywords
+	"child"
+	OR "children"
+	OR "kid"
+	OR "kids"
+	OR "parent"
+	OR "parents"
+	OR "teen"
+	OR "teenager"
+	OR "teens"
+	)
+    AND (
+	## medium-signal keywords
+	"nick clegg"
+	OR "earn it"
+	OR "EarnItAct"
+	OR "Section230"
+	OR ( ## tuple
+	    ( ## topic keywords
+		"e2ee"
+		OR "encrypt"
+		OR "encrypted"
+		OR "encrypting"
+		OR "encryption"
+		OR "encryptions"
+		OR "endToEndEncryption"
+		)
+	    AND ( ## scope keywords
+		"5rightsfound"
+		OR "barnardos"
+		OR "campaign"
+		OR "facebook"
+		OR "government"
+		OR "instagram"
+		OR "ico"
+		OR "iwf"
+		OR "mcfcharity"
+		OR "messenger"
+		OR "nspcc"
+		OR "online"
+		OR "ukhomeoffice"
+		OR "whatsapp"
+		)
+	    )
+	)
     )
