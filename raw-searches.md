@@ -429,7 +429,6 @@ OR "Qualified Web Authentication Certificates"
 "since:2022-01-10"
 AND (
     "noPlaceToHide"
-    OR "EarnItAct"
     OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
     OR (
         ( ## audience keywords
@@ -447,6 +446,8 @@ AND (
 	    ## medium-signal keywords
             "nick clegg"
 	    OR "earn it"
+	    OR "EarnItAct"
+	    OR "Section230"
             OR ( ## tuple
                 ( ## topic keywords
                     "e2ee"
