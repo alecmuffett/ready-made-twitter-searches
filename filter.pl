@@ -27,8 +27,8 @@ $key = 'UNDEFINED';
 
 while (<>) {
     next if /^##/;
-    s!\s+##.*!!; # remove inline comments
     next if /^\s*$/;
+    s!\s+##.*!!; # remove inline comments
 
     if (/^#\s([\w"'].*)/) {
 	$key = $1;
