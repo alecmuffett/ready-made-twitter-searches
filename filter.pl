@@ -25,7 +25,7 @@ $key = 'UNDEFINED';
 %query = ();
 %links = ();
 %anchors = ();
-%subtitle = ();
+%subtitles = ();
 
 while (<>) {
     next if /^##/;
@@ -45,7 +45,7 @@ while (<>) {
 	    $subtext = '';
 	}
 	$key =~ s/\s+$//;;
-	$subtitle{$key} = $subtext;
+	$subtitles{$key} = $subtext;
 	@{$links{$key}} = ();
 	push(@keys, $key);
 	next;
@@ -120,13 +120,17 @@ print "## searches\n";
 print "\n";
 
 foreach $key (@keys) {
-    printf("### %s\n", uc($key));
+    my $subtitle = $subtitles{$key};
+    $subtitle = " ($subtitle)" if ($subtitle ne '');
+
+    printf("### %s%s\n", uc($key), uc($subtitle));
 
     my $query_text = $query{$key};
     $query_text =~ s/^\s//;
     $query_text =~ s/\s$//;
     $query_text =~ s/\s+/ /go;
     $query_text =~ s/\)\s\(/)(/go;
+
     my $query_length = length $query_text;
     die "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
 
@@ -138,9 +142,7 @@ foreach $key (@keys) {
 
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
-    my $tweet_sub = $subtitle{$key};
-    $tweet_sub = " ($tweet_sub)" if ($tweet_sub ne '');
-    my $tweet_text = "Debate continues! Check out the latest Twitter discussion on:\n\n$tweet_key$tweet_sub\n\n\N{EM DASH} with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
+    my $tweet_text = "Debate continues! Check out the latest Twitter discussion on:\n\n$tweet_key$subtitle\n\n\N{EM DASH} with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
     print "* :heart: [Share this Search for '$key' in a Tweet!]($tweet_url)\n";
 
