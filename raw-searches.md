@@ -443,9 +443,10 @@ OR (
     AND (
 	## medium-signal keywords
 	"nick clegg"
-	OR "earn it"
+	OR "earn it act"
 	OR "EarnItAct"
 	OR "Section230"
+	OR "section 230"
 	OR ( ## tuple
 	    ( ## topic keywords
 		"e2ee"

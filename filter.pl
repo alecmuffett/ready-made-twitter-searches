@@ -110,8 +110,8 @@ foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
     my $query_length = length $query{$key};
-    die "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
-    warn "len: $query_length: $key\n";
+    warn "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
+    #warn "len: $query_length: $key\n";
 
     my $latest = sprintf($search_latest, &Escape($query{$key}));
     print "* :point_right: [$key - LATEST Tweets]($latest)\n";
