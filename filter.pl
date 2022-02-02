@@ -19,13 +19,13 @@ my $tweet_root = "https://github.com/alecmuffett/ready-made-twitter-searches";
 my $tweet_intent = "https://twitter.com/intent/tweet?text";
 my $issue_link = "$tweet_root/issues/new";
 
-$key = 'UNDEFINED';
-@keys = ();
-%source = ();
-%query = ();
-%links = ();
-%anchors = ();
-%subtitles = ();
+my $key = 'UNDEFINED';
+my @keys = ();
+my %source = ();
+my %query = ();
+my %links = ();
+my %anchors = ();
+my %subtitles = ();
 
 while (<>) {
     next if /^##/;
@@ -119,10 +119,10 @@ print "## searches\n";
 print "\n";
 
 foreach $key (@keys) {
-    my $subtitle = $subtitles{$key};
-    $subtitle = " ($subtitle)" if ($subtitle ne '');
+    printf("### %s\n", uc($key));
 
-    printf("### %s%s\n", uc($key), uc($subtitle));
+    my $subtitle = $subtitles{$key};
+    printf("#### %s\n", uc($subtitle)) if ($subtitle ne '');
 
     my $query_text = $query{$key};
     $query_text =~ s/^\s//;
