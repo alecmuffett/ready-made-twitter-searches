@@ -111,14 +111,19 @@ print "\n";
 foreach $key (@keys) {
     printf("### %s\n", uc($key));
 
-    my $query_length = length $query{$key};
+    my $query_text = $query{$key};
+    $query_text =~ s/\s+/ /;
+    $query_text =~ s/^\s//;
+    $query_text =~ s/\s$//;
+    $query_text =~ s/\)\s\(/)(/;
+    my $query_length = length $query_text;
     warn "overlong: $query_length query for $key\n" if ($query_length > $max_query_length);
     #warn "len: $query_length: $key\n";
 
-    my $latest = sprintf($search_latest, &Escape($query{$key}));
+    my $latest = sprintf($search_latest, &Escape($query_text));
     print "* :point_right: [$key - LATEST Tweets]($latest)\n";
 
-    my $top = sprintf($search_top, &Escape($query{$key}));
+    my $top = sprintf($search_top, &Escape($query_text));
     print "* :point_right: [$key - TOP Tweets]($top)\n";
 
     my $tweet_anchor = $anchors{$key};
