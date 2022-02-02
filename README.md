@@ -85,7 +85,7 @@ onlinePseudonymity OR
         online OR
         onlineHarms
         )
-    AND (
+    (
         anonymity OR
         anonymous OR
         pseudonymity OR
@@ -93,7 +93,7 @@ onlinePseudonymity OR
         )
     ) OR
 (
-    online AND (
+    online (
         harms
         OR safety
         )
@@ -126,7 +126,7 @@ onlinePseudonymity OR
 #### query source
 ```
 since:2021-10-14
-AND (
+(
     "bugs in our pockets"
     OR BugsInOurPockets
     OR "auto-scans of phones would violate"
@@ -169,7 +169,7 @@ OR (
         OR iCloud
         OR iPhone
         )
-    AND (
+    (
         csam
         OR cse
         OR ncmec
@@ -199,11 +199,11 @@ OR "https://www.apple.com/child-safety/"
 #### query source
 ```
 since:2021-09-01
-AND (
+(
     (
         apple
-        AND ( child OR csam )
-        AND (
+        ( child OR csam )
+        (
             delay
             OR delaying
             OR disappoint
@@ -232,7 +232,7 @@ AND (
 #### query source
 ```
 ( apple OR csam )
-AND (
+(
     tiananmen
     OR tienanmen
     OR "tank man"
@@ -273,7 +273,7 @@ OR (
 	OR teenager
 	OR teens
 	)
-    AND (
+    (
 	"nick clegg"
 	OR "earn it act"
 	OR EarnItAct
@@ -289,7 +289,7 @@ OR (
 		OR encryptions
 		OR endToEndEncryption
 		)
-	    AND (
+	    (
 		5rightsfound
 		OR barnardos
 		OR campaign
@@ -338,7 +338,7 @@ OR "undermine end to end"
 OR "undermine endToEndEncryption"
 OR (
     backdoor
-    AND (
+    (
         e2e
         OR e2ee
         OR "end to end"
@@ -396,7 +396,7 @@ OR (
         OR whatsapp
         OR "bout en bout"
         )
-    AND (
+    (
         chiffre
         OR chiffrement
         OR cryptage

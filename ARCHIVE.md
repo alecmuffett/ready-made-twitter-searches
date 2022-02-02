@@ -37,7 +37,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 #### query source
 ```
 since:2021-08-30
-AND (
+(
     "children's commissioner"
     OR "childrens commissioner"
     OR childrenscomm
@@ -65,11 +65,11 @@ AND (
 OR #trackatroll
 OR (
     "https://petition.parliament.uk/petitions/575833"
-    AND -"Make verified ID a requirement for opening"
+    -"Make verified ID a requirement for opening"
     )
 OR (
     ( "katie price" OR katieprice )
-    AND petition
+    petition
     )
 ```
 
@@ -85,12 +85,12 @@ OR (
 #### query source
 ```
 since:2021-09-10
-AND (
+(
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
           "cressida dick"
-          AND (
+          (
               encrypted
               OR encryption
               OR terrorism
@@ -120,7 +120,7 @@ AND (
 "israeli spyware" OR
 "nso group" OR
 "pegasus project" OR
-( nso AND spyware)
+( nso spyware)
 ```
 
 ### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR ARCHIVE
@@ -142,8 +142,8 @@ AND (
 #### query source
 ```
 since:2021-09-06
-AND whatsapp
-AND ( (
+whatsapp
+( (
           propublica
           OR "end to end"
           OR "law enforcement"
@@ -183,7 +183,7 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 #### query source
 ```
 "regulation works"
-AND (
+(
     "age appropriate"
     OR age-appropriate
     OR "child safety"

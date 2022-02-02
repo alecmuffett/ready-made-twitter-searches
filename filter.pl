@@ -48,10 +48,11 @@ while (<>) {
 	next;
     }
 
+    s/\bAND\b\s*//g; # AND is apparently redundant
+
     s/"((\+\@|\w+:|#)?[-\w]+)"/$1/ge;
     $source{$key} .= $_;
 
-    s/\bAND\b//g; # AND is apparently redundant
     s/\s+/ /g;
     s/(^\s|\s$)//g;
     $query{$key} .= "$_ ";
