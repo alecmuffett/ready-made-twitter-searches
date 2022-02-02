@@ -19,7 +19,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple, CSAM Surveillance Proposal](#apple-csam-surveillance-proposal)
 * [Apple, Delays CSAM Surveillance of iPhones and MacOS](#apple-delays-csam-surveillance-of-iphones-and-macos)
 * [Apple, Tank-Man Image](#apple-tank-man-image)
-* [End-To-End Encryption and Children](#end-to-end-encryption-and-children)
+* [End-To-End Encryption and Children](#end-to-end-encryption-and-children) (including #EarnItAct & #Section230)
 * [End-To-End Encryption, Breaking](#end-to-end-encryption-breaking)
 * [End-to-End Encryption, ChatControl](#end-to-end-encryption-chatcontrol)
 * [End-To-End Encryption, Keywords](#end-to-end-encryption-keywords)

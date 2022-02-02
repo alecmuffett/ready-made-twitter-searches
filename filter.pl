@@ -34,18 +34,15 @@ while (<>) {
 
     if (/^#\s+([\w"'].*)/) { # eats leading w/s
 	$key = $1;
+	my $subtitle = '';
 	$key =~ s!\s+! !; # merge w/s
 	$key =~ s!\s$!!; # strip trailing w/s
 	if ($key =~ /(.*?)\s*\|\s*(.*)/) {
 	    $key = $1;
-	    $subtext = $2;
-	    $subtext =~ s/\s+$//;;
-	}
-	else {
-	    $subtext = '';
+	    $subtitle = $2;
 	}
 	$key =~ s/\s+$//;;
-	$subtitles{$key} = $subtext;
+	$subtitles{$key} = $subtitle;
 	@{$links{$key}} = ();
 	push(@keys, $key);
 	next;
@@ -112,7 +109,9 @@ foreach $key (@keys) {
 @keys = sort { $anchors{$a} cmp $anchors{$b} } @keys;
 
 foreach $key (@keys) {
-    print "* [$key](#$anchors{$key})\n";
+    my $subtitle = $subtitles{$key};
+    $subtitle = " ($subtitle)" if ($subtitle ne '');
+    print "* [$key](#$anchors{$key})$subtitle\n";
 }
 print "\n";
 
