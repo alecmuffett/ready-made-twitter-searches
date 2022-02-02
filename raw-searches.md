@@ -412,7 +412,7 @@ OR "QWAC"
 OR "QWACs"
 OR "Qualified Web Authentication Certificates"
 
-# End-To-End Encryption and Children
+# End-To-End Encryption and Children | including #EarnItAct & #Section230
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891

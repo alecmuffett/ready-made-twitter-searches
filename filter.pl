@@ -25,16 +25,27 @@ $key = 'UNDEFINED';
 %query = ();
 %links = ();
 %anchors = ();
+%subtitle = ();
 
 while (<>) {
     next if /^##/;
     s!\s+##.*!!; # remove inline comments
     next if /^\s*$/;
 
-    if (/^#\s([\w"'].*)/) {
+    if (/^#\s+([\w"'].*)/) { # eats leading w/s
 	$key = $1;
-	$key =~ s!\s+! !;
-	$key =~ s!\s$!!;
+	$key =~ s!\s+! !; # merge w/s
+	$key =~ s!\s$!!; # strip trailing w/s
+	if ($key =~ /(.*?)\s*\|\s*(.*)/) {
+	    $key = $1;
+	    $subtext = $2;
+	    $subtext =~ s/\s+$//;;
+	}
+	else {
+	    $subtext = '';
+	}
+	$key =~ s/\s+$//;;
+	$subtitle{$key} = $subtext;
 	@{$links{$key}} = ();
 	push(@keys, $key);
 	next;
@@ -127,7 +138,9 @@ foreach $key (@keys) {
 
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
-    my $tweet_text = "Debate continues! Check out the latest Twitter discussion on:\n\n$tweet_key\n\n\N{EM DASH} with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
+    my $tweet_sub = $subtitle{$key};
+    $tweet_sub = " $tweet_sub" if ($tweet_sub ne '');
+    my $tweet_text = "Debate continues! Check out the latest Twitter discussion on:\n\n$tweet_key$tweet_sub\n\n\N{EM DASH} with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
     print "* :heart: [Share this Search for '$key' in a Tweet!]($tweet_url)\n";
 
