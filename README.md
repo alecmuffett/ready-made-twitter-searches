@@ -35,7 +35,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * :heart: [Share this Search for 'Age Verification, Keywords' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAge%20Verification%2C%20Keywords%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-keywords)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (258 characters)
+#### query source (258/512 characters)
 ```
 #voco
 OR "age assurance"
@@ -58,7 +58,7 @@ OR "verification of children online"
 * :heart: [Share this Search for 'Age Verification, Simple' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AAge%20Verification%2C%20Simple%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-simple)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (19 characters)
+#### query source (19/512 characters)
 ```
 "age verification"
 ```
@@ -72,7 +72,7 @@ OR "verification of children online"
 #### some interesting and relevant links
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
-#### query source (219 characters)
+#### query source (219/512 characters)
 ```
 onlineAnonymity OR
 onlinePseudonymity OR
@@ -123,7 +123,7 @@ onlinePseudonymity OR
 * https://www.schneier.com/blog/archives/2021/10/security-risks-of-client-side-scanning.html
 * https://www.theguardian.com/world/2021/oct/15/apple-plan-scan-child-abuse-images-tears-heart-of-privacy
 * https://www.theregister.com/2021/10/15/clientside_side_scanning/
-#### query source (311 characters)
+#### query source (311/512 characters)
 ```
 since:2021-10-14
 (
@@ -159,7 +159,7 @@ since:2021-10-14
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-#### query source (225 characters)
+#### query source (225/512 characters)
 ```
 neuralHash
 OR neuralMatch
@@ -196,7 +196,7 @@ OR "https://www.apple.com/child-safety/"
 * "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
 * "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
 * "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
-#### query source (229 characters)
+#### query source (229/512 characters)
 ```
 since:2021-09-01
 (
@@ -229,7 +229,7 @@ since:2021-09-01
 * :heart: [Share this Search for 'Apple, Tank-Man Image' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AApple%2C%20Tank-Man%20Image%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-tank-man-image)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (73 characters)
+#### query source (73/512 characters)
 ```
 ( apple OR csam )
 (
@@ -258,7 +258,7 @@ since:2021-09-01
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
-#### query source (460 characters)
+#### query source (460/512 characters)
 ```
 noPlaceToHide
 OR (
@@ -316,7 +316,7 @@ OR (
 * :heart: [Share this Search for 'End-To-End Encryption, Breaking' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20Breaking%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-breaking)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (457 characters)
+#### query source (457/512 characters)
 ```
 "break e2e"
 OR "break e2ee"
@@ -355,7 +355,7 @@ OR (
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
-#### query source (47 characters)
+#### query source (47/512 characters)
 ```
 "chat control"
 OR chatcontrol
@@ -368,7 +368,7 @@ OR chatkontrolle
 * :heart: [Share this Search for 'End-To-End Encryption, Keywords' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20Keywords%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-keywords)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (445 characters)
+#### query source (445/512 characters)
 ```
 "chat control"
 OR chatcontrol
@@ -414,7 +414,7 @@ OR (
 * :heart: [Share this Search for 'End-To-End Encryption, Messaging Apps' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%2C%20Messaging%20Apps%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-messaging-apps)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (202 characters)
+#### query source (202/512 characters)
 ```
 +@briarapp
 OR +@element_hq
@@ -441,7 +441,7 @@ OR +@wire
 #### some interesting and relevant links
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
-#### query source (138 characters)
+#### query source (138/512 characters)
 ```
 "Digital Identity Framework"
 OR #EUeID
@@ -458,7 +458,7 @@ OR "Qualified Web Authentication Certificates"
 * :heart: [Share this Search for 'Regulation, UK Online Safety' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0ARegulation%2C%20UK%20Online%20Safety%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-uk-online-safety)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (53 characters)
+#### query source (53/512 characters)
 ```
 OnlineSafetyCom
 OR OnlineSafetyBill

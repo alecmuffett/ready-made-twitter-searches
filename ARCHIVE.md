@@ -34,7 +34,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * https://twitter.com/neil_neilzone/status/1432243693008953346
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://www.whatdotheyknow.com/request/evidence_underpinning_claim_that#incoming-1783612
-#### query source (151 characters)
+#### query source (151/512 characters)
 ```
 since:2021-08-30
 (
@@ -59,7 +59,7 @@ since:2021-08-30
 * https://twitter.com/AlecMuffett/status/1414525963250110465
 * https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
 * https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
-#### query source (182 characters)
+#### query source (182/512 characters)
 ```
 #saveanonymity
 OR #trackatroll
@@ -82,7 +82,7 @@ OR (
 #### some interesting and relevant links
 * https://www.bbc.co.uk/news/business-58537599
 * https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/
-#### query source (291 characters)
+#### query source (291/512 characters)
 ```
 since:2021-09-10
 (
@@ -113,7 +113,7 @@ since:2021-09-10
 * https://twitter.com/jsrailton/status/1416792857084583939
 * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
 * https://www.theguardian.com/news/series/pegasus-project
-#### query source (104 characters)
+#### query source (104/512 characters)
 ```
 #nsoGroup OR
 #pegasusProject OR
@@ -139,7 +139,7 @@ since:2021-09-10
 * "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 * "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 * SEE ALSO: *PRESS COVERAGE* BELOW
-#### query source (177 characters)
+#### query source (177/512 characters)
 ```
 since:2021-09-06
 whatsapp
@@ -164,7 +164,7 @@ whatsapp
 * :heart: [Share this Search for 'ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Debate%20continues%21%20Check%20out%20the%20latest%20Twitter%20discussion%20regarding%3A%0A%0AProPublica%20Think%20That%20WhatsApp%20Abuse%20Reports%20Are%20A%20Backdoor%2C%20Press%20Coverage%20ARCHIVE%0A%0A%E2%80%94%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (442 characters)
+#### query source (442/512 characters)
 ```
 "https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages"
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
@@ -180,7 +180,7 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * https://twitter.com/AlecMuffett/status/1431575809907638273
-#### query source (196 characters)
+#### query source (196/512 characters)
 ```
 "regulation works"
 (

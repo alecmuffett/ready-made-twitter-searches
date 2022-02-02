@@ -139,7 +139,7 @@ foreach $key (@keys) {
 	}
     }
 
-    print "#### query source ($query_length characters)\n";
+    print "#### query source ($query_length/$max_query_length characters)\n";
     print "```\n", $source{$key},  "```\n";
 
     print "\n";
