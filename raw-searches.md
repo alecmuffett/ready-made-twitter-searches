@@ -427,7 +427,6 @@ OR "Qualified Web Authentication Certificates"
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
 
 "noPlaceToHide"
-OR "https://www.youtube.com/watch?v=t3Lj_Ezg-Iw"
 OR (
     ( ## audience keywords
 	"child"
