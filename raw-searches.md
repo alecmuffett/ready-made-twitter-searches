@@ -10,6 +10,8 @@
 ## this is a Twitter search backend restriction for CPU use, or a
 ## safety measure?
 
+## helper: <foo bar> expands to: "foo bar" OR "FooBar"
+
 # End-To-End Encryption, Messaging Apps
 
 "+@briarapp"
@@ -59,17 +61,14 @@ OR (
 
 # End-To-End Encryption, Keywords
 
-"chat control"
-OR "chatcontrol"
-OR "chatkontrolle"
+<chat control>
+OR <chat kontrolle>
 OR "e2ee"
 OR "endToEndEncryption"
-OR "lawless spaces"
-OR "lawlesspaces"
+OR <lawless spaces>
 OR "lawlessspaces"
 OR "noplacetohide" ## UK campaign
-OR "warrant proof"
-OR "warrantproof"
+OR <warrant proof>
 OR (
     (
         "algorithm"
@@ -99,10 +98,6 @@ OR (
 # Age Verification, Keywords
 
 "#voco"
-OR "age assurance"
-OR "ageappropriatedesigncode"
-OR "ageassurance"
-OR "ageverification"
 OR "ageverificationsystems"
 OR "childrenscode"
 OR "digital economy act"
@@ -111,6 +106,9 @@ OR "onlineageverification"
 OR "pas1296"
 OR "trackatroll"
 OR "verification of children online"
+OR <age appropriate design code>
+OR <age assurance>
+OR <age verification>
 
 # Age Verification, Simple
 
@@ -131,7 +129,7 @@ OR (
     AND -"Make verified ID a requirement for opening" ## canned "share" phrase, reduces noise
     )
 OR (
-    ( "katie price" OR "katieprice" )
+    ( <katie price> )
     AND "petition"
     )
 
@@ -142,12 +140,10 @@ OR (
 * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
 * https://www.theguardian.com/news/series/pegasus-project
 
-"#nsoGroup" OR
-"#pegasusProject" OR
-"israeli spyware" OR
-"nso group" OR
-"pegasus project" OR
-( "nso" AND "spyware")
+<nso group>
+OR <pegasus project>
+OR "israeli spyware"
+OR ( "nso" AND "spyware")
 
 # Apple, CSAM Surveillance Proposal
 
@@ -164,8 +160,8 @@ OR (
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 
-"neuralHash"
-OR "neuralMatch"
+<neural hash>
+OR <neural match>
 OR (
     (
         "apple"
@@ -221,8 +217,8 @@ OR "https://www.apple.com/child-safety/"
 AND (
     "tiananmen"
     OR "tienanmen"
-    OR "tank man"
-    OR "tank guy"
+    OR <tank man>
+    OR <tank guy>
     )
 
 # Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE
@@ -232,7 +228,6 @@ AND (
 "regulation works"
 AND (
     "age appropriate"
-    OR "age-appropriate"
     OR "child safety"
     OR "children"
     OR "children's code"
@@ -340,7 +335,7 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-          "cressida dick"
+          <cressida dick>
           AND (
               "encrypted"
               OR "encryption"
@@ -356,8 +351,7 @@ AND (
 
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
 
-"chat control"
-OR "chatcontrol"
+<chat control>
 OR "chatkontrolle"
 
 # Regulation, UK Online Safety
@@ -387,8 +381,7 @@ OR "LordsCommsCom"
 
 "since:2021-10-14"
 AND (
-    "bugs in our pockets"
-    OR "BugsInOurPockets"
+    <bugs in our pockets>
     OR "auto-scans of phones would violate"
     OR "client side content scanning"
     OR "client side scanning"
@@ -404,7 +397,7 @@ AND (
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 
-"Digital Identity Framework"
+<digital identity framework>
 OR "#EUeID"
 OR "#eIDAS"
 OR "EU Digital Identity"
@@ -441,11 +434,9 @@ OR (
 	)
     AND (
 	## medium-signal keywords
-	"nick clegg"
-	OR "earn it act"
-	OR "EarnItAct"
-	OR "Section230"
-	OR "section 230"
+	<nick clegg>
+	OR <earn it act>
+	OR <section 230>
 	OR ( ## tuple
 	    ( ## topic keywords
 		"e2ee"
@@ -500,3 +491,8 @@ OR (
 	OR "unregulated"
 	)
     )
+
+# Safer Internet Day
+
+<safer internet day>
+OR "UK_SIC"

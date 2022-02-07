@@ -27,10 +27,21 @@ my %links = ();
 my %anchors = ();
 my %subtitles = ();
 
+sub Squash {
+    my $src = lc("@_");
+    my @words = map {ucfirst} split(' ', $src);
+    my $dst = "@words";
+    $dst =~ s!\s+!!go;
+    return sprintf('"%s" OR "%s"', $src, $dst);
+}
+
 while (<>) {
     next if /^##/;
     s!\s+##.*!!; # remove inline comments
     next if /^\s*$/;
+
+    # preprocessor
+    s!\<(.*?)\>!&Squash($1)!goe;
 
     if (/^#\s+([\w"'].*)/) { # eats leading w/s
 	$key = $1;
