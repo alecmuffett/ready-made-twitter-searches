@@ -467,7 +467,7 @@ OR (
 	)
     )
 
-# The "Wild West Web" Fallacy
+# The WildWestWeb" Fallacy
 
 * https://neilzone.co.uk/2022/01/the-wild-west-web-fallacy
 * https://twitter.com/webdevlaw/status/1399318148776660996

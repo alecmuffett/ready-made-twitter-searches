@@ -27,7 +27,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Regulation, EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation, UK Online Safety](#regulation-uk-online-safety)
 * [Safer Internet Day](#safer-internet-day)
-* [The "Wild West Web" Fallacy](#the-wild-west-web-fallacy)
+* [The WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 
 ## searches
 
@@ -474,10 +474,10 @@ OR "safer internet day" OR SaferInternetDay
 OR sid2022
 ```
 
-### THE "WILD WEST WEB" FALLACY
-* :point_right: [The "Wild West Web" Fallacy - LATEST Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query&f=live)
-* :point_right: [The "Wild West Web" Fallacy - TOP Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query)
-* :heart: [Share this Search for 'The "Wild West Web" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=See%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20for%3A%0A%0AThe%20%22Wild%20West%20Web%22%20Fallacy%0A%0A%E2%80%A6at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-wild-west-web-fallacy)
+### THE WILDWESTWEB" FALLACY
+* :point_right: [The WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query&f=live)
+* :point_right: [The WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query)
+* :heart: [Share this Search for 'The WildWestWeb" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=See%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20for%3A%0A%0AThe%20WildWestWeb%22%20Fallacy%0A%0A%E2%80%A6at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-wildwestweb-fallacy)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
