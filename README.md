@@ -461,15 +461,17 @@ OR LordsCommsCom
 ```
 
 ### SAFER INTERNET DAY
-* :point_right: [Safer Internet Day - LATEST Tweets](https://twitter.com/search?q=%22safer%20internet%20day%22%20OR%20SaferInternetDay%20OR%20UK_SIC&src=typed_query&f=live)
-* :point_right: [Safer Internet Day - TOP Tweets](https://twitter.com/search?q=%22safer%20internet%20day%22%20OR%20SaferInternetDay%20OR%20UK_SIC&src=typed_query)
+* :point_right: [Safer Internet Day - LATEST Tweets](https://twitter.com/search?q=UK_SIC%20OR%20%22play%20it%20fair%20online%22%20OR%20PlayItFairOnline%20OR%20%22safer%20internet%20day%22%20OR%20SaferInternetDay%20OR%20sid2022&src=typed_query&f=live)
+* :point_right: [Safer Internet Day - TOP Tweets](https://twitter.com/search?q=UK_SIC%20OR%20%22play%20it%20fair%20online%22%20OR%20PlayItFairOnline%20OR%20%22safer%20internet%20day%22%20OR%20SaferInternetDay%20OR%20sid2022&src=typed_query)
 * :heart: [Share this Search for 'Safer Internet Day' in a Tweet!](https://twitter.com/intent/tweet?text=See%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20for%3A%0A%0ASafer%20Internet%20Day%0A%0A%E2%80%A6at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23safer-internet-day)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (50/512 characters)
+#### query source (106/512 characters)
 ```
-"safer internet day" OR SaferInternetDay
-OR UK_SIC
+UK_SIC
+OR "play it fair online" OR PlayItFairOnline
+OR "safer internet day" OR SaferInternetDay
+OR sid2022
 ```
 
 ### THE "WILD WEST WEB" FALLACY

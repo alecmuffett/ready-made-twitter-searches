@@ -494,5 +494,7 @@ OR (
 
 # Safer Internet Day
 
-<safer internet day>
-OR "UK_SIC"
+"UK_SIC"
+OR <play it fair online>
+OR <safer internet day>
+OR sid2022
