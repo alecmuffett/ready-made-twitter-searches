@@ -473,7 +473,7 @@ OR (
 * https://twitter.com/webdevlaw/status/1399318148776660996
 * https://webdevlaw.uk/2019/07/18/tech-policy-is-no-place-for-hero-fantasies/
 * https://webdevlaw.uk/2021/04/20/your-cut-and-keep-guide-to-the-unregulated-wild-west-internet/
-* https://webdevlaw.uk/2022/02/07/the-wildwestweb-fallacy-isnt-about-ending-online-harms-its-about-enabling-populism/ *START HERE*
+* https://webdevlaw.uk/2022/02/07/the-wildwestweb-fallacy-isnt-about-ending-online-harms-its-about-enabling-populism/ **START HERE**
 * https://www.nspcc.org.uk/globalassets/documents/news/taming-the-wild-west-web-regulate-social-networks.pdf
 * https://www.nspcc.org.uk/globalassets/documents/research-reports/how-to-win-the-wild-west-web-report.pdf
 
