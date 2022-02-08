@@ -153,7 +153,7 @@ foreach $key (@keys) {
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
     my $tweet_subtitle = ($subtitle eq '' ? '' : " \N{EM DASH} " . $subtitle);
-    my $tweet_text = "$tweet_key$tweet_subtitle\n\n\N{HORIZONTAL ELLIPSIS}see the latest Twitter discussion with a #ReadyMadeTwitterSearch at: $tweet_root#$tweet_anchor";
+    my $tweet_text = "> $tweet_key$tweet_subtitle\n\n\N{HORIZONTAL ELLIPSIS}see the latest Twitter discussion with a #ReadyMadeTwitterSearch at:\n\n$tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
     print "* :heart: [Share this Search for '$key' in a Tweet!]($tweet_url)\n";
 
