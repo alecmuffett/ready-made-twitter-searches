@@ -251,12 +251,14 @@ since:2021-09-01
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it’s-more-dangerous-ever
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
 * https://alecmuffett.com/article/15897
 * https://alecmuffett.com/article/15902
 * https://alecmuffett.com/article/15940
 * https://twitter.com/AlecMuffett/status/1484512689112166403
+* https://twitter.com/Riana_Crypto/status/1490152004668116993
 * https://www.bbc.co.uk/news/technology-60072191
 * https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
