@@ -12,20 +12,20 @@ for additions, please submit pull requests against `raw-searches.md`,
 older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 
 ## search index
-* [Age Verification, the UK @ChildrensComm ARCHIVE](#age-verification-the-uk-childrenscomm-archive)
-* [Anonymity, Petition to Require ID for Social Media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
+* [Age Verification: the UK @ChildrensComm ARCHIVE](#age-verification-the-uk-childrenscomm-archive)
+* [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
+* [Childrens Code: "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage-archive)
-* [Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE](#regulation-childrens-code-regulation-works-fallacy-archive)
 
 ## searches
 
-### AGE VERIFICATION, THE UK @CHILDRENSCOMM ARCHIVE
-* :point_right: [Age Verification, the UK @ChildrensComm ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-08-30%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29&src=typed_query&f=live)
-* :point_right: [Age Verification, the UK @ChildrensComm ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-08-30%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29&src=typed_query)
-* :heart: [Share this Search for 'Age Verification, the UK @ChildrensComm ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Age%20Verification%2C%20The%20UK%20%40ChildrensComm%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-the-uk-childrenscomm-archive)
+### AGE VERIFICATION: THE UK @CHILDRENSCOMM ARCHIVE
+* :point_right: [Age Verification: the UK @ChildrensComm ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-08-30%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29&src=typed_query&f=live)
+* :point_right: [Age Verification: the UK @ChildrensComm ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-08-30%20%28%22children%27s%20commissioner%22%20OR%20%22childrens%20commissioner%22%20OR%20childrenscomm%20OR%20%22rachel%20de%20souza%22%20OR%20%22rachel%20desouza%22%20OR%20rachel_desouza%29&src=typed_query)
+* :heart: [Share this Search for 'Age Verification: the UK @ChildrensComm ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Age%20Verification%3A%20The%20UK%20%40ChildrensComm%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-the-uk-childrenscomm-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -47,10 +47,10 @@ since:2021-08-30
     )
 ```
 
-### ANONYMITY, PETITION TO REQUIRE ID FOR SOCIAL MEDIA ARCHIVE
-* :point_right: [Anonymity, Petition to Require ID for Social Media ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query&f=live)
-* :point_right: [Anonymity, Petition to Require ID for Social Media ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query)
-* :heart: [Share this Search for 'Anonymity, Petition to Require ID for Social Media ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Anonymity%2C%20Petition%20To%20Require%20ID%20For%20Social%20Media%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23anonymity-petition-to-require-id-for-social-media-archive)
+### ANONYMITY: PETITION TO REQUIRE ID FOR SOCIAL MEDIA ARCHIVE
+* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query&f=live)
+* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query)
+* :heart: [Share this Search for 'Anonymity: petition to require ID for social media ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Anonymity%3A%20Petition%20To%20Require%20ID%20For%20Social%20Media%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23anonymity-petition-to-require-id-for-social-media-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -70,6 +70,31 @@ OR (
 OR (
     ( "katie price" OR KatiePrice )
     petition
+    )
+```
+
+### CHILDRENS CODE: "REGULATION WORKS" FALLACY ARCHIVE
+* :point_right: [Childrens Code: "Regulation Works" Fallacy ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query&f=live)
+* :point_right: [Childrens Code: "Regulation Works" Fallacy ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query)
+* :heart: [Share this Search for 'Childrens Code: "Regulation Works" Fallacy ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Childrens%20Code%3A%20%22Regulation%20Works%22%20Fallacy%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23childrens-code-regulation-works-fallacy-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://twitter.com/AlecMuffett/status/1431575809907638273
+#### query source (176/512 characters)
+```
+"regulation works"
+(
+    "age appropriate"
+    OR "child safety"
+    OR children
+    OR "children's code"
+    OR csam
+    OR "design code"
+    OR kidron
+    OR "online harms"
+    OR "personal data"
+    OR platforms
     )
 ```
 
@@ -168,30 +193,5 @@ whatsapp
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
-```
-
-### REGULATION, CHILDRENS CODE, "REGULATION WORKS" FALLACY ARCHIVE
-* :point_right: [Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query&f=live)
-* :point_right: [Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query)
-* :heart: [Share this Search for 'Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Regulation%2C%20Childrens%20Code%2C%20%22Regulation%20Works%22%20Fallacy%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-childrens-code-regulation-works-fallacy-archive)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://twitter.com/AlecMuffett/status/1431575809907638273
-#### query source (176/512 characters)
-```
-"regulation works"
-(
-    "age appropriate"
-    OR "child safety"
-    OR children
-    OR "children's code"
-    OR csam
-    OR "design code"
-    OR kidron
-    OR "online harms"
-    OR "personal data"
-    OR platforms
-    )
 ```
 

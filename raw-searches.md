@@ -12,7 +12,7 @@
 
 ## helper: <foo bar> expands to: "foo bar" OR "FooBar"
 
-# End-To-End Encryption, Messaging Apps
+# End-To-End Encryption: Apps | twitter accounts for a selection of messaging apps
 
 "+@briarapp"
 OR "+@element_hq"
@@ -29,7 +29,7 @@ OR "+@wa_status"
 OR "+@whatsapp"
 OR "+@wire"
 
-# End-To-End Encryption, Breaking
+# End-To-End Encryption: Breaking | discussion of weakening E2EE, backdoors, and #chatcontrol
 
 "break e2e"
 OR "break e2ee"
@@ -59,7 +59,7 @@ OR (
         )
     )
 
-# End-To-End Encryption, Keywords
+# End-To-End Encryption: General | including regulation, law enforcement, and platforms
 
 <chat control>
 OR <chat kontrolle>
@@ -95,7 +95,7 @@ OR (
         )
     )
 
-# Age Verification, Keywords
+# Age Verification: Industry & Advocacy | including related child safety initiatives
 
 "#voco"
 OR "ageverificationsystems"
@@ -110,11 +110,11 @@ OR <age appropriate design code>
 OR <age assurance>
 OR <age verification>
 
-# Age Verification, Simple
+# Age Verification: General | because a basic search for the phrase yields very noisy results
 
 "age verification"
 
-# Anonymity, Petition to Require ID for Social Media ARCHIVE
+# Anonymity: petition to require ID for social media ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1370018001509097474
 * https://twitter.com/AlecMuffett/status/1370091171461144579
@@ -145,7 +145,7 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple, CSAM Surveillance Proposal
+# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -181,7 +181,7 @@ OR (
     )
 OR "https://www.apple.com/child-safety/"
 
-# Anonymity, Simple
+# Anonymity: General
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 * https://www.penny-arcade.com/news/post/2013/02/18/the-corollary
@@ -211,7 +211,7 @@ OR "https://www.apple.com/child-safety/"
         )
     )
 
-# Apple, Tank-Man Image
+# Apple: Tank-Man Image
 
 ( "apple" OR "csam" )
 AND (
@@ -221,7 +221,7 @@ AND (
     OR <tank guy>
     )
 
-# Regulation, Childrens Code, "Regulation Works" Fallacy ARCHIVE
+# Childrens Code: "Regulation Works" Fallacy ARCHIVE
 
 * https://twitter.com/AlecMuffett/status/1431575809907638273
 
@@ -239,7 +239,7 @@ AND (
     OR "platforms"
     )
 
-# Age Verification, the UK @ChildrensComm ARCHIVE
+# Age Verification: the UK @ChildrensComm ARCHIVE
 
 * https://www.telegraph.co.uk/news/2021/08/30/social-media-companies-told-introduce-tough-age-checks-using/
 * https://twitter.com/AlecMuffett/status/1401643033872023556
@@ -257,7 +257,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple, Delays CSAM Surveillance of iPhones and MacOS
+# Apple: delay of CSAM surveillance of iPhones and MacOS
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -347,20 +347,20 @@ AND (
         )
     )
 
-# End-to-End Encryption, ChatControl
+# End-to-End Encryption: ChatControl | EU initiative to mandate encryption backdoors
 
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
 
 <chat control>
 OR "chatkontrolle"
 
-# Regulation, UK Online Safety
+# Regulation: UK Online Safety | including #OnlineSafetyBill
 
 "OnlineSafetyCom" ## username
 OR "OnlineSafetyBill"
 OR "LordsCommsCom"
 
-# Apple, "Bugs In Our Pockets" Paper
+# Apple: "Bugs In Our Pockets" Paper
 
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://arxiv.org/abs/2110.07450
@@ -392,7 +392,7 @@ AND (
     OR "automatically scan all iphones"
     )
 
-# Regulation, EU Digital Identity Framework
+# Regulation: EU Digital Identity Framework
 
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
@@ -405,7 +405,7 @@ OR "QWAC"
 OR "QWACs"
 OR "Qualified Web Authentication Certificates"
 
-# End-To-End Encryption and Children | including #EarnItAct & #Section230
+# End-To-End Encryption and Children | including #EarnItAct, #Section230 & #OnlineSafetyBill
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
@@ -492,7 +492,7 @@ OR (
 	)
     )
 
-# Safer Internet Day
+# Safer Internet Day: General | tweets pertaining to the global campaign
 
 "UK_SIC"
 OR <play it fair online>
