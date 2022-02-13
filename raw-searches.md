@@ -479,20 +479,24 @@ OR (
 * https://www.nspcc.org.uk/globalassets/documents/news/taming-the-wild-west-web-regulate-social-networks.pdf
 * https://www.nspcc.org.uk/globalassets/documents/research-reports/how-to-win-the-wild-west-web-report.pdf
 
-wildwestweb
-OR wildwestinternet
-OR wildwestnet
-OR (
-    "wild west"
-    AND (
-	"web"
-	OR "internet"
-	OR "network"
-	OR "nspcc"
-	OR "regulation"
-	OR "unregulated"
+(
+    wildwestweb
+    OR wildwestinternet
+    OR wildwestnet
+    OR (
+	"wild west"
+	AND (
+	    "web"
+	    OR "internet"
+	    OR "network"
+	    OR "nspcc"
+	    OR "regulation"
+	    OR "unregulated"
+	    )
 	)
     )
+AND -"chance to make the UK the safest place"
+
 
 # Safer Internet Day: General | tweets pertaining to the global campaign
 

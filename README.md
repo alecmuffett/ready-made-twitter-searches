@@ -487,8 +487,8 @@ OR sid2022
 
 ### THE "#WILDWESTWEB" FALLACY
 #### FOR #SAFERINTERNETDAY, #SID2022, #PLAYITSAFEONLINE, #EARNITACT AND #NOPLACETOHIDE
-* :point_right: [The "#WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query&f=live)
-* :point_right: [The "#WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29&src=typed_query)
+* :point_right: [The "#WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query&f=live)
+* :point_right: [The "#WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query)
 * :heart: [Share this Search for 'The "#WildWestWeb" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20The%20%22%23WildWestWeb%22%20Fallacy%20%E2%80%94%20for%20%23SaferInternetDay%2C%20%23SID2022%2C%20%23PlayItSafeOnline%2C%20%23EARNITAct%20and%20%23NoPlaceToHide%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-wildwestweb-fallacy)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -500,21 +500,24 @@ OR sid2022
 * https://webdevlaw.uk/2022/02/07/the-wildwestweb-fallacy-isnt-about-ending-online-harms-its-about-enabling-populism/ **START HERE**
 * https://www.nspcc.org.uk/globalassets/documents/news/taming-the-wild-west-web-regulate-social-networks.pdf
 * https://www.nspcc.org.uk/globalassets/documents/research-reports/how-to-win-the-wild-west-web-report.pdf
-#### query source (134/512 characters)
+#### query source (180/512 characters)
 ```
-wildwestweb
-OR wildwestinternet
-OR wildwestnet
-OR (
-    "wild west"
-    (
-	web
-	OR internet
-	OR network
-	OR nspcc
-	OR regulation
-	OR unregulated
+(
+    wildwestweb
+    OR wildwestinternet
+    OR wildwestnet
+    OR (
+	"wild west"
+	(
+	    web
+	    OR internet
+	    OR network
+	    OR nspcc
+	    OR regulation
+	    OR unregulated
+	    )
 	)
     )
+-"chance to make the UK the safest place"
 ```
 
