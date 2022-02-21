@@ -422,6 +422,9 @@ OR "Qualified Web Authentication Certificates"
 * http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it’s-more-dangerous-ever
 
 "noPlaceToHide"
+OR <earn it act>
+OR "StopEarnItAct2022"
+OR "StopTheEarnItAct2022"
 OR (
     ( ## audience keywords
 	"child"
@@ -436,9 +439,7 @@ OR (
 	)
     AND (
 	## medium-signal keywords
-	<nick clegg>
-	OR <earn it act>
-	OR <section 230>
+	<section 230>
 	OR ( ## tuple
 	    ( ## topic keywords
 		"e2ee"
