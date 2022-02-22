@@ -398,11 +398,20 @@ AND (
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 
 <digital identity framework>
+OR <eu digital identity>
 OR "#EUeID"
 OR "#eIDAS"
-OR "EU Digital Identity"
-OR "QWAC"
-OR "QWACs"
+OR (
+    (
+	"QWAC"
+	OR "QWACs"
+	)
+    AND (
+	"certificate"
+	OR "certificates"
+	OR "certs"
+	)
+    )
 OR "Qualified Web Authentication Certificates"
 
 # End-To-End Encryption and Children | including #EarnItAct, #Section230 & #OnlineSafetyBill

@@ -438,22 +438,31 @@ OR (
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
-* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22&src=typed_query&f=live)
-* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%22EU%20Digital%20Identity%22%20OR%20QWAC%20OR%20QWACs%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22&src=typed_query)
+* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22&src=typed_query&f=live)
+* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%23EUeID%20OR%20%23eIDAS%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29%20OR%20%22Qualified%20Web%20Authentication%20Certificates%22&src=typed_query)
 * :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Regulation%3A%20EU%20Digital%20Identity%20Framework%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
-#### query source (165/512 characters)
+#### query source (234/512 characters)
 ```
 "digital identity framework" OR DigitalIdentityFramework
+OR "eu digital identity" OR EuDigitalIdentity
 OR #EUeID
 OR #eIDAS
-OR "EU Digital Identity"
-OR QWAC
-OR QWACs
+OR (
+    (
+	QWAC
+	OR QWACs
+	)
+    (
+	certificate
+	OR certificates
+	OR certs
+	)
+    )
 OR "Qualified Web Authentication Certificates"
 ```
 
