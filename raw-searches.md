@@ -397,11 +397,13 @@ AND (
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 
-<digital identity framework>
-OR <eu digital identity>
+"#eIDAS"
 OR "#EUeID"
-OR "#eIDAS"
-OR (
+OR "qualified web authentication"
+OR <digital identity framework>
+OR <eu digital id>
+OR <eu digital identity>
+OR ( ## these need to be constrained to reduce noise
     (
 	"QWAC"
 	OR "QWACs"
@@ -412,7 +414,6 @@ OR (
 	OR "certs"
 	)
     )
-OR "Qualified Web Authentication Certificates"
 
 # End-To-End Encryption and Children | including #EarnItAct, #Section230 & #OnlineSafetyBill
 
