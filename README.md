@@ -24,6 +24,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-to-End Encryption: ChatControl](#end-to-end-encryption-chatcontrol) (EU initiative to mandate encryption backdoors)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
+* [Putin's War](#putins-war)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -435,6 +436,18 @@ OR (
         OR encryptions
         )
     )
+```
+
+### PUTIN'S WAR
+* :point_right: [Putin's War - LATEST Tweets](https://twitter.com/search?q=%28%23%D0%29%BF%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%20OR%20%28%23%D0%29%B2%D0%BE%D0%B9%D0%BD%D0%B0%D0%BF%D1%83%D1%82%D0%B8%D0%BD%D0%B0&src=typed_query&f=live)
+* :point_right: [Putin's War - TOP Tweets](https://twitter.com/search?q=%28%23%D0%29%BF%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%20OR%20%28%23%D0%29%B2%D0%BE%D0%B9%D0%BD%D0%B0%D0%BF%D1%83%D1%82%D0%B8%D0%BD%D0%B0&src=typed_query)
+* :heart: [Share this Search for 'Putin's War' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Putin%27s%20War%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23putins-war)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (60/512 characters)
+```
+(#�)�утинскаявойна
+OR (#�)�ойнапутина
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
