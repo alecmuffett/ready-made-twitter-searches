@@ -45,14 +45,14 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 
 ### AGE VERIFICATION: INDUSTRY & ADVOCACY
 #### INCLUDING RELATED CHILD SAFETY INITIATIVES
-* :point_right: [Age Verification: Industry & Advocacy - LATEST Tweets](https://twitter.com/search?q=%23voco%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20OR%20%22age%20appropriate%20design%20code%22%20OR%20AgeAppropriateDesignCode%20OR%20%22age%20assurance%22%20OR%20AgeAssurance%20OR%20%22age%20verification%22%20OR%20AgeVerification&src=typed_query&f=live)
-* :point_right: [Age Verification: Industry & Advocacy - TOP Tweets](https://twitter.com/search?q=%23voco%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20OR%20%22age%20appropriate%20design%20code%22%20OR%20AgeAppropriateDesignCode%20OR%20%22age%20assurance%22%20OR%20AgeAssurance%20OR%20%22age%20verification%22%20OR%20AgeVerification&src=typed_query)
+* :point_right: [Age Verification: Industry & Advocacy - LATEST Tweets](https://twitter.com/search?q=%28%23voco%29%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20OR%20%22age%20appropriate%20design%20code%22%20OR%20AgeAppropriateDesignCode%20OR%20%22age%20assurance%22%20OR%20AgeAssurance%20OR%20%22age%20verification%22%20OR%20AgeVerification&src=typed_query&f=live)
+* :point_right: [Age Verification: Industry & Advocacy - TOP Tweets](https://twitter.com/search?q=%28%23voco%29%20OR%20ageverificationsystems%20OR%20childrenscode%20OR%20%22digital%20economy%20act%22%20OR%20harveyslaw%20OR%20onlineageverification%20OR%20pas1296%20OR%20trackatroll%20OR%20%22verification%20of%20children%20online%22%20OR%20%22age%20appropriate%20design%20code%22%20OR%20AgeAppropriateDesignCode%20OR%20%22age%20assurance%22%20OR%20AgeAssurance%20OR%20%22age%20verification%22%20OR%20AgeVerification&src=typed_query)
 * :heart: [Share this Search for 'Age Verification: Industry & Advocacy' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Age%20Verification%3A%20Industry%20%26%20Advocacy%20%E2%80%94%20including%20related%20child%20safety%20initiatives%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-industry--advocacy)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (312/512 characters)
+#### query source (314/512 characters)
 ```
-#voco
+(#voco)
 OR ageverificationsystems
 OR childrenscode
 OR "digital economy act"
@@ -438,8 +438,8 @@ OR (
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
-* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%23eIDAS%20OR%20%23EUeID%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query&f=live)
-* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%23eIDAS%20OR%20%23EUeID%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query)
+* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%28%23eIDAS%29%20OR%20%28%23EUeID%29%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query&f=live)
+* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%28%23eIDAS%29%20OR%20%28%23EUeID%29%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query)
 * :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Regulation%3A%20EU%20Digital%20Identity%20Framework%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -449,10 +449,10 @@ OR (
 * https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security
 * https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
 * https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
-#### query source (255/512 characters)
+#### query source (259/512 characters)
 ```
-#eIDAS
-OR #EUeID
+(#eIDAS)
+OR (#EUeID)
 OR "qualified web authentication"
 OR "digital identity framework" OR DigitalIdentityFramework
 OR "eu digital id" OR EuDigitalId

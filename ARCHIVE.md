@@ -48,8 +48,8 @@ since:2021-08-30
 ```
 
 ### ANONYMITY: PETITION TO REQUIRE ID FOR SOCIAL MEDIA ARCHIVE
-* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query&f=live)
-* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - TOP Tweets](https://twitter.com/search?q=%23saveanonymity%20OR%20%23trackatroll%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query)
+* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28%23saveanonymity%29%20OR%20%28%23trackatroll%29%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query&f=live)
+* :point_right: [Anonymity: petition to require ID for social media ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28%23saveanonymity%29%20OR%20%28%23trackatroll%29%20OR%20%28%22https%3A%2F%2Fpetition.parliament.uk%2Fpetitions%2F575833%22%20-%22Make%20verified%20ID%20a%20requirement%20for%20opening%22%29%20OR%20%28%28%22katie%20price%22%20OR%20KatiePrice%29%20petition%29&src=typed_query)
 * :heart: [Share this Search for 'Anonymity: petition to require ID for social media ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Anonymity%3A%20Petition%20To%20Require%20ID%20For%20Social%20Media%20ARCHIVE%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23anonymity-petition-to-require-id-for-social-media-archive)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -59,10 +59,10 @@ since:2021-08-30
 * https://twitter.com/AlecMuffett/status/1414525963250110465
 * https://www.huffingtonpost.co.uk/entry/katie-price-track-a-troll-petition-criticism_uk_604f2a25c5b60e0725f8e9aa
 * https://www.openrightsgroup.org/blog/saveanonymity-together-we-can-defend-anonymity/
-#### query source (181/512 characters)
+#### query source (185/512 characters)
 ```
-#saveanonymity
-OR #trackatroll
+(#saveanonymity)
+OR (#trackatroll)
 OR (
     "https://petition.parliament.uk/petitions/575833"
     -"Make verified ID a requirement for opening"

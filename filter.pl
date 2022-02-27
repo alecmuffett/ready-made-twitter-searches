@@ -27,7 +27,7 @@ my %links = ();
 my %anchors = ();
 my %subtitles = ();
 
-sub Squash {
+sub ExpandPhrase {
     my $src = lc("@_");
     my @words = map {ucfirst} split(' ', $src);
     my $dst = "@words";
@@ -41,7 +41,7 @@ while (<>) {
     next if /^\s*$/;
 
     # preprocessor
-    s!\<(.*?)\>!&Squash($1)!goe;
+    s!\<(.*?)\>!&ExpandPhrase($1)!goe;
 
     if (/^#\s+([\w"'].*)/) { # eats leading w/s
 	$key = $1;
@@ -69,7 +69,10 @@ while (<>) {
 
     s/\bAND\b\s*//g; # AND is apparently redundant
 
-    s/"((\+\@|\w+:|#)?[-\w]+)"/$1/ge;
+    s/"((\+\@|\w+:|#)?[-\w]+)"/$1/ge; # "foo" -> foo
+
+    s/(#\w+)/($1)/go; # #foo -> (#foo)
+
     $source{$key} .= $_;
 
     s/\s+/ /g;
