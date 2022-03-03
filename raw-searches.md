@@ -447,7 +447,7 @@ OR (
 	OR "kid"
 	OR "kids"
 	OR "parent"
-	OR "parentsX"
+	OR "parents"
 	)
     AND (
 	## medium-signal keywords
@@ -464,20 +464,20 @@ OR (
 	    AND ( ## scope keywords
 		"5rightsfound"
 		OR "barnardos"
+		OR "blackrock"
 		OR "campaign"
 		OR "facebook"
 		OR "government"
-		OR "instagram"
 		OR "ico"
+		OR "instagram"
 		OR "iwf"
 		OR "mcfcharity"
 		OR "messenger"
 		OR "nspcc"
 		OR "online"
 		OR "ukhomeoffice"
-		OR "whatsapp"
-		OR "blackrock"
 		OR "vanguard"
+		OR "whatsapp"
 		)
 	    )
 	)
