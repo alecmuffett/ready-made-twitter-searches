@@ -418,7 +418,7 @@ OR ( ## these need to be constrained to reduce noise
 	)
     )
 
-# End-To-End Encryption and Children | including #EarnItAct, #Section230 & #OnlineSafetyBill
+# End-To-End Encryption and Children | including #EarnItAct, #Section230, #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
@@ -437,6 +437,7 @@ OR ( ## these need to be constrained to reduce noise
 
 "noPlaceToHide"
 OR <earn it act>
+OR <online safety bill>"
 OR "StopEarnItAct2022"
 OR "StopTheEarnItAct2022"
 OR (
@@ -447,9 +448,6 @@ OR (
 	OR "kids"
 	OR "parent"
 	OR "parents"
-	OR "teen"
-	OR "teenager"
-	OR "teens"
 	)
     AND (
 	## medium-signal keywords
@@ -461,7 +459,6 @@ OR (
 		OR "encrypted"
 		OR "encrypting"
 		OR "encryption"
-		OR "encryptions"
 		OR "endToEndEncryption"
 		)
 	    AND ( ## scope keywords
