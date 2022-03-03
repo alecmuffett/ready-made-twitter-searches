@@ -446,6 +446,7 @@ OR (
 	OR "children"
 	OR "kid"
 	OR "kids"
+	OR "parent"
 	OR "parents"
 	)
     AND (
