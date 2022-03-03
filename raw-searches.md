@@ -437,7 +437,7 @@ OR ( ## these need to be constrained to reduce noise
 
 "noPlaceToHide"
 OR <earn it act>
-OR <online safety bill>"
+OR <online safety bill>
 OR "StopEarnItAct2022"
 OR "StopTheEarnItAct2022"
 OR (
