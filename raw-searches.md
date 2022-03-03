@@ -433,6 +433,7 @@ OR ( ## these need to be constrained to reduce noise
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
 * https://twitter.com/Riana_Crypto/status/1490152004668116993
 * http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it’s-more-dangerous-ever
+* https://www.ft.com/content/ffb79368-daac-4bc3-80dd-dd24063579a7
 
 "noPlaceToHide"
 OR <earn it act>
@@ -478,6 +479,8 @@ OR (
 		OR "online"
 		OR "ukhomeoffice"
 		OR "whatsapp"
+		OR "blackrock"
+		OR "vanguard"
 		)
 	    )
 	)

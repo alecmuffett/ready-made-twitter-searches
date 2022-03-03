@@ -245,8 +245,8 @@ since:2021-09-01
 
 ### END-TO-END ENCRYPTION AND CHILDREN
 #### INCLUDING #EARNITACT, #SECTION230 & #ONLINESAFETYBILL
-* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20StopEarnItAct2022%20OR%20StopTheEarnItAct2022%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%28%22section%20230%22%20OR%20Section230%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%29%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20StopEarnItAct2022%20OR%20StopTheEarnItAct2022%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%28%22section%20230%22%20OR%20Section230%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%29%29%29%29&src=typed_query)
+* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20StopEarnItAct2022%20OR%20StopTheEarnItAct2022%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%28%22section%20230%22%20OR%20Section230%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%20OR%20blackrock%20OR%20vanguard%29%29%29%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20StopEarnItAct2022%20OR%20StopTheEarnItAct2022%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%20OR%20teen%20OR%20teenager%20OR%20teens%29%28%22section%20230%22%20OR%20Section230%20OR%20%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20encryptions%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20instagram%20OR%20ico%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20whatsapp%20OR%20blackrock%20OR%20vanguard%29%29%29%29&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption and Children' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-To-End%20Encryption%20And%20Children%20%E2%80%94%20including%20%23EarnItAct%2C%20%23Section230%20%26%20%23OnlineSafetyBill%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -260,11 +260,12 @@ since:2021-09-01
 * https://twitter.com/AlecMuffett/status/1484512689112166403
 * https://twitter.com/Riana_Crypto/status/1490152004668116993
 * https://www.bbc.co.uk/news/technology-60072191
+* https://www.ft.com/content/ffb79368-daac-4bc3-80dd-dd24063579a7
 * https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
-#### query source (486/512 characters)
+#### query source (511/512 characters)
 ```
 noPlaceToHide
 OR "earn it act" OR EarnItAct
@@ -309,6 +310,8 @@ OR (
 		OR online
 		OR ukhomeoffice
 		OR whatsapp
+		OR blackrock
+		OR vanguard
 		)
 	    )
 	)
