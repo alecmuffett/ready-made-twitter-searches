@@ -447,7 +447,7 @@ OR (
 	OR "kid"
 	OR "kids"
 	OR "parent"
-	OR "parents"
+	OR "parent"
 	)
     AND (
 	## medium-signal keywords
