@@ -418,7 +418,7 @@ OR ( ## these need to be constrained to reduce noise
 	)
     )
 
-# End-To-End Encryption and Children | including #EarnItAct, #Section230, #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
+# End-To-End Encryption and Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
@@ -431,15 +431,10 @@ OR ( ## these need to be constrained to reduce noise
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
-* https://twitter.com/Riana_Crypto/status/1490152004668116993
-* http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it’s-more-dangerous-ever
 * https://www.ft.com/content/ffb79368-daac-4bc3-80dd-dd24063579a7
 
 "noPlaceToHide"
-OR <earn it act>
 OR <online safety bill>
-OR "StopEarnItAct2022"
-OR "StopTheEarnItAct2022"
 OR (
     ( ## audience keywords
 	"child"
@@ -451,8 +446,7 @@ OR (
 	)
     AND (
 	## medium-signal keywords
-	<section 230>
-	OR ( ## tuple
+	( ## tuple
 	    ( ## topic keywords
 		"e2ee"
 		OR "encrypt"
@@ -518,3 +512,13 @@ AND -"chance to make the UK the safest place"
 OR <play it fair online>
 OR <safer internet day>
 OR sid2022
+
+# The EARN-IT Act & Section 230
+
+* https://twitter.com/Riana_Crypto/status/1490152004668116993
+* http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it’s-more-dangerous-ever
+
+"StopTheEarnItAct2022"
+OR "StopEarnItAct2022"
+OR <earn it act>
+OR <section 230>
