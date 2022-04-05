@@ -522,3 +522,15 @@ OR sid2022
 OR "StopEarnItAct2022"
 OR <earn it act>
 OR <section 230>
+
+# The Balance Between ...
+
+"balance between"
+AND (
+    "safety"
+    OR "security"
+    OR "privacy"
+    OR "freedom"
+    OR "freedoms"
+    OR "rights"
+    )

@@ -27,6 +27,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
+* [The Balance Between ...](#the-balance-between-)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy) (for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide)
 
@@ -492,6 +493,25 @@ UK_SIC
 OR "play it fair online" OR PlayItFairOnline
 OR "safer internet day" OR SaferInternetDay
 OR sid2022
+```
+
+### THE BALANCE BETWEEN ...
+* :point_right: [The Balance Between ... - LATEST Tweets](https://twitter.com/search?q=%22balance%20between%22%20%28safety%20OR%20security%20OR%20privacy%20OR%20freedom%20OR%20freedoms%20OR%20rights%29&src=typed_query&f=live)
+* :point_right: [The Balance Between ... - TOP Tweets](https://twitter.com/search?q=%22balance%20between%22%20%28safety%20OR%20security%20OR%20privacy%20OR%20freedom%20OR%20freedoms%20OR%20rights%29&src=typed_query)
+* :heart: [Share this Search for 'The Balance Between ...' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20The%20Balance%20Between%20...%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-balance-between-)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (84/512 characters)
+```
+"balance between"
+(
+    safety
+    OR security
+    OR privacy
+    OR freedom
+    OR freedoms
+    OR rights
+    )
 ```
 
 ### THE EARN-IT ACT & SECTION 230
