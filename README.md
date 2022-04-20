@@ -163,6 +163,7 @@ since:2021-10-14
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 #### query source (315/512 characters)
 ```

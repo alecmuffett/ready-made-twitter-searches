@@ -159,6 +159,7 @@ OR ( "nso" AND "spyware")
 * https://stratechery.com/2021/apples-mistake/
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
+* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
 
 <neural hash>
 OR <neural match>
