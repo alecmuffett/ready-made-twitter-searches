@@ -145,7 +145,7 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch
+# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -173,12 +173,11 @@ OR (
         OR "cse"
         OR "ncmec"
         OR "psi"
-        OR "child abuse"
+        OR <child abuse>
         OR "illegal imagery"
         OR "law enforcement"
         OR "private set intersection"
-	OR "client side"
-	OR "clientside"
+	OR <client side>
         )
     )
 OR "https://www.apple.com/child-safety/"
