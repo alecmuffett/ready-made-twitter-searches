@@ -146,8 +146,8 @@ since:2021-10-14
 
 ### APPLE: CSAM SURVEILLANCE PROPOSAL
 #### INCLUDING #NEURALHASH AND #NEURALMATCH AND #CLIENTSIDESCANNING
-* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query&f=live)
-* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query)
+* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query&f=live)
+* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query)
 * :heart: [Share this Search for 'Apple: CSAM surveillance proposal' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Apple%3A%20CSAM%20Surveillance%20Proposal%20%E2%80%94%20including%20%23NeuralHash%20and%20%23NeuralMatch%20and%20%23ClientSideScanning%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -164,7 +164,7 @@ since:2021-10-14
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-#### query source (303/512 characters)
+#### query source (315/512 characters)
 ```
 "neural hash" OR NeuralHash
 OR "neural match" OR NeuralMatch
@@ -184,6 +184,7 @@ OR (
         OR "law enforcement"
         OR "private set intersection"
 	OR "client side" OR ClientSide
+	OR scanning
         )
     )
 OR "https://www.apple.com/child-safety/"

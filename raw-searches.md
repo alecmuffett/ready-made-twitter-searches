@@ -178,6 +178,7 @@ OR (
         OR "law enforcement"
         OR "private set intersection"
 	OR <client side>
+	OR scanning
         )
     )
 OR "https://www.apple.com/child-safety/"
