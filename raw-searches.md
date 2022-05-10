@@ -369,6 +369,7 @@ OR (
 	OR "csei"
 	OR "encrypted"
 	OR "surveillance"
+	OR "überwachung"
 	OR <chat control>
 	OR <chat kontrolle>
 	OR <end to end encryption>
