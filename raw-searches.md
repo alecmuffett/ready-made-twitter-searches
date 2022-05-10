@@ -352,13 +352,15 @@ AND (
 
 # End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors
 
-* https://european-pirateparty.eu/parliament-approves-chatcontrol/
 * https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf
+* https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%EF%BF%BC/
+* https://www.euractiv.com/section/data-protection/news/leak-commission-to-force-scanning-of-communications-to-combat-child-pornography/
 
 "https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
 OR (
     (
 	"eu"
+	OR "eu_commission"
 	OR "european commission"
 	OR "european union"
 	)
