@@ -350,12 +350,28 @@ AND (
         )
     )
 
-# End-to-End Encryption: ChatControl | EU initiative to mandate encryption backdoors
+# End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors
 
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
+* https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf
 
-<chat control>
-OR "chatkontrolle"
+"https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
+OR (
+    (
+	"eu"
+	OR "european commission"
+	OR "european union"
+	)
+    AND (
+	"csam"
+	OR "csei"
+	OR "encrypted"
+	OR "surveillance"
+	OR <chat control>
+	OR <chat kontrolle>
+	OR <end to end encryption>
+	)
+    )
 
 # Regulation: UK Online Safety | including #OnlineSafetyBill
 

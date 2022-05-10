@@ -22,7 +22,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption and Children](#end-to-end-encryption-and-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
-* [End-to-End Encryption: ChatControl](#end-to-end-encryption-chatcontrol) (EU initiative to mandate encryption backdoors)
+* [End-to-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
@@ -378,19 +378,35 @@ OR (
     )
 ```
 
-### END-TO-END ENCRYPTION: CHATCONTROL
-#### EU INITIATIVE TO MANDATE ENCRYPTION BACKDOORS
-* :point_right: [End-to-End Encryption: ChatControl - LATEST Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20chatkontrolle&src=typed_query&f=live)
-* :point_right: [End-to-End Encryption: ChatControl - TOP Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20chatkontrolle&src=typed_query)
-* :heart: [Share this Search for 'End-to-End Encryption: ChatControl' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-to-End%20Encryption%3A%20ChatControl%20%E2%80%94%20EU%20initiative%20to%20mandate%20encryption%20backdoors%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-chatcontrol)
+### END-TO-END ENCRYPTION: EUROPEAN UNION BACKDOORS
+#### EU INITIATIVES TO MANDATE ENCRYPTION BACKDOORS
+* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%28%28eu%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
+* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%28%28eu%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query)
+* :heart: [Share this Search for 'End-to-End Encryption: European Union Backdoors' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-to-End%20Encryption%3A%20European%20Union%20Backdoors%20%E2%80%94%20EU%20initiatives%20to%20mandate%20encryption%20backdoors%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-european-union-backdoors)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf
 * https://european-pirateparty.eu/parliament-approves-chatcontrol/
-#### query source (46/512 characters)
+#### query source (275/512 characters)
 ```
-"chat control" OR ChatControl
-OR chatkontrolle
+"https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
+OR (
+    (
+	eu
+	OR "european commission"
+	OR "european union"
+	)
+    (
+	csam
+	OR csei
+	OR encrypted
+	OR surveillance
+	OR "chat control" OR ChatControl
+	OR "chat kontrolle" OR ChatKontrolle
+	OR "end to end encryption" OR EndToEndEncryption
+	)
+    )
 ```
 
 ### END-TO-END ENCRYPTION: GENERAL
