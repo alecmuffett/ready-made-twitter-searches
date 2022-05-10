@@ -537,3 +537,9 @@ AND (
     OR "freedoms"
     OR "rights"
     )
+
+# Fake Rumours of Signal and WhatsApp Vulnerabilities
+
+( "signalapp" OR "whatsapp" )
+AND ( "attack" OR "attacks" )
+AND "platform"

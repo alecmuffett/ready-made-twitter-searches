@@ -24,6 +24,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-to-End Encryption: ChatControl](#end-to-end-encryption-chatcontrol) (EU initiative to mandate encryption backdoors)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
+* [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -434,6 +435,19 @@ OR (
         OR encryptions
         )
     )
+```
+
+### FAKE RUMOURS OF SIGNAL AND WHATSAPP VULNERABILITIES
+* :point_right: [Fake Rumours of Signal and WhatsApp Vulnerabilities - LATEST Tweets](https://twitter.com/search?q=%28signalapp%20OR%20whatsapp%29%28attack%20OR%20attacks%29%20platform&src=typed_query&f=live)
+* :point_right: [Fake Rumours of Signal and WhatsApp Vulnerabilities - TOP Tweets](https://twitter.com/search?q=%28signalapp%20OR%20whatsapp%29%28attack%20OR%20attacks%29%20platform&src=typed_query)
+* :heart: [Share this Search for 'Fake Rumours of Signal and WhatsApp Vulnerabilities' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Fake%20Rumours%20Of%20Signal%20And%20WhatsApp%20Vulnerabilities%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23fake-rumours-of-signal-and-whatsapp-vulnerabilities)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (55/512 characters)
+```
+( signalapp OR whatsapp )
+( attack OR attacks )
+platform
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
