@@ -355,6 +355,10 @@ AND (
 * https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf
 * https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%EF%BF%BC/
 * https://www.euractiv.com/section/data-protection/news/leak-commission-to-force-scanning-of-communications-to-combat-child-pornography/
+* https://www.ifun.de/eu-will-chat-kontrolle-messenger-sollen-auf-csam-und-grooming-pruefen-186898/
+* https://www.imore.com/leaked-eu-plans-mandate-scanning-encrypted-messages-stop-child-sexual-abuse
+* https://www.berliner-zeitung.de/news/chatkontrolle-gesetz-das-steckt-hinter-den-umstrittenen-plaenen-der-eu-li.227198
+* https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976 - documents are here
 
 "https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
 OR (
