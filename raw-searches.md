@@ -361,6 +361,7 @@ AND (
 * https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976 - documents are here
 
 "https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
+OR "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976"
 OR (
     (
 	"eu"

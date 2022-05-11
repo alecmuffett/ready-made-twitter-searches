@@ -380,8 +380,8 @@ OR (
 
 ### END-TO-END ENCRYPTION: EUROPEAN UNION BACKDOORS
 #### EU INITIATIVES TO MANDATE ENCRYPTION BACKDOORS
-* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
-* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query)
+* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
+* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query)
 * :heart: [Share this Search for 'End-to-End Encryption: European Union Backdoors' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-to-End%20Encryption%3A%20European%20Union%20Backdoors%20%E2%80%94%20EU%20initiatives%20to%20mandate%20encryption%20backdoors%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-european-union-backdoors)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -393,9 +393,10 @@ OR (
 * https://www.ifun.de/eu-will-chat-kontrolle-messenger-sollen-auf-csam-und-grooming-pruefen-186898/
 * https://www.imore.com/leaked-eu-plans-mandate-scanning-encrypted-messages-stop-child-sexual-abuse
 * https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%EF%BF%BC/
-#### query source (310/512 characters)
+#### query source (380/512 characters)
 ```
 "https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
+OR "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976"
 OR (
     (
 	eu
