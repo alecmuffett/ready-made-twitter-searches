@@ -29,6 +29,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
+* [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy) (for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide)
 
@@ -554,6 +555,31 @@ OR sid2022
     OR freedom
     OR freedoms
     OR rights
+    )
+```
+
+### THE DMA AND MESSENGER INTEROPERABILITY
+* :point_right: [The DMA and Messenger Interoperability - LATEST Tweets](https://twitter.com/search?q=%28dma%20OR%20%22digital%20market%22%20OR%20DigitalMarket%20OR%20%22digital%20markets%22%20OR%20DigitalMarkets%20OR%20%22data%20act%22%29%28messenger%20OR%20encrypted%20OR%20encryption%20OR%20interop%20OR%20interoperability%20OR%20messaging%20OR%20%22app%20store%22%20OR%20AppStore%29&src=typed_query&f=live)
+* :point_right: [The DMA and Messenger Interoperability - TOP Tweets](https://twitter.com/search?q=%28dma%20OR%20%22digital%20market%22%20OR%20DigitalMarket%20OR%20%22digital%20markets%22%20OR%20DigitalMarkets%20OR%20%22data%20act%22%29%28messenger%20OR%20encrypted%20OR%20encryption%20OR%20interop%20OR%20interoperability%20OR%20messaging%20OR%20%22app%20store%22%20OR%20AppStore%29&src=typed_query)
+* :heart: [Share this Search for 'The DMA and Messenger Interoperability' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20The%20DMA%20And%20Messenger%20Interoperability%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-dma-and-messenger-interoperability)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (208/512 characters)
+```
+(
+    dma
+    OR "digital market" OR DigitalMarket
+    OR "digital markets" OR DigitalMarkets
+    OR "data act"
+    )
+(
+    messenger
+    OR encrypted
+    OR encryption
+    OR interop
+    OR interoperability
+    OR messaging
+    OR "app store" OR AppStore
     )
 ```
 

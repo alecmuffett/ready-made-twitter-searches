@@ -569,3 +569,21 @@ AND (
 ( "signalapp" OR "whatsapp" )
 AND ( "attack" OR "attacks" )
 AND "platform"
+
+# The DMA and Messenger Interoperability
+
+(
+    "dma"
+    OR <digital market>
+    OR <digital markets>
+    OR "data act"
+    )
+AND (
+    "messenger"
+    OR "encrypted"
+    OR "encryption"
+    OR "interop"
+    OR "interoperability"
+    OR "messaging"
+    OR <app store>
+    )
