@@ -588,12 +588,13 @@ AND (
     OR <app store>
     )
 
-# July 2020 Reshuffle
+# July 2022 Reshuffle
 
 "since:2022-07-04"
 AND (
     reshuffle
     OR <dominic raab>
+    OR <jacob rees mogg>
     OR <liz truss>
     OR <michael gove>
     OR <nadine dorries>
