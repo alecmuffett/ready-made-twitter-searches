@@ -25,6 +25,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-to-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
+* [July 2020 Reshuffle](#july-2020-reshuffle)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -475,6 +476,26 @@ OR (
 ( signalapp OR whatsapp )
 ( attack OR attacks )
 platform
+```
+
+### JULY 2020 RESHUFFLE
+* :point_right: [July 2020 Reshuffle - LATEST Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20trussliz%29&src=typed_query&f=live)
+* :point_right: [July 2020 Reshuffle - TOP Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20trussliz%29&src=typed_query)
+* :heart: [Share this Search for 'July 2020 Reshuffle' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20July%202020%20Reshuffle%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23july-2020-reshuffle)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (203/512 characters)
+```
+since:2022-07-04
+(
+    reshuffle
+    OR "dominic raab" OR DominicRaab
+    OR "liz truss" OR LizTruss
+    OR "michael gove" OR MichaelGove
+    OR "nadine dorries" OR NadineDorries
+    OR "priti patel" OR PritiPatel
+    OR trussliz
+    )
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK

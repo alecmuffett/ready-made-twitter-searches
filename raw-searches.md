@@ -587,3 +587,16 @@ AND (
     OR "messaging"
     OR <app store>
     )
+
+# July 2020 Reshuffle
+
+"since:2022-07-04"
+AND (
+    reshuffle
+    OR <dominic raab>
+    OR <liz truss>
+    OR <michael gove>
+    OR <nadine dorries>
+    OR <priti patel>
+    OR trussliz
+    )
