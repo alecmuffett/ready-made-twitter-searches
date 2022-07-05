@@ -593,11 +593,15 @@ AND (
 "since:2022-07-04"
 AND (
     reshuffle
+    OR <andrew murrison>
     OR <dominic raab>
     OR <jacob rees mogg>
     OR <liz truss>
     OR <michael gove>
+    OR <nadhim zahawi>
     OR <nadine dorries>
     OR <priti patel>
+    OR <rishi sunak>
+    OR <sajid javid>
     OR trussliz
     )

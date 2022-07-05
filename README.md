@@ -479,22 +479,26 @@ platform
 ```
 
 ### JULY 2022 RESHUFFLE
-* :point_right: [July 2022 Reshuffle - LATEST Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22jacob%20rees%20mogg%22%20OR%20JacobReesMogg%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20trussliz%29&src=typed_query&f=live)
-* :point_right: [July 2022 Reshuffle - TOP Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22jacob%20rees%20mogg%22%20OR%20JacobReesMogg%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20trussliz%29&src=typed_query)
+* :point_right: [July 2022 Reshuffle - LATEST Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22andrew%20murrison%22%20OR%20AndrewMurrison%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22jacob%20rees%20mogg%22%20OR%20JacobReesMogg%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadhim%20zahawi%22%20OR%20NadhimZahawi%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20%22rishi%20sunak%22%20OR%20RishiSunak%20OR%20%22sajid%20javid%22%20OR%20SajidJavid%20OR%20trussliz%29&src=typed_query&f=live)
+* :point_right: [July 2022 Reshuffle - TOP Tweets](https://twitter.com/search?q=since%3A2022-07-04%20%28reshuffle%20OR%20%22andrew%20murrison%22%20OR%20AndrewMurrison%20OR%20%22dominic%20raab%22%20OR%20DominicRaab%20OR%20%22jacob%20rees%20mogg%22%20OR%20JacobReesMogg%20OR%20%22liz%20truss%22%20OR%20LizTruss%20OR%20%22michael%20gove%22%20OR%20MichaelGove%20OR%20%22nadhim%20zahawi%22%20OR%20NadhimZahawi%20OR%20%22nadine%20dorries%22%20OR%20NadineDorries%20OR%20%22priti%20patel%22%20OR%20PritiPatel%20OR%20%22rishi%20sunak%22%20OR%20RishiSunak%20OR%20%22sajid%20javid%22%20OR%20SajidJavid%20OR%20trussliz%29&src=typed_query)
 * :heart: [Share this Search for 'July 2022 Reshuffle' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20July%202022%20Reshuffle%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23july-2022-reshuffle)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (241/512 characters)
+#### query source (377/512 characters)
 ```
 since:2022-07-04
 (
     reshuffle
+    OR "andrew murrison" OR AndrewMurrison
     OR "dominic raab" OR DominicRaab
     OR "jacob rees mogg" OR JacobReesMogg
     OR "liz truss" OR LizTruss
     OR "michael gove" OR MichaelGove
+    OR "nadhim zahawi" OR NadhimZahawi
     OR "nadine dorries" OR NadineDorries
     OR "priti patel" OR PritiPatel
+    OR "rishi sunak" OR RishiSunak
+    OR "sajid javid" OR SajidJavid
     OR trussliz
     )
 ```
