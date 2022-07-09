@@ -14,6 +14,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 ## search index
 * [Age Verification: General](#age-verification-general) (because a basic search for the phrase yields very noisy results)
 * [Age Verification: Industry & Advocacy](#age-verification-industry--advocacy) (including related child safety initiatives)
+* [Algorithmic Amplification](#algorithmic-amplification)
 * [Anonymity: General](#anonymity-general)
 * [Apple: "Bugs In Our Pockets" Paper](#apple-bugs-in-our-pockets-paper)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
@@ -69,6 +70,33 @@ OR "verification of children online"
 OR "age appropriate design code" OR AgeAppropriateDesignCode
 OR "age assurance" OR AgeAssurance
 OR "age verification" OR AgeVerification
+```
+
+### ALGORITHMIC AMPLIFICATION
+* :point_right: [Algorithmic Amplification - LATEST Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query&f=live)
+* :point_right: [Algorithmic Amplification - TOP Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query)
+* :heart: [Share this Search for 'Algorithmic Amplification' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Algorithmic%20Amplification%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23algorithmic-amplification)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (207/512 characters)
+```
+(
+    algorithm
+    OR algorithmic
+    OR algorithmically
+    OR algorithmicly
+    OR algorithms
+   )
+(
+    amplify
+    OR "online safety bill" OR OnlineSafetyBill
+    OR amplification
+    OR promote
+    OR promoted
+    OR promotion
+    OR viral
+    OR virality
+    )
 ```
 
 ### ANONYMITY: GENERAL

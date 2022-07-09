@@ -605,3 +605,23 @@ AND (
     OR <sajid javid>
     OR trussliz
     )
+
+# Algorithmic Amplification
+
+(
+    algorithm
+    OR algorithmic
+    OR algorithmically
+    OR algorithmicly
+    OR algorithms
+   )
+AND (
+    amplify
+    OR <online safety bill>
+    OR amplification
+    OR promote
+    OR promoted
+    OR promotion
+    OR viral
+    OR virality
+    )
