@@ -28,7 +28,6 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
-* [Regulation: UK Online Safety](#regulation-uk-online-safety) (including #OnlineSafetyBill)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
@@ -281,8 +280,8 @@ since:2021-09-01
 
 ### END-TO-END ENCRYPTION AND CHILDREN
 #### INCLUDING #ONLINESAFETYBILL, AND #NOPLACETOHIDE V1 & V2
-* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query)
+* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption and Children' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-To-End%20Encryption%20And%20Children%20%E2%80%94%20including%20%23OnlineSafetyBill%2C%20and%20%23NoPlaceToHide%20v1%20%26%20v2%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -299,10 +298,12 @@ since:2021-09-01
 * https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
 * https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
 * https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
-#### query source (405/512 characters)
+#### query source (441/512 characters)
 ```
 noPlaceToHide
 OR "online safety bill" OR OnlineSafetyBill
+OR OnlineSafetyCom
+OR LordsCommsCom
 OR (
     (
 	child
@@ -562,20 +563,6 @@ OR (
 	OR certs
 	)
     )
-```
-
-### REGULATION: UK ONLINE SAFETY
-#### INCLUDING #ONLINESAFETYBILL
-* :point_right: [Regulation: UK Online Safety - LATEST Tweets](https://twitter.com/search?q=OnlineSafetyCom%20OR%20OnlineSafetyBill%20OR%20LordsCommsCom&src=typed_query&f=live)
-* :point_right: [Regulation: UK Online Safety - TOP Tweets](https://twitter.com/search?q=OnlineSafetyCom%20OR%20OnlineSafetyBill%20OR%20LordsCommsCom&src=typed_query)
-* :heart: [Share this Search for 'Regulation: UK Online Safety' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Regulation%3A%20UK%20Online%20Safety%20%E2%80%94%20including%20%23OnlineSafetyBill%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-uk-online-safety)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (52/512 characters)
-```
-OnlineSafetyCom
-OR OnlineSafetyBill
-OR LordsCommsCom
 ```
 
 ### SAFER INTERNET DAY: GENERAL

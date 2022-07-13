@@ -383,12 +383,6 @@ OR (
 	)
     )
 
-# Regulation: UK Online Safety | including #OnlineSafetyBill
-
-"OnlineSafetyCom" ## username
-OR "OnlineSafetyBill"
-OR "LordsCommsCom"
-
 # Apple: "Bugs In Our Pockets" Paper
 
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
@@ -464,6 +458,8 @@ OR ( ## these need to be constrained to reduce noise
 
 "noPlaceToHide"
 OR <online safety bill>
+OR "OnlineSafetyCom" ## username
+OR "LordsCommsCom" ## username
 OR (
     ( ## audience keywords
 	"child"
