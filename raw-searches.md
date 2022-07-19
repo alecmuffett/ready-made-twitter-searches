@@ -441,7 +441,7 @@ OR ( ## these need to be constrained to reduce noise
 	)
     )
 
-# End-To-End Encryption and Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
+# End-To-End Encryption: Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
 
 * https://alecmuffett.com/article/15742
 * https://alecmuffett.com/article/15891
@@ -620,4 +620,29 @@ AND (
     OR promotion
     OR viral
     OR virality
+    )
+
+# End To End Encryption: GCHQ & NCSC "Ghost" Protocol
+
+* https://alecmuffett.com/alecm/e2e-primer/
+* https://twitter.com/AlecMuffett/status/1533867745250623489
+* https://twitter.com/josephfcox/status/1545036313228869632
+* https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
+* https://www.lawfareblog.com/exceptional-access-devil-details-0
+* https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
+
+(
+    ( ## actor
+	"gchq"
+	OR "ncsc"
+	)
+    AND ( ## interest
+	<exceptional access> ## "ghost" is a noisy search term
+	OR encryption
+	OR encrypted
+	OR backdoor
+	OR e2e
+	OR e2ee
+	OR "ian levy"
+	)
     )

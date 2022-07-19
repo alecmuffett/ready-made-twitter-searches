@@ -20,10 +20,11 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
-* [End-To-End Encryption and Children](#end-to-end-encryption-and-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
+* [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-to-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors)
+* [End To End Encryption: GCHQ & NCSC "Ghost" Protocol](#end-to-end-encryption-gchq--ncsc-ghost-protocol)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
@@ -278,74 +279,6 @@ since:2021-09-01
     )
 ```
 
-### END-TO-END ENCRYPTION AND CHILDREN
-#### INCLUDING #ONLINESAFETYBILL, AND #NOPLACETOHIDE V1 & V2
-* :point_right: [End-To-End Encryption and Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption and Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption and Children' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-To-End%20Encryption%20And%20Children%20%E2%80%94%20including%20%23OnlineSafetyBill%2C%20and%20%23NoPlaceToHide%20v1%20%26%20v2%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-and-children)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://alecmuffett.com/article/15742
-* https://alecmuffett.com/article/15891
-* https://alecmuffett.com/article/15897
-* https://alecmuffett.com/article/15902
-* https://alecmuffett.com/article/15940
-* https://twitter.com/AlecMuffett/status/1484512689112166403
-* https://www.bbc.co.uk/news/technology-60072191
-* https://www.ft.com/content/ffb79368-daac-4bc3-80dd-dd24063579a7
-* https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
-* https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
-* https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
-* https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
-#### query source (441/512 characters)
-```
-noPlaceToHide
-OR "online safety bill" OR OnlineSafetyBill
-OR OnlineSafetyCom
-OR LordsCommsCom
-OR (
-    (
-	child
-	OR children
-	OR kid
-	OR kids
-	OR parent
-	OR parents
-	)
-    (
-	(
-	    (
-		e2ee
-		OR encrypt
-		OR encrypted
-		OR encrypting
-		OR encryption
-		OR endToEndEncryption
-		)
-	    (
-		5rightsfound
-		OR barnardos
-		OR blackrock
-		OR campaign
-		OR facebook
-		OR government
-		OR ico
-		OR instagram
-		OR iwf
-		OR mcfcharity
-		OR messenger
-		OR nspcc
-		OR online
-		OR ukhomeoffice
-		OR vanguard
-		OR whatsapp
-		)
-	    )
-	)
-    )
-```
-
 ### END-TO-END ENCRYPTION: APPS
 #### TWITTER ACCOUNTS FOR A SELECTION OF MESSAGING APPS
 * :point_right: [End-To-End Encryption: Apps - LATEST Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire&src=typed_query&f=live)
@@ -409,6 +342,74 @@ OR (
     )
 ```
 
+### END-TO-END ENCRYPTION: CHILDREN
+#### INCLUDING #ONLINESAFETYBILL, AND #NOPLACETOHIDE V1 & V2
+* :point_right: [End-To-End Encryption: Children - LATEST Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: Children - TOP Tweets](https://twitter.com/search?q=noPlaceToHide%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20OnlineSafetyCom%20OR%20LordsCommsCom%20OR%20%28%28child%20OR%20children%20OR%20kid%20OR%20kids%20OR%20parent%20OR%20parents%29%28%28%28e2ee%20OR%20encrypt%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20endToEndEncryption%29%285rightsfound%20OR%20barnardos%20OR%20blackrock%20OR%20campaign%20OR%20facebook%20OR%20government%20OR%20ico%20OR%20instagram%20OR%20iwf%20OR%20mcfcharity%20OR%20messenger%20OR%20nspcc%20OR%20online%20OR%20ukhomeoffice%20OR%20vanguard%20OR%20whatsapp%29%29%29%29&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: Children' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End-To-End%20Encryption%3A%20Children%20%E2%80%94%20including%20%23OnlineSafetyBill%2C%20and%20%23NoPlaceToHide%20v1%20%26%20v2%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-children)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://alecmuffett.com/article/15742
+* https://alecmuffett.com/article/15891
+* https://alecmuffett.com/article/15897
+* https://alecmuffett.com/article/15902
+* https://alecmuffett.com/article/15940
+* https://twitter.com/AlecMuffett/status/1484512689112166403
+* https://www.bbc.co.uk/news/technology-60072191
+* https://www.ft.com/content/ffb79368-daac-4bc3-80dd-dd24063579a7
+* https://www.rollingstone.com/culture/culture-news/revealed-uk-government-publicity-blitz-to-undermine-privacy-encryption-1285453/
+* https://www.theguardian.com/technology/2022/jan/18/campaign-aims-to-stop-facebook-encryption-plans-over-child-abuse-fears
+* https://www.theguardian.com/technology/2022/jan/21/end-to-end-encryption-protects-children-says-uk-information-watchdog
+* https://www.theguardian.com/uk-news/2022/jan/22/nca-says-end-to-end-encryption-challenge-law-enforcers
+#### query source (441/512 characters)
+```
+noPlaceToHide
+OR "online safety bill" OR OnlineSafetyBill
+OR OnlineSafetyCom
+OR LordsCommsCom
+OR (
+    (
+	child
+	OR children
+	OR kid
+	OR kids
+	OR parent
+	OR parents
+	)
+    (
+	(
+	    (
+		e2ee
+		OR encrypt
+		OR encrypted
+		OR encrypting
+		OR encryption
+		OR endToEndEncryption
+		)
+	    (
+		5rightsfound
+		OR barnardos
+		OR blackrock
+		OR campaign
+		OR facebook
+		OR government
+		OR ico
+		OR instagram
+		OR iwf
+		OR mcfcharity
+		OR messenger
+		OR nspcc
+		OR online
+		OR ukhomeoffice
+		OR vanguard
+		OR whatsapp
+		)
+	    )
+	)
+    )
+```
+
 ### END-TO-END ENCRYPTION: EUROPEAN UNION BACKDOORS
 #### EU INITIATIVES TO MANDATE ENCRYPTION BACKDOORS
 * :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
@@ -446,6 +447,38 @@ OR (
 	OR "chat control" OR ChatControl
 	OR "chat kontrolle" OR ChatKontrolle
 	OR "end to end encryption" OR EndToEndEncryption
+	)
+    )
+```
+
+### END TO END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - LATEST Tweets](https://twitter.com/search?q=%28%28gchq%20OR%20ncsc%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20encryption%20OR%20encrypted%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20%22ian%20levy%22%29%29&src=typed_query&f=live)
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - TOP Tweets](https://twitter.com/search?q=%28%28gchq%20OR%20ncsc%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20encryption%20OR%20encrypted%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20%22ian%20levy%22%29%29&src=typed_query)
+* :heart: [Share this Search for 'End To End Encryption: GCHQ & NCSC "Ghost" Protocol' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End%20To%20End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://alecmuffett.com/alecm/e2e-primer/
+* https://twitter.com/AlecMuffett/status/1533867745250623489
+* https://twitter.com/josephfcox/status/1545036313228869632
+* https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
+* https://www.lawfareblog.com/exceptional-access-devil-details-0
+* https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
+#### query source (133/512 characters)
+```
+(
+    (
+	gchq
+	OR ncsc
+	)
+    (
+	"exceptional access" OR ExceptionalAccess
+	OR encryption
+	OR encrypted
+	OR backdoor
+	OR e2e
+	OR e2ee
+	OR "ian levy"
 	)
     )
 ```
