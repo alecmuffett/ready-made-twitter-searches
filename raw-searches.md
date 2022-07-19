@@ -625,6 +625,7 @@ AND (
 # End To End Encryption: GCHQ & NCSC "Ghost" Protocol
 
 * https://alecmuffett.com/alecm/e2e-primer/
+* https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
 * https://twitter.com/AlecMuffett/status/1533867745250623489
 * https://twitter.com/josephfcox/status/1545036313228869632
 * https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work

@@ -459,6 +459,7 @@ OR (
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * https://alecmuffett.com/alecm/e2e-primer/
+* https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
 * https://twitter.com/AlecMuffett/status/1533867745250623489
 * https://twitter.com/josephfcox/status/1545036313228869632
 * https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
