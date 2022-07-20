@@ -639,11 +639,13 @@ AND (
 	)
     AND ( ## interest
 	<exceptional access> ## "ghost" is a noisy search term
-	OR encryption
-	OR encrypted
+	OR "commodity platforms"
+	OR "ian levy"
+	OR <child safety>
 	OR backdoor
 	OR e2e
 	OR e2ee
-	OR "ian levy"
+	OR encrypted
+	OR encryption
 	)
     )
