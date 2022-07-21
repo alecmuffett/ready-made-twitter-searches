@@ -639,14 +639,16 @@ OR "https://www.lawfareblog.com/it-possible-reconcile-encryption-and-child-safet
 OR (
     ( ## actor
 	"gchq"
+	OR "crispin robinson"
+	OR "ian levy"
 	OR "ncsc"
+	OR ( levy AND robinson )
 	)
     AND ( ## interest
 	<exceptional access> ## "ghost" is a noisy search term
 	OR "commodity platforms"
+	OR "end to end"
 	OR "reconcile encryption"
-	OR "ian levy"
-	OR "crispin robinson"
 	OR <child safety>
 	OR backdoor
 	OR e2e
