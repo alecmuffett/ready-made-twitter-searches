@@ -631,6 +631,7 @@ AND (
 * https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
 * https://www.lawfareblog.com/exceptional-access-devil-details-0
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
+* https://arxiv.org/abs/2207.09506
 
 (
     ( ## actor
