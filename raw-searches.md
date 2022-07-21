@@ -632,8 +632,10 @@ AND (
 * https://www.lawfareblog.com/exceptional-access-devil-details-0
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
 * https://arxiv.org/abs/2207.09506
+* https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 
-(
+"https://arxiv.org/abs/2207.09506"
+OR (
     ( ## actor
 	"gchq"
 	OR "ncsc"
