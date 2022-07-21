@@ -635,6 +635,7 @@ AND (
 * https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 
 "https://arxiv.org/abs/2207.09506"
+OR "https://www.lawfareblog.com/it-possible-reconcile-encryption-and-child-safety"
 OR (
     ( ## actor
 	"gchq"
@@ -643,7 +644,9 @@ OR (
     AND ( ## interest
 	<exceptional access> ## "ghost" is a noisy search term
 	OR "commodity platforms"
+	OR "reconcile encryption"
 	OR "ian levy"
+	OR "crispin robinson"
 	OR <child safety>
 	OR backdoor
 	OR e2e
