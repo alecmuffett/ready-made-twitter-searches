@@ -633,6 +633,8 @@ AND (
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
 * https://arxiv.org/abs/2207.09506
 * https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
+* "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
+* "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
 
 "https://arxiv.org/abs/2207.09506"
 OR "https://www.lawfareblog.com/it-possible-reconcile-encryption-and-child-safety"
@@ -657,3 +659,10 @@ OR (
 	OR encryption
 	)
     )
+
+# End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
+
+"https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images"
+OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936"
+OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
+OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"

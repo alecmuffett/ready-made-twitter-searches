@@ -25,6 +25,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-to-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors)
 * [End To End Encryption: GCHQ & NCSC "Ghost" Protocol](#end-to-end-encryption-gchq--ncsc-ghost-protocol)
+* [End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
@@ -458,6 +459,8 @@ OR (
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
+* "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
 * https://alecmuffett.com/alecm/e2e-primer/
 * https://arxiv.org/abs/2207.09506
 * https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
@@ -492,6 +495,20 @@ OR (
 	OR encryption
 	)
     )
+```
+
+### END TO END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL: PRESS COVERAGE
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query&f=live)
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query)
+* :heart: [Share this Search for 'End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End%20To%20End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%3A%20Press%20Coverage%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (416/512 characters)
+```
+"https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images"
+OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936"
+OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
+OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
 ```
 
 ### END-TO-END ENCRYPTION: GENERAL
