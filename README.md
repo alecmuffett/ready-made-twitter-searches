@@ -459,8 +459,6 @@ OR (
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
-* "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
 * https://alecmuffett.com/alecm/e2e-primer/
 * https://arxiv.org/abs/2207.09506
 * https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
@@ -469,7 +467,6 @@ OR (
 * https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
 * https://www.lawfareblog.com/exceptional-access-devil-details-0
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
-* https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 #### query source (397/512 characters)
 ```
 "https://arxiv.org/abs/2207.09506"
@@ -503,6 +500,11 @@ OR (
 * :heart: [Share this Search for 'End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20End%20To%20End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%3A%20Press%20Coverage%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936
+* https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
+* https://www.theregister.com/2022/07/22/british_encryption_scanning/
+* https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
 #### query source (416/512 characters)
 ```
 "https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images"
