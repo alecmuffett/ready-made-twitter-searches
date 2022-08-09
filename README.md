@@ -35,6 +35,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy) (for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide)
+* [UK Internet Governance Forum: UKIGF](#uk-internet-governance-forum-ukigf)
 
 ## searches
 
@@ -738,5 +739,32 @@ OR "section 230" OR Section230
 	)
     )
 -"chance to make the UK the safest place"
+```
+
+### UK INTERNET GOVERNANCE FORUM: UKIGF
+* :point_right: [UK Internet Governance Forum: UKIGF - LATEST Tweets](https://twitter.com/search?q=ukigf%20OR%20ukigf22%20OR%20%28%28%22internet%20governance%22%20OR%20InternetGovernance%20OR%20igf%20OR%20igfs%29%28splinternet%20OR%20%22digital%20inclusion%22%20OR%20DigitalInclusion%20OR%20%22digital%20inequality%22%20OR%20DigitalInequality%20OR%20%22internet%20fragmentation%22%20OR%20InternetFragmentation%20OR%20%22online%20harms%22%20OR%20OnlineHarms%20OR%20%22resilient%20internet%22%20OR%20ResilientInternet%29%29&src=typed_query&f=live)
+* :point_right: [UK Internet Governance Forum: UKIGF - TOP Tweets](https://twitter.com/search?q=ukigf%20OR%20ukigf22%20OR%20%28%28%22internet%20governance%22%20OR%20InternetGovernance%20OR%20igf%20OR%20igfs%29%28splinternet%20OR%20%22digital%20inclusion%22%20OR%20DigitalInclusion%20OR%20%22digital%20inequality%22%20OR%20DigitalInequality%20OR%20%22internet%20fragmentation%22%20OR%20InternetFragmentation%20OR%20%22online%20harms%22%20OR%20OnlineHarms%20OR%20%22resilient%20internet%22%20OR%20ResilientInternet%29%29&src=typed_query)
+* :heart: [Share this Search for 'UK Internet Governance Forum: UKIGF' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20UK%20Internet%20Governance%20Forum%3A%20UKIGF%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-internet-governance-forum-ukigf)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (320/512 characters)
+```
+ukigf
+OR ukigf22
+OR (
+    (
+	"internet governance" OR InternetGovernance
+	OR igf
+	OR igfs
+	)
+    (
+	splinternet
+	OR "digital inclusion" OR DigitalInclusion
+	OR "digital inequality" OR DigitalInequality
+	OR "internet fragmentation" OR InternetFragmentation
+	OR "online harms" OR OnlineHarms
+	OR "resilient internet" OR ResilientInternet
+	)
+    )
 ```
 

@@ -668,3 +668,23 @@ OR (
 OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936"
 OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
 OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
+
+# UK Internet Governance Forum: UKIGF
+
+"ukigf"
+OR "ukigf22"
+OR (
+    (
+	<internet governance>
+	OR "igf"
+	OR "igfs"
+	)
+    AND (
+	"splinternet"
+	OR <digital inclusion>
+	OR <digital inequality>
+	OR <internet fragmentation>
+	OR <online harms>
+	OR <resilient internet>
+	)
+    )
