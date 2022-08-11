@@ -20,6 +20,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
+* [Digital Public Goods Alliance: DPGA](#digital-public-goods-alliance-dpga)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
@@ -279,6 +280,24 @@ since:2021-09-01
     OR "tank man" OR TankMan
     OR "tank guy" OR TankGuy
     )
+```
+
+### DIGITAL PUBLIC GOODS ALLIANCE: DPGA
+* :point_right: [Digital Public Goods Alliance: DPGA - LATEST Tweets](https://twitter.com/search?q=dpga%20OR%20dialcommunity%20OR%20digitalundp%20OR%20dpgalliance%20OR%20dpgcharter%20OR%20%22digital%20public%20good%22%20OR%20DigitalPublicGood%20OR%20%22digital%20public%20goods%22%20OR%20DigitalPublicGoods%20OR%20%22information%20pollution%22%20OR%20InformationPollution&src=typed_query&f=live)
+* :point_right: [Digital Public Goods Alliance: DPGA - TOP Tweets](https://twitter.com/search?q=dpga%20OR%20dialcommunity%20OR%20digitalundp%20OR%20dpgalliance%20OR%20dpgcharter%20OR%20%22digital%20public%20good%22%20OR%20DigitalPublicGood%20OR%20%22digital%20public%20goods%22%20OR%20DigitalPublicGoods%20OR%20%22information%20pollution%22%20OR%20InformationPollution&src=typed_query)
+* :heart: [Share this Search for 'Digital Public Goods Alliance: DPGA' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20Digital%20Public%20Goods%20Alliance%3A%20DPGA%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23digital-public-goods-alliance-dpga)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (210/512 characters)
+```
+dpga
+OR dialcommunity
+OR digitalundp
+OR dpgalliance
+OR dpgcharter
+OR "digital public good" OR DigitalPublicGood
+OR "digital public goods" OR DigitalPublicGoods
+OR "information pollution" OR InformationPollution
 ```
 
 ### END-TO-END ENCRYPTION: APPS

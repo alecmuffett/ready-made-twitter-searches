@@ -688,3 +688,14 @@ OR (
 	OR <resilient internet>
 	)
     )
+
+# Digital Public Goods Alliance: DPGA
+
+"dpga"
+OR "dialcommunity"
+OR "digitalundp"
+OR "dpgalliance"
+OR "dpgcharter"
+OR <digital public good>
+OR <digital public goods>
+OR <information pollution>
