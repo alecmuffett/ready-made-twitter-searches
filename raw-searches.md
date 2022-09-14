@@ -700,7 +700,7 @@ OR <digital public good>
 OR <digital public goods>
 OR <information pollution>
 
-# California Kids Code
+# The California "Kids Code" | aka: "Age Appropriate Design Code", #AB2273
 
 * https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm
 * https://blog.ericgoldman.org/archives/2022/08/a-short-explainer-of-how-californias-age-appropriate-design-code-bill-ab2273-would-break-the-internet.htm
