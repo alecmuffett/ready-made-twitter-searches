@@ -699,3 +699,25 @@ OR "dpgcharter"
 OR <digital public good>
 OR <digital public goods>
 OR <information pollution>
+
+# California Kids Code
+
+* https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm
+* https://blog.ericgoldman.org/archives/2022/08/a-short-explainer-of-how-californias-age-appropriate-design-code-bill-ab2273-would-break-the-internet.htm
+* https://blog.ericgoldman.org/archives/2022/08/op-ed-the-plan-to-blow-up-the-internet-ostensibly-to-protect-kids-online-regarding-ab-2273.htm
+* https://blog.ericgoldman.org/archives/2022/09/an-interview-regarding-ab-2273-the-california-age-appropriate-design-code-aadc.htm
+* https://www.techdirt.com/2022/06/29/california-legislators-seek-to-burn-down-the-internet-for-the-children/
+* https://www.techdirt.com/2022/08/24/dear-california-law-makers-how-the-hell-can-i-comply-with-your-new-age-appropriate-design-code/
+* https://www.techpolicy.com/Blog/Featured-Blog-Post/Eric-Goldman-Explains-How-Californias-Age-Appropri.aspx
+* https://www.thedailybeast.com/californias-new-internet-law-is-a-fcking-disaster
+* https://www.youtube.com/watch?v=Q-hwt5PU2Yc
+
+<ab 2273>
+OR <ab 02273>
+OR <ca kids code>
+OR "age appropriate design code"
+OR "california design code"
+OR "california kids code"
+OR "california's design code"
+OR "california's kids code"
+OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"

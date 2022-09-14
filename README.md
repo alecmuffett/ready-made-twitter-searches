@@ -20,6 +20,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
+* [California Kids Code](#california-kids-code)
 * [Digital Public Goods Alliance: DPGA](#digital-public-goods-alliance-dpga)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
@@ -280,6 +281,35 @@ since:2021-09-01
     OR "tank man" OR TankMan
     OR "tank guy" OR TankGuy
     )
+```
+
+### CALIFORNIA KIDS CODE
+* :point_right: [California Kids Code - LATEST Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22&src=typed_query&f=live)
+* :point_right: [California Kids Code - TOP Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22&src=typed_query)
+* :heart: [Share this Search for 'California Kids Code' in a Tweet!](https://twitter.com/intent/tweet?text=%3E%20California%20Kids%20Code%0A%0A%E2%80%A6see%20the%20latest%20Twitter%20discussion%20with%20a%20%23ReadyMadeTwitterSearch%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23california-kids-code)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://blog.ericgoldman.org/archives/2022/06/will-california-eliminate-anonymous-web-browsing-comments-on-ca-ab-2273-the-age-appropriate-design-code-act.htm
+* https://blog.ericgoldman.org/archives/2022/08/a-short-explainer-of-how-californias-age-appropriate-design-code-bill-ab2273-would-break-the-internet.htm
+* https://blog.ericgoldman.org/archives/2022/08/op-ed-the-plan-to-blow-up-the-internet-ostensibly-to-protect-kids-online-regarding-ab-2273.htm
+* https://blog.ericgoldman.org/archives/2022/09/an-interview-regarding-ab-2273-the-california-age-appropriate-design-code-aadc.htm
+* https://www.techdirt.com/2022/06/29/california-legislators-seek-to-burn-down-the-internet-for-the-children/
+* https://www.techdirt.com/2022/08/24/dear-california-law-makers-how-the-hell-can-i-comply-with-your-new-age-appropriate-design-code/
+* https://www.techpolicy.com/Blog/Featured-Blog-Post/Eric-Goldman-Explains-How-Californias-Age-Appropri.aspx
+* https://www.thedailybeast.com/californias-new-internet-law-is-a-fcking-disaster
+* https://www.youtube.com/watch?v=Q-hwt5PU2Yc
+#### query source (270/512 characters)
+```
+"ab 2273" OR Ab2273
+OR "ab 02273" OR Ab02273
+OR "ca kids code" OR CaKidsCode
+OR "age appropriate design code"
+OR "california design code"
+OR "california kids code"
+OR "california's design code"
+OR "california's kids code"
+OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"
 ```
 
 ### DIGITAL PUBLIC GOODS ALLIANCE: DPGA
