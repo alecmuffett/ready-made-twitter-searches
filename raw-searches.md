@@ -715,6 +715,7 @@ OR <information pollution>
 <ab 2273>
 OR <ab 02273>
 OR <ca kids code>
+OR "caaadc"
 OR "age appropriate design code"
 OR "california design code"
 OR "california kids code"

@@ -685,8 +685,8 @@ OR sid2022
 
 ### THE CALIFORNIA "KIDS CODE"
 #### AKA: "AGE APPROPRIATE DESIGN CODE", #AB2273
-* :point_right: [The California "Kids Code" - LATEST Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22%20OR%20%22https%3A%2F%2Fcaliforniaaadc.com%22&src=typed_query&f=live)
-* :point_right: [The California "Kids Code" - TOP Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22%20OR%20%22https%3A%2F%2Fcaliforniaaadc.com%22&src=typed_query)
+* :point_right: [The California "Kids Code" - LATEST Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20caaadc%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22%20OR%20%22https%3A%2F%2Fcaliforniaaadc.com%22&src=typed_query&f=live)
+* :point_right: [The California "Kids Code" - TOP Tweets](https://twitter.com/search?q=%22ab%202273%22%20OR%20Ab2273%20OR%20%22ab%2002273%22%20OR%20Ab02273%20OR%20%22ca%20kids%20code%22%20OR%20CaKidsCode%20OR%20caaadc%20OR%20%22age%20appropriate%20design%20code%22%20OR%20%22california%20design%20code%22%20OR%20%22california%20kids%20code%22%20OR%20%22california%27s%20design%20code%22%20OR%20%22california%27s%20kids%20code%22%20OR%20%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ-hwt5PU2Yc%22%20OR%20%22https%3A%2F%2Fcaliforniaaadc.com%22&src=typed_query)
 * :heart: [Share this Search for 'The California "Kids Code"' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AThe%20California%20%22Kids%20Code%22%20%E2%80%94%20aka%3A%20%22Age%20Appropriate%20Design%20Code%22%2C%20%23AB2273%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-california-kids-code)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -700,11 +700,12 @@ OR sid2022
 * https://www.techpolicy.com/Blog/Featured-Blog-Post/Eric-Goldman-Explains-How-Californias-Age-Appropri.aspx
 * https://www.thedailybeast.com/californias-new-internet-law-is-a-fcking-disaster
 * https://www.youtube.com/watch?v=Q-hwt5PU2Yc
-#### query source (302/512 characters)
+#### query source (312/512 characters)
 ```
 "ab 2273" OR Ab2273
 OR "ab 02273" OR Ab02273
 OR "ca kids code" OR CaKidsCode
+OR caaadc
 OR "age appropriate design code"
 OR "california design code"
 OR "california kids code"
