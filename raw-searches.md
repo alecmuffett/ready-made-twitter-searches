@@ -633,28 +633,24 @@ AND (
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
 * https://arxiv.org/abs/2207.09506
 
-"https://arxiv.org/abs/2207.09506"
-OR "https://www.lawfareblog.com/it-possible-reconcile-encryption-and-child-safety"
-OR (
-    ( ## actor
-	"gchq"
-	OR "crispin robinson"
-	OR "ian levy"
-	OR "ncsc"
-	OR ( levy AND robinson )
-	)
-    AND ( ## interest
-	<exceptional access> ## "ghost" is a noisy search term
-	OR "commodity platforms"
-	OR "end to end"
-	OR "reconcile encryption"
-	OR <child safety>
-	OR backdoor
-	OR e2e
-	OR e2ee
-	OR encrypted
-	OR encryption
-	)
+( ## actor
+    "gchq"
+    OR "crispin robinson"
+    OR "ian levy"
+    OR "ncsc"
+    OR ( levy AND robinson )
+    )
+AND ( ## interest
+    <exceptional access> ## "ghost" is a noisy search term
+    OR "commodity platforms"
+    OR "end to end"
+    OR "reconcile encryption"
+    OR <child safety>
+    OR backdoor
+    OR e2e
+    OR e2ee
+    OR encrypted
+    OR encryption
     )
 
 # End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage

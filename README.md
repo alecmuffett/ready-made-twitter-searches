@@ -474,8 +474,8 @@ OR (
 ```
 
 ### END TO END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL
-* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Farxiv.org%2Fabs%2F2207.09506%22%20OR%20%22https%3A%2F%2Fwww.lawfareblog.com%2Fit-possible-reconcile-encryption-and-child-safety%22%20OR%20%28%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29%29&src=typed_query&f=live)
-* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Farxiv.org%2Fabs%2F2207.09506%22%20OR%20%22https%3A%2F%2Fwww.lawfareblog.com%2Fit-possible-reconcile-encryption-and-child-safety%22%20OR%20%28%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29%29&src=typed_query)
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - LATEST Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query&f=live)
+* :point_right: [End To End Encryption: GCHQ & NCSC "Ghost" Protocol - TOP Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query)
 * :heart: [Share this Search for 'End To End Encryption: GCHQ & NCSC "Ghost" Protocol' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEnd%20To%20End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -488,30 +488,26 @@ OR (
 * https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
 * https://www.lawfareblog.com/exceptional-access-devil-details-0
 * https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
-#### query source (397/512 characters)
+#### query source (272/512 characters)
 ```
-"https://arxiv.org/abs/2207.09506"
-OR "https://www.lawfareblog.com/it-possible-reconcile-encryption-and-child-safety"
-OR (
-    (
-	gchq
-	OR "crispin robinson"
-	OR "ian levy"
-	OR ncsc
-	OR ( levy robinson )
-	)
-    (
-	"exceptional access" OR ExceptionalAccess
-	OR "commodity platforms"
-	OR "end to end"
-	OR "reconcile encryption"
-	OR "child safety" OR ChildSafety
-	OR backdoor
-	OR e2e
-	OR e2ee
-	OR encrypted
-	OR encryption
-	)
+(
+    gchq
+    OR "crispin robinson"
+    OR "ian levy"
+    OR ncsc
+    OR ( levy robinson )
+    )
+(
+    "exceptional access" OR ExceptionalAccess
+    OR "commodity platforms"
+    OR "end to end"
+    OR "reconcile encryption"
+    OR "child safety" OR ChildSafety
+    OR backdoor
+    OR e2e
+    OR e2ee
+    OR encrypted
+    OR encryption
     )
 ```
 
