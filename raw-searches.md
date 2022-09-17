@@ -374,6 +374,8 @@ OR (
     AND (
 	"csam"
 	OR "csei"
+	OR "e2e encryption"
+	OR "e2ee"
 	OR "encrypted"
 	OR "surveillance"
 	OR "überwachung"

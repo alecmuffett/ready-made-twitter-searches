@@ -434,8 +434,8 @@ OR (
 
 ### END-TO-END ENCRYPTION: EUROPEAN UNION BACKDOORS
 #### EU INITIATIVES TO MANDATE ENCRYPTION BACKDOORS
-* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
-* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query)
+* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20%22e2e%20encryption%22%20OR%20e2ee%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query&f=live)
+* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Falecmuffett.com%2Falecm%2Ftmp%2Feu-csam-e2ee.pdf%22%20OR%20%22https%3A%2F%2Fec.europa.eu%2Fcommission%2Fpresscorner%2Fdetail%2Fen%2Fip_22_2976%22%20OR%20%28%28eu%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20%22e2e%20encryption%22%20OR%20e2ee%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%29&src=typed_query)
 * :heart: [Share this Search for 'End-to-End Encryption: European Union Backdoors' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEnd-to-End%20Encryption%3A%20European%20Union%20Backdoors%20%E2%80%94%20EU%20initiatives%20to%20mandate%20encryption%20backdoors%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-european-union-backdoors)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -449,7 +449,7 @@ OR (
 * https://www.imore.com/leaked-eu-plans-mandate-scanning-encrypted-messages-stop-child-sexual-abuse
 * https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%EF%BF%BC/
 * https://www.watson.ch/!517393392
-#### query source (380/512 characters)
+#### query source (408/512 characters)
 ```
 "https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
 OR "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976"
@@ -463,6 +463,8 @@ OR (
     (
 	csam
 	OR csei
+	OR "e2e encryption"
+	OR e2ee
 	OR encrypted
 	OR surveillance
 	OR "überwachung"
