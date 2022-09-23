@@ -617,8 +617,8 @@ since:2022-07-04
 
 ### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME
 #### #BRITISHSUMMERTIME
-* :point_right: [Proposals for Perpetual British Summer Time - LATEST Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%29%28uk%20OR%20british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query&f=live)
-* :point_right: [Proposals for Perpetual British Summer Time - TOP Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%29%28uk%20OR%20british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query)
+* :point_right: [Proposals for Perpetual British Summer Time - LATEST Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query&f=live)
+* :point_right: [Proposals for Perpetual British Summer Time - TOP Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query)
 * :heart: [Share this Search for 'Proposals for Perpetual British Summer Time' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AProposals%20For%20Perpetual%20British%20Summer%20Time%20%E2%80%94%20%23BritishSummerTime%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23proposals-for-perpetual-british-summer-time)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -627,8 +627,9 @@ since:2022-07-04
 * https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
 * https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
+* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967
 * https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
-#### query source (201/512 characters)
+#### query source (222/512 characters)
 ```
 since:2022-09-20
 (
@@ -639,14 +640,16 @@ since:2022-09-20
 	    -"GMT+0100"
 	    )
 	(
-	    uk
-	    OR british
+	    british
 	    OR cymru
 	    OR england
 	    OR english
 	    OR "northern ireland"
 	    OR scotland
 	    OR scottish
+	    OR sunrise
+	    OR sunset
+	    OR uk
 	    OR wales
 	    OR welsh
 	    )

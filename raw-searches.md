@@ -729,6 +729,7 @@ OR "https://californiaaadc.com"
 * https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
 * https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
+* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967
 
 "since:2022-09-20"
 AND (
@@ -739,14 +740,16 @@ AND (
 	    AND -"GMT+0100"
 	    )
 	AND (
-	    "uk"
-	    OR "british"
+	    "british"
 	    OR "cymru"
 	    OR "england"
 	    OR "english"
 	    OR "northern ireland"
 	    OR "scotland"
 	    OR "scottish"
+	    OR "sunrise"
+	    OR "sunset"
+	    OR "uk"
 	    OR "wales"
 	    OR "welsh"
 	    )
