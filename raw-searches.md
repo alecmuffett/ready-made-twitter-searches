@@ -721,3 +721,29 @@ OR "california's design code"
 OR "california's kids code"
 OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"
 OR "https://californiaaadc.com"
+
+# Proposals for Perpetual British Summer Time | #BritishSummerTime
+
+* https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
+* https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
+* https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
+* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
+
+"BritishSummerTime"
+OR (
+    (
+	"uk"
+	OR "british"
+	OR "english"
+	OR "england"
+	OR "scottish"
+	OR "scotland"
+	OR "welsh"
+	OR "wales"
+	OR "cymru"
+	)
+    AND <summer time>
+    AND "-chrisalman"
+    AND "-sbcweather"
+    AND "-fifth__wheel"
+    )

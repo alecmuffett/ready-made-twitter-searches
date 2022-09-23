@@ -30,6 +30,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
+* [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
@@ -611,6 +612,40 @@ since:2022-07-04
     OR "rishi sunak" OR RishiSunak
     OR "sajid javid" OR SajidJavid
     OR trussliz
+    )
+```
+
+### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME
+#### #BRITISHSUMMERTIME
+* :point_right: [Proposals for Perpetual British Summer Time - LATEST Tweets](https://twitter.com/search?q=BritishSummerTime%20OR%20%28%28uk%20OR%20british%20OR%20english%20OR%20england%20OR%20scottish%20OR%20scotland%20OR%20welsh%20OR%20wales%20OR%20cymru%29%20%22summer%20time%22%20OR%20SummerTime%20-chrisalman%20-sbcweather%20-fifth__wheel%29&src=typed_query&f=live)
+* :point_right: [Proposals for Perpetual British Summer Time - TOP Tweets](https://twitter.com/search?q=BritishSummerTime%20OR%20%28%28uk%20OR%20british%20OR%20english%20OR%20england%20OR%20scottish%20OR%20scotland%20OR%20welsh%20OR%20wales%20OR%20cymru%29%20%22summer%20time%22%20OR%20SummerTime%20-chrisalman%20-sbcweather%20-fifth__wheel%29&src=typed_query)
+* :heart: [Share this Search for 'Proposals for Perpetual British Summer Time' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AProposals%20For%20Perpetual%20British%20Summer%20Time%20%E2%80%94%20%23BritishSummerTime%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23proposals-for-perpetual-british-summer-time)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
+* https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
+* https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
+* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
+#### query source (181/512 characters)
+```
+BritishSummerTime
+OR (
+    (
+	uk
+	OR british
+	OR english
+	OR england
+	OR scottish
+	OR scotland
+	OR welsh
+	OR wales
+	OR cymru
+	)
+    "summer time" OR SummerTime
+    -chrisalman
+    -sbcweather
+    -fifth__wheel
     )
 ```
 
