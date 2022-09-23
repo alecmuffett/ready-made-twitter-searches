@@ -623,12 +623,14 @@ since:2022-07-04
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* https://alecmuffett.com/article/8521
-* https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - report by David Prerau to maintain status quo
+* https://alecmuffett.com/article/8521 - Commentary + British Economic Time
+* https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
 * https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
-* https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
-* https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
-* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967
+* https://twitter.com/AlecMuffett/status/1573108193584185344 - Manchester Sunrise Table
+* https://twitter.com/AlecMuffett/status/1573140381813841921 - Prerau to Parliament
+* https://twitter.com/AlecMuffett/status/1573145580926386176 - thermal model to demonstrate impact
+* https://twitter.com/cjsnowdon/status/1573042498703958017 - Rumours
+* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967 - Wonderful Book
 * https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
 #### query source (229/512 characters)
 ```
