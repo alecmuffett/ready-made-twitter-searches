@@ -623,6 +623,7 @@ since:2022-07-04
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* https://alecmuffett.com/article/8521
 * https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
 * https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour

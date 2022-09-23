@@ -724,6 +724,7 @@ OR "https://californiaaadc.com"
 
 # Proposals for Perpetual British Summer Time | #BritishSummerTime
 
+* https://alecmuffett.com/article/8521
 * https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
 * https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
