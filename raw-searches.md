@@ -729,20 +729,23 @@ OR "https://californiaaadc.com"
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
 * https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
 
-"BritishSummerTime"
-OR (
-    (
-	"uk"
-	OR "british"
-	OR "english"
-	OR "england"
-	OR "scottish"
-	OR "scotland"
-	OR "welsh"
-	OR "wales"
-	OR "cymru"
+"since:2022-09-20"
+AND (
+    "BritishSummerTime"
+    OR (
+	(
+	    "uk"
+	    OR "british"
+	    OR "english"
+	    OR "england"
+	    OR "scottish"
+	    OR "scotland"
+	    OR "welsh"
+	    OR "wales"
+	    OR "cymru"
+	    )
+	AND <summer time>
 	)
-    AND <summer time>
     AND "-chrisalman"
     AND "-sbcweather"
     AND "-fifth__wheel"
