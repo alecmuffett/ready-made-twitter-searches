@@ -741,7 +741,7 @@ AND (
 	(
 	    <summer time>
 	    AND -"GMT+0100"
-	    AND -"GMT+1"
+	    AND -"UTC+1"
 	    AND -"anime"
 	    )
 	AND (
