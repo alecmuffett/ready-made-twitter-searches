@@ -725,11 +725,12 @@ OR "https://californiaaadc.com"
 # Proposals for Perpetual British Summer Time | #BritishSummerTime
 
 * https://alecmuffett.com/article/8521
+* https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - report by David Prerau to maintain status quo
 * https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
 * https://twitter.com/AlecMuffett/status/1573108193584185344 - manchester sunrise table
 * https://twitter.com/cjsnowdon/status/1573042498703958017 - rumour
-* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
 * https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967
+* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
 
 "since:2022-09-20"
 AND (
@@ -738,6 +739,7 @@ AND (
 	(
 	    <summer time>
 	    AND -"GMT+0100"
+	    AND -"anime"
 	    )
 	AND (
 	    "british"
