@@ -734,6 +734,10 @@ AND (
     "BritishSummerTime"
     OR (
 	(
+	    <summer time>
+	    AND -"GMT+0100"
+	    )
+	AND (
 	    "uk"
 	    OR "british"
 	    OR "cymru"
@@ -745,9 +749,5 @@ AND (
 	    OR "wales"
 	    OR "welsh"
 	    )
-	AND ( <summer time> )
 	)
-    AND "-chrisalman"
-    AND "-sbcweather"
-    AND "-fifth__wheel"
     )
