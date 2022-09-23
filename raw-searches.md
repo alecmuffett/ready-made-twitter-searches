@@ -736,15 +736,16 @@ AND (
 	(
 	    "uk"
 	    OR "british"
-	    OR "english"
-	    OR "england"
-	    OR "scottish"
-	    OR "scotland"
-	    OR "welsh"
-	    OR "wales"
 	    OR "cymru"
+	    OR "england"
+	    OR "english"
+	    OR "northern ireland"
+	    OR "scotland"
+	    OR "scottish"
+	    OR "wales"
+	    OR "welsh"
 	    )
-	AND <summer time>
+	AND ( <summer time> )
 	)
     AND "-chrisalman"
     AND "-sbcweather"
