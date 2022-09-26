@@ -760,3 +760,28 @@ AND (
 	    )
 	)
     )
+
+# Iranian Network and Social Media Censorship | in the wake of the murder of #MahsaAmini
+
+(
+    "iran"
+    OR "iranian"
+    )
+AND (
+    "blocks"
+    OR "censor"
+    OR "censored"
+    OR "censorship"
+    OR "instagram"
+    OR "internet"
+    OR "messenger"
+    OR "messengers"
+    OR "network"
+    OR "shutdown"
+    OR "signalapp"
+    OR "telegram"
+    OR "torproject"
+    OR "vpn"
+    OR "vpns"
+    OR "whatsapp"
+    )

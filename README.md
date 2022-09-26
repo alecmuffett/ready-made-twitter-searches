@@ -29,6 +29,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
+* [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
@@ -588,6 +589,39 @@ OR (
 ( signalapp OR whatsapp )
 ( attack OR attacks )
 platform
+```
+
+### IRANIAN NETWORK AND SOCIAL MEDIA CENSORSHIP
+#### IN THE WAKE OF THE MURDER OF #MAHSAAMINI
+* :point_right: [Iranian Network and Social Media Censorship - LATEST Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query&f=live)
+* :point_right: [Iranian Network and Social Media Censorship - TOP Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query)
+* :heart: [Share this Search for 'Iranian Network and Social Media Censorship' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AIranian%20Network%20And%20Social%20Media%20Censorship%20%E2%80%94%20in%20the%20wake%20of%20the%20murder%20of%20%23MahsaAmini%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23iranian-network-and-social-media-censorship)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (206/512 characters)
+```
+(
+    iran
+    OR iranian
+    )
+(
+    blocks
+    OR censor
+    OR censored
+    OR censorship
+    OR instagram
+    OR internet
+    OR messenger
+    OR messengers
+    OR network
+    OR shutdown
+    OR signalapp
+    OR telegram
+    OR torproject
+    OR vpn
+    OR vpns
+    OR whatsapp
+    )
 ```
 
 ### JULY 2022 RESHUFFLE
