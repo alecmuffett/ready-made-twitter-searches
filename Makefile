@@ -1,5 +1,6 @@
 all:
 	./filter.pl raw-searches.md > README.md
+	mmark -html -index < README.md > README.html
 	./filter.pl -A raw-searches.md > ARCHIVE.md
 
 open:
