@@ -771,6 +771,7 @@ AND (
     "blocks"
     OR "censor"
     OR "censored"
+    OR "censoring"
     OR "censorship"
     OR "instagram"
     OR "internet"
