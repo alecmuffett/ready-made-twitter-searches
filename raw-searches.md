@@ -787,7 +787,7 @@ AND (
     OR "whatsapp"
     )
 
-# TheWire_IN and Instagram and Meta
+# thewire and instagram and meta
 
 (
     "thewire_in"
