@@ -786,3 +786,16 @@ AND (
     OR "vpns"
     OR "whatsapp"
     )
+
+# TheWire_IN and Instagram and Meta
+
+(
+    "thewire_in"
+    OR "thewire"
+    OR "varadu"
+    OR (
+        ( "meta" OR "facebook" OR "fb" OR "instagram" )
+        AND ( "dkim" OR "xcheck" OR "wire" )
+        )
+    )
+AND -"down to the wire"
