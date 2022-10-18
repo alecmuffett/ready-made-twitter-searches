@@ -39,7 +39,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy) (for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide)
-* [thewire and instagram and meta](#thewire-and-instagram-and-meta)
+* [TheWire and Instagram and Meta](#thewire-and-instagram-and-meta)
 * [UK Internet Governance Forum: UKIGF](#uk-internet-governance-forum-ukigf)
 
 ## searches
@@ -876,9 +876,9 @@ OR "section 230" OR Section230
 ```
 
 ### THEWIRE AND INSTAGRAM AND META
-* :point_right: [thewire and instagram and meta - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22&src=typed_query&f=live)
-* :point_right: [thewire and instagram and meta - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22&src=typed_query)
-* :heart: [Share this Search for 'thewire and instagram and meta' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AThewire%20And%20Instagram%20And%20Meta%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23thewire-and-instagram-and-meta)
+* :point_right: [TheWire and Instagram and Meta - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22&src=typed_query&f=live)
+* :point_right: [TheWire and Instagram and Meta - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22&src=typed_query)
+* :heart: [Share this Search for 'TheWire and Instagram and Meta' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ATheWire%20And%20Instagram%20And%20Meta%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23thewire-and-instagram-and-meta)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### query source (128/512 characters)
