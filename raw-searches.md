@@ -787,15 +787,17 @@ AND (
     OR "whatsapp"
     )
 
-# TheWire and Instagram and Meta
+# TheWire and Instagram and Meta | and #TekFog
 
 (
     "thewire_in"
     OR "thewire"
     OR "varadu"
+    OR <tek fog>
     OR (
         ( "meta" OR "facebook" OR "fb" OR "instagram" )
         AND ( "dkim" OR "xcheck" OR "wire" )
         )
     )
 AND -"down to the wire"
+AND -"tv"
