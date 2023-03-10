@@ -806,14 +806,18 @@ AND -"tv"
 # Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
 
 <gary lineker>
+OR <alex scott>
 OR <ian wright>
+OR <jermaine jenas>
 OR <match of the day>
+OR <micah richards>
 OR alanshearer
 OR bbcmotd
 OR bbcmotd2
 OR boycottmotd
 OR ianwright0
 OR istandwithgary
+OR jjenas8
 OR lineker
 OR motd
 OR shearer
