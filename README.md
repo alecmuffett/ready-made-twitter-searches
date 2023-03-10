@@ -659,6 +659,8 @@ since:2022-07-04
 * :heart: [Share this Search for 'Match Of The Day' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AMatch%20Of%20The%20Day%20%E2%80%94%20%23GaryLineker%20%23IanWright%20and%20the%20%23MatchOfTheDay%20Boycott%20%23MoTD%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23match-of-the-day)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://twitter.com/GaryLineker/status/1633111662352891908
 #### query source (326/512 characters)
 ```
 "gary lineker" OR GaryLineker
