@@ -808,6 +808,7 @@ AND -"tv"
 <gary lineker>
 OR <ian wright>
 OR <match of the day>
+OR alanshearer
 OR bbcmotd
 OR bbcmotd2
 OR boycottmotd
@@ -815,3 +816,4 @@ OR ianwright0
 OR istandwithgary
 OR lineker
 OR motd
+OR shearer
