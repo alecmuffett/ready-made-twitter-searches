@@ -801,3 +801,15 @@ AND (
     )
 AND -"down to the wire"
 AND -"tv"
+
+# #MatchOfTheDay #MoTD #GaryLineker
+
+<gary lineker>
+OR <ian wright>
+OR <match of the day>
+OR ianwright0
+OR lineker
+OR motd
+OR bbcmotd
+OR bbcmotd2
+OR IStandWithGary

@@ -877,12 +877,12 @@ OR "section 230" OR Section230
 
 ### THEWIRE AND INSTAGRAM AND META
 #### AND #TEKFOG
-* :point_right: [TheWire and Instagram and Meta - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query&f=live)
-* :point_right: [TheWire and Instagram and Meta - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query)
+* :point_right: [TheWire and Instagram and Meta - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv%20%23%20%28%23MatchOfTheDay%29%28%23MoTD%29%28%23GaryLineker%29%20%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query&f=live)
+* :point_right: [TheWire and Instagram and Meta - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv%20%23%20%28%23MatchOfTheDay%29%28%23MoTD%29%28%23GaryLineker%29%20%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query)
 * :heart: [Share this Search for 'TheWire and Instagram and Meta' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ATheWire%20And%20Instagram%20And%20Meta%20%E2%80%94%20and%20%23TekFog%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23thewire-and-instagram-and-meta)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (155/512 characters)
+#### query source (367/512 characters)
 ```
 (
     thewire_in
@@ -896,6 +896,16 @@ OR "section 230" OR Section230
     )
 -"down to the wire"
 -tv
+# (#MatchOfTheDay) (#MoTD) (#GaryLineker)
+"gary lineker" OR GaryLineker
+OR "ian wright" OR IanWright
+OR "match of the day" OR MatchOfTheDay
+OR ianwright0
+OR lineker
+OR motd
+OR bbcmotd
+OR bbcmotd2
+OR IStandWithGary
 ```
 
 ### UK INTERNET GOVERNANCE FORUM: UKIGF
