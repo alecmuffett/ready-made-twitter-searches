@@ -31,7 +31,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
-* [MatchOfTheDay #MoTD #GaryLineker](#matchoftheday-motd-garylineker)
+* [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -652,10 +652,11 @@ since:2022-07-04
     )
 ```
 
-### MATCHOFTHEDAY #MOTD #GARYLINEKER
-* :point_right: [MatchOfTheDay #MoTD #GaryLineker - LATEST Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query&f=live)
-* :point_right: [MatchOfTheDay #MoTD #GaryLineker - TOP Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query)
-* :heart: [Share this Search for 'MatchOfTheDay #MoTD #GaryLineker' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AMatchOfTheDay%20%23MoTD%20%23GaryLineker%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23matchoftheday-motd-garylineker)
+### MATCH OF THE DAY
+#### #GARYLINEKER #IANWRIGHT AND THE #MATCHOFTHEDAY BOYCOTT #MOTD
+* :point_right: [Match Of The Day - LATEST Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query&f=live)
+* :point_right: [Match Of The Day - TOP Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20ianwright0%20OR%20lineker%20OR%20motd%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20IStandWithGary&src=typed_query)
+* :heart: [Share this Search for 'Match Of The Day' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AMatch%20Of%20The%20Day%20%E2%80%94%20%23GaryLineker%20%23IanWright%20and%20the%20%23MatchOfTheDay%20Boycott%20%23MoTD%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23match-of-the-day)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### query source (171/512 characters)

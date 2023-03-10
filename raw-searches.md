@@ -803,7 +803,7 @@ AND -"down to the wire"
 AND -"tv"
 
 
-# MatchOfTheDay #MoTD #GaryLineker
+# Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
 
 <gary lineker>
 OR <ian wright>
