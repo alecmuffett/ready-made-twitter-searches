@@ -808,9 +808,10 @@ AND -"tv"
 <gary lineker>
 OR <ian wright>
 OR <match of the day>
-OR ianwright0
-OR lineker
-OR motd
 OR bbcmotd
 OR bbcmotd2
-OR IStandWithGary
+OR boycottmotd
+OR ianwright0
+OR istandwithgary
+OR lineker
+OR motd
