@@ -75,6 +75,7 @@ while (<>) {
 	$url =~ s!\s$!!;
 
 	my $url_title = `web-page-title $url | unicode-to-ascii`;
+	$url_title =~ s!\&\#\w+;!!go;;
 	$url_title =~ s![^\w\s-]+!!go;;
 	$url_title =~ s!\s+! !;
 	$url_title =~ s!\s$!!;

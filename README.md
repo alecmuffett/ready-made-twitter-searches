@@ -692,11 +692,13 @@ OR shearer
 #### some interesting and relevant links
 * [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/)
 * [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/)
+* [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me)
 * [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html)
-* [Donx27t Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me)
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060)
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html)
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors)
+* [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/)
+* [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/)
 * [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/)
 #### query source (40/512 characters)
 ```

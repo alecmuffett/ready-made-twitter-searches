@@ -834,5 +834,7 @@ OR shearer
 - https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
 - https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
 - https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
+- https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
+- https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
 
 <online safety bill>
