@@ -32,6 +32,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
 * [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD)
+* [Online Safety Bill](#online-safety-bill) (and #OnlineSafetyBill, tweets that cite these specifically)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -679,6 +680,18 @@ OR jjenas8
 OR lineker
 OR motd
 OR shearer
+```
+
+### ONLINE SAFETY BILL
+#### AND #ONLINESAFETYBILL, TWEETS THAT CITE THESE SPECIFICALLY
+* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query&f=live)
+* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query)
+* :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20and%20%23OnlineSafetyBill%2C%20tweets%20that%20cite%20these%20specifically%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (40/512 characters)
+```
+"online safety bill" OR OnlineSafetyBill
 ```
 
 ### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME
