@@ -690,8 +690,8 @@ OR shearer
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* [403 Forbidden](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/)
-* [Breaking badly  netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/)
+* [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/)
+* [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/)
 * [Donx27t Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me)
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060)
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html)
