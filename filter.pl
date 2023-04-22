@@ -12,6 +12,8 @@ if ($ARGV[0] eq '-A') {
     $archive_flag = 0;
 }
 
+my $title_extract_len = 128;
+
 my $max_query_length = 512; # https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
@@ -64,6 +66,23 @@ while (<>) {
 	$url =~ s!\s+! !;
 	$url =~ s!\s$!!;
 	push(@{$links{$key}}, $url);
+	next;
+    }
+
+    if (/^\-\s(\S.*)/) {
+	$url = $1;
+	$url =~ s!\s+! !;
+	$url =~ s!\s$!!;
+
+	my $url_title = `web-page-title $url | unicode-to-ascii`;
+	$url_title =~ s![^\w\s]+!!go;;
+	$url_title =~ s!\s+! !;
+	$url_title =~ s!\s$!!;
+	$url_title =~ s!^\s!!;
+	$url_title = substr($url_title, 0, $title_extract_len);
+
+	my $text = "[$url_title]($url)";
+	push(@{$links{$key}}, $text);
 	next;
     }
 

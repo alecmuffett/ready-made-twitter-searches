@@ -689,6 +689,8 @@ OR shearer
 * :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20and%20%23OnlineSafetyBill%2C%20tweets%20that%20cite%20these%20specifically%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060)
 #### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
