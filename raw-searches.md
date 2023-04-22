@@ -826,12 +826,13 @@ OR shearer
 
 # Online Safety Bill | and #OnlineSafetyBill, tweets that specifically cite this topic
 
-- https://alecmuffett.com/article/57060
-- https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
 - https://action.openrightsgroup.org/dont-scan-me
+- https://alecmuffett.com/article/57060
 - https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/
 - https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/
-- https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
 - https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html
+- https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
+- https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
+- https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
 
 <online safety bill>

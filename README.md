@@ -697,6 +697,7 @@ OR shearer
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060)
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html)
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors)
+* [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/)
 #### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
