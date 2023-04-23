@@ -840,10 +840,11 @@ OR shearer
 
 <online safety bill>
 
-# EARN-IT Act
+# EARN-IT Act | and related US legislation attempts
 
 - https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
 
-#earnit
-OR <earn it act>
+<earn it act>
 OR <earn it bill>
+OR <restrict act>
+OR <kids online safety act>

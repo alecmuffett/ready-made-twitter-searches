@@ -21,7 +21,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
 * [Digital Public Goods Alliance: DPGA](#digital-public-goods-alliance-dpga)
-* [EARN-IT Act](#earn-it-act)
+* [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
@@ -308,18 +308,20 @@ OR "information pollution" OR InformationPollution
 ```
 
 ### EARN-IT ACT
-* :point_right: [EARN-IT Act - LATEST Tweets](https://twitter.com/search?q=%28%23earnit%29%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill&src=typed_query&f=live)
-* :point_right: [EARN-IT Act - TOP Tweets](https://twitter.com/search?q=%28%23earnit%29%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill&src=typed_query)
-* :heart: [Share this Search for 'EARN-IT Act' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEARN-IT%20Act%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23earn-it-act)
+#### AND RELATED US LEGISLATION ATTEMPTS
+* :point_right: [EARN-IT Act - LATEST Tweets](https://twitter.com/search?q=%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill%20OR%20%22restrict%20act%22%20OR%20RestrictAct%20OR%20%22kids%20online%20safety%20act%22%20OR%20KidsOnlineSafetyAct&src=typed_query&f=live)
+* :point_right: [EARN-IT Act - TOP Tweets](https://twitter.com/search?q=%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill%20OR%20%22restrict%20act%22%20OR%20RestrictAct%20OR%20%22kids%20online%20safety%20act%22%20OR%20KidsOnlineSafetyAct&src=typed_query)
+* :heart: [Share this Search for 'EARN-IT Act' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEARN-IT%20Act%20%E2%80%94%20and%20related%20US%20legislation%20attempts%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23earn-it-act)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * [The EARN IT Bill Is Back Seeking To Scan Our Messages and Photos  Electronic Frontier Foundation](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos) **(www.eff.org)**
-#### query source (71/512 characters)
+#### query source (142/512 characters)
 ```
-(#earnit)
-OR "earn it act" OR EarnItAct
+"earn it act" OR EarnItAct
 OR "earn it bill" OR EarnItBill
+OR "restrict act" OR RestrictAct
+OR "kids online safety act" OR KidsOnlineSafetyAct
 ```
 
 ### END-TO-END ENCRYPTION: APPS
