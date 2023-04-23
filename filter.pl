@@ -74,6 +74,11 @@ while (<>) {
 	$url =~ s!\s+! !;
 	$url =~ s!\s$!!;
 
+	my $url_host = '-';
+	if ($url =~ m!^https?://(([-\w]+\.)*[-\w]+)/!oi) {
+	    $url_host = $1;
+	}
+
 	my $url_title = `web-page-title $url | unicode-to-ascii`;
 	$url_title =~ s!\&\#\w+;!!go;;
 	$url_title =~ s![^\w\s-]+!!go;;
@@ -82,7 +87,7 @@ while (<>) {
 	$url_title =~ s!^\s!!;
 	$url_title = substr($url_title, 0, $title_extract_len);
 
-	my $text = "[$url_title]($url)";
+	my $text = "[$url_title]($url) **($url_host)**";
 	push(@{$links{$key}}, $text);
 	next;
     }

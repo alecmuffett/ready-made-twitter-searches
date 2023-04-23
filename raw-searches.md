@@ -504,7 +504,7 @@ OR (
 	)
     )
 
-# The "#WildWestWeb" Fallacy | for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide
+# The "#WildWestWeb" Fallacy
 
 * https://neilzone.co.uk/2022/01/the-wild-west-web-fallacy
 * https://twitter.com/webdevlaw/status/1399318148776660996
@@ -836,5 +836,14 @@ OR shearer
 - https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
 - https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
 - https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
+- https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
 
 <online safety bill>
+
+# EARN-IT Act
+
+- https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
+
+#earnit
+OR <earn it act>
+OR <earn it bill>

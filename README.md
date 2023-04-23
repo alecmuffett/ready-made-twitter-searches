@@ -21,6 +21,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
 * [Digital Public Goods Alliance: DPGA](#digital-public-goods-alliance-dpga)
+* [EARN-IT Act](#earn-it-act)
 * [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
@@ -40,7 +41,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
-* [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy) (for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide)
+* [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [TheWire and Instagram and Meta](#thewire-and-instagram-and-meta) (and #TekFog)
 * [UK Internet Governance Forum: UKIGF](#uk-internet-governance-forum-ukigf)
 
@@ -304,6 +305,21 @@ OR dpgcharter
 OR "digital public good" OR DigitalPublicGood
 OR "digital public goods" OR DigitalPublicGoods
 OR "information pollution" OR InformationPollution
+```
+
+### EARN-IT ACT
+* :point_right: [EARN-IT Act - LATEST Tweets](https://twitter.com/search?q=%28%23earnit%29%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill&src=typed_query&f=live)
+* :point_right: [EARN-IT Act - TOP Tweets](https://twitter.com/search?q=%28%23earnit%29%20OR%20%22earn%20it%20act%22%20OR%20EarnItAct%20OR%20%22earn%20it%20bill%22%20OR%20EarnItBill&src=typed_query)
+* :heart: [Share this Search for 'EARN-IT Act' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEARN-IT%20Act%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23earn-it-act)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [The EARN IT Bill Is Back Seeking To Scan Our Messages and Photos  Electronic Frontier Foundation](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos) **(www.eff.org)**
+#### query source (71/512 characters)
+```
+(#earnit)
+OR "earn it act" OR EarnItAct
+OR "earn it bill" OR EarnItBill
 ```
 
 ### END-TO-END ENCRYPTION: APPS
@@ -690,16 +706,17 @@ OR shearer
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/)
-* [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/)
-* [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me)
-* [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html)
-* [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060)
-* [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html)
-* [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors)
-* [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/)
-* [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/)
-* [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/)
+* [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/) **(iea.org.uk)**
+* [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/) **(netwars.pelicancrossing.net)**
+* [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **(action.openrightsgroup.org)**
+* [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **(www.libdemvoice.org)**
+* [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind o](https://alecmuffett.com/article/57060) **(alecmuffett.com)**
+* [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **(www.independent.co.uk)**
+* [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **(www.politicshome.com)**
+* [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/) **(www.infosecurity-magazine.com)**
+* [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/) **(www.cnet.com)**
+* [WhatsApp and Signal unite against online safety bill amid privacy concerns  WhatsApp  The Guardian](https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk) **(www.theguardian.com)**
+* [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **(www.spectator.co.uk)**
 #### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
@@ -894,10 +911,9 @@ OR "section 230" OR Section230
 ```
 
 ### THE "#WILDWESTWEB" FALLACY
-#### FOR #SAFERINTERNETDAY, #SID2022, #PLAYITSAFEONLINE, #EARNITACT AND #NOPLACETOHIDE
 * :point_right: [The "#WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query&f=live)
 * :point_right: [The "#WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query)
-* :heart: [Share this Search for 'The "#WildWestWeb" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AThe%20%22%23WildWestWeb%22%20Fallacy%20%E2%80%94%20for%20%23SaferInternetDay%2C%20%23SID2022%2C%20%23PlayItSafeOnline%2C%20%23EARNITAct%20and%20%23NoPlaceToHide%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-wildwestweb-fallacy)
+* :heart: [Share this Search for 'The "#WildWestWeb" Fallacy' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AThe%20%22%23WildWestWeb%22%20Fallacy%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-wildwestweb-fallacy)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
