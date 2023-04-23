@@ -315,7 +315,7 @@ OR "information pollution" OR InformationPollution
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* [The EARN IT Bill Is Back Seeking To Scan Our Messages and Photos  Electronic Frontier Foundation](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos) **www&period;eff&period;org**
+* [The EARN IT Bill Is Back Seeking To Scan Our Messages and Photos  Electronic Frontier Foundation](https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos) **eff.org**
 #### query source (142/512 characters)
 ```
 "earn it act" OR EarnItAct
@@ -708,17 +708,17 @@ OR shearer
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/) **iea&period;org&period;uk**
-* [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/) **netwars&period;pelicancrossing&period;net**
-* [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **action&period;openrightsgroup&period;org**
-* [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **www&period;libdemvoice&period;org**
-* [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind of Cy](https://alecmuffett.com/article/57060) **alecmuffett&period;com**
-* [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **www&period;independent&period;co&period;uk**
-* [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **www&period;politicshome&period;com**
-* [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/) **www&period;infosecurity-magazine&period;com**
-* [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/) **www&period;cnet&period;com**
-* [WhatsApp and Signal unite against online safety bill amid privacy concerns  WhatsApp  The Guardian](https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk) **www&period;theguardian&period;com**
-* [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **www&period;spectator&period;co&period;uk**
+* [An Unsafe Bill How the Online Safety Bill threatens free speech innovation and privacy -- Institute of Economic Affairs](https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/) **iea.org.uk**
+* [Breaking badly - netwars](https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/) **netwars.pelicancrossing.net**
+* [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **action.openrightsgroup.org**
+* [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **libdemvoice.org**
+* [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of the UK Government and a kind of Cy](https://alecmuffett.com/article/57060) **alecmuffett.com**
+* [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Independent](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **independent.co.uk**
+* [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **politicshome.com**
+* [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/) **infosecurity-magazine.com**
+* [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/) **cnet.com**
+* [WhatsApp and Signal unite against online safety bill amid privacy concerns  WhatsApp  The Guardian](https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk) **theguardian.com**
+* [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **spectator.co.uk**
 #### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill

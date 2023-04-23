@@ -77,7 +77,7 @@ while (<>) {
 	my $url_host = '-';
 	if ($url =~ m!^https?://(([-\w]+\.)*[-\w]+)/!oi) {
 	    $url_host = $1;
-	    $url_host =~ s!\.!&period;!go;
+	    $url_host =~ s!^www\.!!go;
 	}
 
 	my $url_title = `web-page-title $url | unicode-to-ascii`;
