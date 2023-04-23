@@ -837,6 +837,7 @@ OR shearer
 - https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
 - https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
 - https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
+- https://www.techtris.co.uk/p/internexit
 
 <online safety bill>
 

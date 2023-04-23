@@ -713,6 +713,7 @@ OR shearer
 * [Dont Scan Me  Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **(action.openrightsgroup.org)**
 * [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **(libdemvoice.org)**
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of th](https://alecmuffett.com/article/57060) **(alecmuffett.com)**
+* [Internexit - by James Ball - Techtris](https://www.techtris.co.uk/p/internexit) **(techtris.co.uk)**
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Indep](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **(independent.co.uk)**
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **(politicshome.com)**
 * [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/) **(infosecurity-magazine.com)**
