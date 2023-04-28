@@ -83,7 +83,8 @@ while (<>) {
 	my $url_title = `web-page-title $url | unicode-to-ascii`;
 	$url_title =~ s!^https?://(([-\w]+\.)*[-\w]+)/!!o; # remove http://host.dom/ for no-title pages
 	$url_title =~ s!\&\#\w+;!!go;
-	$url_title =~ s![^\w\s-]+! !go;
+	$url_title =~ s!\'([st])!$1!goe;
+	$url_title =~ s!\W+! !go;
 	$url_title =~ s!\s+! !;
 	$url_title =~ s!\s$!!;
 	$url_title =~ s!^\s!!;
