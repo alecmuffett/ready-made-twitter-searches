@@ -824,22 +824,26 @@ OR lineker
 OR motd
 OR shearer
 
-# Online Safety Bill | and #OnlineSafetyBill, tweets that specifically cite this topic
+# Online Safety Bill | & #OnlineSafetyBill & #internexit; tweets that specifically cite this topic
 
 - https://action.openrightsgroup.org/dont-scan-me
 - https://alecmuffett.com/article/57060
 - https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/
 - https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/
+- https://petition.parliament.uk/petitions/634725
+- https://www.bbc.co.uk/news/technology-64863448
+- https://www.bbc.co.uk/news/technology-65388255
+- https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
 - https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html
+- https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
 - https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
 - https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
 - https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
-- https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
-- https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
-- https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
 - https://www.techtris.co.uk/p/internexit
+- https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
 
 <online safety bill>
+OR internexit
 
 # EARN-IT Act | and related US legislation attempts
 

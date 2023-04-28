@@ -33,7 +33,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle](#july-2022-reshuffle)
 * [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD)
-* [Online Safety Bill](#online-safety-bill) (and #OnlineSafetyBill, tweets that specifically cite this topic)
+* [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill & #internexit; tweets that specifically cite this topic)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -701,10 +701,10 @@ OR shearer
 ```
 
 ### ONLINE SAFETY BILL
-#### AND #ONLINESAFETYBILL, TWEETS THAT SPECIFICALLY CITE THIS TOPIC
-* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query&f=live)
-* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query)
-* :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20and%20%23OnlineSafetyBill%2C%20tweets%20that%20specifically%20cite%20this%20topic%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
+#### & #ONLINESAFETYBILL & #INTERNEXIT; TWEETS THAT SPECIFICALLY CITE THIS TOPIC
+* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20internexit&src=typed_query&f=live)
+* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20internexit&src=typed_query)
+* :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20%26%20%23OnlineSafetyBill%20%26%20%23internexit%3B%20tweets%20that%20specifically%20cite%20this%20topic%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -715,14 +715,18 @@ OR shearer
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of th](https://alecmuffett.com/article/57060) **(alecmuffett.com)**
 * [Internexit - by James Ball - Techtris](https://www.techtris.co.uk/p/internexit) **(techtris.co.uk)**
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app  The Indep](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **(independent.co.uk)**
+* [Stop the passing of the Online Safety Bill - Petitions](https://petition.parliament.uk/petitions/634725) **(petition.parliament.uk)**
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **(politicshome.com)**
+* [WhatsApp Rather be blocked in UK than weaken security - BBC News](https://www.bbc.co.uk/news/technology-64863448) **(bbc.co.uk)**
 * [WhatsApp Signal Claim Online Safety Bill Threatens User Privacy and Safety - Infosecurity Magazine](https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/) **(infosecurity-magazine.com)**
 * [WhatsApp and Signal Say the UKs Online Safety Bill Puts Your Privacy at Risk - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/) **(cnet.com)**
 * [WhatsApp and Signal unite against online safety bill amid privacy concerns  WhatsApp  The Guardian](https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk) **(theguardian.com)**
 * [Why WhatsApp could quit the UK over the Online Safety Bill  The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **(spectator.co.uk)**
-#### query source (40/512 characters)
+* [Wikipedia will not perform Online Safety Bill age checks - BBC News](https://www.bbc.co.uk/news/technology-65388255) **(bbc.co.uk)**
+#### query source (54/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
+OR internexit
 ```
 
 ### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME
