@@ -844,6 +844,7 @@ OR shearer
 - https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
 - https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
 - https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements
+- https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/
 
 <online safety bill>
 OR internexit

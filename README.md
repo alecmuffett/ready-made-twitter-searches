@@ -716,6 +716,7 @@ OR shearer
 * [Internexit by James Ball Techtris](https://www.techtris.co.uk/p/internexit) **(techtris.co.uk)**
 * [M_feeney status 1651873027011772416](https://twitter.com/M_feeney/status/1651873027011772416) **(twitter.com)**
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app The Indepe](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **(independent.co.uk)**
+* [Online Safety Bill Policy Hub Open Rights Group](https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/) **(openrightsgroup.org)**
 * [Stop the passing of the Online Safety Bill Petitions](https://petition.parliament.uk/petitions/634725) **(petition.parliament.uk)**
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **(politicshome.com)**
 * [Three Reasons Americans Should Be Concerned about the United Kingdoms Online Safety Bill Cato at Lib](https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0) **(cato.org)**
