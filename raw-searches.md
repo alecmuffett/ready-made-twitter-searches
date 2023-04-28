@@ -831,6 +831,7 @@ OR shearer
 - https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/
 - https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/
 - https://petition.parliament.uk/petitions/634725
+- https://twitter.com/M_feeney/status/1651873027011772416
 - https://www.bbc.co.uk/news/technology-64863448
 - https://www.bbc.co.uk/news/technology-65388255
 - https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
