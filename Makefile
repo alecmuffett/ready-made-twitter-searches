@@ -3,9 +3,9 @@ SRC=raw-searches.md
 DST=README.md
 
 $(DST): $(SRC) $(FILTER)
-	(FILTER) $(SRC) > $(DST)
+	$(FILTER) $(SRC) > $(DST)
 	mmark -html -index < $(DST) > README.html
-	(FILTER) -A $(SRC) > ARCHIVE.md
+	$(FILTER) -A $(SRC) > ARCHIVE.md
 
 push: $(DST)
 	git add . && git commit -m "make on `datestamp`" && git push

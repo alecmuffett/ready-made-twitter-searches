@@ -842,6 +842,7 @@ OR shearer
 - https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
 - https://www.techtris.co.uk/p/internexit
 - https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
+- https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
 
 <online safety bill>
 OR internexit
