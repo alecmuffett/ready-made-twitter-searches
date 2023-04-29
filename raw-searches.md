@@ -859,7 +859,7 @@ OR <earn it bill>
 OR <restrict act>
 OR <kids online safety act>
 
-# Twitter's Adoption of Encryption for Direct Messages | (DMs)
+# Twitter's Adoption of Encryption for Direct Messages
 
 - https://twitter.com/elonmusk/status/1652335652187553794
 
