@@ -845,6 +845,7 @@ OR shearer
 - https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
 - https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements
 - https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/
+- https://www.cyberleagle.com/2020/02/an-online-harms-compendium.html
 
 <online safety bill>
 OR internexit
