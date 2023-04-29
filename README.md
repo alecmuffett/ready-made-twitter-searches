@@ -43,6 +43,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [TheWire and Instagram and Meta](#thewire-and-instagram-and-meta) (and #TekFog)
+* [Twitter's Adoption of Encryption](#twitters-adoption-of-encryption) (for Direct Messages (DMs))
 * [UK Internet Governance Forum: UKIGF](#uk-internet-governance-forum-ukigf)
 
 ## searches
@@ -978,6 +979,30 @@ OR "section 230" OR Section230
     )
 -"down to the wire"
 -tv
+```
+
+### TWITTER'S ADOPTION OF ENCRYPTION
+#### FOR DIRECT MESSAGES (DMS)
+* :point_right: [Twitter's Adoption of Encryption - LATEST Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%29%28encryption%20OR%20encrypted%29&src=typed_query&f=live)
+* :point_right: [Twitter's Adoption of Encryption - TOP Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%29%28encryption%20OR%20encrypted%29&src=typed_query)
+* :heart: [Share this Search for 'Twitter's Adoption of Encryption' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ATwitter%27s%20Adoption%20Of%20Encryption%20%E2%80%94%20for%20Direct%20Messages%20%28DMs%29%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23twitters-adoption-of-encryption)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [elonmusk status 1652335652187553794](https://twitter.com/elonmusk/status/1652335652187553794) **(twitter.com)**
+#### query source (86/512 characters)
+```
+(
+    twitter
+    OR "elon musk" OR ElonMusk
+    OR dm
+    OR dms
+    OR elno
+    )
+(
+    encryption
+    OR encrypted
+    )
 ```
 
 ### UK INTERNET GOVERNANCE FORUM: UKIGF
