@@ -834,18 +834,18 @@ OR shearer
 - https://twitter.com/M_feeney/status/1651873027011772416
 - https://www.bbc.co.uk/news/technology-64863448
 - https://www.bbc.co.uk/news/technology-65388255
+- https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
 - https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
+- https://www.cyberleagle.com/2020/02/an-online-harms-compendium.html
 - https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html
 - https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
 - https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
+- https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/
 - https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
 - https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
 - https://www.techtris.co.uk/p/internexit
 - https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
-- https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
 - https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements
-- https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/
-- https://www.cyberleagle.com/2020/02/an-online-harms-compendium.html
 
 <online safety bill>
 OR internexit
