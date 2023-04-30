@@ -989,6 +989,7 @@ OR "section 230" OR Section230
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * [Encrypted DMs and other DM upgrades rolling out this week Hacker News](https://news.ycombinator.com/item?id=35753993) **(news.ycombinator.com)**
+* [Resource for Journalists How best to frame your article criticising ElonMusk for adding Encryption t](https://alecmuffett.com/article/60757) **(alecmuffett.com)**
 * [elonmusk status 1652335652187553794](https://twitter.com/elonmusk/status/1652335652187553794) **(twitter.com)**
 #### query source (86/512 characters)
 ```
