@@ -729,6 +729,7 @@ OR shearer
 * [WhatsApp and Signal unite against online safety bill amid privacy concerns WhatsApp The Guardian](https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk) **(theguardian.com)**
 * [Why WhatsApp could quit the UK over the Online Safety Bill The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **(spectator.co.uk)**
 * [Wikipedia will not perform Online Safety Bill age checks BBC News](https://www.bbc.co.uk/news/technology-65388255) **(bbc.co.uk)**
+* [Wikipedia will not perform Online Safety Bill age checks The Register](https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/) **(theregister.com)**
 #### query source (54/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
