@@ -872,8 +872,12 @@ OR <kids online safety act>
     OR dm
     OR dms
     OR elno
+    OR musk
     )
 AND (
-    encryption
+    e2e
+    OR e2ee
     OR encrypted
+    OR encryption
+    OR cryptographer
     )
