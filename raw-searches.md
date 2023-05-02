@@ -877,7 +877,8 @@ OR <kids online safety act>
 AND (
     e2e
     OR e2ee
+    OR <client side>
+    OR cryptographer
     OR encrypted
     OR encryption
-    OR cryptographer
     )
