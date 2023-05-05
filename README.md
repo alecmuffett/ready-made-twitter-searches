@@ -992,6 +992,7 @@ OR "section 230" OR Section230
 * [Encrypted DMs and other DM upgrades rolling out this week Hacker News](https://news.ycombinator.com/item?id=35753993) **(news.ycombinator.com)**
 * [Resource for Journalists How best to frame your article criticising ElonMusk for adding Encryption t](https://alecmuffett.com/article/60757) **(alecmuffett.com)**
 * [elonmusk status 1652335652187553794](https://twitter.com/elonmusk/status/1652335652187553794) **(twitter.com)**
+* [mjg59 Twitters e2ee DMs are better than nothing](https://mjg59.dreamwidth.org/66791.html) **(mjg59.dreamwidth.org)**
 #### query source (157/512 characters)
 ```
 (

@@ -865,6 +865,7 @@ OR <kids online safety act>
 - https://twitter.com/elonmusk/status/1652335652187553794
 - https://news.ycombinator.com/item?id=35753993
 - https://alecmuffett.com/article/60757
+- https://mjg59.dreamwidth.org/66791.html
 
 (
     twitter
