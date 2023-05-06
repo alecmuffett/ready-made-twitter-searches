@@ -847,6 +847,8 @@ OR shearer
 - https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
 - https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements
 - https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/
+- https://clairefox.substack.com/p/inside-the-lords-umbrellas-crowns
+- https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks
 
 <online safety bill>
 OR internexit

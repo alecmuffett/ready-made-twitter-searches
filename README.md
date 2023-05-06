@@ -715,12 +715,14 @@ OR shearer
 * [Dont Scan Me Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **(action.openrightsgroup.org)**
 * [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **(libdemvoice.org)**
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of th](https://alecmuffett.com/article/57060) **(alecmuffett.com)**
+* [Inside The Lords umbrellas crowns and attempted cancellations](https://clairefox.substack.com/p/inside-the-lords-umbrellas-crowns) **(clairefox.substack.com)**
 * [Internexit by James Ball Techtris](https://www.techtris.co.uk/p/internexit) **(techtris.co.uk)**
 * [M_feeney status 1651873027011772416](https://twitter.com/M_feeney/status/1651873027011772416) **(twitter.com)**
 * [New magical thinking law and puts everyones privacy at risk warns president of Signal app The Indepe](https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html) **(independent.co.uk)**
 * [Online Safety Bill Policy Hub Open Rights Group](https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/) **(openrightsgroup.org)**
 * [Stop the passing of the Online Safety Bill Petitions](https://petition.parliament.uk/petitions/634725) **(petition.parliament.uk)**
 * [The Online Safety Bill risks making apps more vulnerable to attacks from bad actors](https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors) **(politicshome.com)**
+* [The UKs Online Safety Bill explained The Verge](https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks) **(theverge.com)**
 * [Three Reasons Americans Should Be Concerned about the United Kingdoms Online Safety Bill Cato at Lib](https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0) **(cato.org)**
 * [UK readers may lose access to Wikipedia amid online safety bill requirements UK news The Guardian](https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements) **(theguardian.com)**
 * [WhatsApp Rather be blocked in UK than weaken security BBC News](https://www.bbc.co.uk/news/technology-64863448) **(bbc.co.uk)**
