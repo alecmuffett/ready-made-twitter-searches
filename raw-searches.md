@@ -885,3 +885,28 @@ AND (
     OR encrypted
     OR encryption
     )
+
+# American State Online Age-Verification
+
+- https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html
+- https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html
+- https://le.utah.gov/~2023/bills/static/SB0287.html
+- https://mashable.com/article/pornhub-blocks-utah-because-of-age-verification-law
+- https://twitter.com/AlecMuffett/status/1654922637385117697
+- https://www.pbs.org/newshour/politics/porn-industry-group-sues-over-utah-age-verification-law
+- https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch
+- https://www.semafor.com/article/05/05/2023/anti-porn-activists-are-scoring-big-wins-utah-pornhub-cherie-deville
+- https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest
+- https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification
+
+(
+    <age verification>
+    )
+AND (
+    utah
+    OR arkansas
+    OR california
+    OR louisiana
+    OR mississippi
+    OR virginia
+    )

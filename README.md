@@ -15,6 +15,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Age Verification: General](#age-verification-general) (because a basic search for the phrase yields very noisy results)
 * [Age Verification: Industry & Advocacy](#age-verification-industry--advocacy) (including related child safety initiatives)
 * [Algorithmic Amplification](#algorithmic-amplification)
+* [American State Online Age-Verification](#american-state-online-age-verification)
 * [Anonymity: General](#anonymity-general)
 * [Apple: "Bugs In Our Pockets" Paper](#apple-bugs-in-our-pockets-paper)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
@@ -107,6 +108,38 @@ OR "age verification" OR AgeVerification
     OR promotion
     OR viral
     OR virality
+    )
+```
+
+### AMERICAN STATE ONLINE AGE-VERIFICATION
+* :point_right: [American State Online Age-Verification - LATEST Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query&f=live)
+* :point_right: [American State Online Age-Verification - TOP Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query)
+* :heart: [Share this Search for 'American State Online Age-Verification' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAmerican%20State%20Online%20Age-Verification%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23american-state-online-age-verification)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [AlecMuffett status 1654922637385117697](https://twitter.com/AlecMuffett/status/1654922637385117697) **(twitter.com)**
+* [Anti porn activists are scoring big wins after a 21st century rebrand Semafor](https://www.semafor.com/article/05/05/2023/anti-porn-activists-are-scoring-big-wins-utah-pornhub-cherie-deville) **(semafor.com)**
+* [Cherie DeVille Protests Utahs Online Age Verification Law AVN](https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html) **(avn.com)**
+* [Porn industry group sues over Utah age verification law PBS NewsHour](https://www.pbs.org/newshour/politics/porn-industry-group-sues-over-utah-age-verification-law) **(pbs.org)**
+* [Pornhub Blocks Access in Utah Heres How to Watch Anyway PCMag](https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch) **(pcmag.com)**
+* [Pornhub Blocks All of Utah From Its Site](https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification) **(vice.com)**
+* [Pornhub blocks Utah because of age verification law Mashable](https://mashable.com/article/pornhub-blocks-utah-because-of-age-verification-law) **(mashable.com)**
+* [Pornhub blocks access in Utah over age verification law CNN Business](https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html) **(edition.cnn.com)**
+* [Pornhub goes dark in Utah to protest age verification law The Verge](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest) **(theverge.com)**
+* [SB0287](https://le.utah.gov/~2023/bills/static/SB0287.html) **(le.utah.gov)**
+#### query source (115/512 characters)
+```
+(
+    "age verification" OR AgeVerification
+    )
+(
+    utah
+    OR arkansas
+    OR california
+    OR louisiana
+    OR mississippi
+    OR virginia
     )
 ```
 
