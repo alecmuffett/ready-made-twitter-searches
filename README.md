@@ -747,6 +747,7 @@ OR shearer
 * [Cyberleagle An Online Harms Compendium](https://www.cyberleagle.com/2020/02/an-online-harms-compendium.html) **(cyberleagle.com)**
 * [Dont Scan Me Open Rights Group](https://action.openrightsgroup.org/dont-scan-me) **(action.openrightsgroup.org)**
 * [Dont follow Iran in banning encrypted messaging like Signal and WhatsApp](https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html) **(libdemvoice.org)**
+* [Encryption Keeps Kids Safe Online Internet Society](https://www.internetsociety.org/blog/2023/05/encryption-keeps-kids-safe-online/) **(internetsociety.org)**
 * [How the OnlineSafetyBills OFCOM surveillance measures can will bring about public emasculation of th](https://alecmuffett.com/article/57060) **(alecmuffett.com)**
 * [Inside The Lords umbrellas crowns and attempted cancellations](https://clairefox.substack.com/p/inside-the-lords-umbrellas-crowns) **(clairefox.substack.com)**
 * [Internexit by James Ball Techtris](https://www.techtris.co.uk/p/internexit) **(techtris.co.uk)**

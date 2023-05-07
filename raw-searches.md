@@ -849,6 +849,7 @@ OR shearer
 - https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/
 - https://clairefox.substack.com/p/inside-the-lords-umbrellas-crowns
 - https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks
+- https://www.internetsociety.org/blog/2023/05/encryption-keeps-kids-safe-online/
 
 <online safety bill>
 OR internexit
