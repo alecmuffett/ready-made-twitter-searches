@@ -887,7 +887,7 @@ AND (
     OR encryption
     )
 
-# American State Online Age-Verification
+# Age Verification: US Adoption via State Law
 
 - https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html
 - https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html

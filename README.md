@@ -14,8 +14,8 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 ## search index
 * [Age Verification: General](#age-verification-general) (because a basic search for the phrase yields very noisy results)
 * [Age Verification: Industry & Advocacy](#age-verification-industry--advocacy) (including related child safety initiatives)
+* [Age Verification: US Adoption via State Law](#age-verification-us-adoption-via-state-law)
 * [Algorithmic Amplification](#algorithmic-amplification)
-* [American State Online Age-Verification](#american-state-online-age-verification)
 * [Anonymity: General](#anonymity-general)
 * [Apple: "Bugs In Our Pockets" Paper](#apple-bugs-in-our-pockets-paper)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
@@ -84,37 +84,10 @@ OR "age assurance" OR AgeAssurance
 OR "age verification" OR AgeVerification
 ```
 
-### ALGORITHMIC AMPLIFICATION
-* :point_right: [Algorithmic Amplification - LATEST Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query&f=live)
-* :point_right: [Algorithmic Amplification - TOP Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query)
-* :heart: [Share this Search for 'Algorithmic Amplification' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAlgorithmic%20Amplification%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23algorithmic-amplification)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (207/512 characters)
-```
-(
-    algorithm
-    OR algorithmic
-    OR algorithmically
-    OR algorithmicly
-    OR algorithms
-   )
-(
-    amplify
-    OR "online safety bill" OR OnlineSafetyBill
-    OR amplification
-    OR promote
-    OR promoted
-    OR promotion
-    OR viral
-    OR virality
-    )
-```
-
-### AMERICAN STATE ONLINE AGE-VERIFICATION
-* :point_right: [American State Online Age-Verification - LATEST Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query&f=live)
-* :point_right: [American State Online Age-Verification - TOP Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query)
-* :heart: [Share this Search for 'American State Online Age-Verification' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAmerican%20State%20Online%20Age-Verification%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23american-state-online-age-verification)
+### AGE VERIFICATION: US ADOPTION VIA STATE LAW
+* :point_right: [Age Verification: US Adoption via State Law - LATEST Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query&f=live)
+* :point_right: [Age Verification: US Adoption via State Law - TOP Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query)
+* :heart: [Share this Search for 'Age Verification: US Adoption via State Law' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAge%20Verification%3A%20US%20Adoption%20Via%20State%20Law%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-us-adoption-via-state-law)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -140,6 +113,33 @@ OR "age verification" OR AgeVerification
     OR louisiana
     OR mississippi
     OR virginia
+    )
+```
+
+### ALGORITHMIC AMPLIFICATION
+* :point_right: [Algorithmic Amplification - LATEST Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query&f=live)
+* :point_right: [Algorithmic Amplification - TOP Tweets](https://twitter.com/search?q=%28algorithm%20OR%20algorithmic%20OR%20algorithmically%20OR%20algorithmicly%20OR%20algorithms%29%28amplify%20OR%20%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20amplification%20OR%20promote%20OR%20promoted%20OR%20promotion%20OR%20viral%20OR%20virality%29&src=typed_query)
+* :heart: [Share this Search for 'Algorithmic Amplification' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAlgorithmic%20Amplification%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23algorithmic-amplification)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (207/512 characters)
+```
+(
+    algorithm
+    OR algorithmic
+    OR algorithmically
+    OR algorithmicly
+    OR algorithms
+   )
+(
+    amplify
+    OR "online safety bill" OR OnlineSafetyBill
+    OR amplification
+    OR promote
+    OR promoted
+    OR promotion
+    OR viral
+    OR virality
     )
 ```
 
