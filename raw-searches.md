@@ -353,9 +353,10 @@ AND (
 # End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
 
 - https://twitter.com/AlecMuffett/status/1655593946687365121
-- https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation
 - https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/
+- https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation
 - https://www.golem.de/news/juristische-gutachte-chatkontrolle-duerfte-vor-dem-eugh-scheitern-2305-174006.html
+- https://www.heise.de/news/Chatkontrolle-Juristischer-Dienst-des-EU-Ministerrats-prognostiziert-Scheitern-8990510.html
 
 <chat control>
 OR <chat kontrolle>

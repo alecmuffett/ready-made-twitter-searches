@@ -498,6 +498,7 @@ OR (
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * [AlecMuffett status 1655593946687365121](https://twitter.com/AlecMuffett/status/1655593946687365121) **(twitter.com)**
+* [Chatkontrolle Juristischer Dienst des EU Ministerrats prognostiziert Scheitern heise online](https://www.heise.de/news/Chatkontrolle-Juristischer-Dienst-des-EU-Ministerrats-prognostiziert-Scheitern-8990510.html) **(heise.de)**
 * [EU lawyers say plan to scan private messages for child abuse may be unlawful European Union The Guar](https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation) **(theguardian.com)**
 * [Golem de IT News fuer Profis](https://www.golem.de/news/juristische-gutachte-chatkontrolle-duerfte-vor-dem-eugh-scheitern-2305-174006.html) **(golem.de)**
 * [Leaked EU Council legal analysis EU chat control plans for indiscriminately searching private messag](https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/) **(patrick-breyer.de)**
