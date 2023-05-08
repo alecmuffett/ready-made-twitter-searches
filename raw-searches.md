@@ -367,6 +367,7 @@ OR "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976"
 OR (
     (
 	"eu"
+	OR <eu council>
 	OR "eu_commission"
 	OR "european commission"
 	OR "european union"
