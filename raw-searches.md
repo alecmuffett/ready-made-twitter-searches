@@ -356,25 +356,28 @@ AND (
 - https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation
 - https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/
 
-(
-    "eu"
-    OR <eu council>
-    OR "eu_commission"
-    OR "european commission"
-    OR "european union"
-    )
-AND (
-    "csam"
-    OR "csei"
-    OR "e2e encryption"
-    OR "e2ee"
-    OR "encrypted"
-    OR "surveillance"
-    OR "überwachung"
-    OR <chat control>
-    OR <chat kontrolle>
-    OR <end to end encryption>
-    )
+
+<chat control>
+OR <chat kontrolle>
+OR (
+    (
+	"eu_commission"
+	OR "european commission"
+	OR "european union"
+	OR <eu council>
+	OR <ylva johansson>
+	)
+    AND (
+	"csam"
+	OR "csei"
+	OR "e2ee"
+	OR "encrypted"
+	OR "encryption"
+	OR "surveillance"
+	OR "überwachung"
+	OR <end to end encryption>
+	)
+    }
 
 # Apple: "Bugs In Our Pockets" Paper
 

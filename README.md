@@ -491,8 +491,8 @@ OR (
 
 ### END-TO-END ENCRYPTION: EUROPEAN UNION BACKDOORS
 #### EU INITIATIVES TO MANDATE ENCRYPTION BACKDOORS
-* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%28eu%20OR%20%22eu%20council%22%20OR%20EuCouncil%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20%22e2e%20encryption%22%20OR%20e2ee%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29&src=typed_query&f=live)
-* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%28eu%20OR%20%22eu%20council%22%20OR%20EuCouncil%20OR%20eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%29%28csam%20OR%20csei%20OR%20%22e2e%20encryption%22%20OR%20e2ee%20OR%20encrypted%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29&src=typed_query)
+* :point_right: [End-to-End Encryption: European Union Backdoors - LATEST Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%28%28eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%20OR%20%22eu%20council%22%20OR%20EuCouncil%20OR%20%22ylva%20johansson%22%20OR%20YlvaJohansson%29%28csam%20OR%20csei%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%20%7D&src=typed_query&f=live)
+* :point_right: [End-to-End Encryption: European Union Backdoors - TOP Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%28%28eu_commission%20OR%20%22european%20commission%22%20OR%20%22european%20union%22%20OR%20%22eu%20council%22%20OR%20EuCouncil%20OR%20%22ylva%20johansson%22%20OR%20YlvaJohansson%29%28csam%20OR%20csei%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%20OR%20surveillance%20OR%20%22%C3%BCberwachung%22%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%29%20%7D&src=typed_query)
 * :heart: [Share this Search for 'End-to-End Encryption: European Union Backdoors' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEnd-to-End%20Encryption%3A%20European%20Union%20Backdoors%20%E2%80%94%20EU%20initiatives%20to%20mandate%20encryption%20backdoors%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-european-union-backdoors)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -500,27 +500,29 @@ OR (
 * [AlecMuffett status 1655593946687365121](https://twitter.com/AlecMuffett/status/1655593946687365121) **(twitter.com)**
 * [EU lawyers say plan to scan private messages for child abuse may be unlawful European Union The Guar](https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation) **(theguardian.com)**
 * [Leaked EU Council legal analysis EU chat control plans for indiscriminately searching private messag](https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/) **(patrick-breyer.de)**
-#### query source (307/512 characters)
+#### query source (336/512 characters)
 ```
-(
-    eu
-    OR "eu council" OR EuCouncil
-    OR eu_commission
-    OR "european commission"
-    OR "european union"
-    )
-(
-    csam
-    OR csei
-    OR "e2e encryption"
-    OR e2ee
-    OR encrypted
-    OR surveillance
-    OR "überwachung"
-    OR "chat control" OR ChatControl
-    OR "chat kontrolle" OR ChatKontrolle
-    OR "end to end encryption" OR EndToEndEncryption
-    )
+"chat control" OR ChatControl
+OR "chat kontrolle" OR ChatKontrolle
+OR (
+    (
+	eu_commission
+	OR "european commission"
+	OR "european union"
+	OR "eu council" OR EuCouncil
+	OR "ylva johansson" OR YlvaJohansson
+	)
+    (
+	csam
+	OR csei
+	OR e2ee
+	OR encrypted
+	OR encryption
+	OR surveillance
+	OR "überwachung"
+	OR "end to end encryption" OR EndToEndEncryption
+	)
+    }
 ```
 
 ### END TO END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL
