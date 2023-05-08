@@ -350,7 +350,7 @@ AND (
         )
     )
 
-# End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors
+# End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
 
 - https://twitter.com/AlecMuffett/status/1655593946687365121
 - https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation
