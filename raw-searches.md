@@ -876,10 +876,11 @@ OR <kids online safety act>
 AND (
     e2e
     OR e2ee
+    OR encrypted
+    OR encrypting
+    OR encryption
     OR <client side>
     OR cryptographer
-    OR encrypted
-    OR encryption
     )
 
 # Age Verification: US Adoption via State Law

@@ -1014,8 +1014,8 @@ OR "section 230" OR Section230
 ```
 
 ### TWITTER'S ADOPTION OF ENCRYPTION FOR DIRECT MESSAGES
-* :point_right: [Twitter's Adoption of Encryption for Direct Messages - LATEST Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%20OR%20musk%29%28e2e%20OR%20e2ee%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20cryptographer%20OR%20encrypted%20OR%20encryption%29&src=typed_query&f=live)
-* :point_right: [Twitter's Adoption of Encryption for Direct Messages - TOP Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%20OR%20musk%29%28e2e%20OR%20e2ee%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20cryptographer%20OR%20encrypted%20OR%20encryption%29&src=typed_query)
+* :point_right: [Twitter's Adoption of Encryption for Direct Messages - LATEST Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%20OR%20musk%29%28e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20cryptographer%29&src=typed_query&f=live)
+* :point_right: [Twitter's Adoption of Encryption for Direct Messages - TOP Tweets](https://twitter.com/search?q=%28twitter%20OR%20%22elon%20musk%22%20OR%20ElonMusk%20OR%20dm%20OR%20dms%20OR%20elno%20OR%20musk%29%28e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20cryptographer%29&src=typed_query)
 * :heart: [Share this Search for 'Twitter's Adoption of Encryption for Direct Messages' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ATwitter%27s%20Adoption%20Of%20Encryption%20For%20Direct%20Messages%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23twitters-adoption-of-encryption-for-direct-messages)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -1024,7 +1024,7 @@ OR "section 230" OR Section230
 * [Resource for Journalists How best to frame your article criticising ElonMusk for adding Encryption t](https://alecmuffett.com/article/60757) **(alecmuffett.com)**
 * [elonmusk status 1652335652187553794](https://twitter.com/elonmusk/status/1652335652187553794) **(twitter.com)**
 * [mjg59 Twitters e2ee DMs are better than nothing](https://mjg59.dreamwidth.org/66791.html) **(mjg59.dreamwidth.org)**
-#### query source (157/512 characters)
+#### query source (171/512 characters)
 ```
 (
     twitter
@@ -1037,10 +1037,11 @@ OR "section 230" OR Section230
 (
     e2e
     OR e2ee
+    OR encrypted
+    OR encrypting
+    OR encryption
     OR "client side" OR ClientSide
     OR cryptographer
-    OR encrypted
-    OR encryption
     )
 ```
 
