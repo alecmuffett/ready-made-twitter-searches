@@ -12,7 +12,7 @@
 
 ## helper: <foo bar> expands to: "foo bar" OR "FooBar"
 
-# End-To-End Encryption: Apps | twitter accounts for a selection of messaging apps
+# End-To-End Encryption: Apps | twitter accounts for a selection of messaging apps ARCHIVE
 
 "+@briarapp"
 OR "+@element_hq"
@@ -145,7 +145,7 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
+# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning ARCHIVE
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
@@ -260,7 +260,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple: delay of CSAM surveillance of iPhones and MacOS
+# Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -380,7 +380,7 @@ OR (
 	)
     }
 
-# Apple: "Bugs In Our Pockets" Paper
+# Apple: "Bugs In Our Pockets" Paper ARCHIVE
 
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://arxiv.org/abs/2110.07450
@@ -581,7 +581,7 @@ AND (
     OR <app store>
     )
 
-# July 2022 Reshuffle
+# July 2022 Reshuffle ARCHIVE
 
 "since:2022-07-04"
 AND (
@@ -662,7 +662,7 @@ OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-s
 OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
 OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
 
-# UK Internet Governance Forum: UKIGF
+# UK Internet Governance Forum: UKIGF ARCHIVE
 
 "ukigf"
 OR "ukigf22"
@@ -682,7 +682,7 @@ OR (
 	)
     )
 
-# Digital Public Goods Alliance: DPGA
+# Digital Public Goods Alliance: DPGA ARCHIVE
 
 "dpga"
 OR "dialcommunity"
@@ -717,7 +717,7 @@ OR "california's kids code"
 OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"
 OR "https://californiaaadc.com"
 
-# Proposals for Perpetual British Summer Time | #BritishSummerTime
+# Proposals for Perpetual British Summer Time | #BritishSummerTime ARCHIVE
 
 * https://alecmuffett.com/article/8521 - Commentary + British Economic Time
 * https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
@@ -756,7 +756,7 @@ AND (
 	)
     )
 
-# Iranian Network and Social Media Censorship | in the wake of the murder of #MahsaAmini
+# Iranian Network and Social Media Censorship | in the wake of the murder of #MahsaAmini ARCHIVE
 
 (
     "iran"
@@ -782,7 +782,7 @@ AND (
     OR "whatsapp"
     )
 
-# TheWire and Instagram and Meta | and #TekFog
+# TheWire and Instagram and Meta | and #TekFog ARCHIVE
 
 (
     "thewire_in"
@@ -798,7 +798,7 @@ AND -"down to the wire"
 AND -"tv"
 
 
-# Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
+# Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD ARCHIVE
 
 * https://twitter.com/GaryLineker/status/1633111662352891908
 
