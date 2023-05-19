@@ -911,5 +911,9 @@ AND (
 
 # Alec Muffett ARCHIVE
 
-(<alec muffett> OR <alec muffet>)
+(
+    <alec muffett>
+    OR <alec muffet>
+    OR "alecmuffett.com"
+    )
 AND -from:alecmuffett
