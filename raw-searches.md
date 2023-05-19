@@ -907,3 +907,11 @@ AND (
     OR mississippi
     OR virginia
     )
+AND (
+    -amomentoflovely
+    )
+
+# Alec Muffett ARCHIVE
+
+(<alec muffett> OR <alec muffet>)
+AND -from:alecmuffett

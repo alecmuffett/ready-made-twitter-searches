@@ -13,6 +13,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 
 ## search index
 * [Age Verification: the UK @ChildrensComm ARCHIVE](#age-verification-the-uk-childrenscomm-archive)
+* [Alec Muffett ARCHIVE](#alec-muffett-archive)
 * [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
 * [Apple: "Bugs In Our Pockets" Paper ARCHIVE](#apple-bugs-in-our-pockets-paper-archive)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE](#apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
@@ -50,6 +51,18 @@ since:2021-08-30
     OR "rachel desouza"
     OR rachel_desouza
     )
+```
+
+### ALEC MUFFETT ARCHIVE
+* :point_right: [Alec Muffett ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28%22alec%20muffett%22%20OR%20AlecMuffett%20OR%20%22alec%20muffet%22%20OR%20AlecMuffet%29%20-from%3Aalecmuffett&src=typed_query&f=live)
+* :point_right: [Alec Muffett ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28%22alec%20muffett%22%20OR%20AlecMuffett%20OR%20%22alec%20muffet%22%20OR%20AlecMuffet%29%20-from%3Aalecmuffett&src=typed_query)
+* :heart: [Share this Search for 'Alec Muffett ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAlec%20Muffett%20ARCHIVE%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23alec-muffett-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (80/512 characters)
+```
+("alec muffett" OR AlecMuffett OR "alec muffet" OR AlecMuffet)
+-from:alecmuffett
 ```
 
 ### ANONYMITY: PETITION TO REQUIRE ID FOR SOCIAL MEDIA ARCHIVE
