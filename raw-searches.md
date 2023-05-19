@@ -896,7 +896,8 @@ AND (
 - https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest
 - https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification
 
-(
+-(from:amomentoflovely) ## noise
+AND (
     <age verification>
     )
 AND (
@@ -906,9 +907,6 @@ AND (
     OR louisiana
     OR mississippi
     OR virginia
-    )
-AND (
-    -amomentoflovely
     )
 
 # Alec Muffett ARCHIVE

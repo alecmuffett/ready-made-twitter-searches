@@ -80,8 +80,8 @@ OR "age verification" OR AgeVerification
 ```
 
 ### AGE VERIFICATION: US ADOPTION VIA STATE LAW
-* :point_right: [Age Verification: US Adoption via State Law - LATEST Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29%28-amomentoflovely%29&src=typed_query&f=live)
-* :point_right: [Age Verification: US Adoption via State Law - TOP Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29%28-amomentoflovely%29&src=typed_query)
+* :point_right: [Age Verification: US Adoption via State Law - LATEST Tweets](https://twitter.com/search?q=-%28from%3Aamomentoflovely%29%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query&f=live)
+* :point_right: [Age Verification: US Adoption via State Law - TOP Tweets](https://twitter.com/search?q=-%28from%3Aamomentoflovely%29%28%22age%20verification%22%20OR%20AgeVerification%29%28utah%20OR%20arkansas%20OR%20california%20OR%20louisiana%20OR%20mississippi%20OR%20virginia%29&src=typed_query)
 * :heart: [Share this Search for 'Age Verification: US Adoption via State Law' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAge%20Verification%3A%20US%20Adoption%20Via%20State%20Law%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-us-adoption-via-state-law)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -96,8 +96,9 @@ OR "age verification" OR AgeVerification
 * [Pornhub blocks access in Utah over age verification law CNN Business](https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html) **(edition.cnn.com)**
 * [Pornhub goes dark in Utah to protest age verification law The Verge](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest) **(theverge.com)**
 * [SB0287](https://le.utah.gov/~2023/bills/static/SB0287.html) **(le.utah.gov)**
-#### query source (135/512 characters)
+#### query source (138/512 characters)
 ```
+-(from:amomentoflovely)
 (
     "age verification" OR AgeVerification
     )
@@ -108,9 +109,6 @@ OR "age verification" OR AgeVerification
     OR louisiana
     OR mississippi
     OR virginia
-    )
-(
-    -amomentoflovely
     )
 ```
 
