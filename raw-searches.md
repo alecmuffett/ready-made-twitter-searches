@@ -110,9 +110,12 @@ OR <age appropriate design code>
 OR <age assurance>
 OR <age verification>
 
-# Age Verification: General | because a basic search for the phrase yields very noisy results
+# Age Verification: General
 
-"age verification"
+-(from:amomentoflovely) ## noise
+AND (
+    <age verification>
+    )
 
 # Anonymity: petition to require ID for social media ARCHIVE
 

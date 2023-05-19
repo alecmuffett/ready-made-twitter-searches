@@ -12,7 +12,7 @@ for additions, please submit pull requests against `raw-searches.md`,
 older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 
 ## search index
-* [Age Verification: General](#age-verification-general) (because a basic search for the phrase yields very noisy results)
+* [Age Verification: General](#age-verification-general)
 * [Age Verification: Industry & Advocacy](#age-verification-industry--advocacy) (including related child safety initiatives)
 * [Age Verification: US Adoption via State Law](#age-verification-us-adoption-via-state-law)
 * [Algorithmic Amplification](#algorithmic-amplification)
@@ -45,15 +45,17 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 ## searches
 
 ### AGE VERIFICATION: GENERAL
-#### BECAUSE A BASIC SEARCH FOR THE PHRASE YIELDS VERY NOISY RESULTS
-* :point_right: [Age Verification: General - LATEST Tweets](https://twitter.com/search?q=%22age%20verification%22&src=typed_query&f=live)
-* :point_right: [Age Verification: General - TOP Tweets](https://twitter.com/search?q=%22age%20verification%22&src=typed_query)
-* :heart: [Share this Search for 'Age Verification: General' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAge%20Verification%3A%20General%20%E2%80%94%20because%20a%20basic%20search%20for%20the%20phrase%20yields%20very%20noisy%20results%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-general)
+* :point_right: [Age Verification: General - LATEST Tweets](https://twitter.com/search?q=-%28from%3Aamomentoflovely%29%28%22age%20verification%22%20OR%20AgeVerification%29&src=typed_query&f=live)
+* :point_right: [Age Verification: General - TOP Tweets](https://twitter.com/search?q=-%28from%3Aamomentoflovely%29%28%22age%20verification%22%20OR%20AgeVerification%29&src=typed_query)
+* :heart: [Share this Search for 'Age Verification: General' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AAge%20Verification%3A%20General%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-general)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (18/512 characters)
+#### query source (64/512 characters)
 ```
-"age verification"
+-(from:amomentoflovely)
+(
+    "age verification" OR AgeVerification
+    )
 ```
 
 ### AGE VERIFICATION: INDUSTRY & ADVOCACY
