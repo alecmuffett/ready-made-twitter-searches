@@ -537,6 +537,7 @@ OR (
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/
 * https://twitter.com/Channel4News/status/1675922360237694978
 * https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
 * https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
