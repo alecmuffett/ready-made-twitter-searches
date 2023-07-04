@@ -537,11 +537,11 @@ OR (
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/
-* https://twitter.com/Channel4News/status/1675922360237694978
-* https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
-* https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
-* https://www.youtube.com/watch?v=E--bVV_eQR0
+* [Channel4News status 1675922360237694978](https://twitter.com/Channel4News/status/1675922360237694978) **(twitter.com)**
+* [Messaging app CEOs warning for journalists over Online Safety Bill Press Gazette](https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/) **(pressgazette.co.uk)**
+* [Online Safety Bill Whatsapp Signal issue stark final warning against mass snooping of messages Eveni](https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html) **(standard.co.uk)**
+* [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance Channel 4 Ne](https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance) **(channel4.com)**
+* [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance YouTube](https://www.youtube.com/watch?v=E--bVV_eQR0) **(youtube.com)**
 #### query source (271/512 characters)
 ```
 (
