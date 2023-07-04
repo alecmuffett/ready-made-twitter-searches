@@ -27,10 +27,11 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End To End Encryption: GCHQ & NCSC "Ghost" Protocol](#end-to-end-encryption-gchq--ncsc-ghost-protocol)
 * [End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
+* [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini ARCHIVE)
 * [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD ARCHIVE)
-* [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill & #internexit; tweets that specifically cite this topic)
+* [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime ARCHIVE)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -529,6 +530,34 @@ OR (
     )
 ```
 
+### END TO END ENCRYPTION: WHITAKER-COLLINS DEBATE ON THE #ONLINESAFETYBILL
+* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - LATEST Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28damiancollins%20%28encrypt%20OR%20encryption%20OR%20encrypted%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query&f=live)
+* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - TOP Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28damiancollins%20%28encrypt%20OR%20encryption%20OR%20encrypted%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query)
+* :heart: [Share this Search for 'End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEnd%20To%20End%20Encryption%3A%20Whitaker-Collins%20Debate%20On%20The%20%23OnlineSafetyBill%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://twitter.com/Channel4News/status/1675922360237694978
+* https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
+* https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
+* https://www.youtube.com/watch?v=E--bVV_eQR0
+#### query source (181/512 characters)
+```
+(
+    "online safety bill" OR OnlineSafetyBill
+    OR mer__edith
+    OR (
+	damiancollins
+	(
+	    encrypt
+	    OR encryption
+	    OR encrypted
+	    )
+	)
+    OR https://twitter.com/Channel4News/status/1675922360237694978
+    )
+```
+
 ### FAKE RUMOURS OF SIGNAL AND WHATSAPP VULNERABILITIES
 * :point_right: [Fake Rumours of Signal and WhatsApp Vulnerabilities - LATEST Tweets](https://twitter.com/search?q=%28signalapp%20OR%20whatsapp%29%28attack%20OR%20attacks%29%20platform&src=typed_query&f=live)
 * :point_right: [Fake Rumours of Signal and WhatsApp Vulnerabilities - TOP Tweets](https://twitter.com/search?q=%28signalapp%20OR%20whatsapp%29%28attack%20OR%20attacks%29%20platform&src=typed_query)
@@ -606,10 +635,10 @@ OR shearer
 ```
 
 ### ONLINE SAFETY BILL
-#### & #ONLINESAFETYBILL & #INTERNEXIT; TWEETS THAT SPECIFICALLY CITE THIS TOPIC
-* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20internexit&src=typed_query&f=live)
-* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20internexit&src=typed_query)
-* :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20%26%20%23OnlineSafetyBill%20%26%20%23internexit%3B%20tweets%20that%20specifically%20cite%20this%20topic%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
+#### & #ONLINESAFETYBILL; TWEETS THAT SPECIFICALLY CITE THIS TOPIC
+* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query&f=live)
+* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query)
+* :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20%26%20%23OnlineSafetyBill%3B%20tweets%20that%20specifically%20cite%20this%20topic%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -637,10 +666,9 @@ OR shearer
 * [Why WhatsApp could quit the UK over the Online Safety Bill The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **(spectator.co.uk)**
 * [Wikipedia will not perform Online Safety Bill age checks BBC News](https://www.bbc.co.uk/news/technology-65388255) **(bbc.co.uk)**
 * [Wikipedia will not perform Online Safety Bill age checks The Register](https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/) **(theregister.com)**
-#### query source (54/512 characters)
+#### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
-OR internexit
 ```
 
 ### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME

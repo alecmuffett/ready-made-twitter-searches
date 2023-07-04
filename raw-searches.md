@@ -822,7 +822,7 @@ OR lineker
 OR motd
 OR shearer
 
-# Online Safety Bill | & #OnlineSafetyBill & #internexit; tweets that specifically cite this topic
+# Online Safety Bill | & #OnlineSafetyBill; tweets that specifically cite this topic
 
 - https://action.openrightsgroup.org/dont-scan-me
 - https://alecmuffett.com/article/57060
@@ -850,7 +850,6 @@ OR shearer
 - https://www.internetsociety.org/blog/2023/05/encryption-keeps-kids-safe-online/
 
 <online safety bill>
-OR internexit
 
 # EARN-IT Act | and related US legislation attempts
 
@@ -920,3 +919,24 @@ AND (
     OR "alecmuffett.com"
     )
 AND -from:alecmuffett
+
+# End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill
+
+* https://twitter.com/Channel4News/status/1675922360237694978
+* https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
+* https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
+* https://www.youtube.com/watch?v=E--bVV_eQR0
+
+(
+    <online safety bill>
+    OR "mer__edith"
+    OR (
+	"damiancollins"
+	AND (
+	    "encrypt"
+	    OR "encryption"
+	    OR "encrypted"
+	    )
+	)
+    OR https://twitter.com/Channel4News/status/1675922360237694978
+    )
