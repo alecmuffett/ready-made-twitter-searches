@@ -353,7 +353,7 @@ AND (
         )
     )
 
-# End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
+# End-To-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
 
 - https://twitter.com/AlecMuffett/status/1655593946687365121
 - https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/
@@ -622,7 +622,7 @@ AND (
     OR virality
     )
 
-# End To End Encryption: GCHQ & NCSC "Ghost" Protocol
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol
 
 * https://alecmuffett.com/alecm/e2e-primer/
 * https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
@@ -653,7 +653,7 @@ AND ( ## interest
     OR encryption
     )
 
-# End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
 
 * https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 * https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
@@ -920,7 +920,7 @@ AND (
     )
 AND -from:alecmuffett
 
-# End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill
+# End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill
 
 - https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/
 - https://twitter.com/Channel4News/status/1675922360237694978
