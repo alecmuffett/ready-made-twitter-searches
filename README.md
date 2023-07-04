@@ -531,8 +531,8 @@ OR (
 ```
 
 ### END TO END ENCRYPTION: WHITAKER-COLLINS DEBATE ON THE #ONLINESAFETYBILL
-* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - LATEST Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28damiancollins%20%28encrypt%20OR%20encryption%20OR%20encrypted%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query&f=live)
-* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - TOP Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28damiancollins%20%28encrypt%20OR%20encryption%20OR%20encrypted%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query)
+* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - LATEST Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28%28%22damian%20collins%22%20OR%20DamianCollins%20OR%20%22damien%20collins%22%20OR%20DamienCollins%29%28encrypt%20OR%20encryption%20OR%20encrypted%20OR%20signal%20OR%20whatsapp%20OR%20tech%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query&f=live)
+* :point_right: [End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill - TOP Tweets](https://twitter.com/search?q=%28%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20mer__edith%20OR%20%28%28%22damian%20collins%22%20OR%20DamianCollins%20OR%20%22damien%20collins%22%20OR%20DamienCollins%29%28encrypt%20OR%20encryption%20OR%20encrypted%20OR%20signal%20OR%20whatsapp%20OR%20tech%29%29%20OR%20https%3A%2F%2Ftwitter.com%2FChannel4News%2Fstatus%2F1675922360237694978%29&src=typed_query)
 * :heart: [Share this Search for 'End to End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0AEnd%20To%20End%20Encryption%3A%20Whitaker-Collins%20Debate%20On%20The%20%23OnlineSafetyBill%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -541,17 +541,23 @@ OR (
 * https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
 * https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
 * https://www.youtube.com/watch?v=E--bVV_eQR0
-#### query source (181/512 characters)
+#### query source (271/512 characters)
 ```
 (
     "online safety bill" OR OnlineSafetyBill
     OR mer__edith
     OR (
-	damiancollins
+	(
+	    "damian collins" OR DamianCollins
+	    OR "damien collins" OR DamienCollins
+	    )
 	(
 	    encrypt
 	    OR encryption
 	    OR encrypted
+	    OR signal
+	    OR whatsapp
+	    OR tech
 	    )
 	)
     OR https://twitter.com/Channel4News/status/1675922360237694978

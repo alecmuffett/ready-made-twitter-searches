@@ -931,11 +931,17 @@ AND -from:alecmuffett
     <online safety bill>
     OR "mer__edith"
     OR (
-	"damiancollins"
+	(
+	    <damian collins>
+	    OR <damien collins>
+	    )
 	AND (
 	    "encrypt"
 	    OR "encryption"
 	    OR "encrypted"
+	    OR "signal"
+	    OR "whatsapp"
+	    OR "tech"
 	    )
 	)
     OR https://twitter.com/Channel4News/status/1675922360237694978
