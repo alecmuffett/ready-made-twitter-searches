@@ -182,25 +182,25 @@ onlinePseudonymity OR
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* [Apple Delays Rollout of Child Safety Features The New York Times](https://www.nytimes.com/2021/09/03/business/apple-child-safety.html) **(nytimes.com)**
+* [Apple Introduces Parental Control Feature That Scans Messages for Nudity](https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity) **(vice.com)**
+* [Apple delays child abuse detection system after backlash Financial Times](https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25) **(ft.com)**
+* [Apple delays plan to scan iPhones for child abuse BBC News](https://www.bbc.co.uk/news/technology-58433647) **(bbc.co.uk)**
+* [Apple delays plans to scan cloud uploads for child sexual abuse images Apple The Guardian](https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images) **(theguardian.com)**
+* [Apple plans to scan US iPhones for child abuse imagery Financial Times](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
+* [Apple to roll out child safety feature that scans messages for nudity to UK iPhones Apple The Guardi](https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones) **(theguardian.com)**
 * [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
-* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
-* https://stratechery.com/2021/apples-mistake/
-* https://techcrunch.com/2021/09/04/apples-dangerous-path/
-* https://twitter.com/matthew_d_green/status/1423071186616000513
-* https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://twitter.com/matthew_d_green/status/1423407898890326021
+* [Apples Mistake Stratechery by Ben Thompson](https://stratechery.com/2021/apples-mistake/) **(stratechery.com)**
+* [Apples dangerous path TechCrunch](https://techcrunch.com/2021/09/04/apples-dangerous-path/) **(techcrunch.com)**
+* [Daring Fireball Apples New Child Safety Initiatives and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope) **(daringfireball.net)**
+* [If You Build It They Will Come Apple Has Opened the Backdoor to Increased Surveillance and Censorshi](https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance) **(eff.org)**
+* [Report Apple to announce client side photo hashing system to detect child abuse images in users phot](https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/) **(9to5mac.com)**
+* [Thorn statement on Apples pause of implementing child safety measures Thorn](https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/) **(thorn.org)**
+* [matthew_d_green status 1423071186616000513](https://twitter.com/matthew_d_green/status/1423071186616000513) **(twitter.com)**
+* [matthew_d_green status 1423110719533371393](https://twitter.com/matthew_d_green/status/1423110719533371393) **(twitter.com)**
+* [matthew_d_green status 1423407898890326021](https://twitter.com/matthew_d_green/status/1423407898890326021) **(twitter.com)**
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
-* https://www.bbc.co.uk/news/technology-58433647
-* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
-* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
-* https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25
-* https://www.nytimes.com/2021/09/03/business/apple-child-safety.html
-* https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images
-* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
-* https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
-* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 #### query source (317/512 characters)
 ```
 "neural hash" OR NeuralHash

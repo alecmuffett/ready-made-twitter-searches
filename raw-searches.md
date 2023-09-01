@@ -911,25 +911,24 @@ AND -from:alecmuffett
 
 # Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
 
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
-* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
-* https://stratechery.com/2021/apples-mistake/
-* https://techcrunch.com/2021/09/04/apples-dangerous-path/
-* https://twitter.com/matthew_d_green/status/1423071186616000513
-* https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://twitter.com/matthew_d_green/status/1423407898890326021
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
-* https://www.bbc.co.uk/news/technology-58433647
-* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
-* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
-* https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25
-* https://www.nytimes.com/2021/09/03/business/apple-child-safety.html
-* https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images
-* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
-* https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
-* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-
+- https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+- https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
+- https://stratechery.com/2021/apples-mistake/
+- https://techcrunch.com/2021/09/04/apples-dangerous-path/
+- https://twitter.com/matthew_d_green/status/1423071186616000513
+- https://twitter.com/matthew_d_green/status/1423110719533371393
+- https://twitter.com/matthew_d_green/status/1423407898890326021
+- https://www.bbc.co.uk/news/technology-58433647
+- https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
+- https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+- https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25
+- https://www.nytimes.com/2021/09/03/business/apple-child-safety.html
+- https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images
+- https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
+- https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
+- https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
 - https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
 
 <neural hash>
