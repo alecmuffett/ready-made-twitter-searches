@@ -148,44 +148,6 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
-
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
-* https://twitter.com/matthew_d_green/status/1423071186616000513
-* https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://twitter.com/matthew_d_green/status/1423407898890326021
-* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
-* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
-* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
-* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-* https://stratechery.com/2021/apples-mistake/
-* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
-* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
-* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
-* https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
-
-<neural hash>
-OR <neural match>
-OR (
-    (
-	"apple"
-	OR "iCloud"
-	OR "iPhone"
-	)
-    AND (
-	<child abuse>
-	OR <client side>
-	OR <heat initiative>
-	OR scanning
-	OR "csam"
-	OR "cse"
-	OR "illegal imagery"
-	OR "law enforcement"
-	OR "ncmec"
-	)
-    )
-OR "https://www.apple.com/child-safety/"
-
 # Anonymity: General
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
@@ -262,7 +224,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple: delay of CSAM surveillance of iPhones and MacOS
+# Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -946,3 +908,48 @@ AND -from:alecmuffett
 	)
     OR https://twitter.com/Channel4News/status/1675922360237694978
     )
+
+# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
+
+* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
+* https://stratechery.com/2021/apples-mistake/
+* https://techcrunch.com/2021/09/04/apples-dangerous-path/
+* https://twitter.com/matthew_d_green/status/1423071186616000513
+* https://twitter.com/matthew_d_green/status/1423110719533371393
+* https://twitter.com/matthew_d_green/status/1423407898890326021
+* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
+* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
+* https://www.bbc.co.uk/news/technology-58433647
+* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
+* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+* https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25
+* https://www.nytimes.com/2021/09/03/business/apple-child-safety.html
+* https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images
+* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
+* https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
+* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
+
+- https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
+
+<neural hash>
+OR <neural match>
+OR (
+    (
+	"apple"
+	OR "iCloud"
+	OR "iPhone"
+	)
+    AND (
+	<child abuse>
+	OR <client side>
+	OR <heat initiative>
+	OR scanning
+	OR "csam"
+	OR "cse"
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR "ncmec"
+	)
+    )
+OR "https://www.apple.com/child-safety/"

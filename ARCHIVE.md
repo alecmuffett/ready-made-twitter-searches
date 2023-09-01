@@ -16,6 +16,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Alec Muffett ARCHIVE](#alec-muffett-archive)
 * [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
 * [Apple: "Bugs In Our Pockets" Paper ARCHIVE](#apple-bugs-in-our-pockets-paper-archive)
+* [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE](#apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
 * [Childrens Code: "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Digital Public Goods Alliance: DPGA ARCHIVE](#digital-public-goods-alliance-dpga-archive)
@@ -135,6 +136,46 @@ since:2021-10-14
     OR "phone scanning"
     OR "tears at heart of privacy"
     OR "automatically scan all iphones"
+    )
+```
+
+### APPLE: DELAY OF CSAM SURVEILLANCE OF IPHONES AND MACOS ARCHIVE
+* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query&f=live)
+* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query)
+* :heart: [Share this Search for 'Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20Delay%20Of%20CSAM%20Surveillance%20Of%20IPhones%20And%20MacOS%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
+* "https://www.bbc.co.uk/news/technology-58433647"
+* "https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25"
+* "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
+* "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
+* "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
+#### query source (227/512 characters)
+```
+since:2021-09-01
+(
+    (
+	apple
+	( child OR csam )
+	(
+	    delay
+	    OR delaying
+	    OR disappoint
+	    OR disappointed
+	    OR disappointing
+	    OR pause
+	    OR pauses
+	    OR postpone
+	    OR postpones
+	    OR reconsider
+	    OR reconsidering
+	    OR scan
+	    OR scanning
+	    OR surveillance
+	    )
+	)
     )
 ```
 
