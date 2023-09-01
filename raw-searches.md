@@ -909,7 +909,7 @@ AND -from:alecmuffett
     OR https://twitter.com/Channel4News/status/1675922360237694978
     )
 
-# Apple: CSAM surveillance proposal | #ClientSideScanning and why is was abandoned
+# Apple: CSAM surveillance proposal | #ClientSideScanning and why it was abandoned
 
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
@@ -952,3 +952,4 @@ OR (
 	OR "ncmec"
 	)
     )
+OR "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/"
