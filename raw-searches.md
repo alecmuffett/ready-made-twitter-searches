@@ -958,12 +958,15 @@ OR "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/"
 
 - https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law
 
-<age verification>
-AND (
-    OR "australia"
-    OR "australian"
-    OR "esafety"
-    OR "esafetyoffice"
-    OR "tweetingjules"
-    OR <inman grant>
+(
+    <age verification>
+    AND (
+	OR "australia"
+	OR "australian"
+	OR "esafety"
+	OR "esafetyoffice"
+	OR "tweetingjules"
+	OR <inman grant>
+	)
     )
+OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"

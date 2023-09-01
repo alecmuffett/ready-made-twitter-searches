@@ -42,24 +42,27 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 ## searches
 
 ### AGE VERIFICATION: AUSTRALIA ABANDONS PLANS FOR AV
-* :point_right: [Age Verification: Australia Abandons Plans for AV - LATEST Tweets](https://twitter.com/search?q=%22age%20verification%22%20OR%20AgeVerification%20%28OR%20australia%20OR%20australian%20OR%20esafety%20OR%20esafetyoffice%20OR%20tweetingjules%20OR%20%22inman%20grant%22%20OR%20InmanGrant%29&src=typed_query&f=live)
-* :point_right: [Age Verification: Australia Abandons Plans for AV - TOP Tweets](https://twitter.com/search?q=%22age%20verification%22%20OR%20AgeVerification%20%28OR%20australia%20OR%20australian%20OR%20esafety%20OR%20esafetyoffice%20OR%20tweetingjules%20OR%20%22inman%20grant%22%20OR%20InmanGrant%29&src=typed_query)
+* :point_right: [Age Verification: Australia Abandons Plans for AV - LATEST Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%20%28OR%20australia%20OR%20australian%20OR%20esafety%20OR%20esafetyoffice%20OR%20tweetingjules%20OR%20%22inman%20grant%22%20OR%20InmanGrant%29%29%20OR%20%22https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Faug%2F31%2Froadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law%22&src=typed_query&f=live)
+* :point_right: [Age Verification: Australia Abandons Plans for AV - TOP Tweets](https://twitter.com/search?q=%28%22age%20verification%22%20OR%20AgeVerification%20%28OR%20australia%20OR%20australian%20OR%20esafety%20OR%20esafetyoffice%20OR%20tweetingjules%20OR%20%22inman%20grant%22%20OR%20InmanGrant%29%29%20OR%20%22https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Faug%2F31%2Froadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law%22&src=typed_query)
 * :heart: [Share this Search for 'Age Verification: Australia Abandons Plans for AV' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AAge%20Verification%3A%20Australia%20Abandons%20Plans%20For%20AV%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23age-verification-australia-abandons-plans-for-av)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * [Australia will not force adult websites to bring in age verification due to privacy and security con](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law) **(theguardian.com)**
-#### query source (144/512 characters)
+#### query source (295/512 characters)
 ```
-"age verification" OR AgeVerification
 (
-    OR australia
-    OR australian
-    OR esafety
-    OR esafetyoffice
-    OR tweetingjules
-    OR "inman grant" OR InmanGrant
+    "age verification" OR AgeVerification
+    (
+	OR australia
+	OR australian
+	OR esafety
+	OR esafetyoffice
+	OR tweetingjules
+	OR "inman grant" OR InmanGrant
+	)
     )
+OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"
 ```
 
 ### AGE VERIFICATION: GENERAL
