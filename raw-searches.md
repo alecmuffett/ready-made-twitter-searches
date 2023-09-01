@@ -963,5 +963,7 @@ AND (
     OR "australia"
     OR "australian"
     OR "esafety"
+    OR "esafetyoffice"
+    OR "tweetingjules"
     OR <inman grant>
     )
