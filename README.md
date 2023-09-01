@@ -201,8 +201,8 @@ onlinePseudonymity OR
 
 ### APPLE: CSAM SURVEILLANCE PROPOSAL
 #### #CLIENTSIDESCANNING AND WHY IT WAS ABANDONED
-* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query&f=live)
-* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query)
+* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query&f=live)
+* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query)
 * :heart: [Share this Search for 'Apple: CSAM surveillance proposal' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20CSAM%20Surveillance%20Proposal%20%E2%80%94%20%23ClientSideScanning%20and%20why%20it%20was%20abandoned%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -230,6 +230,7 @@ onlinePseudonymity OR
 ```
 "neural hash" OR NeuralHash
 OR "neural match" OR NeuralMatch
+OR "heat initiative" OR HeatInitiative
 OR (
     (
 	apple
@@ -240,7 +241,6 @@ OR (
 	"child abuse" OR ChildAbuse
 	OR "child safety" OR ChildSafety
 	OR "client side" OR ClientSide
-	OR "heat initiative" OR HeatInitiative
 	OR scanning
 	OR csam
 	OR cse

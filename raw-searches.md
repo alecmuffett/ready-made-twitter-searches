@@ -933,6 +933,7 @@ AND -from:alecmuffett
 
 <neural hash>
 OR <neural match>
+OR <heat initiative>
 OR (
     (
 	"apple"
@@ -943,7 +944,6 @@ OR (
 	<child abuse>
 	OR <child safety>
 	OR <client side>
-	OR <heat initiative>
 	OR scanning
 	OR "csam"
 	OR "cse"
