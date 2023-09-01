@@ -16,14 +16,18 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Alec Muffett ARCHIVE](#alec-muffett-archive)
 * [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
 * [Apple: "Bugs In Our Pockets" Paper ARCHIVE](#apple-bugs-in-our-pockets-paper-archive)
-* [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE](#apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
 * [Childrens Code: "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Digital Public Goods Alliance: DPGA ARCHIVE](#digital-public-goods-alliance-dpga-archive)
+* [End-To-End Encryption: Apps ARCHIVE](#end-to-end-encryption-apps-archive) (twitter accounts for a selection of messaging apps)
 * [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
+* [Iranian Network and Social Media Censorship ARCHIVE](#iranian-network-and-social-media-censorship-archive) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle ARCHIVE](#july-2022-reshuffle-archive)
+* [Match Of The Day ARCHIVE](#match-of-the-day-archive) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD)
+* [Proposals for Perpetual British Summer Time ARCHIVE](#proposals-for-perpetual-british-summer-time-archive) (#BritishSummerTime)
 * [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage-archive)
+* [TheWire and Instagram and Meta ARCHIVE](#thewire-and-instagram-and-meta-archive) (and #TekFog)
 * [UK Internet Governance Forum: UKIGF ARCHIVE](#uk-internet-governance-forum-ukigf-archive)
 
 ## searches
@@ -134,46 +138,6 @@ since:2021-10-14
     )
 ```
 
-### APPLE: DELAY OF CSAM SURVEILLANCE OF IPHONES AND MACOS ARCHIVE
-* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query&f=live)
-* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query)
-* :heart: [Share this Search for 'Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20Delay%20Of%20CSAM%20Surveillance%20Of%20IPhones%20And%20MacOS%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
-* "https://www.bbc.co.uk/news/technology-58433647"
-* "https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25"
-* "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
-* "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
-* "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
-#### query source (227/512 characters)
-```
-since:2021-09-01
-(
-    (
-        apple
-        ( child OR csam )
-        (
-            delay
-            OR delaying
-            OR disappoint
-            OR disappointed
-            OR disappointing
-            OR pause
-            OR pauses
-            OR postpone
-            OR postpones
-            OR reconsider
-            OR reconsidering
-            OR scan
-            OR scanning
-            OR surveillance
-            )
-        )
-    )
-```
-
 ### CHILDRENS CODE: "REGULATION WORKS" FALLACY ARCHIVE
 * :point_right: [Childrens Code: "Regulation Works" Fallacy ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query&f=live)
 * :point_right: [Childrens Code: "Regulation Works" Fallacy ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22regulation%20works%22%20%28%22age%20appropriate%22%20OR%20%22child%20safety%22%20OR%20children%20OR%20%22children%27s%20code%22%20OR%20csam%20OR%20%22design%20code%22%20OR%20kidron%20OR%20%22online%20harms%22%20OR%20%22personal%20data%22%20OR%20platforms%29&src=typed_query)
@@ -215,16 +179,16 @@ since:2021-09-10
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-          "cressida dick" OR CressidaDick
-          (
-              encrypted
-              OR encryption
-              OR terrorism
-              OR terrorist
-              OR terrorists
-              OR "tech giants"
-              )
-        )
+	  "cressida dick" OR CressidaDick
+	  (
+	      encrypted
+	      OR encryption
+	      OR terrorism
+	      OR terrorist
+	      OR terrorists
+	      OR "tech giants"
+	      )
+	)
     )
 ```
 
@@ -246,6 +210,31 @@ OR "digital public goods" OR DigitalPublicGoods
 OR "information pollution" OR InformationPollution
 ```
 
+### END-TO-END ENCRYPTION: APPS ARCHIVE
+#### TWITTER ACCOUNTS FOR A SELECTION OF MESSAGING APPS
+* :point_right: [End-To-End Encryption: Apps ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: Apps ARCHIVE - TOP Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: Apps ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Apps%20ARCHIVE%20%E2%80%94%20twitter%20accounts%20for%20a%20selection%20of%20messaging%20apps%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-apps-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (201/512 characters)
+```
++@briarapp
+OR +@element_hq
+OR +@matrixdotorg
+OR +@messenger
+OR +@mywickr
+OR +@r2refresh
+OR +@session_app
+OR +@signalapp
+OR +@telegram
+OR +@threema
+OR +@torproject
+OR +@wa_status
+OR +@whatsapp
+OR +@wire
+```
+
 ### HACKING, PEGASUS PROJECT ARCHIVE
 * :point_right: [Hacking, Pegasus Project ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22nso%20group%22%20OR%20NsoGroup%20OR%20%22pegasus%20project%22%20OR%20PegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%28nso%20spyware%29&src=typed_query&f=live)
 * :point_right: [Hacking, Pegasus Project ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22nso%20group%22%20OR%20NsoGroup%20OR%20%22pegasus%20project%22%20OR%20PegasusProject%20OR%20%22israeli%20spyware%22%20OR%20%28nso%20spyware%29&src=typed_query)
@@ -263,6 +252,40 @@ OR "information pollution" OR InformationPollution
 OR "pegasus project" OR PegasusProject
 OR "israeli spyware"
 OR ( nso spyware)
+```
+
+### IRANIAN NETWORK AND SOCIAL MEDIA CENSORSHIP ARCHIVE
+#### IN THE WAKE OF THE MURDER OF #MAHSAAMINI
+* :point_right: [Iranian Network and Social Media Censorship ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censoring%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query&f=live)
+* :point_right: [Iranian Network and Social Media Censorship ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censoring%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query)
+* :heart: [Share this Search for 'Iranian Network and Social Media Censorship ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AIranian%20Network%20And%20Social%20Media%20Censorship%20ARCHIVE%20%E2%80%94%20in%20the%20wake%20of%20the%20murder%20of%20%23MahsaAmini%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23iranian-network-and-social-media-censorship-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (219/512 characters)
+```
+(
+    iran
+    OR iranian
+    )
+(
+    blocks
+    OR censor
+    OR censored
+    OR censoring
+    OR censorship
+    OR instagram
+    OR internet
+    OR messenger
+    OR messengers
+    OR network
+    OR shutdown
+    OR signalapp
+    OR telegram
+    OR torproject
+    OR vpn
+    OR vpns
+    OR whatsapp
+    )
 ```
 
 ### JULY 2022 RESHUFFLE ARCHIVE
@@ -290,6 +313,82 @@ since:2022-07-04
     )
 ```
 
+### MATCH OF THE DAY ARCHIVE
+#### #GARYLINEKER #IANWRIGHT AND THE #MATCHOFTHEDAY BOYCOTT #MOTD
+* :point_right: [Match Of The Day ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22alex%20scott%22%20OR%20AlexScott%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22jermaine%20jenas%22%20OR%20JermaineJenas%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20%22micah%20richards%22%20OR%20MicahRichards%20OR%20alanshearer%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20boycottmotd%20OR%20ianwright0%20OR%20istandwithgary%20OR%20jjenas8%20OR%20lineker%20OR%20motd%20OR%20shearer&src=typed_query&f=live)
+* :point_right: [Match Of The Day ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22alex%20scott%22%20OR%20AlexScott%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22jermaine%20jenas%22%20OR%20JermaineJenas%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20%22micah%20richards%22%20OR%20MicahRichards%20OR%20alanshearer%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20boycottmotd%20OR%20ianwright0%20OR%20istandwithgary%20OR%20jjenas8%20OR%20lineker%20OR%20motd%20OR%20shearer&src=typed_query)
+* :heart: [Share this Search for 'Match Of The Day ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AMatch%20Of%20The%20Day%20ARCHIVE%20%E2%80%94%20%23GaryLineker%20%23IanWright%20and%20the%20%23MatchOfTheDay%20Boycott%20%23MoTD%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23match-of-the-day-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://twitter.com/GaryLineker/status/1633111662352891908
+#### query source (326/512 characters)
+```
+"gary lineker" OR GaryLineker
+OR "alex scott" OR AlexScott
+OR "ian wright" OR IanWright
+OR "jermaine jenas" OR JermaineJenas
+OR "match of the day" OR MatchOfTheDay
+OR "micah richards" OR MicahRichards
+OR alanshearer
+OR bbcmotd
+OR bbcmotd2
+OR boycottmotd
+OR ianwright0
+OR istandwithgary
+OR jjenas8
+OR lineker
+OR motd
+OR shearer
+```
+
+### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME ARCHIVE
+#### #BRITISHSUMMERTIME
+* :point_right: [Proposals for Perpetual British Summer Time ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%20-%22UTC%2B1%22%20-anime%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query&f=live)
+* :point_right: [Proposals for Perpetual British Summer Time ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%20-%22UTC%2B1%22%20-anime%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query)
+* :heart: [Share this Search for 'Proposals for Perpetual British Summer Time ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AProposals%20For%20Perpetual%20British%20Summer%20Time%20ARCHIVE%20%E2%80%94%20%23BritishSummerTime%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23proposals-for-perpetual-british-summer-time-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://alecmuffett.com/article/8521 - Commentary + British Economic Time
+* https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
+* https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
+* https://twitter.com/AlecMuffett/status/1573108193584185344 - Manchester Sunrise Table
+* https://twitter.com/AlecMuffett/status/1573140381813841921 - Prerau to Parliament
+* https://twitter.com/AlecMuffett/status/1573145580926386176 - thermal model to demonstrate impact
+* https://twitter.com/cjsnowdon/status/1573042498703958017 - Rumours
+* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967 - Wonderful Book
+* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
+#### query source (238/512 characters)
+```
+since:2022-09-20
+(
+    BritishSummerTime
+    OR (
+	(
+	    "summer time" OR SummerTime
+	    -"GMT+0100"
+	    -"UTC+1"
+	    -anime
+	    )
+	(
+	    british
+	    OR cymru
+	    OR england
+	    OR english
+	    OR "northern ireland"
+	    OR scotland
+	    OR scottish
+	    OR sunrise
+	    OR sunset
+	    OR uk
+	    OR wales
+	    OR welsh
+	    )
+	)
+    )
+```
+
 ### PROPUBLICA THINK THAT WHATSAPP ABUSE REPORTS ARE A BACKDOOR ARCHIVE
 * :point_right: [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2021-09-06%20whatsapp%20%28%28propublica%20OR%20%22end%20to%20end%22%20OR%20%22law%20enforcement%22%20OR%20moderating%20OR%20moderation%20OR%20moderator%20OR%20moderators%20OR%20privacy%20OR%20undermines%20OR%20undermining%29%29&src=typed_query&f=live)
 * :point_right: [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-06%20whatsapp%20%28%28propublica%20OR%20%22end%20to%20end%22%20OR%20%22law%20enforcement%22%20OR%20moderating%20OR%20moderation%20OR%20moderator%20OR%20moderators%20OR%20privacy%20OR%20undermines%20OR%20undermining%29%29&src=typed_query)
@@ -311,17 +410,17 @@ since:2022-07-04
 since:2021-09-06
 whatsapp
 ( (
-          propublica
-          OR "end to end"
-          OR "law enforcement"
-          OR moderating
-          OR moderation
-          OR moderator
-          OR moderators
-          OR privacy
-          OR undermines
-          OR undermining
-          )
+	  propublica
+	  OR "end to end"
+	  OR "law enforcement"
+	  OR moderating
+	  OR moderation
+	  OR moderator
+	  OR moderators
+	  OR privacy
+	  OR undermines
+	  OR undermining
+	  )
     )
 ```
 
@@ -337,6 +436,29 @@ whatsapp
 OR "https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users"
 OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-workers-examine-millions-pieces-content-WhatsApp.html"
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
+```
+
+### THEWIRE AND INSTAGRAM AND META ARCHIVE
+#### AND #TEKFOG
+* :point_right: [TheWire and Instagram and Meta ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query&f=live)
+* :point_right: [TheWire and Instagram and Meta ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query)
+* :heart: [Share this Search for 'TheWire and Instagram and Meta ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ATheWire%20And%20Instagram%20And%20Meta%20ARCHIVE%20%E2%80%94%20and%20%23TekFog%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23thewire-and-instagram-and-meta-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (155/512 characters)
+```
+(
+    thewire_in
+    OR thewire
+    OR varadu
+    OR "tek fog" OR TekFog
+    OR (
+	( meta OR facebook OR fb OR instagram )
+	( dkim OR xcheck OR wire )
+	)
+    )
+-"down to the wire"
+-tv
 ```
 
 ### UK INTERNET GOVERNANCE FORUM: UKIGF ARCHIVE

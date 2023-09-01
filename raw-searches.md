@@ -12,7 +12,7 @@
 
 ## helper: <foo bar> expands to: "foo bar" OR "FooBar"
 
-# End-To-End Encryption: Apps | twitter accounts for a selection of messaging apps ARCHIVE
+# End-To-End Encryption: Apps ARCHIVE | twitter accounts for a selection of messaging apps
 
 "+@briarapp"
 OR "+@element_hq"
@@ -52,11 +52,11 @@ OR "undermine endToEndEncryption"
 OR (
     "backdoor"
     AND (
-        "e2e"
-        OR "e2ee"
-        OR "end to end"
-        OR "endToEnd"
-        )
+	"e2e"
+	OR "e2ee"
+	OR "end to end"
+	OR "endToEnd"
+	)
     )
 
 # End-To-End Encryption: General | including regulation, law enforcement, and platforms
@@ -71,28 +71,28 @@ OR "noplacetohide" ## UK campaign
 OR <warrant proof>
 OR (
     (
-        "algorithm"
-        OR "algorithms"
-        OR "e2e"
-        OR "end to end"
-        OR "facebook"
-        OR "instagram"
-        OR "law enforcement"
-        OR "messenger"
-        OR "nspcc"
-        OR "unregulated"
-        OR "whatsapp"
-        OR "bout en bout"
-        )
+	"algorithm"
+	OR "algorithms"
+	OR "e2e"
+	OR "end to end"
+	OR "facebook"
+	OR "instagram"
+	OR "law enforcement"
+	OR "messenger"
+	OR "nspcc"
+	OR "unregulated"
+	OR "whatsapp"
+	OR "bout en bout"
+	)
     AND (
-        "chiffre"
-        OR "chiffrement"
-        OR "cryptage"
-        OR "encrypt"
-        OR "encrypted"
-        OR "encryption"
-        OR "encryptions"
-        )
+	"chiffre"
+	OR "chiffrement"
+	OR "cryptage"
+	OR "encrypt"
+	OR "encrypted"
+	OR "encryption"
+	OR "encryptions"
+	)
     )
 
 # Age Verification: Industry & Advocacy | including related child safety initiatives
@@ -148,13 +148,12 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning ARCHIVE
+# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
 
 * https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
 * https://twitter.com/matthew_d_green/status/1423407898890326021
-* https://www.apple.com/child-safety/
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
@@ -163,27 +162,27 @@ OR ( "nso" AND "spyware")
 * https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 * https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
+* https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
 
 <neural hash>
 OR <neural match>
 OR (
     (
-        "apple"
-        OR "iCloud"
-        OR "iPhone"
-        )
+	"apple"
+	OR "iCloud"
+	OR "iPhone"
+	)
     AND (
-        "csam"
-        OR "cse"
-        OR "ncmec"
-        OR "psi"
-        OR <child abuse>
-        OR "illegal imagery"
-        OR "law enforcement"
-        OR "private set intersection"
+	<child abuse>
 	OR <client side>
+	OR <heat initiative>
 	OR scanning
-        )
+	OR "csam"
+	OR "cse"
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR "ncmec"
+	)
     )
 OR "https://www.apple.com/child-safety/"
 
@@ -197,24 +196,24 @@ OR "https://www.apple.com/child-safety/"
 "internet fuckwad theory" OR
 (
     (
-        "abuse" OR
-        "harm" OR
-        "harms" OR
-        "online" OR
-        "onlineHarms"
-        )
+	"abuse" OR
+	"harm" OR
+	"harms" OR
+	"online" OR
+	"onlineHarms"
+	)
     AND (
-        "anonymity" OR
-        "anonymous" OR
-        "pseudonymity" OR
-        "pseudonymous"
-        )
+	"anonymity" OR
+	"anonymous" OR
+	"pseudonymity" OR
+	"pseudonymous"
+	)
     ) OR
 (
     "online" AND (
-        "harms"
-        OR "safety"
-        )
+	"harms"
+	OR "safety"
+	)
     )
 
 # Apple: Tank-Man Image
@@ -263,7 +262,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE
+# Apple: delay of CSAM surveillance of iPhones and MacOS
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -275,25 +274,25 @@ AND (
 "since:2021-09-01"
 AND (
     (
-        "apple"
-        AND ( "child" OR "csam" )
-        AND (
-            "delay"
-            OR "delaying"
-            OR "disappoint"
-            OR "disappointed"
-            OR "disappointing"
-            OR "pause"
-            OR "pauses"
-            OR "postpone"
-            OR "postpones"
-            OR "reconsider"
-            OR "reconsidering"
-            OR "scan"
-            OR "scanning"
-            OR "surveillance"
-            )
-        )
+	"apple"
+	AND ( "child" OR "csam" )
+	AND (
+	    "delay"
+	    OR "delaying"
+	    OR "disappoint"
+	    OR "disappointed"
+	    OR "disappointing"
+	    OR "pause"
+	    OR "pauses"
+	    OR "postpone"
+	    OR "postpones"
+	    OR "reconsider"
+	    OR "reconsidering"
+	    OR "scan"
+	    OR "scanning"
+	    OR "surveillance"
+	    )
+	)
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE
@@ -311,17 +310,17 @@ AND (
 "since:2021-09-06"
 AND "whatsapp"
 AND ( (
-          "propublica"
-          OR "end to end"
-          OR "law enforcement"
-          OR "moderating"
-          OR "moderation"
-          OR "moderator"
-          OR "moderators"
-          OR "privacy"
-          OR "undermines"
-          OR "undermining"
-          )
+	  "propublica"
+	  OR "end to end"
+	  OR "law enforcement"
+	  OR "moderating"
+	  OR "moderation"
+	  OR "moderator"
+	  OR "moderators"
+	  OR "privacy"
+	  OR "undermines"
+	  OR "undermining"
+	  )
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE
@@ -341,16 +340,16 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-          <cressida dick>
-          AND (
-              "encrypted"
-              OR "encryption"
-              OR "terrorism"
-              OR "terrorist"
-              OR "terrorists"
-              OR "tech giants"
-              )
-        )
+	  <cressida dick>
+	  AND (
+	      "encrypted"
+	      OR "encryption"
+	      OR "terrorism"
+	      OR "terrorist"
+	      OR "terrorists"
+	      OR "tech giants"
+	      )
+	)
     )
 
 # End-To-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
@@ -720,7 +719,7 @@ OR "california's kids code"
 OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"
 OR "https://californiaaadc.com"
 
-# Proposals for Perpetual British Summer Time | #BritishSummerTime ARCHIVE
+# Proposals for Perpetual British Summer Time ARCHIVE | #BritishSummerTime
 
 * https://alecmuffett.com/article/8521 - Commentary + British Economic Time
 * https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
@@ -759,7 +758,7 @@ AND (
 	)
     )
 
-# Iranian Network and Social Media Censorship | in the wake of the murder of #MahsaAmini ARCHIVE
+# Iranian Network and Social Media Censorship ARCHIVE | in the wake of the murder of #MahsaAmini
 
 (
     "iran"
@@ -785,7 +784,7 @@ AND (
     OR "whatsapp"
     )
 
-# TheWire and Instagram and Meta | and #TekFog ARCHIVE
+# TheWire and Instagram and Meta ARCHIVE | and #TekFog
 
 (
     "thewire_in"
@@ -793,15 +792,15 @@ AND (
     OR "varadu"
     OR <tek fog>
     OR (
-        ( "meta" OR "facebook" OR "fb" OR "instagram" )
-        AND ( "dkim" OR "xcheck" OR "wire" )
-        )
+	( "meta" OR "facebook" OR "fb" OR "instagram" )
+	AND ( "dkim" OR "xcheck" OR "wire" )
+	)
     )
 AND -"down to the wire"
 AND -"tv"
 
 
-# Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD ARCHIVE
+# Match Of The Day ARCHIVE | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
 
 * https://twitter.com/GaryLineker/status/1633111662352891908
 

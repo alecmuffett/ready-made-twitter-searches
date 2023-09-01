@@ -17,10 +17,10 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Age Verification: US Adoption via State Law](#age-verification-us-adoption-via-state-law)
 * [Algorithmic Amplification](#algorithmic-amplification)
 * [Anonymity: General](#anonymity-general)
-* [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning ARCHIVE)
+* [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (including #NeuralHash and #NeuralMatch and #ClientSideScanning)
+* [Apple: delay of CSAM surveillance of iPhones and MacOS](#apple-delay-of-csam-surveillance-of-iphones-and-macos)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
-* [End-To-End Encryption: Apps](#end-to-end-encryption-apps) (twitter accounts for a selection of messaging apps ARCHIVE)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-To-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors like #ChatControl)
@@ -29,10 +29,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
 * [End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
-* [Iranian Network and Social Media Censorship](#iranian-network-and-social-media-censorship) (in the wake of the murder of #MahsaAmini ARCHIVE)
-* [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD ARCHIVE)
 * [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
-* [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime ARCHIVE)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
@@ -40,7 +37,6 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
-* [TheWire and Instagram and Meta](#thewire-and-instagram-and-meta) (and #TekFog ARCHIVE)
 * [Twitter's Adoption of Encryption for Direct Messages](#twitters-adoption-of-encryption-for-direct-messages)
 
 ## searches
@@ -158,32 +154,32 @@ onlinePseudonymity OR
 "internet fuckwad theory" OR
 (
     (
-        abuse OR
-        harm OR
-        harms OR
-        online OR
-        onlineHarms
-        )
+	abuse OR
+	harm OR
+	harms OR
+	online OR
+	onlineHarms
+	)
     (
-        anonymity OR
-        anonymous OR
-        pseudonymity OR
-        pseudonymous
-        )
+	anonymity OR
+	anonymous OR
+	pseudonymity OR
+	pseudonymous
+	)
     ) OR
 (
     online (
-        harms
-        OR safety
-        )
+	harms
+	OR safety
+	)
     )
 ```
 
 ### APPLE: CSAM SURVEILLANCE PROPOSAL
-#### INCLUDING #NEURALHASH AND #NEURALMATCH AND #CLIENTSIDESCANNING ARCHIVE
-* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query&f=live)
-* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28csam%20OR%20cse%20OR%20ncmec%20OR%20psi%20OR%20%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20%22private%20set%20intersection%22%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query)
-* :heart: [Share this Search for 'Apple: CSAM surveillance proposal' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20CSAM%20Surveillance%20Proposal%20%E2%80%94%20including%20%23NeuralHash%20and%20%23NeuralMatch%20and%20%23ClientSideScanning%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
+#### INCLUDING #NEURALHASH AND #NEURALMATCH AND #CLIENTSIDESCANNING
+* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query&f=live)
+* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.apple.com%2Fchild-safety%2F%22&src=typed_query)
+* :heart: [Share this Search for 'Apple: CSAM surveillance proposal' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20CSAM%20Surveillance%20Proposal%20%E2%80%94%20including%20%23NeuralHash%20and%20%23NeuralMatch%20and%20%23ClientSideScanning%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -193,37 +189,76 @@ onlinePseudonymity OR
 * https://twitter.com/matthew_d_green/status/1423071186616000513
 * https://twitter.com/matthew_d_green/status/1423110719533371393
 * https://twitter.com/matthew_d_green/status/1423407898890326021
-* https://www.apple.com/child-safety/
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 * https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
 * https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
 * https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
 * https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-#### query source (315/512 characters)
+* https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
+#### query source (317/512 characters)
 ```
 "neural hash" OR NeuralHash
 OR "neural match" OR NeuralMatch
 OR (
     (
-        apple
-        OR iCloud
-        OR iPhone
-        )
+	apple
+	OR iCloud
+	OR iPhone
+	)
     (
-        csam
-        OR cse
-        OR ncmec
-        OR psi
-        OR "child abuse" OR ChildAbuse
-        OR "illegal imagery"
-        OR "law enforcement"
-        OR "private set intersection"
+	"child abuse" OR ChildAbuse
 	OR "client side" OR ClientSide
+	OR "heat initiative" OR HeatInitiative
 	OR scanning
-        )
+	OR csam
+	OR cse
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR ncmec
+	)
     )
 OR "https://www.apple.com/child-safety/"
+```
+
+### APPLE: DELAY OF CSAM SURVEILLANCE OF IPHONES AND MACOS
+* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS - LATEST Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query&f=live)
+* :point_right: [Apple: delay of CSAM surveillance of iPhones and MacOS - TOP Tweets](https://twitter.com/search?q=since%3A2021-09-01%20%28%28apple%20%28child%20OR%20csam%29%28delay%20OR%20delaying%20OR%20disappoint%20OR%20disappointed%20OR%20disappointing%20OR%20pause%20OR%20pauses%20OR%20postpone%20OR%20postpones%20OR%20reconsider%20OR%20reconsidering%20OR%20scan%20OR%20scanning%20OR%20surveillance%29%29%29&src=typed_query)
+* :heart: [Share this Search for 'Apple: delay of CSAM surveillance of iPhones and MacOS' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20Delay%20Of%20CSAM%20Surveillance%20Of%20IPhones%20And%20MacOS%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-delay-of-csam-surveillance-of-iphones-and-macos)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
+* "https://www.bbc.co.uk/news/technology-58433647"
+* "https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25"
+* "https://www.nytimes.com/2021/09/03/business/apple-child-safety.html"
+* "https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images"
+* "https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/"
+#### query source (227/512 characters)
+```
+since:2021-09-01
+(
+    (
+	apple
+	( child OR csam )
+	(
+	    delay
+	    OR delaying
+	    OR disappoint
+	    OR disappointed
+	    OR disappointing
+	    OR pause
+	    OR pauses
+	    OR postpone
+	    OR postpones
+	    OR reconsider
+	    OR reconsidering
+	    OR scan
+	    OR scanning
+	    OR surveillance
+	    )
+	)
+    )
 ```
 
 ### APPLE: TANK-MAN IMAGE
@@ -260,31 +295,6 @@ OR "restrict act" OR RestrictAct
 OR "kids online safety act" OR KidsOnlineSafetyAct
 ```
 
-### END-TO-END ENCRYPTION: APPS
-#### TWITTER ACCOUNTS FOR A SELECTION OF MESSAGING APPS ARCHIVE
-* :point_right: [End-To-End Encryption: Apps - LATEST Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption: Apps - TOP Tweets](https://twitter.com/search?q=%2B%40briarapp%20OR%20%2B%40element_hq%20OR%20%2B%40matrixdotorg%20OR%20%2B%40messenger%20OR%20%2B%40mywickr%20OR%20%2B%40r2refresh%20OR%20%2B%40session_app%20OR%20%2B%40signalapp%20OR%20%2B%40telegram%20OR%20%2B%40threema%20OR%20%2B%40torproject%20OR%20%2B%40wa_status%20OR%20%2B%40whatsapp%20OR%20%2B%40wire&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption: Apps' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Apps%20%E2%80%94%20twitter%20accounts%20for%20a%20selection%20of%20messaging%20apps%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-apps)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (201/512 characters)
-```
-+@briarapp
-OR +@element_hq
-OR +@matrixdotorg
-OR +@messenger
-OR +@mywickr
-OR +@r2refresh
-OR +@session_app
-OR +@signalapp
-OR +@telegram
-OR +@threema
-OR +@torproject
-OR +@wa_status
-OR +@whatsapp
-OR +@wire
-```
-
 ### END-TO-END ENCRYPTION: BREAKING
 #### DISCUSSION OF WEAKENING E2EE, BACKDOORS, AND #CHATCONTROL
 * :point_right: [End-To-End Encryption: Breaking - LATEST Tweets](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%28backdoor%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29&src=typed_query&f=live)
@@ -315,11 +325,11 @@ OR "undermine endToEndEncryption"
 OR (
     backdoor
     (
-        e2e
-        OR e2ee
-        OR "end to end"
-        OR endToEnd
-        )
+	e2e
+	OR e2ee
+	OR "end to end"
+	OR endToEnd
+	)
     )
 ```
 
@@ -505,28 +515,28 @@ OR noplacetohide
 OR "warrant proof" OR WarrantProof
 OR (
     (
-        algorithm
-        OR algorithms
-        OR e2e
-        OR "end to end"
-        OR facebook
-        OR instagram
-        OR "law enforcement"
-        OR messenger
-        OR nspcc
-        OR unregulated
-        OR whatsapp
-        OR "bout en bout"
-        )
+	algorithm
+	OR algorithms
+	OR e2e
+	OR "end to end"
+	OR facebook
+	OR instagram
+	OR "law enforcement"
+	OR messenger
+	OR nspcc
+	OR unregulated
+	OR whatsapp
+	OR "bout en bout"
+	)
     (
-        chiffre
-        OR chiffrement
-        OR cryptage
-        OR encrypt
-        OR encrypted
-        OR encryption
-        OR encryptions
-        )
+	chiffre
+	OR chiffrement
+	OR cryptage
+	OR encrypt
+	OR encrypted
+	OR encryption
+	OR encryptions
+	)
     )
 ```
 
@@ -578,69 +588,6 @@ OR (
 platform
 ```
 
-### IRANIAN NETWORK AND SOCIAL MEDIA CENSORSHIP
-#### IN THE WAKE OF THE MURDER OF #MAHSAAMINI ARCHIVE
-* :point_right: [Iranian Network and Social Media Censorship - LATEST Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censoring%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query&f=live)
-* :point_right: [Iranian Network and Social Media Censorship - TOP Tweets](https://twitter.com/search?q=%28iran%20OR%20iranian%29%28blocks%20OR%20censor%20OR%20censored%20OR%20censoring%20OR%20censorship%20OR%20instagram%20OR%20internet%20OR%20messenger%20OR%20messengers%20OR%20network%20OR%20shutdown%20OR%20signalapp%20OR%20telegram%20OR%20torproject%20OR%20vpn%20OR%20vpns%20OR%20whatsapp%29&src=typed_query)
-* :heart: [Share this Search for 'Iranian Network and Social Media Censorship' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AIranian%20Network%20And%20Social%20Media%20Censorship%20%E2%80%94%20in%20the%20wake%20of%20the%20murder%20of%20%23MahsaAmini%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23iranian-network-and-social-media-censorship)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (219/512 characters)
-```
-(
-    iran
-    OR iranian
-    )
-(
-    blocks
-    OR censor
-    OR censored
-    OR censoring
-    OR censorship
-    OR instagram
-    OR internet
-    OR messenger
-    OR messengers
-    OR network
-    OR shutdown
-    OR signalapp
-    OR telegram
-    OR torproject
-    OR vpn
-    OR vpns
-    OR whatsapp
-    )
-```
-
-### MATCH OF THE DAY
-#### #GARYLINEKER #IANWRIGHT AND THE #MATCHOFTHEDAY BOYCOTT #MOTD ARCHIVE
-* :point_right: [Match Of The Day - LATEST Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22alex%20scott%22%20OR%20AlexScott%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22jermaine%20jenas%22%20OR%20JermaineJenas%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20%22micah%20richards%22%20OR%20MicahRichards%20OR%20alanshearer%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20boycottmotd%20OR%20ianwright0%20OR%20istandwithgary%20OR%20jjenas8%20OR%20lineker%20OR%20motd%20OR%20shearer&src=typed_query&f=live)
-* :point_right: [Match Of The Day - TOP Tweets](https://twitter.com/search?q=%22gary%20lineker%22%20OR%20GaryLineker%20OR%20%22alex%20scott%22%20OR%20AlexScott%20OR%20%22ian%20wright%22%20OR%20IanWright%20OR%20%22jermaine%20jenas%22%20OR%20JermaineJenas%20OR%20%22match%20of%20the%20day%22%20OR%20MatchOfTheDay%20OR%20%22micah%20richards%22%20OR%20MicahRichards%20OR%20alanshearer%20OR%20bbcmotd%20OR%20bbcmotd2%20OR%20boycottmotd%20OR%20ianwright0%20OR%20istandwithgary%20OR%20jjenas8%20OR%20lineker%20OR%20motd%20OR%20shearer&src=typed_query)
-* :heart: [Share this Search for 'Match Of The Day' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AMatch%20Of%20The%20Day%20%E2%80%94%20%23GaryLineker%20%23IanWright%20and%20the%20%23MatchOfTheDay%20Boycott%20%23MoTD%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23match-of-the-day)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://twitter.com/GaryLineker/status/1633111662352891908
-#### query source (326/512 characters)
-```
-"gary lineker" OR GaryLineker
-OR "alex scott" OR AlexScott
-OR "ian wright" OR IanWright
-OR "jermaine jenas" OR JermaineJenas
-OR "match of the day" OR MatchOfTheDay
-OR "micah richards" OR MicahRichards
-OR alanshearer
-OR bbcmotd
-OR bbcmotd2
-OR boycottmotd
-OR ianwright0
-OR istandwithgary
-OR jjenas8
-OR lineker
-OR motd
-OR shearer
-```
-
 ### ONLINE SAFETY BILL
 #### & #ONLINESAFETYBILL; TWEETS THAT SPECIFICALLY CITE THIS TOPIC
 * :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query&f=live)
@@ -676,53 +623,6 @@ OR shearer
 #### query source (40/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
-```
-
-### PROPOSALS FOR PERPETUAL BRITISH SUMMER TIME
-#### #BRITISHSUMMERTIME ARCHIVE
-* :point_right: [Proposals for Perpetual British Summer Time - LATEST Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%20-%22UTC%2B1%22%20-anime%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query&f=live)
-* :point_right: [Proposals for Perpetual British Summer Time - TOP Tweets](https://twitter.com/search?q=since%3A2022-09-20%20%28BritishSummerTime%20OR%20%28%28%22summer%20time%22%20OR%20SummerTime%20-%22GMT%2B0100%22%20-%22UTC%2B1%22%20-anime%29%28british%20OR%20cymru%20OR%20england%20OR%20english%20OR%20%22northern%20ireland%22%20OR%20scotland%20OR%20scottish%20OR%20sunrise%20OR%20sunset%20OR%20uk%20OR%20wales%20OR%20welsh%29%29%29&src=typed_query)
-* :heart: [Share this Search for 'Proposals for Perpetual British Summer Time' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AProposals%20For%20Perpetual%20British%20Summer%20Time%20%E2%80%94%20%23BritishSummerTime%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23proposals-for-perpetual-british-summer-time)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://alecmuffett.com/article/8521 - Commentary + British Economic Time
-* https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
-* https://newrepublic.com/article/79023/roll-back-the-bush-changes-daylight-saving-time
-* https://twitter.com/AlecMuffett/status/1573108193584185344 - Manchester Sunrise Table
-* https://twitter.com/AlecMuffett/status/1573140381813841921 - Prerau to Parliament
-* https://twitter.com/AlecMuffett/status/1573145580926386176 - thermal model to demonstrate impact
-* https://twitter.com/cjsnowdon/status/1573042498703958017 - Rumours
-* https://www.amazon.co.uk/Saving-Daylight-Why-Clocks-Forward/dp/1862077967 - Wonderful Book
-* https://www.dailymail.co.uk/news/article-11241019/amp/Kwasi-Kwarteng-vows-new-era-Britain-unveils-package-measures-turbo-charge-growth.html
-#### query source (238/512 characters)
-```
-since:2022-09-20
-(
-    BritishSummerTime
-    OR (
-	(
-	    "summer time" OR SummerTime
-	    -"GMT+0100"
-	    -"UTC+1"
-	    -anime
-	    )
-	(
-	    british
-	    OR cymru
-	    OR england
-	    OR english
-	    OR "northern ireland"
-	    OR scotland
-	    OR scottish
-	    OR sunrise
-	    OR sunset
-	    OR uk
-	    OR wales
-	    OR welsh
-	    )
-	)
-    )
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
@@ -899,29 +799,6 @@ OR "section 230" OR Section230
 	)
     )
 -"chance to make the UK the safest place"
-```
-
-### THEWIRE AND INSTAGRAM AND META
-#### AND #TEKFOG ARCHIVE
-* :point_right: [TheWire and Instagram and Meta - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query&f=live)
-* :point_right: [TheWire and Instagram and Meta - TOP Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query)
-* :heart: [Share this Search for 'TheWire and Instagram and Meta' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ATheWire%20And%20Instagram%20And%20Meta%20%E2%80%94%20and%20%23TekFog%20ARCHIVE%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23thewire-and-instagram-and-meta)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (155/512 characters)
-```
-(
-    thewire_in
-    OR thewire
-    OR varadu
-    OR "tek fog" OR TekFog
-    OR (
-        ( meta OR facebook OR fb OR instagram )
-        ( dkim OR xcheck OR wire )
-        )
-    )
--"down to the wire"
--tv
 ```
 
 ### TWITTER'S ADOPTION OF ENCRYPTION FOR DIRECT MESSAGES
