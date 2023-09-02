@@ -208,6 +208,7 @@ onlinePseudonymity OR
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* [2110 07450 Bugs in our Pockets The Risks of Client Side Scanning](https://arxiv.org/abs/2110.07450) **(arxiv.org)**
 * [Apple faces renewed pressure to protect child safety Child sexual abuse is stored on iCloud Apple al](https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/) **(9to5mac.com)**
 * [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
 * [Heat Initiative](https://protectchildrennotabuse.org) **(-)**

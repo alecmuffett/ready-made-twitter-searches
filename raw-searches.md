@@ -953,6 +953,7 @@ OR (
 
 # Apple: Calls for CSAM Surveillance Reinstatement | #HeatInitiative: people who want Apple to spy on us for our own good
 
+- https://arxiv.org/abs/2110.07450
 - https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/
 - https://protectchildrennotabuse.org
 - https://twitter.com/matthew_d_green/status/1697413122447839568
