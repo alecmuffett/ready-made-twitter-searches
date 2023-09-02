@@ -929,7 +929,6 @@ AND -from:alecmuffett
 - https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
 - https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
 - https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-- https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
 
 <neural hash>
 OR <neural match>
@@ -943,16 +942,41 @@ OR (
 	<child abuse>
 	OR <child safety>
 	OR <client side>
-	OR <heat initiative>
-	OR scanning
 	OR "csam"
 	OR "cse"
 	OR "illegal imagery"
 	OR "law enforcement"
 	OR "ncmec"
+	OR "scanning"
 	)
     )
-OR "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/"
+
+# Apple: Calls for CSAM Surveillance Reinstatement | #HeatInitiative: people who want Apple to spy on us for our own good
+
+- https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/
+- https://protectchildrennotabuse.org
+- https://twitter.com/matthew_d_green/status/1697413122447839568
+- https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html
+- https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
+
+(
+    (
+	"apple"
+	OR "iCloud"
+	OR "iPhone"
+	)
+    AND (
+	<child abuse>
+	OR <child safety>
+	OR <client side>
+	OR <heat initiative>
+	OR <protect children not abuse>
+	OR "csam"
+	OR "ncmec"
+	OR "scanning"
+	)
+    )
+OR "https://protectchildrennotabuse.org"
 
 # Age Verification: Australia Abandons Plans for AV
 

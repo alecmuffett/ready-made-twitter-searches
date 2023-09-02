@@ -18,6 +18,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Age Verification: US Adoption via State Law](#age-verification-us-adoption-via-state-law)
 * [Algorithmic Amplification](#algorithmic-amplification)
 * [Anonymity: General](#anonymity-general)
+* [Apple: Calls for CSAM Surveillance Reinstatement](#apple-calls-for-csam-surveillance-reinstatement) (#HeatInitiative: people who want Apple to spy on us for our own good)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (#ClientSideScanning and why it was abandoned)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
@@ -199,10 +200,45 @@ onlinePseudonymity OR
     )
 ```
 
+### APPLE: CALLS FOR CSAM SURVEILLANCE REINSTATEMENT
+#### #HEATINITIATIVE: PEOPLE WHO WANT APPLE TO SPY ON US FOR OUR OWN GOOD
+* :point_right: [Apple: Calls for CSAM Surveillance Reinstatement - LATEST Tweets](https://twitter.com/search?q=%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20%22protect%20children%20not%20abuse%22%20OR%20ProtectChildrenNotAbuse%20OR%20csam%20OR%20ncmec%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fprotectchildrennotabuse.org%22&src=typed_query&f=live)
+* :point_right: [Apple: Calls for CSAM Surveillance Reinstatement - TOP Tweets](https://twitter.com/search?q=%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20%22protect%20children%20not%20abuse%22%20OR%20ProtectChildrenNotAbuse%20OR%20csam%20OR%20ncmec%20OR%20scanning%29%29%20OR%20%22https%3A%2F%2Fprotectchildrennotabuse.org%22&src=typed_query)
+* :heart: [Share this Search for 'Apple: Calls for CSAM Surveillance Reinstatement' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20Calls%20For%20CSAM%20Surveillance%20Reinstatement%20%E2%80%94%20%23HeatInitiative%3A%20people%20who%20want%20Apple%20to%20spy%20on%20us%20for%20our%20own%20good%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-calls-for-csam-surveillance-reinstatement)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [Apple faces renewed pressure to protect child safety Child sexual abuse is stored on iCloud Apple al](https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/) **(9to5mac.com)**
+* [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
+* [Heat Initiative](https://protectchildrennotabuse.org) **(-)**
+* [In Monitoring Child Sex Abuse Apple Is Caught Between Safety and Privacy The New York Times](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html) **(nytimes.com)**
+* [matthew_d_green status 1697413122447839568](https://twitter.com/matthew_d_green/status/1697413122447839568) **(twitter.com)**
+#### query source (296/512 characters)
+```
+(
+    (
+	apple
+	OR iCloud
+	OR iPhone
+	)
+    (
+	"child abuse" OR ChildAbuse
+	OR "child safety" OR ChildSafety
+	OR "client side" OR ClientSide
+	OR "heat initiative" OR HeatInitiative
+	OR "protect children not abuse" OR ProtectChildrenNotAbuse
+	OR csam
+	OR ncmec
+	OR scanning
+	)
+    )
+OR "https://protectchildrennotabuse.org"
+```
+
 ### APPLE: CSAM SURVEILLANCE PROPOSAL
 #### #CLIENTSIDESCANNING AND WHY IT WAS ABANDONED
-* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query&f=live)
-* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20%22heat%20initiative%22%20OR%20HeatInitiative%20OR%20scanning%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%29%29%20OR%20%22https%3A%2F%2Fwww.wired.com%2Fstory%2Fapple-csam-scanning-heat-initiative-letter%2F%22&src=typed_query)
+* :point_right: [Apple: CSAM surveillance proposal - LATEST Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%20OR%20scanning%29%29&src=typed_query&f=live)
+* :point_right: [Apple: CSAM surveillance proposal - TOP Tweets](https://twitter.com/search?q=%22neural%20hash%22%20OR%20NeuralHash%20OR%20%22neural%20match%22%20OR%20NeuralMatch%20OR%20%28%28apple%20OR%20iCloud%20OR%20iPhone%29%28%22child%20abuse%22%20OR%20ChildAbuse%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20%22client%20side%22%20OR%20ClientSide%20OR%20csam%20OR%20cse%20OR%20%22illegal%20imagery%22%20OR%20%22law%20enforcement%22%20OR%20ncmec%20OR%20scanning%29%29&src=typed_query)
 * :heart: [Share this Search for 'Apple: CSAM surveillance proposal' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20CSAM%20Surveillance%20Proposal%20%E2%80%94%20%23ClientSideScanning%20and%20why%20it%20was%20abandoned%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-csam-surveillance-proposal)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -214,7 +250,6 @@ onlinePseudonymity OR
 * [Apple delays plans to scan cloud uploads for child sexual abuse images Apple The Guardian](https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images) **(theguardian.com)**
 * [Apple plans to scan US iPhones for child abuse imagery Financial Times](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
 * [Apple to roll out child safety feature that scans messages for nudity to UK iPhones Apple The Guardi](https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones) **(theguardian.com)**
-* [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
 * [Apples Mistake Stratechery by Ben Thompson](https://stratechery.com/2021/apples-mistake/) **(stratechery.com)**
 * [Apples dangerous path TechCrunch](https://techcrunch.com/2021/09/04/apples-dangerous-path/) **(techcrunch.com)**
 * [Daring Fireball Apples New Child Safety Initiatives and the Slippery Slope](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope) **(daringfireball.net)**
@@ -226,7 +261,7 @@ onlinePseudonymity OR
 * [matthew_d_green status 1423407898890326021](https://twitter.com/matthew_d_green/status/1423407898890326021) **(twitter.com)**
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
-#### query source (386/512 characters)
+#### query source (270/512 characters)
 ```
 "neural hash" OR NeuralHash
 OR "neural match" OR NeuralMatch
@@ -240,16 +275,14 @@ OR (
 	"child abuse" OR ChildAbuse
 	OR "child safety" OR ChildSafety
 	OR "client side" OR ClientSide
-	OR "heat initiative" OR HeatInitiative
-	OR scanning
 	OR csam
 	OR cse
 	OR "illegal imagery"
 	OR "law enforcement"
 	OR ncmec
+	OR scanning
 	)
     )
-OR "https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/"
 ```
 
 ### APPLE: TANK-MAN IMAGE
