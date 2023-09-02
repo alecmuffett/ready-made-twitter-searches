@@ -211,7 +211,7 @@ onlinePseudonymity OR
 * [Apple faces renewed pressure to protect child safety Child sexual abuse is stored on iCloud Apple al](https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/) **(9to5mac.com)**
 * [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
 * [Heat Initiative](https://protectchildrennotabuse.org) **(-)**
-* [In Monitoring Child Sex Abuse Apple Is Caught Between Safety and Privacy The New York Times](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html) **(nytimes.com)**
+* [In Monitoring Child Sex Abuse Apple Is Caught Between Safety and Privacy The New York Times](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare) **(nytimes.com)**
 * [matthew_d_green status 1697413122447839568](https://twitter.com/matthew_d_green/status/1697413122447839568) **(twitter.com)**
 #### query source (296/512 characters)
 ```

@@ -956,7 +956,7 @@ OR (
 - https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/
 - https://protectchildrennotabuse.org
 - https://twitter.com/matthew_d_green/status/1697413122447839568
-- https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html
+- https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare
 - https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
 
 (
