@@ -811,6 +811,8 @@ OR shearer
 - https://www.internetsociety.org/blog/2023/05/encryption-keeps-kids-safe-online/
 
 <online safety bill>
+ OR <online safety act>
+ OR "rephrain"
 
 # EARN-IT Act | and related US legislation attempts
 

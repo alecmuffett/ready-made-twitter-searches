@@ -615,8 +615,8 @@ platform
 
 ### ONLINE SAFETY BILL
 #### & #ONLINESAFETYBILL; TWEETS THAT SPECIFICALLY CITE THIS TOPIC
-* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query&f=live)
-* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill&src=typed_query)
+* :point_right: [Online Safety Bill - LATEST Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20%22online%20safety%20act%22%20OR%20OnlineSafetyAct%20OR%20rephrain&src=typed_query&f=live)
+* :point_right: [Online Safety Bill - TOP Tweets](https://twitter.com/search?q=%22online%20safety%20bill%22%20OR%20OnlineSafetyBill%20OR%20%22online%20safety%20act%22%20OR%20OnlineSafetyAct%20OR%20rephrain&src=typed_query)
 * :heart: [Share this Search for 'Online Safety Bill' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AOnline%20Safety%20Bill%20%E2%80%94%20%26%20%23OnlineSafetyBill%3B%20tweets%20that%20specifically%20cite%20this%20topic%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23online-safety-bill)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
@@ -645,9 +645,11 @@ platform
 * [Why WhatsApp could quit the UK over the Online Safety Bill The Spectator](https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/) **(spectator.co.uk)**
 * [Wikipedia will not perform Online Safety Bill age checks BBC News](https://www.bbc.co.uk/news/technology-65388255) **(bbc.co.uk)**
 * [Wikipedia will not perform Online Safety Bill age checks The Register](https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/) **(theregister.com)**
-#### query source (40/512 characters)
+#### query source (94/512 characters)
 ```
 "online safety bill" OR OnlineSafetyBill
+ OR "online safety act" OR OnlineSafetyAct
+ OR rephrain
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
