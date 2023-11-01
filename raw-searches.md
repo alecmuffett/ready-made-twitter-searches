@@ -385,13 +385,26 @@ AND (
 * https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
 
 eidas
+OR eidas2
 OR <digital identity framework>
 OR <eu digital id>
 OR <eu digital identity>
 OR eueid
 OR "qualified web authentication"
-OR qwac
-OR qwacs
+OR (
+    (
+	qwac
+	OR qwacs
+	)
+    AND (
+	browser
+	OR browsers
+	OR certificate
+	OR certtificates
+	OR mozilla
+	OR tls
+	)
+    )
 
 # End-To-End Encryption: Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
 
