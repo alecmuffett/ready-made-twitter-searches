@@ -12,7 +12,7 @@
 
 ## helper: <foo bar> expands to: "foo bar" OR "FooBar"
 
-# End-To-End Encryption: Apps | twitter accounts for a selection of messaging apps
+# End-To-End Encryption: Apps ARCHIVE | twitter accounts for a selection of messaging apps
 
 "+@briarapp"
 OR "+@element_hq"
@@ -52,11 +52,11 @@ OR "undermine endToEndEncryption"
 OR (
     "backdoor"
     AND (
-        "e2e"
-        OR "e2ee"
-        OR "end to end"
-        OR "endToEnd"
-        )
+	"e2e"
+	OR "e2ee"
+	OR "end to end"
+	OR "endToEnd"
+	)
     )
 
 # End-To-End Encryption: General | including regulation, law enforcement, and platforms
@@ -71,28 +71,28 @@ OR "noplacetohide" ## UK campaign
 OR <warrant proof>
 OR (
     (
-        "algorithm"
-        OR "algorithms"
-        OR "e2e"
-        OR "end to end"
-        OR "facebook"
-        OR "instagram"
-        OR "law enforcement"
-        OR "messenger"
-        OR "nspcc"
-        OR "unregulated"
-        OR "whatsapp"
-        OR "bout en bout"
-        )
+	"algorithm"
+	OR "algorithms"
+	OR "e2e"
+	OR "end to end"
+	OR "facebook"
+	OR "instagram"
+	OR "law enforcement"
+	OR "messenger"
+	OR "nspcc"
+	OR "unregulated"
+	OR "whatsapp"
+	OR "bout en bout"
+	)
     AND (
-        "chiffre"
-        OR "chiffrement"
-        OR "cryptage"
-        OR "encrypt"
-        OR "encrypted"
-        OR "encryption"
-        OR "encryptions"
-        )
+	"chiffre"
+	OR "chiffrement"
+	OR "cryptage"
+	OR "encrypt"
+	OR "encrypted"
+	OR "encryption"
+	OR "encryptions"
+	)
     )
 
 # Age Verification: Industry & Advocacy | including related child safety initiatives
@@ -110,9 +110,12 @@ OR <age appropriate design code>
 OR <age assurance>
 OR <age verification>
 
-# Age Verification: General | because a basic search for the phrase yields very noisy results
+# Age Verification: General
 
-"age verification"
+-(from:amomentoflovely) ## noise
+AND (
+    <age verification>
+    )
 
 # Anonymity: petition to require ID for social media ARCHIVE
 
@@ -145,45 +148,6 @@ OR <pegasus project>
 OR "israeli spyware"
 OR ( "nso" AND "spyware")
 
-# Apple: CSAM surveillance proposal | including #NeuralHash and #NeuralMatch and #ClientSideScanning
-
-* https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
-* https://twitter.com/matthew_d_green/status/1423071186616000513
-* https://twitter.com/matthew_d_green/status/1423110719533371393
-* https://twitter.com/matthew_d_green/status/1423407898890326021
-* https://www.apple.com/child-safety/
-* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
-* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
-* https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
-* https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
-* https://stratechery.com/2021/apples-mistake/
-* https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
-* https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
-* https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
-
-<neural hash>
-OR <neural match>
-OR (
-    (
-        "apple"
-        OR "iCloud"
-        OR "iPhone"
-        )
-    AND (
-        "csam"
-        OR "cse"
-        OR "ncmec"
-        OR "psi"
-        OR <child abuse>
-        OR "illegal imagery"
-        OR "law enforcement"
-        OR "private set intersection"
-	OR <client side>
-	OR scanning
-        )
-    )
-OR "https://www.apple.com/child-safety/"
-
 # Anonymity: General
 
 * https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
@@ -194,24 +158,24 @@ OR "https://www.apple.com/child-safety/"
 "internet fuckwad theory" OR
 (
     (
-        "abuse" OR
-        "harm" OR
-        "harms" OR
-        "online" OR
-        "onlineHarms"
-        )
+	"abuse" OR
+	"harm" OR
+	"harms" OR
+	"online" OR
+	"onlineHarms"
+	)
     AND (
-        "anonymity" OR
-        "anonymous" OR
-        "pseudonymity" OR
-        "pseudonymous"
-        )
+	"anonymity" OR
+	"anonymous" OR
+	"pseudonymity" OR
+	"pseudonymous"
+	)
     ) OR
 (
     "online" AND (
-        "harms"
-        OR "safety"
-        )
+	"harms"
+	OR "safety"
+	)
     )
 
 # Apple: Tank-Man Image
@@ -260,7 +224,7 @@ AND (
     OR "rachel_desouza"
     )
 
-# Apple: delay of CSAM surveillance of iPhones and MacOS
+# Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE
 
 * "https://techcrunch.com/2021/09/04/apples-dangerous-path/"
 * "https://www.bbc.co.uk/news/technology-58433647"
@@ -272,25 +236,25 @@ AND (
 "since:2021-09-01"
 AND (
     (
-        "apple"
-        AND ( "child" OR "csam" )
-        AND (
-            "delay"
-            OR "delaying"
-            OR "disappoint"
-            OR "disappointed"
-            OR "disappointing"
-            OR "pause"
-            OR "pauses"
-            OR "postpone"
-            OR "postpones"
-            OR "reconsider"
-            OR "reconsidering"
-            OR "scan"
-            OR "scanning"
-            OR "surveillance"
-            )
-        )
+	"apple"
+	AND ( "child" OR "csam" )
+	AND (
+	    "delay"
+	    OR "delaying"
+	    OR "disappoint"
+	    OR "disappointed"
+	    OR "disappointing"
+	    OR "pause"
+	    OR "pauses"
+	    OR "postpone"
+	    OR "postpones"
+	    OR "reconsider"
+	    OR "reconsidering"
+	    OR "scan"
+	    OR "scanning"
+	    OR "surveillance"
+	    )
+	)
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE
@@ -308,17 +272,17 @@ AND (
 "since:2021-09-06"
 AND "whatsapp"
 AND ( (
-          "propublica"
-          OR "end to end"
-          OR "law enforcement"
-          OR "moderating"
-          OR "moderation"
-          OR "moderator"
-          OR "moderators"
-          OR "privacy"
-          OR "undermines"
-          OR "undermining"
-          )
+	  "propublica"
+	  OR "end to end"
+	  OR "law enforcement"
+	  OR "moderating"
+	  OR "moderation"
+	  OR "moderator"
+	  OR "moderators"
+	  OR "privacy"
+	  OR "undermines"
+	  OR "undermining"
+	  )
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE
@@ -338,54 +302,49 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-          <cressida dick>
-          AND (
-              "encrypted"
-              OR "encryption"
-              OR "terrorism"
-              OR "terrorist"
-              OR "terrorists"
-              OR "tech giants"
-              )
-        )
+	  <cressida dick>
+	  AND (
+	      "encrypted"
+	      OR "encryption"
+	      OR "terrorism"
+	      OR "terrorist"
+	      OR "terrorists"
+	      OR "tech giants"
+	      )
+	)
     )
 
-# End-to-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors
+# End-To-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
 
-* https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf
-* https://www.patrick-breyer.de/en/chat-control-eu-commission-presents-mass-surveillance-plan-on-may-11%EF%BF%BC/
-* https://www.euractiv.com/section/data-protection/news/leak-commission-to-force-scanning-of-communications-to-combat-child-pornography/
-* https://www.ifun.de/eu-will-chat-kontrolle-messenger-sollen-auf-csam-und-grooming-pruefen-186898/
-* https://www.imore.com/leaked-eu-plans-mandate-scanning-encrypted-messages-stop-child-sexual-abuse
-* https://www.berliner-zeitung.de/news/chatkontrolle-gesetz-das-steckt-hinter-den-umstrittenen-plaenen-der-eu-li.227198
-* https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976 - documents are here
-* https://www.heise.de/news/Chatkontrolle-EU-Kommission-bringt-Verordnung-fuer-Kinderporno-Scans-auf-den-Weg-7081975.html
-* https://www.watson.ch/!517393392
+- https://twitter.com/AlecMuffett/status/1655593946687365121
+- https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/
+- https://www.theguardian.com/world/2023/may/08/eu-lawyers-plan-to-scan-private-messages-child-abuse-may-be-unlawful-chat-controls-regulation
+- https://www.golem.de/news/juristische-gutachte-chatkontrolle-duerfte-vor-dem-eugh-scheitern-2305-174006.html
+- https://www.heise.de/news/Chatkontrolle-Juristischer-Dienst-des-EU-Ministerrats-prognostiziert-Scheitern-8990510.html
 
-"https://alecmuffett.com/alecm/tmp/eu-csam-e2ee.pdf"
-OR "https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2976"
+<chat control>
+OR <chat kontrolle>
 OR (
     (
-	"eu"
-	OR "eu_commission"
+	"eu_commission"
 	OR "european commission"
 	OR "european union"
+	OR <eu council>
+	OR <ylva johansson>
 	)
     AND (
 	"csam"
 	OR "csei"
-	OR "e2e encryption"
 	OR "e2ee"
 	OR "encrypted"
+	OR "encryption"
 	OR "surveillance"
 	OR "überwachung"
-	OR <chat control>
-	OR <chat kontrolle>
 	OR <end to end encryption>
 	)
-    )
+    }
 
-# Apple: "Bugs In Our Pockets" Paper
+# Apple: "Bugs In Our Pockets" Paper ARCHIVE
 
 * https://arxiv.org/pdf/2110.07450.pdf [PDF]
 * https://arxiv.org/abs/2110.07450
@@ -495,7 +454,7 @@ OR (
 	)
     )
 
-# The "#WildWestWeb" Fallacy | for #SaferInternetDay, #SID2022, #PlayItSafeOnline, #EARNITAct and #NoPlaceToHide
+# The "#WildWestWeb" Fallacy
 
 * https://neilzone.co.uk/2022/01/the-wild-west-web-fallacy
 * https://twitter.com/webdevlaw/status/1399318148776660996
@@ -577,7 +536,7 @@ AND (
     OR <app store>
     )
 
-# July 2022 Reshuffle
+# July 2022 Reshuffle ARCHIVE
 
 "since:2022-07-04"
 AND (
@@ -615,7 +574,7 @@ AND (
     OR virality
     )
 
-# End To End Encryption: GCHQ & NCSC "Ghost" Protocol
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol
 
 * https://alecmuffett.com/alecm/e2e-primer/
 * https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
@@ -646,7 +605,7 @@ AND ( ## interest
     OR encryption
     )
 
-# End To End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
 
 * https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 * https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
@@ -658,7 +617,7 @@ OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-s
 OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
 OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
 
-# UK Internet Governance Forum: UKIGF
+# UK Internet Governance Forum: UKIGF ARCHIVE
 
 "ukigf"
 OR "ukigf22"
@@ -678,7 +637,7 @@ OR (
 	)
     )
 
-# Digital Public Goods Alliance: DPGA
+# Digital Public Goods Alliance: DPGA ARCHIVE
 
 "dpga"
 OR "dialcommunity"
@@ -713,7 +672,7 @@ OR "california's kids code"
 OR "https://www.youtube.com/watch?v=Q-hwt5PU2Yc"
 OR "https://californiaaadc.com"
 
-# Proposals for Perpetual British Summer Time | #BritishSummerTime
+# Proposals for Perpetual British Summer Time ARCHIVE | #BritishSummerTime
 
 * https://alecmuffett.com/article/8521 - Commentary + British Economic Time
 * https://committees.parliament.uk/publications/written-evidence?SearchTerm=prerau - Report by David Prerau to maintain status quo
@@ -752,7 +711,7 @@ AND (
 	)
     )
 
-# Iranian Network and Social Media Censorship | in the wake of the murder of #MahsaAmini
+# Iranian Network and Social Media Censorship ARCHIVE | in the wake of the murder of #MahsaAmini
 
 (
     "iran"
@@ -778,7 +737,7 @@ AND (
     OR "whatsapp"
     )
 
-# TheWire and Instagram and Meta | and #TekFog
+# TheWire and Instagram and Meta ARCHIVE | and #TekFog
 
 (
     "thewire_in"
@@ -786,15 +745,15 @@ AND (
     OR "varadu"
     OR <tek fog>
     OR (
-        ( "meta" OR "facebook" OR "fb" OR "instagram" )
-        AND ( "dkim" OR "xcheck" OR "wire" )
-        )
+	( "meta" OR "facebook" OR "fb" OR "instagram" )
+	AND ( "dkim" OR "xcheck" OR "wire" )
+	)
     )
 AND -"down to the wire"
 AND -"tv"
 
 
-# Match Of The Day | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
+# Match Of The Day ARCHIVE | #GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD
 
 * https://twitter.com/GaryLineker/status/1633111662352891908
 
@@ -815,6 +774,217 @@ OR lineker
 OR motd
 OR shearer
 
-# Online Safety Bill | and #OnlineSafetyBill, tweets that cite these specifically
+# Online Safety Bill | & #OnlineSafetyBill; tweets that specifically cite this topic
+
+- https://action.openrightsgroup.org/dont-scan-me
+- https://alecmuffett.com/article/57060
+- https://iea.org.uk/publications/an-unsafe-bill-how-the-online-safety-bill-threatens-free-speech-innovation-and-privacy/
+- https://netwars.pelicancrossing.net/2023/04/21/breaking-badly/
+- https://petition.parliament.uk/petitions/634725
+- https://twitter.com/M_feeney/status/1651873027011772416
+- https://www.bbc.co.uk/news/technology-64863448
+- https://www.bbc.co.uk/news/technology-65388255
+- https://www.cato.org/blog/three-reasons-americans-should-be-concerned-about-united-kingdoms-online-safety-bill-0
+- https://www.cnet.com/tech/services-and-software/whatsapp-and-signal-say-the-uks-online-safety-bill-puts-your-privacy-at-risk/
+- https://www.cyberleagle.com/2020/02/an-online-harms-compendium.html
+- https://www.independent.co.uk/tech/uk-online-safety-bill-signal-whatsapp-privacy-encryption-b2324483.html
+- https://www.infosecurity-magazine.com/news/online-safety-bill-threatens-user/
+- https://www.libdemvoice.org/dont-follow-iran-in-banning-encrypted-messaging-like-signal-and-whatsapp-73021.html
+- https://www.openrightsgroup.org/campaign/online-safety-bill-campaign-hub/
+- https://www.politicshome.com/thehouse/article/online-safety-bill-risks-making-apps-vulnerable-attacks-bad-actors
+- https://www.spectator.co.uk/article/why-whatsapp-could-quit-the-uk-over-the-online-safety-bill/
+- https://www.techtris.co.uk/p/internexit
+- https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk
+- https://www.theguardian.com/uk-news/2023/apr/28/uk-readers-may-lose-access-to-wikipedia-amid-online-safety-bill-requirements
+- https://www.theregister.com/2023/04/28/online_safety_bill_age_checks/
+- https://clairefox.substack.com/p/inside-the-lords-umbrellas-crowns
+- https://www.theverge.com/23708180/united-kingdom-online-safety-bill-explainer-legal-pornography-age-checks
+- https://www.internetsociety.org/blog/2023/05/encryption-keeps-kids-safe-online/
 
 <online safety bill>
+ OR <online safety act>
+ OR "rephrain"
+
+# EARN-IT Act | and related US legislation attempts
+
+- https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
+
+<earn it act>
+OR <earn it bill>
+OR <restrict act>
+OR <kids online safety act>
+
+# Twitter's Adoption of Encryption for Direct Messages
+
+- https://twitter.com/elonmusk/status/1652335652187553794
+- https://news.ycombinator.com/item?id=35753993
+- https://alecmuffett.com/article/60757
+- https://mjg59.dreamwidth.org/66791.html
+
+(
+    twitter
+    OR <elon musk>
+    OR dm
+    OR dms
+    OR elno
+    OR musk
+    )
+AND (
+    e2e
+    OR e2ee
+    OR encrypted
+    OR encrypting
+    OR encryption
+    OR <client side>
+    OR cryptographer
+    )
+
+# Age Verification: US Adoption via State Law
+
+- https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html
+- https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html
+- https://le.utah.gov/~2023/bills/static/SB0287.html
+- https://mashable.com/article/pornhub-blocks-utah-because-of-age-verification-law
+- https://twitter.com/AlecMuffett/status/1654922637385117697
+- https://www.pbs.org/newshour/politics/porn-industry-group-sues-over-utah-age-verification-law
+- https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch
+- https://www.semafor.com/article/05/05/2023/anti-porn-activists-are-scoring-big-wins-utah-pornhub-cherie-deville
+- https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest
+- https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification
+
+-(from:amomentoflovely) ## noise
+AND (
+    <age verification>
+    )
+AND (
+    utah
+    OR arkansas
+    OR california
+    OR louisiana
+    OR mississippi
+    OR virginia
+    )
+
+# Alec Muffett ARCHIVE
+
+(
+    <alec muffett>
+    OR <alec muffet>
+    OR "alecmuffett.com"
+    )
+AND -from:alecmuffett
+
+# End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill
+
+- https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/
+- https://twitter.com/Channel4News/status/1675922360237694978
+- https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance
+- https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html
+- https://www.youtube.com/watch?v=E--bVV_eQR0
+
+(
+    <online safety bill>
+    OR "mer__edith"
+    OR (
+	(
+	    <damian collins>
+	    OR <damien collins>
+	    )
+	AND (
+	    "encrypt"
+	    OR "encryption"
+	    OR "encrypted"
+	    OR "signal"
+	    OR "whatsapp"
+	    OR "tech"
+	    )
+	)
+    OR https://twitter.com/Channel4News/status/1675922360237694978
+    )
+
+# Apple: CSAM surveillance proposal | #ClientSideScanning and why it was abandoned
+
+* https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
+* https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
+- https://9to5mac.com/2021/08/05/report-apple-photos-casm-content-scanning/
+- https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope
+- https://stratechery.com/2021/apples-mistake/
+- https://techcrunch.com/2021/09/04/apples-dangerous-path/
+- https://twitter.com/matthew_d_green/status/1423071186616000513
+- https://twitter.com/matthew_d_green/status/1423110719533371393
+- https://twitter.com/matthew_d_green/status/1423407898890326021
+- https://www.bbc.co.uk/news/technology-58433647
+- https://www.eff.org/deeplinks/2021/08/if-you-build-it-they-will-come-apple-has-opened-backdoor-increased-surveillance
+- https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f
+- https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25
+- https://www.nytimes.com/2021/09/03/business/apple-child-safety.html
+- https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images
+- https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones
+- https://www.thorn.org/blog/thorn-statement-on-apples-pause-of-implementing-child-safety-measures/
+- https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity
+
+<neural hash>
+OR <neural match>
+OR (
+    (
+	"apple"
+	OR "iCloud"
+	OR "iPhone"
+	)
+    AND (
+	<child abuse>
+	OR <child safety>
+	OR <client side>
+	OR "csam"
+	OR "cse"
+	OR "illegal imagery"
+	OR "law enforcement"
+	OR "ncmec"
+	OR "scanning"
+	)
+    )
+
+# Apple: Calls for CSAM Surveillance Reinstatement | #HeatInitiative: people who want Apple to spy on us for our own good
+
+- https://arxiv.org/abs/2110.07450
+- https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/
+- https://protectchildrennotabuse.org
+- https://twitter.com/matthew_d_green/status/1697413122447839568
+- https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare
+- https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/
+
+(
+    (
+	"apple"
+	OR "iCloud"
+	OR "iPhone"
+	)
+    AND (
+	<child abuse>
+	OR <child safety>
+	OR <client side>
+	OR <heat initiative>
+	OR <protect children not abuse>
+	OR "csam"
+	OR "ncmec"
+	OR "scanning"
+	)
+    )
+OR "https://protectchildrennotabuse.org"
+
+# Age Verification: Australia Abandons Plans for AV
+
+- https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law
+
+(
+    <age verification>
+    AND (
+	OR "australia"
+	OR "australian"
+	OR "esafety"
+	OR "esafetyoffice"
+	OR "tweetingjules"
+	OR <inman grant>
+	)
+    )
+OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"

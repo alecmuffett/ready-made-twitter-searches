@@ -12,6 +12,8 @@ if ($ARGV[0] eq '-A') {
     $archive_flag = 0;
 }
 
+my $title_extract_len = 100;
+
 my $max_query_length = 512; # https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 my $search_top = 'https://twitter.com/search?q=%s&src=typed_query';
 my $search_latest = 'https://twitter.com/search?q=%s&src=typed_query&f=live';
@@ -64,6 +66,32 @@ while (<>) {
 	$url =~ s!\s+! !;
 	$url =~ s!\s$!!;
 	push(@{$links{$key}}, $url);
+	next;
+    }
+
+    if (/^\-\s(\S.*)/) {
+	$url = $1;
+	$url =~ s!\s+! !;
+	$url =~ s!\s$!!;
+
+	my $url_host = '-';
+	if ($url =~ m!^https?://(([-\w]+\.)*[-\w]+)/!oi) {
+	    $url_host = $1;
+	    $url_host =~ s!^www\.!!go;
+	}
+
+	my $url_title = `web-page-title $url | unicode-to-ascii`;
+	$url_title =~ s!^https?://(([-\w]+\.)*[-\w]+)/!!o; # remove http://host.dom/ for no-title pages
+	$url_title =~ s!\&\#\w+;!!go;
+	$url_title =~ s!\'([st])!$1!goe;
+	$url_title =~ s!\W+! !go;
+	$url_title =~ s!\s+! !;
+	$url_title =~ s!\s$!!;
+	$url_title =~ s!^\s!!;
+	$url_title = substr($url_title, 0, $title_extract_len);
+
+	my $text = "[$url_title]($url) **($url_host)**";
+	push(@{$links{$key}}, $text);
 	next;
     }
 
@@ -156,7 +184,7 @@ foreach $key (@keys) {
     my $tweet_anchor = $anchors{$key};
     my $tweet_key = join(' ', map {ucfirst} split(' ', $key));
     my $tweet_subtitle = ($subtitle eq '' ? '' : " \N{EM DASH} " . $subtitle);
-    my $tweet_text = "Here's a #ReadyMadeTwitterSearch for tweets about:\n\n$tweet_key$tweet_subtitle\n\n\N{HORIZONTAL ELLIPSIS}with links & more information at: $tweet_root#$tweet_anchor";
+    my $tweet_text = "If you would like to see more discussion regarding:\n\n$tweet_key$tweet_subtitle\n\n\N{HORIZONTAL ELLIPSIS}here's a #ReadyMadeTwitterSearch with links & more information at: $tweet_root#$tweet_anchor";
     my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
     print "* :heart: [Share this Search for '$key' in a Tweet!]($tweet_url)\n";
 
