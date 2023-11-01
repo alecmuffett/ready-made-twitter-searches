@@ -34,7 +34,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Match Of The Day](#match-of-the-day) (#GaryLineker #IanWright and the #MatchOfTheDay Boycott #MoTD)
 * [Online Safety Bill](#online-safety-bill) (and #OnlineSafetyBill, tweets that cite these specifically)
 * [Proposals for Perpetual British Summer Time](#proposals-for-perpetual-british-summer-time) (#BritishSummerTime)
-* [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework)
+* [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework) (including #eIDAS and QWACs)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
@@ -742,9 +742,10 @@ since:2022-09-20
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
-* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%28%23eIDAS%29%20OR%20%28%23EUeID%29%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query&f=live)
-* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%28%23eIDAS%29%20OR%20%28%23EUeID%29%20OR%20%22qualified%20web%20authentication%22%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20%28%28QWAC%20OR%20QWACs%29%28certificate%20OR%20certificates%20OR%20certs%29%29&src=typed_query)
-* :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ARegulation%3A%20EU%20Digital%20Identity%20Framework%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
+#### INCLUDING #EIDAS AND QWACS
+* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=eidas%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20qwac%20OR%20qwacs&src=typed_query&f=live)
+* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=eidas%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20qwac%20OR%20qwacs&src=typed_query)
+* :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=Here%27s%20a%20%23ReadyMadeTwitterSearch%20for%20tweets%20about%3A%0A%0ARegulation%3A%20EU%20Digital%20Identity%20Framework%20%E2%80%94%20including%20%23eIDAS%20and%20QWACs%0A%0A%E2%80%A6with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
@@ -753,25 +754,16 @@ since:2022-09-20
 * https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security
 * https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
 * https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
-#### query source (259/512 characters)
+#### query source (205/512 characters)
 ```
-(#eIDAS)
-OR (#EUeID)
-OR "qualified web authentication"
+eidas
 OR "digital identity framework" OR DigitalIdentityFramework
 OR "eu digital id" OR EuDigitalId
 OR "eu digital identity" OR EuDigitalIdentity
-OR (
-    (
-	QWAC
-	OR QWACs
-	)
-    (
-	certificate
-	OR certificates
-	OR certs
-	)
-    )
+OR eueid
+OR "qualified web authentication"
+OR qwac
+OR qwacs
 ```
 
 ### SAFER INTERNET DAY: GENERAL

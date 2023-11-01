@@ -417,7 +417,7 @@ AND (
     OR "automatically scan all iphones"
     )
 
-# Regulation: EU Digital Identity Framework
+# Regulation: EU Digital Identity Framework | including #eIDAS and QWACs
 
 * https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
@@ -425,23 +425,14 @@ AND (
 * https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
 * https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
 
-"#eIDAS"
-OR "#EUeID"
-OR "qualified web authentication"
+eidas
 OR <digital identity framework>
 OR <eu digital id>
 OR <eu digital identity>
-OR ( ## these need to be constrained to reduce noise
-    (
-	"QWAC"
-	OR "QWACs"
-	)
-    AND (
-	"certificate"
-	OR "certificates"
-	OR "certs"
-	)
-    )
+OR eueid
+OR "qualified web authentication"
+OR qwac
+OR qwacs
 
 # End-To-End Encryption: Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
 
