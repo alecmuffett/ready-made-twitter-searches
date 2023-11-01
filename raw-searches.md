@@ -52,11 +52,11 @@ OR "undermine endToEndEncryption"
 OR (
     "backdoor"
     AND (
-	"e2e"
-	OR "e2ee"
-	OR "end to end"
-	OR "endToEnd"
-	)
+        "e2e"
+        OR "e2ee"
+        OR "end to end"
+        OR "endToEnd"
+        )
     )
 
 # End-To-End Encryption: General | including regulation, law enforcement, and platforms
@@ -71,28 +71,28 @@ OR "noplacetohide" ## UK campaign
 OR <warrant proof>
 OR (
     (
-	"algorithm"
-	OR "algorithms"
-	OR "e2e"
-	OR "end to end"
-	OR "facebook"
-	OR "instagram"
-	OR "law enforcement"
-	OR "messenger"
-	OR "nspcc"
-	OR "unregulated"
-	OR "whatsapp"
-	OR "bout en bout"
-	)
+        "algorithm"
+        OR "algorithms"
+        OR "e2e"
+        OR "end to end"
+        OR "facebook"
+        OR "instagram"
+        OR "law enforcement"
+        OR "messenger"
+        OR "nspcc"
+        OR "unregulated"
+        OR "whatsapp"
+        OR "bout en bout"
+        )
     AND (
-	"chiffre"
-	OR "chiffrement"
-	OR "cryptage"
-	OR "encrypt"
-	OR "encrypted"
-	OR "encryption"
-	OR "encryptions"
-	)
+        "chiffre"
+        OR "chiffrement"
+        OR "cryptage"
+        OR "encrypt"
+        OR "encrypted"
+        OR "encryption"
+        OR "encryptions"
+        )
     )
 
 # Age Verification: Industry & Advocacy | including related child safety initiatives
@@ -158,24 +158,24 @@ OR ( "nso" AND "spyware")
 "internet fuckwad theory" OR
 (
     (
-	"abuse" OR
-	"harm" OR
-	"harms" OR
-	"online" OR
-	"onlineHarms"
-	)
+        "abuse" OR
+        "harm" OR
+        "harms" OR
+        "online" OR
+        "onlineHarms"
+        )
     AND (
-	"anonymity" OR
-	"anonymous" OR
-	"pseudonymity" OR
-	"pseudonymous"
-	)
+        "anonymity" OR
+        "anonymous" OR
+        "pseudonymity" OR
+        "pseudonymous"
+        )
     ) OR
 (
     "online" AND (
-	"harms"
-	OR "safety"
-	)
+        "harms"
+        OR "safety"
+        )
     )
 
 # Apple: Tank-Man Image
@@ -236,25 +236,25 @@ AND (
 "since:2021-09-01"
 AND (
     (
-	"apple"
-	AND ( "child" OR "csam" )
-	AND (
-	    "delay"
-	    OR "delaying"
-	    OR "disappoint"
-	    OR "disappointed"
-	    OR "disappointing"
-	    OR "pause"
-	    OR "pauses"
-	    OR "postpone"
-	    OR "postpones"
-	    OR "reconsider"
-	    OR "reconsidering"
-	    OR "scan"
-	    OR "scanning"
-	    OR "surveillance"
-	    )
-	)
+        "apple"
+        AND ( "child" OR "csam" )
+        AND (
+            "delay"
+            OR "delaying"
+            OR "disappoint"
+            OR "disappointed"
+            OR "disappointing"
+            OR "pause"
+            OR "pauses"
+            OR "postpone"
+            OR "postpones"
+            OR "reconsider"
+            OR "reconsidering"
+            OR "scan"
+            OR "scanning"
+            OR "surveillance"
+            )
+        )
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE
@@ -272,17 +272,17 @@ AND (
 "since:2021-09-06"
 AND "whatsapp"
 AND ( (
-	  "propublica"
-	  OR "end to end"
-	  OR "law enforcement"
-	  OR "moderating"
-	  OR "moderation"
-	  OR "moderator"
-	  OR "moderators"
-	  OR "privacy"
-	  OR "undermines"
-	  OR "undermining"
-	  )
+          "propublica"
+          OR "end to end"
+          OR "law enforcement"
+          OR "moderating"
+          OR "moderation"
+          OR "moderator"
+          OR "moderators"
+          OR "privacy"
+          OR "undermines"
+          OR "undermining"
+          )
     )
 
 # ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE
@@ -302,16 +302,16 @@ AND (
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-	  <cressida dick>
-	  AND (
-	      "encrypted"
-	      OR "encryption"
-	      OR "terrorism"
-	      OR "terrorist"
-	      OR "terrorists"
-	      OR "tech giants"
-	      )
-	)
+          <cressida dick>
+          AND (
+              "encrypted"
+              OR "encryption"
+              OR "terrorism"
+              OR "terrorist"
+              OR "terrorists"
+              OR "tech giants"
+              )
+        )
     )
 
 # End-To-End Encryption: European Union Backdoors | EU initiatives to mandate encryption backdoors like #ChatControl
@@ -326,22 +326,22 @@ AND (
 OR <chat kontrolle>
 OR (
     (
-	"eu_commission"
-	OR "european commission"
-	OR "european union"
-	OR <eu council>
-	OR <ylva johansson>
-	)
+        "eu_commission"
+        OR "european commission"
+        OR "european union"
+        OR <eu council>
+        OR <ylva johansson>
+        )
     AND (
-	"csam"
-	OR "csei"
-	OR "e2ee"
-	OR "encrypted"
-	OR "encryption"
-	OR "surveillance"
-	OR "überwachung"
-	OR <end to end encryption>
-	)
+        "csam"
+        OR "csei"
+        OR "e2ee"
+        OR "encrypted"
+        OR "encryption"
+        OR "surveillance"
+        OR "überwachung"
+        OR <end to end encryption>
+        )
     }
 
 # Apple: "Bugs In Our Pockets" Paper ARCHIVE
@@ -384,26 +384,29 @@ AND (
 * https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
 * https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
 
-eidas
-OR eidas2
-OR <digital identity framework>
-OR <eu digital id>
-OR <eu digital identity>
-OR eueid
-OR "qualified web authentication"
-OR (
-    (
-	qwac
-	OR qwacs
-	)
-    AND (
-	browser
-	OR browsers
-	OR certificate
-	OR certtificates
-	OR mozilla
-	OR tls
-	)
+-hela
+AND (
+    eidas
+    OR eidas2
+    OR <digital identity framework>
+    OR <eu digital id>
+    OR <eu digital identity>
+    OR eueid
+    OR "qualified web authentication"
+    OR (
+        (
+            qwac
+            OR qwacs
+            )
+        AND (
+            browser
+            OR browsers
+            OR certificate
+            OR certtificates
+            OR mozilla
+            OR tls
+            )
+        )
     )
 
 # End-To-End Encryption: Children | including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2
@@ -427,44 +430,44 @@ OR "OnlineSafetyCom" ## username
 OR "LordsCommsCom" ## username
 OR (
     ( ## audience keywords
-	"child"
-	OR "children"
-	OR "kid"
-	OR "kids"
-	OR "parent"
-	OR "parents"
-	)
+        "child"
+        OR "children"
+        OR "kid"
+        OR "kids"
+        OR "parent"
+        OR "parents"
+        )
     AND (
-	## medium-signal keywords
-	( ## tuple
-	    ( ## topic keywords
-		"e2ee"
-		OR "encrypt"
-		OR "encrypted"
-		OR "encrypting"
-		OR "encryption"
-		OR "endToEndEncryption"
-		)
-	    AND ( ## scope keywords
-		"5rightsfound"
-		OR "barnardos"
-		OR "blackrock"
-		OR "campaign"
-		OR "facebook"
-		OR "government"
-		OR "ico"
-		OR "instagram"
-		OR "iwf"
-		OR "mcfcharity"
-		OR "messenger"
-		OR "nspcc"
-		OR "online"
-		OR "ukhomeoffice"
-		OR "vanguard"
-		OR "whatsapp"
-		)
-	    )
-	)
+        ## medium-signal keywords
+        ( ## tuple
+            ( ## topic keywords
+                "e2ee"
+                OR "encrypt"
+                OR "encrypted"
+                OR "encrypting"
+                OR "encryption"
+                OR "endToEndEncryption"
+                )
+            AND ( ## scope keywords
+                "5rightsfound"
+                OR "barnardos"
+                OR "blackrock"
+                OR "campaign"
+                OR "facebook"
+                OR "government"
+                OR "ico"
+                OR "instagram"
+                OR "iwf"
+                OR "mcfcharity"
+                OR "messenger"
+                OR "nspcc"
+                OR "online"
+                OR "ukhomeoffice"
+                OR "vanguard"
+                OR "whatsapp"
+                )
+            )
+        )
     )
 
 # The "#WildWestWeb" Fallacy
@@ -482,16 +485,16 @@ OR (
     OR wildwestinternet
     OR wildwestnet
     OR (
-	"wild west"
-	AND (
-	    "web"
-	    OR "internet"
-	    OR "network"
-	    OR "nspcc"
-	    OR "regulation"
-	    OR "unregulated"
-	    )
-	)
+        "wild west"
+        AND (
+            "web"
+            OR "internet"
+            OR "network"
+            OR "nspcc"
+            OR "regulation"
+            OR "unregulated"
+            )
+        )
     )
 AND -"chance to make the UK the safest place"
 
@@ -636,18 +639,18 @@ OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
 OR "ukigf22"
 OR (
     (
-	<internet governance>
-	OR "igf"
-	OR "igfs"
-	)
+        <internet governance>
+        OR "igf"
+        OR "igfs"
+        )
     AND (
-	"splinternet"
-	OR <digital inclusion>
-	OR <digital inequality>
-	OR <internet fragmentation>
-	OR <online harms>
-	OR <resilient internet>
-	)
+        "splinternet"
+        OR <digital inclusion>
+        OR <digital inequality>
+        OR <internet fragmentation>
+        OR <online harms>
+        OR <resilient internet>
+        )
     )
 
 # Digital Public Goods Alliance: DPGA ARCHIVE
@@ -701,27 +704,27 @@ OR "https://californiaaadc.com"
 AND (
     "BritishSummerTime"
     OR (
-	(
-	    <summer time>
-	    AND -"GMT+0100"
-	    AND -"UTC+1"
-	    AND -"anime"
-	    )
-	AND (
-	    "british"
-	    OR "cymru"
-	    OR "england"
-	    OR "english"
-	    OR "northern ireland"
-	    OR "scotland"
-	    OR "scottish"
-	    OR "sunrise"
-	    OR "sunset"
-	    OR "uk"
-	    OR "wales"
-	    OR "welsh"
-	    )
-	)
+        (
+            <summer time>
+            AND -"GMT+0100"
+            AND -"UTC+1"
+            AND -"anime"
+            )
+        AND (
+            "british"
+            OR "cymru"
+            OR "england"
+            OR "english"
+            OR "northern ireland"
+            OR "scotland"
+            OR "scottish"
+            OR "sunrise"
+            OR "sunset"
+            OR "uk"
+            OR "wales"
+            OR "welsh"
+            )
+        )
     )
 
 # Iranian Network and Social Media Censorship ARCHIVE | in the wake of the murder of #MahsaAmini
@@ -758,9 +761,9 @@ AND (
     OR "varadu"
     OR <tek fog>
     OR (
-	( "meta" OR "facebook" OR "fb" OR "instagram" )
-	AND ( "dkim" OR "xcheck" OR "wire" )
-	)
+        ( "meta" OR "facebook" OR "fb" OR "instagram" )
+        AND ( "dkim" OR "xcheck" OR "wire" )
+        )
     )
 AND -"down to the wire"
 AND -"tv"
@@ -899,19 +902,19 @@ AND -from:alecmuffett
     <online safety bill>
     OR "mer__edith"
     OR (
-	(
-	    <damian collins>
-	    OR <damien collins>
-	    )
-	AND (
-	    "encrypt"
-	    OR "encryption"
-	    OR "encrypted"
-	    OR "signal"
-	    OR "whatsapp"
-	    OR "tech"
-	    )
-	)
+        (
+            <damian collins>
+            OR <damien collins>
+            )
+        AND (
+            "encrypt"
+            OR "encryption"
+            OR "encrypted"
+            OR "signal"
+            OR "whatsapp"
+            OR "tech"
+            )
+        )
     OR https://twitter.com/Channel4News/status/1675922360237694978
     )
 
@@ -940,21 +943,21 @@ AND -from:alecmuffett
 OR <neural match>
 OR (
     (
-	"apple"
-	OR "iCloud"
-	OR "iPhone"
-	)
+        "apple"
+        OR "iCloud"
+        OR "iPhone"
+        )
     AND (
-	<child abuse>
-	OR <child safety>
-	OR <client side>
-	OR "csam"
-	OR "cse"
-	OR "illegal imagery"
-	OR "law enforcement"
-	OR "ncmec"
-	OR "scanning"
-	)
+        <child abuse>
+        OR <child safety>
+        OR <client side>
+        OR "csam"
+        OR "cse"
+        OR "illegal imagery"
+        OR "law enforcement"
+        OR "ncmec"
+        OR "scanning"
+        )
     )
 
 # Apple: Calls for CSAM Surveillance Reinstatement | #HeatInitiative: people who want Apple to spy on us for our own good
@@ -968,20 +971,20 @@ OR (
 
 (
     (
-	"apple"
-	OR "iCloud"
-	OR "iPhone"
-	)
+        "apple"
+        OR "iCloud"
+        OR "iPhone"
+        )
     AND (
-	<child abuse>
-	OR <child safety>
-	OR <client side>
-	OR <heat initiative>
-	OR <protect children not abuse>
-	OR "csam"
-	OR "ncmec"
-	OR "scanning"
-	)
+        <child abuse>
+        OR <child safety>
+        OR <client side>
+        OR <heat initiative>
+        OR <protect children not abuse>
+        OR "csam"
+        OR "ncmec"
+        OR "scanning"
+        )
     )
 OR "https://protectchildrennotabuse.org"
 
@@ -992,12 +995,12 @@ OR "https://protectchildrennotabuse.org"
 (
     <age verification>
     AND (
-	OR "australia"
-	OR "australian"
-	OR "esafety"
-	OR "esafetyoffice"
-	OR "tweetingjules"
-	OR <inman grant>
-	)
+        OR "australia"
+        OR "australian"
+        OR "esafety"
+        OR "esafetyoffice"
+        OR "tweetingjules"
+        OR <inman grant>
+        )
     )
 OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"

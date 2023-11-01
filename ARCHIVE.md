@@ -157,25 +157,25 @@ since:2021-10-14
 since:2021-09-01
 (
     (
-	apple
-	( child OR csam )
-	(
-	    delay
-	    OR delaying
-	    OR disappoint
-	    OR disappointed
-	    OR disappointing
-	    OR pause
-	    OR pauses
-	    OR postpone
-	    OR postpones
-	    OR reconsider
-	    OR reconsidering
-	    OR scan
-	    OR scanning
-	    OR surveillance
-	    )
-	)
+        apple
+        ( child OR csam )
+        (
+            delay
+            OR delaying
+            OR disappoint
+            OR disappointed
+            OR disappointing
+            OR pause
+            OR pauses
+            OR postpone
+            OR postpones
+            OR reconsider
+            OR reconsidering
+            OR scan
+            OR scanning
+            OR surveillance
+            )
+        )
     )
 ```
 
@@ -220,16 +220,16 @@ since:2021-09-10
     "https://www.telegraph.co.uk/news/2021/09/11/tech-giants-making-impossible-stop-terrorists-says-dame-cressida/"
     OR "https://www.bbc.co.uk/news/business-58537599"
     OR (
-	  "cressida dick" OR CressidaDick
-	  (
-	      encrypted
-	      OR encryption
-	      OR terrorism
-	      OR terrorist
-	      OR terrorists
-	      OR "tech giants"
-	      )
-	)
+          "cressida dick" OR CressidaDick
+          (
+              encrypted
+              OR encryption
+              OR terrorism
+              OR terrorist
+              OR terrorists
+              OR "tech giants"
+              )
+        )
     )
 ```
 
@@ -406,27 +406,27 @@ since:2022-09-20
 (
     BritishSummerTime
     OR (
-	(
-	    "summer time" OR SummerTime
-	    -"GMT+0100"
-	    -"UTC+1"
-	    -anime
-	    )
-	(
-	    british
-	    OR cymru
-	    OR england
-	    OR english
-	    OR "northern ireland"
-	    OR scotland
-	    OR scottish
-	    OR sunrise
-	    OR sunset
-	    OR uk
-	    OR wales
-	    OR welsh
-	    )
-	)
+        (
+            "summer time" OR SummerTime
+            -"GMT+0100"
+            -"UTC+1"
+            -anime
+            )
+        (
+            british
+            OR cymru
+            OR england
+            OR english
+            OR "northern ireland"
+            OR scotland
+            OR scottish
+            OR sunrise
+            OR sunset
+            OR uk
+            OR wales
+            OR welsh
+            )
+        )
     )
 ```
 
@@ -451,17 +451,17 @@ since:2022-09-20
 since:2021-09-06
 whatsapp
 ( (
-	  propublica
-	  OR "end to end"
-	  OR "law enforcement"
-	  OR moderating
-	  OR moderation
-	  OR moderator
-	  OR moderators
-	  OR privacy
-	  OR undermines
-	  OR undermining
-	  )
+          propublica
+          OR "end to end"
+          OR "law enforcement"
+          OR moderating
+          OR moderation
+          OR moderator
+          OR moderators
+          OR privacy
+          OR undermines
+          OR undermining
+          )
     )
 ```
 
@@ -494,9 +494,9 @@ OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
     OR varadu
     OR "tek fog" OR TekFog
     OR (
-	( meta OR facebook OR fb OR instagram )
-	( dkim OR xcheck OR wire )
-	)
+        ( meta OR facebook OR fb OR instagram )
+        ( dkim OR xcheck OR wire )
+        )
     )
 -"down to the wire"
 -tv
@@ -514,18 +514,18 @@ ukigf
 OR ukigf22
 OR (
     (
-	"internet governance" OR InternetGovernance
-	OR igf
-	OR igfs
-	)
+        "internet governance" OR InternetGovernance
+        OR igf
+        OR igfs
+        )
     (
-	splinternet
-	OR "digital inclusion" OR DigitalInclusion
-	OR "digital inequality" OR DigitalInequality
-	OR "internet fragmentation" OR InternetFragmentation
-	OR "online harms" OR OnlineHarms
-	OR "resilient internet" OR ResilientInternet
-	)
+        splinternet
+        OR "digital inclusion" OR DigitalInclusion
+        OR "digital inequality" OR DigitalInequality
+        OR "internet fragmentation" OR InternetFragmentation
+        OR "online harms" OR OnlineHarms
+        OR "resilient internet" OR ResilientInternet
+        )
     )
 ```
 
