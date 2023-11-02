@@ -31,7 +31,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
-* [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework) (including #eIDAS and #QWAC)
+* [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework) (including #eIDAS and #QWAC #QWACs)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
@@ -653,10 +653,10 @@ platform
 ```
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
-#### INCLUDING #EIDAS AND #QWAC
+#### INCLUDING #EIDAS AND #QWAC #QWACS
 * :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%28%22https%3A%2F%2Feidas-open-letter.org%2F%22%20OR%20eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29%20-hela%20-bettertoawake&src=typed_query&f=live)
 * :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%28%22https%3A%2F%2Feidas-open-letter.org%2F%22%20OR%20eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29%20-hela%20-bettertoawake&src=typed_query)
-* :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ARegulation%3A%20EU%20Digital%20Identity%20Framework%20%E2%80%94%20including%20%23eIDAS%20and%20%23QWAC%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
+* :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ARegulation%3A%20EU%20Digital%20Identity%20Framework%20%E2%80%94%20including%20%23eIDAS%20and%20%23QWAC%20%23QWACs%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links

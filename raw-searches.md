@@ -376,7 +376,7 @@ AND (
     OR "automatically scan all iphones"
     )
 
-# Regulation: EU Digital Identity Framework | including #eIDAS and #QWAC
+# Regulation: EU Digital Identity Framework | including #eIDAS and #QWAC #QWACs
 
 * https://eidas-open-letter.org/
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
