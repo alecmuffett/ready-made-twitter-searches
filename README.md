@@ -654,22 +654,23 @@ platform
 
 ### REGULATION: EU DIGITAL IDENTITY FRAMEWORK
 #### INCLUDING #EIDAS AND QWACS
-* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=-hela%20%28eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29&src=typed_query&f=live)
-* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=-hela%20%28eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29&src=typed_query)
+* :point_right: [Regulation: EU Digital Identity Framework - LATEST Tweets](https://twitter.com/search?q=%28%22https%3A%2F%2Feidas-open-letter.org%2F%22%20OR%20eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29%20-hela%20-bettertoawake&src=typed_query&f=live)
+* :point_right: [Regulation: EU Digital Identity Framework - TOP Tweets](https://twitter.com/search?q=%28%22https%3A%2F%2Feidas-open-letter.org%2F%22%20OR%20eidas%20OR%20eidas2%20OR%20%22digital%20identity%20framework%22%20OR%20DigitalIdentityFramework%20OR%20%22eu%20digital%20id%22%20OR%20EuDigitalId%20OR%20%22eu%20digital%20identity%22%20OR%20EuDigitalIdentity%20OR%20eueid%20OR%20%22qualified%20web%20authentication%22%20OR%20%28%28qwac%20OR%20qwacs%29%28browser%20OR%20browsers%20OR%20certificate%20OR%20certtificates%20OR%20mozilla%20OR%20tls%29%29%29%20-hela%20-bettertoawake&src=typed_query)
 * :heart: [Share this Search for 'Regulation: EU Digital Identity Framework' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ARegulation%3A%20EU%20Digital%20Identity%20Framework%20%E2%80%94%20including%20%23eIDAS%20and%20QWACs%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-eu-digital-identity-framework)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
+* [EUs Digital Identity Framework Endangers Browser Security Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security) **(eff.org)**
+* [Internet Impact Brief Mandated Browser Root Certificates in the European Unions eIDAS Regulation on ](https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/) **(internetsociety.org)**
+* [Mozilla publishes position paper on the EU Digital Identity Framework Open Policy amp Advocacy](https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/) **(blog.mozilla.org)**
+* [What the Duck Why an EU Proposal to Require quot QWACs quot Will Hurt Internet Security Electronic F](https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security) **(eff.org)**
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
-* https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security
-* https://www.eff.org/deeplinks/2022/02/what-duck-why-eu-proposal-require-qwacs-will-hurt-internet-security
-* https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
-#### query source (306/512 characters)
+* https://eidas-open-letter.org/
+#### query source (357/512 characters)
 ```
--hela
 (
-    eidas
+    "https://eidas-open-letter.org/"
+    OR eidas
     OR eidas2
     OR "digital identity framework" OR DigitalIdentityFramework
     OR "eu digital id" OR EuDigitalId
@@ -691,6 +692,8 @@ platform
             )
         )
     )
+-hela
+-bettertoawake
 ```
 
 ### SAFER INTERNET DAY: GENERAL
