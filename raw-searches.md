@@ -378,7 +378,8 @@ AND (
 
 # Regulation: EU Digital Identity Framework | including #eIDAS and #QWAC #QWACs
 
-* https://eidas-open-letter.org/
+* https://eidas-open-letter.org
+* https://last-chance-for-eidas.org
 * https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf [PDF]
 - https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
 - https://www.eff.org/deeplinks/2021/12/eus-digital-identity-framework-endangers-browser-security
@@ -386,7 +387,8 @@ AND (
 - https://www.internetsociety.org/resources/doc/2021/internet-impact-brief-mandated-browser-root-certificates-in-the-eu-eidas-regulation/
 
 (
-    "https://eidas-open-letter.org/"
+    "https://eidas-open-letter.org"
+    OR "https://last-chance-for-eidas.org"
     OR eidas
     OR eidas2
     OR <digital identity framework>
