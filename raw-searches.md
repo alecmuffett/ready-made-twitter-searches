@@ -1016,10 +1016,12 @@ OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verif
     facebook
     OR fb
     OR messenger
+    OR meta
     )
 AND (
     encryption
-    OR encrypted
     OR e2e
     OR e2ee
+    OR encrypted
+    OR end-to-end
     )
