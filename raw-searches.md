@@ -1019,9 +1019,10 @@ OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verif
     OR meta
     )
 AND (
-    encryption
+    <end to end>
     OR e2e
     OR e2ee
     OR encrypted
-    OR end-to-end
+    OR encrypting
+    OR encryption
     )
