@@ -28,6 +28,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol](#end-to-end-encryption-gchq--ncsc-ghost-protocol)
 * [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
+* [End-To-End Encryption: Meta launch E2EE for Facebook Messenger](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger)
 * [End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
@@ -562,6 +563,27 @@ OR (
         OR encryption
         OR encryptions
         )
+    )
+```
+
+### END-TO-END ENCRYPTION: META LAUNCH E2EE FOR FACEBOOK MESSENGER
+* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger - LATEST Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%29%28encryption%20OR%20encrypted%20OR%20e2e%20OR%20e2ee%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger - TOP Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%29%28encryption%20OR%20encrypted%20OR%20e2e%20OR%20e2ee%29&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: Meta launch E2EE for Facebook Messenger' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Meta%20Launch%20E2EE%20For%20Facebook%20Messenger%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (73/512 characters)
+```
+(
+    facebook
+    OR fb
+    OR messenger
+    )
+(
+    encryption
+    OR encrypted
+    OR e2e
+    OR e2ee
     )
 ```
 
