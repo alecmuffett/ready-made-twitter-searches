@@ -1026,3 +1026,4 @@ AND (
     OR encrypting
     OR encryption
     )
+-"you accepted my id"
