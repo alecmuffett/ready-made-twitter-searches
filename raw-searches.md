@@ -1026,6 +1026,6 @@ AND (
     OR encryption
     )
 AND (
-    -"saint_tech01"
-    -"jatechwebs"
+    -(@saint_tech01)
+    -(@jatechwebs)
     )
