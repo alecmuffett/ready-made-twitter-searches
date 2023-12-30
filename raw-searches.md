@@ -1026,5 +1026,5 @@ AND (
     OR encrypting
     OR encryption
     )
-AND -"saint_tech01"
-AND -"jatechwebs"
+-"saint_tech01"
+-"jatechwebs"
