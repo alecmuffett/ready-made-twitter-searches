@@ -1026,4 +1026,5 @@ AND (
     OR encrypting
     OR encryption
     )
--"you accepted my id"
+AND -"saint_tech01"
+AND -"jatechwebs"
