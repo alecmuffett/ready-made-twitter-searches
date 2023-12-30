@@ -1012,20 +1012,20 @@ OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verif
 
 # End-To-End Encryption: Meta launch E2EE for Facebook Messenger
 (
-    (
-	facebook
-	OR fb
-	OR messenger
-	OR meta
-	)
-    AND (
-	<end to end>
-	OR e2e
-	OR e2ee
-	OR encrypted
-	OR encrypting
-	OR encryption
-	)
+    facebook
+    OR fb
+    OR messenger
+    OR meta
     )
--"saint_tech01"
--"jatechwebs"
+AND (
+    <end to end>
+    OR e2e
+    OR e2ee
+    OR encrypted
+    OR encrypting
+    OR encryption
+    )
+AND (
+    -"saint_tech01"
+    -"jatechwebs"
+    )
