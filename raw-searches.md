@@ -1011,20 +1011,21 @@ OR "https://protectchildrennotabuse.org"
 OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"
 
 # End-To-End Encryption: Meta launch E2EE for Facebook Messenger
-
 (
-    facebook
-    OR fb
-    OR messenger
-    OR meta
-    )
-AND (
-    <end to end>
-    OR e2e
-    OR e2ee
-    OR encrypted
-    OR encrypting
-    OR encryption
+    (
+	facebook
+	OR fb
+	OR messenger
+	OR meta
+	)
+    AND (
+	<end to end>
+	OR e2e
+	OR e2ee
+	OR encrypted
+	OR encrypting
+	OR encryption
+	)
     )
 -"saint_tech01"
 -"jatechwebs"
