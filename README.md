@@ -21,6 +21,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: Calls for CSAM Surveillance Reinstatement](#apple-calls-for-csam-surveillance-reinstatement) (#HeatInitiative: people who want Apple to spy on us for our own good)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (#ClientSideScanning and why it was abandoned)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
+* [CPAS "affirmations on sexuality" backlash](#cpas-affirmations-on-sexuality-backlash)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
@@ -301,6 +302,30 @@ OR (
     OR tienanmen
     OR "tank man" OR TankMan
     OR "tank guy" OR TankGuy
+    )
+```
+
+### CPAS "AFFIRMATIONS ON SEXUALITY" BACKLASH
+* :point_right: [CPAS "affirmations on sexuality" backlash - LATEST Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20sexuality%29&src=typed_query&f=live)
+* :point_right: [CPAS "affirmations on sexuality" backlash - TOP Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20sexuality%29&src=typed_query)
+* :heart: [Share this Search for 'CPAS "affirmations on sexuality" backlash' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ACPAS%20%22affirmations%20On%20Sexuality%22%20Backlash%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cpas-affirmations-on-sexuality-backlash)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://web.archive.org/web/20240107160431/https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/prayers-love-and-faith-statement-cpas-trustees
+#### query source (79/512 characters)
+```
+(
+    cpas
+    OR cpasnews
+    )
+(
+    affirmation
+    OR affirmations
+    OR bishopruthb
+    OR sexuality
     )
 ```
 

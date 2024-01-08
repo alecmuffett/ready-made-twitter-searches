@@ -1029,3 +1029,20 @@ AND (
     -(@saint_tech01)
     -(@jatechwebs)
     )
+
+# CPAS "affirmations on sexuality" backlash
+
+* https://web.archive.org/web/20240107160431/https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/prayers-love-and-faith-statement-cpas-trustees
+
+(
+    cpas
+    OR cpasnews
+    )
+AND (
+    affirmation
+    OR affirmations
+    OR bishopruthb
+    OR sexuality
+    )
