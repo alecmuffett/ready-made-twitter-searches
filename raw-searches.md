@@ -1039,6 +1039,7 @@ AND (
 (
     cpas
     OR cpasnews
+    OR cpasleadership
     )
 AND (
     affirmation
