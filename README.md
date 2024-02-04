@@ -21,6 +21,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: Calls for CSAM Surveillance Reinstatement](#apple-calls-for-csam-surveillance-reinstatement) (#HeatInitiative: people who want Apple to spy on us for our own good)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (#ClientSideScanning and why it was abandoned)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
+* [Brianna Ghey Murder and the Dark Web](#brianna-ghey-murder-and-the-dark-web)
 * [CPAS "affirmations on sexuality" backlash](#cpas-affirmations-on-sexuality-backlash)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
@@ -303,6 +304,28 @@ OR (
     OR "tank man" OR TankMan
     OR "tank guy" OR TankGuy
     )
+```
+
+### BRIANNA GHEY MURDER AND THE DARK WEB
+* :point_right: [Brianna Ghey Murder and the Dark Web - LATEST Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query&f=live)
+* :point_right: [Brianna Ghey Murder and the Dark Web - TOP Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query)
+* :heart: [Share this Search for 'Brianna Ghey Murder and the Dark Web' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ABrianna%20Ghey%20Murder%20And%20The%20Dark%20Web%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23brianna-ghey-murder-and-the-dark-web)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (97/512 characters)
+```
+(
+    brianna
+    OR briannaghey
+    OR ghey
+    OR bbclaurak
+    OR government
+    OR ofcom
+    )
+(
+    "dark web" OR DarkWeb
+    )
+)
 ```
 
 ### CPAS "AFFIRMATIONS ON SEXUALITY" BACKLASH

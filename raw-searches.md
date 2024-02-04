@@ -1048,3 +1048,18 @@ AND (
     OR conversion
     OR sexuality
     )
+
+# Brianna Ghey Murder and the Dark Web
+
+(
+    brianna
+    OR briannaghey
+    OR ghey
+    OR bbclaurak
+    OR government
+    OR ofcom
+    )
+AND (
+    <dark web>
+    )
+)
