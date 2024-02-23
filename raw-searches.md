@@ -1063,3 +1063,18 @@ AND (
     <dark web>
     )
 )
+
+# Nevada attempting to ban End-To-End Encryption for Minors
+
+"a-24-886110-b"
+OR (
+    (
+	"encrypt"
+	OR "encrypted"
+	OR "encryption"
+	OR "encryptions"
+	)
+    AND (
+	"nevada"
+	)
+    )

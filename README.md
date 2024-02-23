@@ -33,6 +33,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: Meta launch E2EE for Facebook Messenger](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger)
 * [End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
+* [Nevada attempting to ban End-To-End Encryption for Minors](#nevada-attempting-to-ban-end-to-end-encryption-for-minors)
 * [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework) (including #eIDAS and #QWAC #QWACs)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
@@ -116,8 +117,8 @@ OR "age verification" OR AgeVerification
 * [AlecMuffett status 1654922637385117697](https://twitter.com/AlecMuffett/status/1654922637385117697) **(twitter.com)**
 * [Anti porn activists are scoring big wins after a 21st century rebrand Semafor](https://www.semafor.com/article/05/05/2023/anti-porn-activists-are-scoring-big-wins-utah-pornhub-cherie-deville) **(semafor.com)**
 * [Cherie DeVille Protests Utahs Online Age Verification Law AVN](https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html) **(avn.com)**
-* [Just a moment](https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch) **(pcmag.com)**
 * [Porn industry group sues over Utah age verification law PBS NewsHour](https://www.pbs.org/newshour/politics/porn-industry-group-sues-over-utah-age-verification-law) **(pbs.org)**
+* [Pornhub Blocks Access in Utah Heres How to Watch Anyway PCMag](https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch) **(pcmag.com)**
 * [Pornhub Blocks All of Utah From Its Site](https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification) **(vice.com)**
 * [Pornhub blocks Utah because of age verification law Mashable](https://mashable.com/article/pornhub-blocks-utah-because-of-age-verification-law) **(mashable.com)**
 * [Pornhub blocks access in Utah over age verification law CNN Business](https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html) **(edition.cnn.com)**
@@ -215,8 +216,8 @@ onlinePseudonymity OR
 * [Apple faces renewed pressure to protect child safety Child sexual abuse is stored on iCloud Apple al](https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/) **(9to5mac.com)**
 * [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
 * [Heat Initiative](https://protectchildrennotabuse.org) **(-)**
+* [In Monitoring Child Sex Abuse Apple Is Caught Between Safety and Privacy The New York Times](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare) **(nytimes.com)**
 * [matthew_d_green status 1697413122447839568](https://twitter.com/matthew_d_green/status/1697413122447839568) **(twitter.com)**
-* [nytimes com](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare) **(nytimes.com)**
 #### query source (296/512 characters)
 ```
 (
@@ -247,11 +248,12 @@ OR "https://protectchildrennotabuse.org"
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* [Apple Delays Rollout of Child Safety Features The New York Times](https://www.nytimes.com/2021/09/03/business/apple-child-safety.html) **(nytimes.com)**
 * [Apple Introduces Parental Control Feature That Scans Messages for Nudity](https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity) **(vice.com)**
-* [Apple delays child abuse detection system after backlash](https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25) **(ft.com)**
+* [Apple delays child abuse detection system after backlash Financial Times](https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25) **(ft.com)**
 * [Apple delays plan to scan iPhones for child abuse BBC News](https://www.bbc.co.uk/news/technology-58433647) **(bbc.co.uk)**
 * [Apple delays plans to scan cloud uploads for child sexual abuse images Apple The Guardian](https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images) **(theguardian.com)**
-* [Apple plans to scan US iPhones for child abuse imagery](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
+* [Apple plans to scan US iPhones for child abuse imagery Financial Times](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
 * [Apple to roll out child safety feature that scans messages for nudity to UK iPhones Apple The Guardi](https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones) **(theguardian.com)**
 * [Apples Mistake Stratechery by Ben Thompson](https://stratechery.com/2021/apples-mistake/) **(stratechery.com)**
 * [Apples dangerous path TechCrunch](https://techcrunch.com/2021/09/04/apples-dangerous-path/) **(techcrunch.com)**
@@ -262,7 +264,6 @@ OR "https://protectchildrennotabuse.org"
 * [matthew_d_green status 1423071186616000513](https://twitter.com/matthew_d_green/status/1423071186616000513) **(twitter.com)**
 * [matthew_d_green status 1423110719533371393](https://twitter.com/matthew_d_green/status/1423110719533371393) **(twitter.com)**
 * [matthew_d_green status 1423407898890326021](https://twitter.com/matthew_d_green/status/1423407898890326021) **(twitter.com)**
-* [nytimes com](https://www.nytimes.com/2021/09/03/business/apple-child-safety.html) **(nytimes.com)**
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 #### query source (270/512 characters)
@@ -653,7 +654,7 @@ OR (
 #### some interesting and relevant links
 * [Channel4News status 1675922360237694978](https://twitter.com/Channel4News/status/1675922360237694978) **(twitter.com)**
 * [Messaging app CEOs warning for journalists over Online Safety Bill Press Gazette](https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/) **(pressgazette.co.uk)**
-* [Online Safety Bill WhatsApp Signal Element issue stark final warning against mass snooping of messag](https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html) **(standard.co.uk)**
+* [Online Safety Bill Whatsapp Signal issue stark final warning against mass snooping of messages Eveni](https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html) **(standard.co.uk)**
 * [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance Channel 4 Ne](https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance) **(channel4.com)**
 * [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance YouTube](https://www.youtube.com/watch?v=E--bVV_eQR0) **(youtube.com)**
 #### query source (271/512 characters)
@@ -690,6 +691,28 @@ OR (
 ( signalapp OR whatsapp )
 ( attack OR attacks )
 platform
+```
+
+### NEVADA ATTEMPTING TO BAN END-TO-END ENCRYPTION FOR MINORS
+* :point_right: [Nevada attempting to ban End-To-End Encryption for Minors - LATEST Tweets](https://twitter.com/search?q=a-24-886110-b%20OR%20%28%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%28nevada%29%29&src=typed_query&f=live)
+* :point_right: [Nevada attempting to ban End-To-End Encryption for Minors - TOP Tweets](https://twitter.com/search?q=a-24-886110-b%20OR%20%28%28encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%28nevada%29%29&src=typed_query)
+* :heart: [Share this Search for 'Nevada attempting to ban End-To-End Encryption for Minors' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ANevada%20Attempting%20To%20Ban%20End-To-End%20Encryption%20For%20Minors%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23nevada-attempting-to-ban-end-to-end-encryption-for-minors)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (84/512 characters)
+```
+a-24-886110-b
+OR (
+    (
+	encrypt
+	OR encrypted
+	OR encryption
+	OR encryptions
+	)
+    (
+	nevada
+	)
+    )
 ```
 
 ### ONLINE SAFETY BILL
