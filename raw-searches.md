@@ -1066,6 +1066,11 @@ AND (
 
 # Nevada attempting to ban End-To-End Encryption for Minors
 
+- https://alecmuffett.com/article/109232
+- https://ag.nv.gov/Hot_Topics/Social_Media_Platforms_Investigation_and_Litigation/
+- https://mastodon.lawprofs.org/@riana/111982802756354530
+- https://drive.google.com/file/d/1qq9ZkJaLHEsEiMg2rSd2hqI1SPSQb0Y8/view?pli=
+
 "a-24-886110-b"
 OR (
     (

@@ -699,6 +699,11 @@ platform
 * :heart: [Share this Search for 'Nevada attempting to ban End-To-End Encryption for Minors' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ANevada%20Attempting%20To%20Ban%20End-To-End%20Encryption%20For%20Minors%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23nevada-attempting-to-ban-end-to-end-encryption-for-minors)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [2024 02 20 NV States Motion for TRO and Prelim Injunction on OST pdf Google Drive](https://drive.google.com/file/d/1qq9ZkJaLHEsEiMg2rSd2hqI1SPSQb0Y8/view?pli=) **(drive.google.com)**
+* [BREAKING US State of Nevada attempting to BAN End to End Encryption for Teenagers Kids and implicitl](https://alecmuffett.com/article/109232) **(alecmuffett.com)**
+* [Social Media Platforms Investigation and Litigation](https://ag.nv.gov/Hot_Topics/Social_Media_Platforms_Investigation_and_Litigation/) **(ag.nv.gov)**
+* [riana quot An absolutely bonkers assault on encryption is ha quot Lawprofs Mastodon](https://mastodon.lawprofs.org/@riana/111982802756354530) **(mastodon.lawprofs.org)**
 #### query source (84/512 characters)
 ```
 a-24-886110-b
