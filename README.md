@@ -43,6 +43,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [Twitter's Adoption of Encryption for Direct Messages](#twitters-adoption-of-encryption-for-direct-messages)
+* [UK Helicopter Parents Charter](#uk-helicopter-parents-charter)
 
 ## searches
 
@@ -117,8 +118,8 @@ OR "age verification" OR AgeVerification
 * [AlecMuffett status 1654922637385117697](https://twitter.com/AlecMuffett/status/1654922637385117697) **(twitter.com)**
 * [Anti porn activists are scoring big wins after a 21st century rebrand Semafor](https://www.semafor.com/article/05/05/2023/anti-porn-activists-are-scoring-big-wins-utah-pornhub-cherie-deville) **(semafor.com)**
 * [Cherie DeVille Protests Utahs Online Age Verification Law AVN](https://avn.com/business/press-release/legal/cherie-deville-protests-utah-s-online-age-verification-law-918322.html) **(avn.com)**
+* [Just a moment](https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch) **(pcmag.com)**
 * [Porn industry group sues over Utah age verification law PBS NewsHour](https://www.pbs.org/newshour/politics/porn-industry-group-sues-over-utah-age-verification-law) **(pbs.org)**
-* [Pornhub Blocks Access in Utah Heres How to Watch Anyway PCMag](https://www.pcmag.com/how-to/pornhub-blocks-access-utah-heres-how-to-watch) **(pcmag.com)**
 * [Pornhub Blocks All of Utah From Its Site](https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification) **(vice.com)**
 * [Pornhub blocks Utah because of age verification law Mashable](https://mashable.com/article/pornhub-blocks-utah-because-of-age-verification-law) **(mashable.com)**
 * [Pornhub blocks access in Utah over age verification law CNN Business](https://edition.cnn.com/2023/05/02/tech/pornhub-utah-age-verification/index.html) **(edition.cnn.com)**
@@ -216,8 +217,8 @@ onlinePseudonymity OR
 * [Apple faces renewed pressure to protect child safety Child sexual abuse is stored on iCloud Apple al](https://9to5mac.com/2023/09/01/apple-csam-icloud-advertising-campaign/) **(9to5mac.com)**
 * [Apples Decision to Kill Its CSAM Photo Scanning Tool Sparks Fresh Controversy WIRED](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/) **(wired.com)**
 * [Heat Initiative](https://protectchildrennotabuse.org) **(-)**
-* [In Monitoring Child Sex Abuse Apple Is Caught Between Safety and Privacy The New York Times](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare) **(nytimes.com)**
 * [matthew_d_green status 1697413122447839568](https://twitter.com/matthew_d_green/status/1697413122447839568) **(twitter.com)**
+* [nytimes com](https://www.nytimes.com/2023/09/01/technology/child-sex-abuse-imagery-apple-safety-privacy.html?smid=nytcore-ios-share&referringSource=articleShare) **(nytimes.com)**
 #### query source (296/512 characters)
 ```
 (
@@ -248,12 +249,11 @@ OR "https://protectchildrennotabuse.org"
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
-* [Apple Delays Rollout of Child Safety Features The New York Times](https://www.nytimes.com/2021/09/03/business/apple-child-safety.html) **(nytimes.com)**
 * [Apple Introduces Parental Control Feature That Scans Messages for Nudity](https://www.vice.com/en/article/v7ejmy/apple-scan-message-content-nudity) **(vice.com)**
-* [Apple delays child abuse detection system after backlash Financial Times](https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25) **(ft.com)**
+* [Apple delays child abuse detection system after backlash](https://www.ft.com/content/5c17ca8b-da7c-4cd0-8f04-9ef82f608b25) **(ft.com)**
 * [Apple delays plan to scan iPhones for child abuse BBC News](https://www.bbc.co.uk/news/technology-58433647) **(bbc.co.uk)**
 * [Apple delays plans to scan cloud uploads for child sexual abuse images Apple The Guardian](https://www.theguardian.com/technology/2021/sep/03/apple-delays-plans-to-scan-cloud-uploads-for-child-sexual-abuse-images) **(theguardian.com)**
-* [Apple plans to scan US iPhones for child abuse imagery Financial Times](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
+* [Apple plans to scan US iPhones for child abuse imagery](https://www.ft.com/content/14440f81-d405-452f-97e2-a81458f5411f) **(ft.com)**
 * [Apple to roll out child safety feature that scans messages for nudity to UK iPhones Apple The Guardi](https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones) **(theguardian.com)**
 * [Apples Mistake Stratechery by Ben Thompson](https://stratechery.com/2021/apples-mistake/) **(stratechery.com)**
 * [Apples dangerous path TechCrunch](https://techcrunch.com/2021/09/04/apples-dangerous-path/) **(techcrunch.com)**
@@ -264,6 +264,7 @@ OR "https://protectchildrennotabuse.org"
 * [matthew_d_green status 1423071186616000513](https://twitter.com/matthew_d_green/status/1423071186616000513) **(twitter.com)**
 * [matthew_d_green status 1423110719533371393](https://twitter.com/matthew_d_green/status/1423110719533371393) **(twitter.com)**
 * [matthew_d_green status 1423407898890326021](https://twitter.com/matthew_d_green/status/1423407898890326021) **(twitter.com)**
+* [nytimes com](https://www.nytimes.com/2021/09/03/business/apple-child-safety.html) **(nytimes.com)**
 * https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
 * https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf
 #### query source (270/512 characters)
@@ -654,7 +655,7 @@ OR (
 #### some interesting and relevant links
 * [Channel4News status 1675922360237694978](https://twitter.com/Channel4News/status/1675922360237694978) **(twitter.com)**
 * [Messaging app CEOs warning for journalists over Online Safety Bill Press Gazette](https://pressgazette.co.uk/media_law/messaging-app-ceos-warning-for-journalists-over-online-safety-bill/) **(pressgazette.co.uk)**
-* [Online Safety Bill Whatsapp Signal issue stark final warning against mass snooping of messages Eveni](https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html) **(standard.co.uk)**
+* [Online Safety Bill WhatsApp Signal Element issue stark final warning against mass snooping of messag](https://www.standard.co.uk/tech/online-safety-bill-whatsapp-signal-element-breaking-encryption-mass-surveillance-messaging-apps-b1091873.html) **(standard.co.uk)**
 * [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance Channel 4 Ne](https://www.channel4.com/news/online-safety-bill-debate-could-it-lead-to-unprecedented-paradigm-shifting-surveillance) **(channel4.com)**
 * [Online Safety Bill debate Could it lead to unprecedented paradigm shifting surveillance YouTube](https://www.youtube.com/watch?v=E--bVV_eQR0) **(youtube.com)**
 #### query source (271/512 characters)
@@ -977,6 +978,40 @@ OR "section 230" OR Section230
     OR encryption
     OR "client side" OR ClientSide
     OR cryptographer
+    )
+```
+
+### UK HELICOPTER PARENTS CHARTER
+* :point_right: [UK Helicopter Parents Charter - LATEST Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query&f=live)
+* :point_right: [UK Helicopter Parents Charter - TOP Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query)
+* :heart: [Share this Search for 'UK Helicopter Parents Charter' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AUK%20Helicopter%20Parents%20Charter%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-helicopter-parents-charter)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
+#### query source (185/512 characters)
+```
+since:2024-04-01
+(
+    charter
+    OR government
+    OR minister
+    OR ministers
+    )
+(
+    "big tech"
+    OR alphabet
+    OR apple
+    OR google
+    OR instagram
+    OR meta
+    OR tiktok
+    )
+(
+    teen
+    OR teenager
+    OR teenagers
+    OR teens
     )
 ```
 

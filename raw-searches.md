@@ -1083,3 +1083,31 @@ OR (
 	"nevada"
 	)
     )
+
+# UK Helicopter Parents Charter
+
+- https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens
+
+"since:2024-04-01"
+AND (
+    "charter"
+    OR "government"
+    OR "minister"
+    OR "ministers"
+    )
+
+AND (
+    "big tech"
+    OR "alphabet"
+    OR "apple"
+    OR "google"
+    OR "instagram"
+    OR "meta"
+    OR "tiktok"
+    )
+AND (
+    "teen"
+    OR "teenager"
+    OR "teenagers"
+    OR "teens"
+    )
