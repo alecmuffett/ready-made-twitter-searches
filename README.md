@@ -989,6 +989,7 @@ OR "section 230" OR Section230
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
 * [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
+* [jamesrbuk status 1779892792505905634](https://twitter.com/jamesrbuk/status/1779892792505905634) **(twitter.com)**
 #### query source (185/512 characters)
 ```
 since:2024-04-01

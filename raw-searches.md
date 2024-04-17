@@ -1087,6 +1087,7 @@ OR (
 # UK Helicopter Parents Charter
 
 - https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens
+- https://twitter.com/jamesrbuk/status/1779892792505905634
 
 "since:2024-04-01"
 AND (
