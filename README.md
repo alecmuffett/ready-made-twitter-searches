@@ -41,9 +41,9 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
+* [The UK Helicopter Parents Charter](#the-uk-helicopter-parents-charter)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [Twitter's Adoption of Encryption for Direct Messages](#twitters-adoption-of-encryption-for-direct-messages)
-* [UK Helicopter Parents Charter](#uk-helicopter-parents-charter)
 
 ## searches
 
@@ -914,6 +914,41 @@ OR "earn it act" OR EarnItAct
 OR "section 230" OR Section230
 ```
 
+### THE UK HELICOPTER PARENTS CHARTER
+* :point_right: [The UK Helicopter Parents Charter - LATEST Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query&f=live)
+* :point_right: [The UK Helicopter Parents Charter - TOP Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query)
+* :heart: [Share this Search for 'The UK Helicopter Parents Charter' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AThe%20UK%20Helicopter%20Parents%20Charter%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-uk-helicopter-parents-charter)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
+* [jamesrbuk status 1779892792505905634](https://twitter.com/jamesrbuk/status/1779892792505905634) **(twitter.com)**
+#### query source (185/512 characters)
+```
+since:2024-04-01
+(
+    charter
+    OR government
+    OR minister
+    OR ministers
+    )
+(
+    "big tech"
+    OR alphabet
+    OR apple
+    OR google
+    OR instagram
+    OR meta
+    OR tiktok
+    )
+(
+    teen
+    OR teenager
+    OR teenagers
+    OR teens
+    )
+```
+
 ### THE "#WILDWESTWEB" FALLACY
 * :point_right: [The "#WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query&f=live)
 * :point_right: [The "#WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query)
@@ -978,41 +1013,6 @@ OR "section 230" OR Section230
     OR encryption
     OR "client side" OR ClientSide
     OR cryptographer
-    )
-```
-
-### UK HELICOPTER PARENTS CHARTER
-* :point_right: [UK Helicopter Parents Charter - LATEST Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query&f=live)
-* :point_right: [UK Helicopter Parents Charter - TOP Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query)
-* :heart: [Share this Search for 'UK Helicopter Parents Charter' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%20would%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AUK%20Helicopter%20Parents%20Charter%0A%0A%E2%80%A6here%27s%20a%20%23ReadyMadeTwitterSearch%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23uk-helicopter-parents-charter)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
-* [jamesrbuk status 1779892792505905634](https://twitter.com/jamesrbuk/status/1779892792505905634) **(twitter.com)**
-#### query source (185/512 characters)
-```
-since:2024-04-01
-(
-    charter
-    OR government
-    OR minister
-    OR ministers
-    )
-(
-    "big tech"
-    OR alphabet
-    OR apple
-    OR google
-    OR instagram
-    OR meta
-    OR tiktok
-    )
-(
-    teen
-    OR teenager
-    OR teenagers
-    OR teens
     )
 ```
 
