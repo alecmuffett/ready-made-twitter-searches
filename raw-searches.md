@@ -29,7 +29,7 @@ OR "+@wa_status"
 OR "+@whatsapp"
 OR "+@wire"
 
-# End-To-End Encryption: Breaking | discussion of weakening E2EE, backdoors, and #chatcontrol
+# End-To-End Encryption: Breaking | discussion of weakening E2EE, backdoors, and #chatcontrol ARCHIVE
 
 "break e2e"
 OR "break e2ee"
@@ -61,16 +61,21 @@ OR (
 
 # End-To-End Encryption: General | including regulation, law enforcement, and platforms
 
-<chat control>
+"e2ee"
+OR <end to end encryption>
+OR <chat control>
 OR <chat kontrolle>
-OR "e2ee"
-OR "endToEndEncryption"
-OR <lawless spaces>
-OR "lawlessspaces"
-OR "noplacetohide" ## UK campaign
-OR <warrant proof>
 OR (
     (
+        "chiffre"
+        OR "chiffrement"
+        OR "cryptage"
+        OR "encrypt"
+        OR "encrypted"
+        OR "encryption"
+        OR "encryptions"
+        )
+    AND (
         "algorithm"
         OR "algorithms"
         OR "e2e"
@@ -82,16 +87,6 @@ OR (
         OR "nspcc"
         OR "unregulated"
         OR "whatsapp"
-        OR "bout en bout"
-        )
-    AND (
-        "chiffre"
-        OR "chiffrement"
-        OR "cryptage"
-        OR "encrypt"
-        OR "encrypted"
-        OR "encryption"
-        OR "encryptions"
         )
     )
 
@@ -595,7 +590,7 @@ AND (
     OR virality
     )
 
-# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE
 
 * https://alecmuffett.com/alecm/e2e-primer/
 * https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
@@ -626,7 +621,7 @@ AND ( ## interest
     OR encryption
     )
 
-# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage
+# End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE
 
 * https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
 * https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
@@ -1010,7 +1005,7 @@ OR "https://protectchildrennotabuse.org"
     )
 OR "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"
 
-# End-To-End Encryption: Meta launch E2EE for Facebook Messenger
+# End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE
 (
     facebook
     OR fb
@@ -1112,3 +1107,34 @@ AND (
     OR "teenagers"
     OR "teens"
     )
+
+# WhatsApp and timing attacks are not a backdoor
+
+- https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/
+
+"since:2024-05-22"
+AND (
+    "whatsapp"
+    )
+AND (
+    "backdoor"
+    OR "lavender"
+    OR "palestine"
+    OR "palestinian"
+    OR "timing"
+    )
+
+# Regulation: KOSA, KOSPA, COPPA
+
+(
+    kospa
+    OR (
+	lang:en
+	AND (
+	    coppa
+	    OR kosa
+	    )
+	)
+    )
+AND -srcoppa
+AND -italia

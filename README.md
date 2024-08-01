@@ -23,18 +23,16 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Brianna Ghey Murder and the Dark Web](#brianna-ghey-murder-and-the-dark-web)
 * [CPAS "affirmations on sexuality" backlash](#cpas-affirmations-on-sexuality-backlash)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
-* [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol)
+* [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol ARCHIVE)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
 * [End-To-End Encryption: European Union Backdoors](#end-to-end-encryption-european-union-backdoors) (EU initiatives to mandate encryption backdoors like #ChatControl)
-* [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol](#end-to-end-encryption-gchq--ncsc-ghost-protocol)
-* [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
 * [End-To-End Encryption: General](#end-to-end-encryption-general) (including regulation, law enforcement, and platforms)
-* [End-To-End Encryption: Meta launch E2EE for Facebook Messenger](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger)
 * [End-To-End Encryption: Whitaker-Collins Debate on the #OnlineSafetyBill](#end-to-end-encryption-whitaker-collins-debate-on-the-onlinesafetybill)
 * [Fake Rumours of Signal and WhatsApp Vulnerabilities](#fake-rumours-of-signal-and-whatsapp-vulnerabilities)
 * [Nevada attempting to ban End-To-End Encryption for Minors](#nevada-attempting-to-ban-end-to-end-encryption-for-minors)
 * [Online Safety Bill](#online-safety-bill) (& #OnlineSafetyBill; tweets that specifically cite this topic)
 * [Regulation: EU Digital Identity Framework](#regulation-eu-digital-identity-framework) (including #eIDAS and #QWAC #QWACs)
+* [Regulation: KOSA, KOSPA, COPPA](#regulation-kosa-kospa-coppa)
 * [Safer Internet Day: General](#safer-internet-day-general) (tweets pertaining to the global campaign)
 * [The Balance Between ...](#the-balance-between-)
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
@@ -43,6 +41,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The UK Helicopter Parents Charter](#the-uk-helicopter-parents-charter)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [Twitter's Adoption of Encryption for Direct Messages](#twitters-adoption-of-encryption-for-direct-messages)
+* [WhatsApp and timing attacks are not a backdoor](#whatsapp-and-timing-attacks-are-not-a-backdoor)
 
 ## searches
 
@@ -349,10 +348,10 @@ OR "kids online safety act" OR KidsOnlineSafetyAct
 ```
 
 ### END-TO-END ENCRYPTION: BREAKING
-#### DISCUSSION OF WEAKENING E2EE, BACKDOORS, AND #CHATCONTROL
+#### DISCUSSION OF WEAKENING E2EE, BACKDOORS, AND #CHATCONTROL ARCHIVE
 * :point_right: [End-To-End Encryption: Breaking - LATEST Tweets](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%28backdoor%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29&src=typed_query&f=live)
 * :point_right: [End-To-End Encryption: Breaking - TOP Tweets](https://twitter.com/search?q=%22break%20e2e%22%20OR%20%22break%20e2ee%22%20OR%20%22break%20encryption%22%20OR%20%22break%20end%20to%20end%22%20OR%20%22break%20endToEndEncryption%22%20OR%20%22breaking%20e2e%22%20OR%20%22breaking%20e2ee%22%20OR%20%22breaking%20encryption%22%20OR%20%22breaking%20end%20to%20end%22%20OR%20%22breaking%20endToEndEncryption%22%20OR%20%22chat%20control%22%20OR%20chatcontrol%20OR%20chatkontrolle%20OR%20%22undermine%20e2e%22%20OR%20%22undermine%20e2ee%22%20OR%20%22undermine%20encryption%22%20OR%20%22undermine%20end%20to%20end%22%20OR%20%22undermine%20endToEndEncryption%22%20OR%20%28backdoor%20%28e2e%20OR%20e2ee%20OR%20%22end%20to%20end%22%20OR%20endToEnd%29%29&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption: Breaking' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Breaking%20%E2%80%94%20discussion%20of%20weakening%20E2EE%2C%20backdoors%2C%20and%20%23chatcontrol%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-breaking)
+* :heart: [Share this Search for 'End-To-End Encryption: Breaking' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Breaking%20%E2%80%94%20discussion%20of%20weakening%20E2EE%2C%20backdoors%2C%20and%20%23chatcontrol%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-breaking)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### query source (456/512 characters)
@@ -492,81 +491,29 @@ OR (
     }
 ```
 
-### END-TO-END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL
-* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol - LATEST Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol - TOP Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://alecmuffett.com/alecm/e2e-primer/
-* https://arxiv.org/abs/2207.09506
-* https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
-* https://twitter.com/AlecMuffett/status/1533867745250623489
-* https://twitter.com/josephfcox/status/1545036313228869632
-* https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
-* https://www.lawfareblog.com/exceptional-access-devil-details-0
-* https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
-#### query source (272/512 characters)
-```
-(
-    gchq
-    OR "crispin robinson"
-    OR "ian levy"
-    OR ncsc
-    OR ( levy robinson )
-    )
-(
-    "exceptional access" OR ExceptionalAccess
-    OR "commodity platforms"
-    OR "end to end"
-    OR "reconcile encryption"
-    OR "child safety" OR ChildSafety
-    OR backdoor
-    OR e2e
-    OR e2ee
-    OR encrypted
-    OR encryption
-    )
-```
-
-### END-TO-END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL: PRESS COVERAGE
-* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%3A%20Press%20Coverage%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936
-* https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
-* https://www.theregister.com/2022/07/22/british_encryption_scanning/
-* https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
-#### query source (416/512 characters)
-```
-"https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images"
-OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936"
-OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
-OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
-```
-
 ### END-TO-END ENCRYPTION: GENERAL
 #### INCLUDING REGULATION, LAW ENFORCEMENT, AND PLATFORMS
-* :point_right: [End-To-End Encryption: General - LATEST Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20LawlessSpaces%20OR%20lawlessspaces%20OR%20noplacetohide%20OR%20%22warrant%20proof%22%20OR%20WarrantProof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%20OR%20%22bout%20en%20bout%22%29%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption: General - TOP Tweets](https://twitter.com/search?q=%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20e2ee%20OR%20endToEndEncryption%20OR%20%22lawless%20spaces%22%20OR%20LawlessSpaces%20OR%20lawlessspaces%20OR%20noplacetohide%20OR%20%22warrant%20proof%22%20OR%20WarrantProof%20OR%20%28%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%20OR%20%22bout%20en%20bout%22%29%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%29&src=typed_query)
+* :point_right: [End-To-End Encryption: General - LATEST Tweets](https://twitter.com/search?q=e2ee%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%28%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: General - TOP Tweets](https://twitter.com/search?q=e2ee%20OR%20%22end%20to%20end%20encryption%22%20OR%20EndToEndEncryption%20OR%20%22chat%20control%22%20OR%20ChatControl%20OR%20%22chat%20kontrolle%22%20OR%20ChatKontrolle%20OR%20%28%28chiffre%20OR%20chiffrement%20OR%20cryptage%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20encryptions%29%28algorithm%20OR%20algorithms%20OR%20e2e%20OR%20%22end%20to%20end%22%20OR%20facebook%20OR%20instagram%20OR%20%22law%20enforcement%22%20OR%20messenger%20OR%20nspcc%20OR%20unregulated%20OR%20whatsapp%29%29&src=typed_query)
 * :heart: [Share this Search for 'End-To-End Encryption: General' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20General%20%E2%80%94%20including%20regulation%2C%20law%20enforcement%2C%20and%20platforms%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-general)
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (464/512 characters)
+#### query source (367/512 characters)
 ```
-"chat control" OR ChatControl
+e2ee
+OR "end to end encryption" OR EndToEndEncryption
+OR "chat control" OR ChatControl
 OR "chat kontrolle" OR ChatKontrolle
-OR e2ee
-OR endToEndEncryption
-OR "lawless spaces" OR LawlessSpaces
-OR lawlessspaces
-OR noplacetohide
-OR "warrant proof" OR WarrantProof
 OR (
+    (
+        chiffre
+        OR chiffrement
+        OR cryptage
+        OR encrypt
+        OR encrypted
+        OR encryption
+        OR encryptions
+        )
     (
         algorithm
         OR algorithms
@@ -579,45 +526,7 @@ OR (
         OR nspcc
         OR unregulated
         OR whatsapp
-        OR "bout en bout"
         )
-    (
-        chiffre
-        OR chiffrement
-        OR cryptage
-        OR encrypt
-        OR encrypted
-        OR encryption
-        OR encryptions
-        )
-    )
-```
-
-### END-TO-END ENCRYPTION: META LAUNCH E2EE FOR FACEBOOK MESSENGER
-* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger - LATEST Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%20OR%20meta%29%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%29%28-%28%40saint_tech01%29%20-%28%40jatechwebs%29%29&src=typed_query&f=live)
-* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger - TOP Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%20OR%20meta%29%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%29%28-%28%40saint_tech01%29%20-%28%40jatechwebs%29%29&src=typed_query)
-* :heart: [Share this Search for 'End-To-End Encryption: Meta launch E2EE for Facebook Messenger' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Meta%20Launch%20E2EE%20For%20Facebook%20Messenger%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (158/512 characters)
-```
-(
-    facebook
-    OR fb
-    OR messenger
-    OR meta
-    )
-(
-    "end to end" OR EndToEnd
-    OR e2e
-    OR e2ee
-    OR encrypted
-    OR encrypting
-    OR encryption
-    )
-(
-    -(@saint_tech01)
-    -(@jatechwebs)
     )
 ```
 
@@ -779,6 +688,28 @@ OR (
     )
 -hela
 -bettertoawake
+```
+
+### REGULATION: KOSA, KOSPA, COPPA
+* :point_right: [Regulation: KOSA, KOSPA, COPPA - LATEST Tweets](https://twitter.com/search?q=%28kospa%20OR%20%28lang%3Aen%20%28coppa%20OR%20kosa%29%29%29%20-srcoppa%20-italia&src=typed_query&f=live)
+* :point_right: [Regulation: KOSA, KOSPA, COPPA - TOP Tweets](https://twitter.com/search?q=%28kospa%20OR%20%28lang%3Aen%20%28coppa%20OR%20kosa%29%29%29%20-srcoppa%20-italia&src=typed_query)
+* :heart: [Share this Search for 'Regulation: KOSA, KOSPA, COPPA' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ARegulation%3A%20KOSA%2C%20KOSPA%2C%20COPPA%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23regulation-kosa-kospa-coppa)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (59/512 characters)
+```
+(
+    kospa
+    OR (
+	lang:en
+	(
+	    coppa
+	    OR kosa
+	    )
+	)
+    )
+-srcoppa
+-italia
 ```
 
 ### SAFER INTERNET DAY: GENERAL
@@ -988,6 +919,29 @@ since:2024-04-01
     OR encryption
     OR "client side" OR ClientSide
     OR cryptographer
+    )
+```
+
+### WHATSAPP AND TIMING ATTACKS ARE NOT A BACKDOOR
+* :point_right: [WhatsApp and timing attacks are not a backdoor - LATEST Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query&f=live)
+* :point_right: [WhatsApp and timing attacks are not a backdoor - TOP Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query)
+* :heart: [Share this Search for 'WhatsApp and timing attacks are not a backdoor' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AWhatsApp%20And%20Timing%20Attacks%20Are%20Not%20A%20Backdoor%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23whatsapp-and-timing-attacks-are-not-a-backdoor)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/) **(theintercept.com)**
+#### query source (91/512 characters)
+```
+since:2024-05-22
+(
+    whatsapp
+    )
+(
+    backdoor
+    OR lavender
+    OR palestine
+    OR palestinian
+    OR timing
     )
 ```
 

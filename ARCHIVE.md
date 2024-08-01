@@ -22,6 +22,9 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Digital Public Goods Alliance: DPGA ARCHIVE](#digital-public-goods-alliance-dpga-archive)
 * [End-To-End Encryption: Apps ARCHIVE](#end-to-end-encryption-apps-archive) (twitter accounts for a selection of messaging apps)
+* [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE](#end-to-end-encryption-gchq--ncsc-ghost-protocol-archive)
+* [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage-archive)
+* [End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger-archive)
 * [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
 * [Iranian Network and Social Media Censorship ARCHIVE](#iranian-network-and-social-media-censorship-archive) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle ARCHIVE](#july-2022-reshuffle-archive)
@@ -299,6 +302,91 @@ OR +@torproject
 OR +@wa_status
 OR +@whatsapp
 OR +@wire
+```
+
+### END-TO-END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL ARCHIVE
+* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28gchq%20OR%20%22crispin%20robinson%22%20OR%20%22ian%20levy%22%20OR%20ncsc%20OR%20%28levy%20robinson%29%29%28%22exceptional%20access%22%20OR%20ExceptionalAccess%20OR%20%22commodity%20platforms%22%20OR%20%22end%20to%20end%22%20OR%20%22reconcile%20encryption%22%20OR%20%22child%20safety%22%20OR%20ChildSafety%20OR%20backdoor%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encryption%29&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://alecmuffett.com/alecm/e2e-primer/
+* https://arxiv.org/abs/2207.09506
+* https://privacyinternational.org/news-analysis/3002/ghosts-your-machine-spooks-want-secret-access-encrypted-messages
+* https://twitter.com/AlecMuffett/status/1533867745250623489
+* https://twitter.com/josephfcox/status/1545036313228869632
+* https://www.aclu.org/blog/privacy-technology/ghost-user-ploy-break-encryption-wont-work
+* https://www.lawfareblog.com/exceptional-access-devil-details-0
+* https://www.lawfareblog.com/principles-more-informed-exceptional-access-debate
+#### query source (272/512 characters)
+```
+(
+    gchq
+    OR "crispin robinson"
+    OR "ian levy"
+    OR ncsc
+    OR ( levy robinson )
+    )
+(
+    "exceptional access" OR ExceptionalAccess
+    OR "commodity platforms"
+    OR "end to end"
+    OR "reconcile encryption"
+    OR "child safety" OR ChildSafety
+    OR backdoor
+    OR e2e
+    OR e2ee
+    OR encrypted
+    OR encryption
+    )
+```
+
+### END-TO-END ENCRYPTION: GCHQ & NCSC "GHOST" PROTOCOL: PRESS COVERAGE ARCHIVE
+* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE - TOP Tweets](https://twitter.com/search?q=%22https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2022%2Fjul%2F21%2Fuk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images%22%20OR%20%22https%3A%2F%2Fnews.sky.com%2Fstory%2Fgchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936%22%20OR%20%22https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fspies-dispute-tech-firms-privacy-claims-ffq0bqsw0%22%20OR%20%22https%3A%2F%2Fwww.theregister.com%2F2022%2F07%2F22%2Fbritish_encryption_scanning%2F%22&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20GCHQ%20%26%20NCSC%20%22Ghost%22%20Protocol%3A%20Press%20Coverage%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936
+* https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images
+* https://www.theregister.com/2022/07/22/british_encryption_scanning/
+* https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0
+#### query source (416/512 characters)
+```
+"https://www.theguardian.com/uk-news/2022/jul/21/uk-cybersecurity-chiefs-back-plan-to-scan-phones-for-child-abuse-images"
+OR "https://news.sky.com/story/gchq-experts-set-out-how-to-tackle-online-child-sexual-abuse-despite-end-to-end-encryption-12655936"
+OR "https://www.thetimes.co.uk/article/spies-dispute-tech-firms-privacy-claims-ffq0bqsw0"
+OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
+```
+
+### END-TO-END ENCRYPTION: META LAUNCH E2EE FOR FACEBOOK MESSENGER ARCHIVE
+* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%20OR%20meta%29%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%29%28-%28%40saint_tech01%29%20-%28%40jatechwebs%29%29&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28facebook%20OR%20fb%20OR%20messenger%20OR%20meta%29%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20e2e%20OR%20e2ee%20OR%20encrypted%20OR%20encrypting%20OR%20encryption%29%28-%28%40saint_tech01%29%20-%28%40jatechwebs%29%29&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20Meta%20Launch%20E2EE%20For%20Facebook%20Messenger%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (158/512 characters)
+```
+(
+    facebook
+    OR fb
+    OR messenger
+    OR meta
+    )
+(
+    "end to end" OR EndToEnd
+    OR e2e
+    OR e2ee
+    OR encrypted
+    OR encrypting
+    OR encryption
+    )
+(
+    -(@saint_tech01)
+    -(@jatechwebs)
+    )
 ```
 
 ### HACKING, PEGASUS PROJECT ARCHIVE
