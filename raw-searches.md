@@ -1138,3 +1138,29 @@ AND (
     )
 AND -srcoppa
 AND -italia
+
+# End-To-End Encryption: UK Riots ARCHIVE
+
+(
+    (
+	<end to end>
+	OR encrypt
+	OR encrypted
+	OR encryption
+	OR telegram
+	OR whatsapp
+	OR blackberry
+	)
+    AND (
+	riot
+	OR bristol
+	OR hull
+	OR rioter
+	OR rioting
+	OR rotheram
+	OR rotherham
+	OR southport
+	)
+    )
+AND -weed
+AND -subscription

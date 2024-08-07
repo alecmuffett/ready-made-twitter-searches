@@ -25,6 +25,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol ARCHIVE](#end-to-end-encryption-gchq--ncsc-ghost-protocol-archive)
 * [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage-archive)
 * [End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger-archive)
+* [End-To-End Encryption: UK Riots ARCHIVE](#end-to-end-encryption-uk-riots-archive)
 * [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
 * [Iranian Network and Social Media Censorship ARCHIVE](#iranian-network-and-social-media-censorship-archive) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle ARCHIVE](#july-2022-reshuffle-archive)
@@ -387,6 +388,39 @@ OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
     -(@saint_tech01)
     -(@jatechwebs)
     )
+```
+
+### END-TO-END ENCRYPTION: UK RIOTS ARCHIVE
+* :point_right: [End-To-End Encryption: UK Riots ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20telegram%20OR%20whatsapp%20OR%20blackberry%29%28riot%20OR%20bristol%20OR%20hull%20OR%20rioter%20OR%20rioting%20OR%20rotheram%20OR%20rotherham%20OR%20southport%29%29%20-weed%20-subscription&src=typed_query&f=live)
+* :point_right: [End-To-End Encryption: UK Riots ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28%28%22end%20to%20end%22%20OR%20EndToEnd%20OR%20encrypt%20OR%20encrypted%20OR%20encryption%20OR%20telegram%20OR%20whatsapp%20OR%20blackberry%29%28riot%20OR%20bristol%20OR%20hull%20OR%20rioter%20OR%20rioting%20OR%20rotheram%20OR%20rotherham%20OR%20southport%29%29%20-weed%20-subscription&src=typed_query)
+* :heart: [Share this Search for 'End-To-End Encryption: UK Riots ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AEnd-To-End%20Encryption%3A%20UK%20Riots%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23end-to-end-encryption-uk-riots-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (214/512 characters)
+```
+(
+    (
+	"end to end" OR EndToEnd
+	OR encrypt
+	OR encrypted
+	OR encryption
+	OR telegram
+	OR whatsapp
+	OR blackberry
+	)
+    (
+	riot
+	OR bristol
+	OR hull
+	OR rioter
+	OR rioting
+	OR rotheram
+	OR rotherham
+	OR southport
+	)
+    )
+-weed
+-subscription
 ```
 
 ### HACKING, PEGASUS PROJECT ARCHIVE
