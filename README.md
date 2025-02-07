@@ -21,8 +21,6 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (#ClientSideScanning and why it was abandoned)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
 * [Apple: UK Home Office TCN on iMessage iCloud Backup Encryption](#apple-uk-home-office-tcn-on-imessage-icloud-backup-encryption)
-* [Brianna Ghey Murder and the Dark Web](#brianna-ghey-murder-and-the-dark-web)
-* [CPAS "affirmations on sexuality" backlash](#cpas-affirmations-on-sexuality-backlash)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
 * [End-To-End Encryption: Breaking](#end-to-end-encryption-breaking) (discussion of weakening E2EE, backdoors, and #chatcontrol ARCHIVE)
 * [End-To-End Encryption: Children](#end-to-end-encryption-children) (including #OnlineSafetyBill, and #NoPlaceToHide v1 & v2)
@@ -39,10 +37,8 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [The California "Kids Code"](#the-california-kids-code) (aka: "Age Appropriate Design Code", #AB2273)
 * [The DMA and Messenger Interoperability](#the-dma-and-messenger-interoperability)
 * [The EARN-IT Act & Section 230](#the-earn-it-act--section-230)
-* [The UK Helicopter Parents Charter](#the-uk-helicopter-parents-charter)
 * [The "#WildWestWeb" Fallacy](#the-wildwestweb-fallacy)
 * [Twitter's Adoption of Encryption for Direct Messages](#twitters-adoption-of-encryption-for-direct-messages)
-* [WhatsApp and timing attacks are not a backdoor](#whatsapp-and-timing-attacks-are-not-a-backdoor)
 
 ## searches
 
@@ -290,7 +286,10 @@ OR (
 * :arrow_up: [Back to Search Index](#search-index)
 * :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
 #### some interesting and relevant links
+* [Apple Ordered by UK to Create Global iCloud Encryption Backdoor MacRumors](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/) **(macrumors.com)**
+* [Apple ordered to open encrypted user accounts globally to UK spying The Verge](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter) **(theverge.com)**
 * [U K orders Apple to let it spy on users encrypted accounts The Washington Post](https://archive.ph/3Pp0U) **(archive.ph)**
+* [UK government demands access to Apple users encrypted data BBC News](https://www.bbc.co.uk/news/articles/c20g288yldko) **(bbc.co.uk)**
 * [article 112165](https://alecmuffett.com/article/112165) **(alecmuffett.com)**
 * [technology 2025 02 07 apple encryption backdoor uk](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/) **(washingtonpost.com)**
 #### query source (89/512 characters)
@@ -306,54 +305,6 @@ OR (
 	OR encrypted
 	OR encryption
 	)
-    )
-```
-
-### BRIANNA GHEY MURDER AND THE DARK WEB
-* :point_right: [Brianna Ghey Murder and the Dark Web - LATEST Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query&f=live)
-* :point_right: [Brianna Ghey Murder and the Dark Web - TOP Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query)
-* :heart: [Share this Search for 'Brianna Ghey Murder and the Dark Web' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ABrianna%20Ghey%20Murder%20And%20The%20Dark%20Web%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23brianna-ghey-murder-and-the-dark-web)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### query source (97/512 characters)
-```
-(
-    brianna
-    OR briannaghey
-    OR ghey
-    OR bbclaurak
-    OR government
-    OR ofcom
-    )
-(
-    "dark web" OR DarkWeb
-    )
-)
-```
-
-### CPAS "AFFIRMATIONS ON SEXUALITY" BACKLASH
-* :point_right: [CPAS "affirmations on sexuality" backlash - LATEST Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%20OR%20cpasleadership%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20conversion%20OR%20sexuality%29&src=typed_query&f=live)
-* :point_right: [CPAS "affirmations on sexuality" backlash - TOP Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%20OR%20cpasleadership%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20conversion%20OR%20sexuality%29&src=typed_query)
-* :heart: [Share this Search for 'CPAS "affirmations on sexuality" backlash' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ACPAS%20%22affirmations%20On%20Sexuality%22%20Backlash%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cpas-affirmations-on-sexuality-backlash)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* https://web.archive.org/web/20240107160431/https://www.cpas.org.uk/affirmations-sexuality
-* https://www.cpas.org.uk/affirmations-sexuality
-* https://www.cpas.org.uk/prayers-love-and-faith-statement-cpas-trustees
-#### query source (111/512 characters)
-```
-(
-    cpas
-    OR cpasnews
-    OR cpasleadership
-    )
-(
-    affirmation
-    OR affirmations
-    OR bishopruthb
-    OR conversion
-    OR sexuality
     )
 ```
 
@@ -847,41 +798,6 @@ OR "earn it act" OR EarnItAct
 OR "section 230" OR Section230
 ```
 
-### THE UK HELICOPTER PARENTS CHARTER
-* :point_right: [The UK Helicopter Parents Charter - LATEST Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query&f=live)
-* :point_right: [The UK Helicopter Parents Charter - TOP Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query)
-* :heart: [Share this Search for 'The UK Helicopter Parents Charter' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AThe%20UK%20Helicopter%20Parents%20Charter%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-uk-helicopter-parents-charter)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
-* [jamesrbuk status 1779892792505905634](https://twitter.com/jamesrbuk/status/1779892792505905634) **(twitter.com)**
-#### query source (185/512 characters)
-```
-since:2024-04-01
-(
-    charter
-    OR government
-    OR minister
-    OR ministers
-    )
-(
-    "big tech"
-    OR alphabet
-    OR apple
-    OR google
-    OR instagram
-    OR meta
-    OR tiktok
-    )
-(
-    teen
-    OR teenager
-    OR teenagers
-    OR teens
-    )
-```
-
 ### THE "#WILDWESTWEB" FALLACY
 * :point_right: [The "#WildWestWeb" Fallacy - LATEST Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query&f=live)
 * :point_right: [The "#WildWestWeb" Fallacy - TOP Tweets](https://twitter.com/search?q=%28wildwestweb%20OR%20wildwestinternet%20OR%20wildwestnet%20OR%20%28%22wild%20west%22%20%28web%20OR%20internet%20OR%20network%20OR%20nspcc%20OR%20regulation%20OR%20unregulated%29%29%29%20-%22chance%20to%20make%20the%20UK%20the%20safest%20place%22&src=typed_query)
@@ -946,29 +862,6 @@ since:2024-04-01
     OR encryption
     OR "client side" OR ClientSide
     OR cryptographer
-    )
-```
-
-### WHATSAPP AND TIMING ATTACKS ARE NOT A BACKDOOR
-* :point_right: [WhatsApp and timing attacks are not a backdoor - LATEST Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query&f=live)
-* :point_right: [WhatsApp and timing attacks are not a backdoor - TOP Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query)
-* :heart: [Share this Search for 'WhatsApp and timing attacks are not a backdoor' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AWhatsApp%20And%20Timing%20Attacks%20Are%20Not%20A%20Backdoor%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23whatsapp-and-timing-attacks-are-not-a-backdoor)
-* :arrow_up: [Back to Search Index](#search-index)
-* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
-#### some interesting and relevant links
-* [WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/) **(theintercept.com)**
-#### query source (91/512 characters)
-```
-since:2024-05-22
-(
-    whatsapp
-    )
-(
-    backdoor
-    OR lavender
-    OR palestine
-    OR palestinian
-    OR timing
     )
 ```
 

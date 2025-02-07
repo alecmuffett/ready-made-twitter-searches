@@ -18,8 +18,10 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
 * [Apple: "Bugs In Our Pockets" Paper ARCHIVE](#apple-bugs-in-our-pockets-paper-archive)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE](#apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
+* [Brianna Ghey Murder and the Dark Web ARCHIVE](#brianna-ghey-murder-and-the-dark-web-archive)
 * [Calls To Ban Twitter ARCHIVE](#calls-to-ban-twitter-archive)
 * [Childrens Code: "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
+* [CPAS "affirmations on sexuality" backlash ARCHIVE](#cpas-affirmations-on-sexuality-backlash-archive)
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Digital Public Goods Alliance: DPGA ARCHIVE](#digital-public-goods-alliance-dpga-archive)
 * [End-To-End Encryption: Apps ARCHIVE](#end-to-end-encryption-apps-archive) (twitter accounts for a selection of messaging apps)
@@ -34,8 +36,10 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Proposals for Perpetual British Summer Time ARCHIVE](#proposals-for-perpetual-british-summer-time-archive) (#BritishSummerTime)
 * [ProPublica think that WhatsApp abuse reports are a backdoor ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-archive)
 * [ProPublica think that WhatsApp abuse reports are a backdoor, press coverage ARCHIVE](#propublica-think-that-whatsapp-abuse-reports-are-a-backdoor-press-coverage-archive)
+* [The UK Helicopter Parents Charter ARCHIVE](#the-uk-helicopter-parents-charter-archive)
 * [TheWire and Instagram and Meta ARCHIVE](#thewire-and-instagram-and-meta-archive) (and #TekFog)
 * [UK Internet Governance Forum: UKIGF ARCHIVE](#uk-internet-governance-forum-ukigf-archive)
+* [WhatsApp and timing attacks are not a backdoor ARCHIVE](#whatsapp-and-timing-attacks-are-not-a-backdoor-archive)
 
 ## searches
 
@@ -209,6 +213,28 @@ since:2021-09-01
     )
 ```
 
+### BRIANNA GHEY MURDER AND THE DARK WEB ARCHIVE
+* :point_right: [Brianna Ghey Murder and the Dark Web ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query&f=live)
+* :point_right: [Brianna Ghey Murder and the Dark Web ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28brianna%20OR%20briannaghey%20OR%20ghey%20OR%20bbclaurak%20OR%20government%20OR%20ofcom%29%28%22dark%20web%22%20OR%20DarkWeb%29%29&src=typed_query)
+* :heart: [Share this Search for 'Brianna Ghey Murder and the Dark Web ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ABrianna%20Ghey%20Murder%20And%20The%20Dark%20Web%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23brianna-ghey-murder-and-the-dark-web-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (97/512 characters)
+```
+(
+    brianna
+    OR briannaghey
+    OR ghey
+    OR bbclaurak
+    OR government
+    OR ofcom
+    )
+(
+    "dark web" OR DarkWeb
+    )
+)
+```
+
 ### CALLS TO BAN TWITTER ARCHIVE
 * :point_right: [Calls To Ban Twitter ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28ban%20OR%20block%29%28%22elon%20musk%22%20OR%20ElonMusk%20OR%20%22social%20media%22%20OR%20SocialMedia%20OR%20telegram%20OR%20twitter%20OR%20whatsapp%20OR%20x%29&src=typed_query&f=live)
 * :point_right: [Calls To Ban Twitter ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28ban%20OR%20block%29%28%22elon%20musk%22%20OR%20ElonMusk%20OR%20%22social%20media%22%20OR%20SocialMedia%20OR%20telegram%20OR%20twitter%20OR%20whatsapp%20OR%20x%29&src=typed_query)
@@ -253,6 +279,32 @@ since:2021-09-01
     OR "online harms"
     OR "personal data"
     OR platforms
+    )
+```
+
+### CPAS "AFFIRMATIONS ON SEXUALITY" BACKLASH ARCHIVE
+* :point_right: [CPAS "affirmations on sexuality" backlash ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%20OR%20cpasleadership%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20conversion%20OR%20sexuality%29&src=typed_query&f=live)
+* :point_right: [CPAS "affirmations on sexuality" backlash ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28cpas%20OR%20cpasnews%20OR%20cpasleadership%29%28affirmation%20OR%20affirmations%20OR%20bishopruthb%20OR%20conversion%20OR%20sexuality%29&src=typed_query)
+* :heart: [Share this Search for 'CPAS "affirmations on sexuality" backlash ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ACPAS%20%22affirmations%20On%20Sexuality%22%20Backlash%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23cpas-affirmations-on-sexuality-backlash-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* https://web.archive.org/web/20240107160431/https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/affirmations-sexuality
+* https://www.cpas.org.uk/prayers-love-and-faith-statement-cpas-trustees
+#### query source (111/512 characters)
+```
+(
+    cpas
+    OR cpasnews
+    OR cpasleadership
+    )
+(
+    affirmation
+    OR affirmations
+    OR bishopruthb
+    OR conversion
+    OR sexuality
     )
 ```
 
@@ -649,6 +701,41 @@ OR "https://www.dailymail.co.uk/news/article-9966435/Facebook-hired-1-000-worker
 OR "https://www.theregister.com/2021/09/07/whatsapp_privacy_propublica/"
 ```
 
+### THE UK HELICOPTER PARENTS CHARTER ARCHIVE
+* :point_right: [The UK Helicopter Parents Charter ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query&f=live)
+* :point_right: [The UK Helicopter Parents Charter ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2024-04-01%20%28charter%20OR%20government%20OR%20minister%20OR%20ministers%29%28%22big%20tech%22%20OR%20alphabet%20OR%20apple%20OR%20google%20OR%20instagram%20OR%20meta%20OR%20tiktok%29%28teen%20OR%20teenager%20OR%20teenagers%20OR%20teens%29&src=typed_query)
+* :heart: [Share this Search for 'The UK Helicopter Parents Charter ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AThe%20UK%20Helicopter%20Parents%20Charter%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23the-uk-helicopter-parents-charter-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [UK Plans Talks With Big Tech to Limit Online Harm for Teens Bloomberg](https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens) **(bloomberg.com)**
+* [jamesrbuk status 1779892792505905634](https://twitter.com/jamesrbuk/status/1779892792505905634) **(twitter.com)**
+#### query source (185/512 characters)
+```
+since:2024-04-01
+(
+    charter
+    OR government
+    OR minister
+    OR ministers
+    )
+(
+    "big tech"
+    OR alphabet
+    OR apple
+    OR google
+    OR instagram
+    OR meta
+    OR tiktok
+    )
+(
+    teen
+    OR teenager
+    OR teenagers
+    OR teens
+    )
+```
+
 ### THEWIRE AND INSTAGRAM AND META ARCHIVE
 #### AND #TEKFOG
 * :point_right: [TheWire and Instagram and Meta ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28thewire_in%20OR%20thewire%20OR%20varadu%20OR%20%22tek%20fog%22%20OR%20TekFog%20OR%20%28%28meta%20OR%20facebook%20OR%20fb%20OR%20instagram%29%28dkim%20OR%20xcheck%20OR%20wire%29%29%29%20-%22down%20to%20the%20wire%22%20-tv&src=typed_query&f=live)
@@ -696,6 +783,29 @@ OR (
         OR "online harms" OR OnlineHarms
         OR "resilient internet" OR ResilientInternet
         )
+    )
+```
+
+### WHATSAPP AND TIMING ATTACKS ARE NOT A BACKDOOR ARCHIVE
+* :point_right: [WhatsApp and timing attacks are not a backdoor ARCHIVE - LATEST Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query&f=live)
+* :point_right: [WhatsApp and timing attacks are not a backdoor ARCHIVE - TOP Tweets](https://twitter.com/search?q=since%3A2024-05-22%20%28whatsapp%29%28backdoor%20OR%20lavender%20OR%20palestine%20OR%20palestinian%20OR%20timing%29&src=typed_query)
+* :heart: [Share this Search for 'WhatsApp and timing attacks are not a backdoor ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AWhatsApp%20And%20Timing%20Attacks%20Are%20Not%20A%20Backdoor%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23whatsapp-and-timing-attacks-are-not-a-backdoor-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/) **(theintercept.com)**
+#### query source (91/512 characters)
+```
+since:2024-05-22
+(
+    whatsapp
+    )
+(
+    backdoor
+    OR lavender
+    OR palestine
+    OR palestinian
+    OR timing
     )
 ```
 

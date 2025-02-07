@@ -1025,7 +1025,7 @@ AND (
     -(@jatechwebs)
     )
 
-# CPAS "affirmations on sexuality" backlash
+# CPAS "affirmations on sexuality" backlash ARCHIVE
 
 * https://web.archive.org/web/20240107160431/https://www.cpas.org.uk/affirmations-sexuality
 * https://www.cpas.org.uk/affirmations-sexuality
@@ -1044,7 +1044,7 @@ AND (
     OR sexuality
     )
 
-# Brianna Ghey Murder and the Dark Web
+# Brianna Ghey Murder and the Dark Web ARCHIVE
 
 (
     brianna
@@ -1079,7 +1079,7 @@ OR (
 	)
     )
 
-# The UK Helicopter Parents Charter
+# The UK Helicopter Parents Charter ARCHIVE
 
 - https://www.bloomberg.com/news/articles/2024-04-15/uk-plans-talks-with-big-tech-to-limit-online-harm-for-teens
 - https://twitter.com/jamesrbuk/status/1779892792505905634
@@ -1108,7 +1108,7 @@ AND (
     OR "teens"
     )
 
-# WhatsApp and timing attacks are not a backdoor
+# WhatsApp and timing attacks are not a backdoor ARCHIVE
 
 - https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/
 
@@ -1183,8 +1183,11 @@ AND (
 # Apple: UK Home Office TCN on iMessage iCloud Backup Encryption
 
 - https://alecmuffett.com/article/112165
-- https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/
 - https://archive.ph/3Pp0U
+- https://www.bbc.co.uk/news/articles/c20g288yldko
+- https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/
+- https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter
+- https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/
 
 (
     (
