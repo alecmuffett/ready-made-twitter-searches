@@ -1192,6 +1192,7 @@ AND (
 (
     (
 	apple
+	OR "advanced data protection"
 	OR icloud
 	OR imessage
 	)
