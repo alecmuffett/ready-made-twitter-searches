@@ -80,7 +80,8 @@ while (<>) {
 	    $url_host =~ s!^www\.!!go;
 	}
 
-	my $url_title = `web-page-title $url | unicode-to-ascii`;
+	my $url_title = `timeout 10 web-page-title $url | unicode-to-ascii`;
+	$url_title = $url if $url_title eq '';
 	$url_title =~ s!^https?://(([-\w]+\.)*[-\w]+)/!!o; # remove http://host.dom/ for no-title pages
 	$url_title =~ s!\&\#\w+;!!go;
 	$url_title =~ s!\'([st])!$1!goe;

@@ -1164,3 +1164,37 @@ AND -italia
     )
 AND -weed
 AND -subscription
+
+# Calls To Ban Twitter ARCHIVE
+
+(
+    ban
+    OR block
+    )
+AND (
+    <elon musk>
+    OR <social media>
+    OR telegram
+    OR twitter
+    OR whatsapp
+    OR x
+    )
+
+# Apple: UK Home Office TCN on iMessage iCloud Backup Encryption
+
+- https://alecmuffett.com/article/112165
+- https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/
+- https://archive.ph/3Pp0U
+
+(
+    (
+	apple
+	OR icloud
+	OR imessage
+	)
+    AND (
+	<back door>
+	OR encrypted
+	OR encryption
+	)
+    )

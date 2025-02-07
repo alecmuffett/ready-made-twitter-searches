@@ -20,6 +20,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Apple: Calls for CSAM Surveillance Reinstatement](#apple-calls-for-csam-surveillance-reinstatement) (#HeatInitiative: people who want Apple to spy on us for our own good)
 * [Apple: CSAM surveillance proposal](#apple-csam-surveillance-proposal) (#ClientSideScanning and why it was abandoned)
 * [Apple: Tank-Man Image](#apple-tank-man-image)
+* [Apple: UK Home Office TCN on iMessage iCloud Backup Encryption](#apple-uk-home-office-tcn-on-imessage-icloud-backup-encryption)
 * [Brianna Ghey Murder and the Dark Web](#brianna-ghey-murder-and-the-dark-web)
 * [CPAS "affirmations on sexuality" backlash](#cpas-affirmations-on-sexuality-backlash)
 * [EARN-IT Act](#earn-it-act) (and related US legislation attempts)
@@ -279,6 +280,32 @@ OR (
     OR tienanmen
     OR "tank man" OR TankMan
     OR "tank guy" OR TankGuy
+    )
+```
+
+### APPLE: UK HOME OFFICE TCN ON IMESSAGE ICLOUD BACKUP ENCRYPTION
+* :point_right: [Apple: UK Home Office TCN on iMessage iCloud Backup Encryption - LATEST Tweets](https://twitter.com/search?q=%28%28apple%20OR%20icloud%20OR%20imessage%29%28%22back%20door%22%20OR%20BackDoor%20OR%20encrypted%20OR%20encryption%29%29&src=typed_query&f=live)
+* :point_right: [Apple: UK Home Office TCN on iMessage iCloud Backup Encryption - TOP Tweets](https://twitter.com/search?q=%28%28apple%20OR%20icloud%20OR%20imessage%29%28%22back%20door%22%20OR%20BackDoor%20OR%20encrypted%20OR%20encryption%29%29&src=typed_query)
+* :heart: [Share this Search for 'Apple: UK Home Office TCN on iMessage iCloud Backup Encryption' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AApple%3A%20UK%20Home%20Office%20TCN%20On%20IMessage%20ICloud%20Backup%20Encryption%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23apple-uk-home-office-tcn-on-imessage-icloud-backup-encryption)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [U K orders Apple to let it spy on users encrypted accounts The Washington Post](https://archive.ph/3Pp0U) **(archive.ph)**
+* [article 112165](https://alecmuffett.com/article/112165) **(alecmuffett.com)**
+* [technology 2025 02 07 apple encryption backdoor uk](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/) **(washingtonpost.com)**
+#### query source (89/512 characters)
+```
+(
+    (
+	apple
+	OR icloud
+	OR imessage
+	)
+    (
+	"back door" OR BackDoor
+	OR encrypted
+	OR encryption
+	)
     )
 ```
 

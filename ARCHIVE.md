@@ -18,6 +18,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [Anonymity: petition to require ID for social media ARCHIVE](#anonymity-petition-to-require-id-for-social-media-archive)
 * [Apple: "Bugs In Our Pockets" Paper ARCHIVE](#apple-bugs-in-our-pockets-paper-archive)
 * [Apple: delay of CSAM surveillance of iPhones and MacOS ARCHIVE](#apple-delay-of-csam-surveillance-of-iphones-and-macos-archive)
+* [Calls To Ban Twitter ARCHIVE](#calls-to-ban-twitter-archive)
 * [Childrens Code: "Regulation Works" Fallacy ARCHIVE](#childrens-code-regulation-works-fallacy-archive)
 * [CryptoWars21 UK Cressida Dick ARCHIVE](#cryptowars21-uk-cressida-dick-archive)
 * [Digital Public Goods Alliance: DPGA ARCHIVE](#digital-public-goods-alliance-dpga-archive)
@@ -205,6 +206,28 @@ since:2021-09-01
             OR surveillance
             )
         )
+    )
+```
+
+### CALLS TO BAN TWITTER ARCHIVE
+* :point_right: [Calls To Ban Twitter ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28ban%20OR%20block%29%28%22elon%20musk%22%20OR%20ElonMusk%20OR%20%22social%20media%22%20OR%20SocialMedia%20OR%20telegram%20OR%20twitter%20OR%20whatsapp%20OR%20x%29&src=typed_query&f=live)
+* :point_right: [Calls To Ban Twitter ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28ban%20OR%20block%29%28%22elon%20musk%22%20OR%20ElonMusk%20OR%20%22social%20media%22%20OR%20SocialMedia%20OR%20telegram%20OR%20twitter%20OR%20whatsapp%20OR%20x%29&src=typed_query)
+* :heart: [Share this Search for 'Calls To Ban Twitter ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0ACalls%20To%20Ban%20Twitter%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23calls-to-ban-twitter-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### query source (116/512 characters)
+```
+(
+    ban
+    OR block
+    )
+(
+    "elon musk" OR ElonMusk
+    OR "social media" OR SocialMedia
+    OR telegram
+    OR twitter
+    OR whatsapp
+    OR x
     )
 ```
 
