@@ -1202,3 +1202,23 @@ AND (
 	OR encryption
 	)
     )
+
+# Facebook in China ARCHIVE
+
+- https://www.washingtonpost.com/technology/2025/03/09/meta-china-censorship-facebook-mark-zuckerberg/
+
+(
+    "wynn-williams"
+    OR (
+	(
+	    facebook
+	    OR meta
+	    OR zuckerberg
+	    OR zuck
+	    )
+	AND (
+	    <careless people>
+	    OR aldrin
+	    OR china
+	    )
+	)

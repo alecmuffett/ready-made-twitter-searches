@@ -290,7 +290,7 @@ OR (
 * [Apple ordered to open encrypted user accounts globally to UK spying The Verge](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter) **(theverge.com)**
 * [U K orders Apple to let it spy on users encrypted accounts The Washington Post](https://archive.ph/3Pp0U) **(archive.ph)**
 * [UK government demands access to Apple users encrypted data BBC News](https://www.bbc.co.uk/news/articles/c20g288yldko) **(bbc.co.uk)**
-* [article 112165](https://alecmuffett.com/article/112165) **(alecmuffett.com)**
+* [UKHomeOffice orders Apple to let it spy on users encrypted accounts iCloud Backups WaPo and now we w](https://alecmuffett.com/article/112165) **(alecmuffett.com)**
 * [technology 2025 02 07 apple encryption backdoor uk](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/) **(washingtonpost.com)**
 #### query source (119/512 characters)
 ```

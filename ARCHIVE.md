@@ -29,6 +29,7 @@ older searches are archived in [ARCHIVE.md](ARCHIVE.md).
 * [End-To-End Encryption: GCHQ & NCSC "Ghost" Protocol: Press Coverage ARCHIVE](#end-to-end-encryption-gchq--ncsc-ghost-protocol-press-coverage-archive)
 * [End-To-End Encryption: Meta launch E2EE for Facebook Messenger ARCHIVE](#end-to-end-encryption-meta-launch-e2ee-for-facebook-messenger-archive)
 * [End-To-End Encryption: UK Riots ARCHIVE](#end-to-end-encryption-uk-riots-archive)
+* [Facebook in China ARCHIVE](#facebook-in-china-archive)
 * [Hacking, Pegasus Project ARCHIVE](#hacking-pegasus-project-archive)
 * [Iranian Network and Social Media Censorship ARCHIVE](#iranian-network-and-social-media-censorship-archive) (in the wake of the murder of #MahsaAmini)
 * [July 2022 Reshuffle ARCHIVE](#july-2022-reshuffle-archive)
@@ -496,6 +497,33 @@ OR "https://www.theregister.com/2022/07/22/british_encryption_scanning/"
     )
 -weed
 -subscription
+```
+
+### FACEBOOK IN CHINA ARCHIVE
+* :point_right: [Facebook in China ARCHIVE - LATEST Tweets](https://twitter.com/search?q=%28wynn-williams%20OR%20%28%28facebook%20OR%20meta%20OR%20zuckerberg%20OR%20zuck%29%28%22careless%20people%22%20OR%20CarelessPeople%20OR%20aldrin%20OR%20china%29%29&src=typed_query&f=live)
+* :point_right: [Facebook in China ARCHIVE - TOP Tweets](https://twitter.com/search?q=%28wynn-williams%20OR%20%28%28facebook%20OR%20meta%20OR%20zuckerberg%20OR%20zuck%29%28%22careless%20people%22%20OR%20CarelessPeople%20OR%20aldrin%20OR%20china%29%29&src=typed_query)
+* :heart: [Share this Search for 'Facebook in China ARCHIVE' in a Tweet!](https://twitter.com/intent/tweet?text=If%20you%27d%20like%20to%20see%20more%20discussion%20regarding%3A%0A%0AFacebook%20In%20China%20ARCHIVE%0A%0A%E2%80%A6there%27s%20a%20ready-made%20Twitter%20search%20with%20links%20%26%20more%20information%20at%3A%20https%3A%2F%2Fgithub.com%2Falecmuffett%2Fready-made-twitter-searches%23facebook-in-china-archive)
+* :arrow_up: [Back to Search Index](#search-index)
+* :bulb: [Suggest an Improvement](https://github.com/alecmuffett/ready-made-twitter-searches/issues/new)
+#### some interesting and relevant links
+* [technology 2025 03 09 meta china censorship facebook mark zuckerberg](https://www.washingtonpost.com/technology/2025/03/09/meta-china-censorship-facebook-mark-zuckerberg/) **(washingtonpost.com)**
+#### query source (123/512 characters)
+```
+(
+    wynn-williams
+    OR (
+	(
+	    facebook
+	    OR meta
+	    OR zuckerberg
+	    OR zuck
+	    )
+	(
+	    "careless people" OR CarelessPeople
+	    OR aldrin
+	    OR china
+	    )
+	)
 ```
 
 ### HACKING, PEGASUS PROJECT ARCHIVE
